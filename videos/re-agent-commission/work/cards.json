@@ -1,0 +1,42 @@
+[
+  {
+    "id": "settlement-amount",
+    "type": "stat",
+    "kicker": "THE NAR COMMISSION LAWSUIT",
+    "stat": "$418M",
+    "unit": "settlement",
+    "label": "Paid over roughly four years, into a court-controlled trust.",
+    "foot": "NAR / PR Newswire official release, Mar 15, 2024",
+    "accent": "accent",
+    "match": ["card-settlement-amount"]
+  },
+  {
+    "id": "commission-rate",
+    "type": "compare",
+    "kicker": "BEFORE VS. AFTER THE SETTLEMENT",
+    "left": { "value": "6%", "label": "the historical benchmark, total commission", "accent": "danger" },
+    "right": { "value": "5.7%", "label": "the national average today", "accent": "signal" },
+    "foot": "ListWithClever, Feb 2026 survey of 533 agents, updated Jun 16, 2026",
+    "match": ["card-commission-rate"]
+  },
+  {
+    "id": "cash-example",
+    "type": "stat",
+    "kicker": "ON A $400,000 HOUSE",
+    "stat": "$11,200",
+    "unit": "cash, at closing",
+    "label": "At a 2.82% buyer's-agent rate. Generally cannot be rolled into an FHA or conventional loan.",
+    "foot": "Illustrative math on Bankrate's verified 2.82% rate, updated May 20, 2026",
+    "accent": "danger",
+    "match": ["card-cash-example"]
+  },
+  {
+    "id": "close-recap",
+    "type": "compare",
+    "kicker": "WHAT ACTUALLY CHANGED",
+    "left": { "value": "38%", "label": "of sellers still think 6% is standard", "accent": "danger" },
+    "right": { "value": "14%", "label": "actually paid a full 6%", "accent": "signal" },
+    "foot": "ListWithClever, 2026 seller survey",
+    "match": ["card-close-recap"]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "_note": "Channel persona for the real-estate niche, 5th and final channel in the 2026-07-31 lineup. Name/handle NOT yet verified against an existing live YouTube channel - if this niche already has a real channel under a different name, overwrite channel_name/channel_handle to match reality rather than this draft, and update docs/CHANNEL-SETUP.md accordingly.",
+
+  "channel_name": "The Closing Table",
+  "channel_handle": "@TheClosingTable",
+  "channel_tagline": "What you wish you knew before you signed.",
+
+  "delivery_mode": "calm-explainer",
+  "_delivery_mode_options": ["breaking-news", "calm-explainer", "sarcastic-review", "authoritative"],
+  "_delivery_mode_note": "Matches niches/real-estate.json voice.tone exactly - warm and practical, never a pitch. Same register as finance, deliberately not authoritative/breaking-news since this channel has no face and makes no commission.",
+
+  "tone_flavor": "warm, practical, a friend who just closed on a house telling you what they wish they'd known - not a realtor, not a lecture - per niches/real-estate.json voice rules",
+
+  "voice_id": "en-US-JennyNeural",
+  "voice_name": "Jenny (edge-tts, free) - tagged Friendly/Considerate/Comfort. LOCKED 2026-08-02 on video 1 (re-closing-costs). Distinct from Guy (finance) and Andrew (ai-news) - also the portfolio's first female voice, which itself helps the two premium-RPM channels not sound like one channel wearing two skins. wpm not yet in niches/voice-rates.json; run `plan_runtime.py measure` on this video's VO and record it before writing the next real-estate script off the 177.3 fallback.",
+  "tts_speed": 1.0,
+  "_tts_speed_note": "calm-explainer delivery_mode, unhurried per the niche's own voice.tone - same speed as finance's Guy, matches the shared 'clear, unhurried' register the two channels intentionally share even while using different voices.",
+
+  "audience": "mixed",
+  "_audience_options": ["beginners", "practitioners", "mixed"],
+  "_audience_note": "niches/real-estate.json targets first-time homebuyers, current owners, and small-scale investors, 30-60 - spans beginner and practitioner, hence mixed.",
+
+  "default_goal": "authority",
+  "_default_goal_options": ["followers", "watch-time", "authority", "views-ctr"],
+
+  "default_conversion": "nothing",
+  "_default_conversion_note": "No agent/lender referral pitch - the niche's close beat explicitly forbids a 'work with my preferred agent/lender' CTA, since that's exactly the incentive-misaligned pattern this channel is positioned against. Same trust proposition as finance: nothing to sell.",
+
+  "default_target_seconds": 1980,
+  "_target_seconds_note": "RAISED 2026-08-02 from 1200 (20 min) to 1980 (33 min), tracking the niche file's widened range. niches/real-estate.json target_minutes went [15,25] -> [20,40] on live yt_research data: real winners run a 33 min median in both the 30d and 365d windows, so the old 25-min ceiling sat at the p25 of what performs. 33 min matches the observed median. NOTE this deliberately breaks step with channel-persona.finance.json's 20-min default - the two premium-RPM channels are kept structurally distinct on purpose (see niches/real-estate.json _channel), and finance's own research showed its lane genuinely sits nearer 26 min, so they should not be synced by reflex. Still a PROPOSAL per the 2026-07-31 standing preference - confirm per video. Budget check before writing: 33 min = ~5,851 narration words / ~283 beats (`plan_runtime.py budget 33 --niche real-estate`).",
+
+  "content_pillars": [
+    "Fee & mechanism explainers - the hidden cost or process inside a real transaction (closing costs, commission structure, rate points, escrow)",
+    "Myth vs. math - a common real-estate assumption (e.g. 'renting is throwing money away') checked against real transaction numbers",
+    "How it actually works - a process (appraisal, underwriting, title search) demystified with a worked example using real, sourced figures"
+  ],
+
+  "notes": "honesty_guard from niches/real-estate.json applies at the same tier as finance: never state a specific legal, contractual, or investment recommendation; real estate law/process vary by US state, so flag jurisdiction-dependent claims rather than presenting one state's rule as universal; rate and local-market data go stale in months, so state the data's own date on screen; if a claim can't be sourced, soften it, never fabricate a source. Every dollar figure/rate/percentage belongs on a code-rendered stat card, never spoken over an unrelated house photo."
+}

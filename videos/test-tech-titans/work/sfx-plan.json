@@ -1,0 +1,38 @@
+{
+  "palette": [
+    "gavel-strike",
+    "crowd-roar",
+    "stadium-chant",
+    "whistle-blast",
+    "cash-register",
+    "countdown-tick",
+    "bass-drop"
+  ],
+  "cues": [
+    {
+      "time_sec": 0.0,
+      "sfx": "whistle-blast",
+      "volume": 0.8
+    },
+    {
+      "time_sec": 0.5,
+      "sfx": "crowd-roar",
+      "volume": 0.6
+    },
+    {
+      "time_sec": 15.0,
+      "sfx": "countdown-tick",
+      "volume": 0.5
+    },
+    {
+      "time_sec": 45.0,
+      "sfx": "cash-register",
+      "volume": 0.7
+    },
+    {
+      "time_sec": 90.0,
+      "sfx": "gavel-strike",
+      "volume": 0.9
+    }
+  ]
+}

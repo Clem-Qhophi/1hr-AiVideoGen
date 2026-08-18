@@ -1,0 +1,39 @@
+{
+  "master": "videos/qt-funded-ad-v2/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/qt-funded-ad-v2/output/qt-funded-ad-v2-captioned.mp4",
+    "out": "videos/qt-funded-ad-v2/output/qt-funded-ad-v2-sfx.mp4",
+    "end_s": 56.0,
+    "duck": true
+  },
+  "_note": "56s ad (60s target), near-continuous VO -> same short-form calibration as v1 (EVOLUTION 2026-08-08): whooshes -3, pops 0..+3, stamps/snaps 0..+7. 7 beats; cue times = beat master_in_s + shot-local frame/30, cross-checked against ASR word timing in edited-transcript.json. Verify each cue vs the captioned (pre-SFX) render with RMS diff before calling it done.",
+  "events": [
+    {"at_s": 0.20, "sfx_id": "impact-deep-soft", "gain_db": 3, "shot": "QTHookV2", "cue": "EVERY TRADER HAS A PLAN. headline slam (local f6/138)"},
+    {"at_s": 4.60, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTPathV2", "cue": "transition into the pillars beat"},
+    {"at_s": 6.77, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTPathV2", "cue": "pillar 1 pops (local f65)", "optional": true},
+    {"at_s": 8.20, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTPathV2", "cue": "pillar 2 pops (local f108)", "optional": true},
+    {"at_s": 9.40, "sfx_id": "pop-reveal", "gain_db": 3, "shot": "QTPathV2", "cue": "pillar 3 completes the stack (local f144)"},
+    {"at_s": 10.60, "sfx_id": "ui-click-soft", "gain_db": 4, "shot": "QTPathV2", "cue": "real evidence browser frame appears (local f180)", "optional": true},
+    {"at_s": 13.90, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTDisciplineV2", "cue": "transition into the discipline slam sequence"},
+    {"at_s": 14.43, "sfx_id": "stamp-hit", "gain_db": 4, "shot": "QTDisciplineV2", "cue": "NO NOISE. slams (local f16; word 'No' 14.50)"},
+    {"at_s": 16.10, "sfx_id": "stamp-hit", "gain_db": 4, "shot": "QTDisciplineV2", "cue": "NO GUESSWORK. slams (local f66; word 'No' 16.15)"},
+    {"at_s": 20.37, "sfx_id": "impact-deep-soft", "gain_db": 7, "shot": "QTDisciplineV2", "cue": "TRADE WITH DISCIPLINE. big slam (local f194; word 'Trade' 20.42)"},
+    {"at_s": 21.70, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTRiskV2", "cue": "transition into the risk-rules beat"},
+    {"at_s": 22.37, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTRiskV2", "cue": "rule 1 Manage your risk pops (local f20; word 'Manage' 22.35)"},
+    {"at_s": 24.13, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTRiskV2", "cue": "rule 2 Size your position pops (local f73; word 'Size' 24.13)"},
+    {"at_s": 26.03, "sfx_id": "pop-reveal", "gain_db": 3, "shot": "QTRiskV2", "cue": "rule 3 Follow your own plan completes the stack (local f130; word 'Follow' 26.03)"},
+    {"at_s": 28.60, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTConsistencyV2", "cue": "transition into the consistency statement"},
+    {"at_s": 29.17, "sfx_id": "stamp-hit", "gain_db": 5, "shot": "QTConsistencyV2", "cue": "PROVE YOUR CONSISTENCY. slams (local f17; word 'Prove' 29.17)"},
+    {"at_s": 33.77, "sfx_id": "impact-soft", "gain_db": 3, "shot": "QTConsistencyV2", "cue": "PROGRESS YOU CAN SEE. slams (local f155)"},
+    {"at_s": 37.00, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTPlatformsV2", "cue": "transition into the simulated-account/platforms beat"},
+    {"at_s": 37.67, "sfx_id": "ui-click-soft", "gain_db": 4, "shot": "QTPlatformsV2", "cue": "real platforms evidence frame appears (local f20)", "optional": true},
+    {"at_s": 38.33, "sfx_id": "impact-soft", "gain_db": 2, "shot": "QTPlatformsV2", "cue": "SIMULATED FUNDED ACCOUNT slams (local f40; word 'simulated' 38.39)"},
+    {"at_s": 42.10, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTEndCardV2", "cue": "transition into the end card"},
+    {"at_s": 47.60, "sfx_id": "stamp-hit", "gain_db": 5, "shot": "QTEndCardV2", "cue": "DISCOVER QT FUNDED slams (local f165; word 'Discover' 47.76)"},
+    {"at_s": 49.77, "sfx_id": "impact-soft", "gain_db": 2, "shot": "QTEndCardV2", "cue": "TRADE WITH DISCIPLINE. tagline slams (local f230; word 'Trade' 49.93)"},
+    {"at_s": 51.77, "sfx_id": "impact-soft", "gain_db": 2, "shot": "QTEndCardV2", "cue": "SCALE WITH CONFIDENCE. tagline slams (local f290; word 'Scale' 51.85)", "optional": true},
+    {"at_s": 53.43, "sfx_id": "chime-reward", "gain_db": 3, "shot": "QTEndCardV2", "cue": "CTA START YOUR EVALUATION pops (local f340)"}
+  ]
+}

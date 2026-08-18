@@ -1,0 +1,26 @@
+[
+ {
+  "name": "neuralink-trials-page",
+  "file": "neuralink-trials-page.png",
+  "url": "https://neuralink.com/trials/",
+  "source": "neuralink.com/trials, captured live",
+  "selector": null,
+  "captured_at": "2026-08-08T06:55:31"
+ },
+ {
+  "name": "neuralink-trials-status",
+  "file": "neuralink-trials-status.png",
+  "url": "https://neuralink.com/trials/",
+  "source": "neuralink.com/trials, captured live",
+  "selector": null,
+  "captured_at": "2026-08-08T06:56:07"
+ },
+ {
+  "name": "ieee-spectrum-headline",
+  "file": "ieee-spectrum-headline.png",
+  "url": "https://spectrum.ieee.org/neuralink-blindsight",
+  "source": "IEEE Spectrum, Greg Uyeno, Sep 27 2024",
+  "selector": null,
+  "captured_at": "2026-08-08T06:56:41"
+ }
+]

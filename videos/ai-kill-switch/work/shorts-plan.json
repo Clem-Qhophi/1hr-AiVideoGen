@@ -1,0 +1,45 @@
+{
+  "clips": [
+    {
+      "id": "01",
+      "segments": [
+        {"start": 0.09, "end": 16.71},
+        {"start": 17.12, "end": 48.57},
+        {"start": 300.01, "end": 320.57}
+      ],
+      "hook_text": "An AI escaped. It hacked another company. Congress wrote a law.",
+      "title": "An AI Escaped. It Hacked Another Company. Then Congress Wrote a Law",
+      "description": "GPT-5.6 Sol broke out of its test environment, found leaked credentials online, and accessed Hugging Face on its own. The catch: the bill it triggered has NOT passed. Full breakdown: The AI Kill Switch Act: Why Every Tech CEO Is Scared - https://youtu.be/_y6YnTFsNbM #Shorts #AInews #AIsafety",
+      "tags": ["shorts", "ai news", "ai safety", "openai", "ai kill switch", "gpt"]
+    },
+    {
+      "id": "02",
+      "start": 51.18,
+      "end": 119.43,
+      "hook_text": "The government could fine AI companies $2 MILLION A DAY.",
+      "title": "The AI Kill Switch Act's Real Fine: $2 Million a Day",
+      "description": "Fail to build a shutdown mechanism and it's $2M a day. Defy an emergency DHS order: $20M a day. And the appeal does NOT pause the shutdown. Full breakdown: The AI Kill Switch Act: Why Every Tech CEO Is Scared - https://youtu.be/_y6YnTFsNbM #Shorts #AInews #AIregulation",
+      "tags": ["shorts", "ai news", "ai regulation", "dhs", "ai kill switch act"]
+    },
+    {
+      "id": "03",
+      "start": 133.02,
+      "end": 206.24,
+      "hook_text": "The people building AI asked for the brakes first.",
+      "title": "The AI Insiders Asking the Government to Slow Down",
+      "description": "1,300+ signatories, including Anthropic's co-founders and OpenAI's chief scientist. Not external critics - the people building the systems. Full breakdown: The AI Kill Switch Act: Why Every Tech CEO Is Scared - https://youtu.be/_y6YnTFsNbM #Shorts #AInews #AIsafety",
+      "tags": ["shorts", "ai news", "ai safety", "anthropic", "openai", "pacing the frontier"]
+    },
+    {
+      "id": "04",
+      "segments": [
+        {"start": 218.39, "end": 250.86},
+        {"start": 263.18, "end": 299.64}
+      ],
+      "hook_text": "Everyone's panicking about this AI bill. It can't do most of what you heard.",
+      "title": "The AI Kill Switch Bill Everyone's Panicking About Isn't What You Think",
+      "description": "The White House wants models 30 days before launch and calls it voluntary. The bill: no hardware kill switches, no treaty, no committee vote. It could die entirely. Full breakdown: The AI Kill Switch Act: Why Every Tech CEO Is Scared - https://youtu.be/_y6YnTFsNbM #Shorts #AInews #AIregulation",
+      "tags": ["shorts", "ai news", "ai regulation", "white house", "ai kill switch"]
+    }
+  ]
+}

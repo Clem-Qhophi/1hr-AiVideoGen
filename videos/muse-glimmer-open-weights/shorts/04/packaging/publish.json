@@ -1,0 +1,18 @@
+{
+  "video": "videos/muse-glimmer-open-weights/shorts/04/output/muse-glimmer-open-weights-short-04.mp4",
+  "title": "The Fine Print on Meta's Free AI Agent",
+  "description_file": "videos/muse-glimmer-open-weights/shorts/04/packaging/description.txt",
+  "tags": [
+    "shorts",
+    "ai news",
+    "meta ai",
+    "muse glimmer",
+    "hugging face",
+    "context window",
+    "quantization",
+    "apache 2.0"
+  ],
+  "categoryId": 22,
+  "privacy": "private",
+  "madeForKids": false
+}

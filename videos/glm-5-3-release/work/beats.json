@@ -1,0 +1,156 @@
+{
+  "output": {
+    "w": 1920,
+    "h": 1080,
+    "fps": 30,
+    "out": "output/glm-5-3-release-visuals.mp4"
+  },
+  "audio": "work/audio/voiceover.mp3",
+  "grade": {
+    "vignette": 0.18,
+    "grain": 2,
+    "tint": "none"
+  },
+  "beats": [
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\glm-5-3-release\\evidence\\zhipu-glm53-announcement.png",
+      "start_s": 0.0,
+      "end_s": 5.5,
+      "move": "in",
+      "cue": "hook"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_cybergym.png",
+      "start_s": 5.5,
+      "end_s": 9.8,
+      "move": "none",
+      "cue": "stat-cyber"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_catch.png",
+      "start_s": 9.8,
+      "end_s": 15.2,
+      "move": "none",
+      "cue": "stat-catch"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\glm-5-3-release\\evidence\\zhipu-glm53-announcement.png",
+      "start_s": 15.2,
+      "end_s": 22.0,
+      "move": "right",
+      "cue": "context-ascend"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_specs.png",
+      "start_s": 22.0,
+      "end_s": 29.5,
+      "move": "none",
+      "cue": "stat-specs"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\library\\backgrounds\\rm-bg-cyan.png",
+      "start_s": 29.5,
+      "end_s": 36.0,
+      "move": "in",
+      "cue": "verdict-open"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_cybergym.png",
+      "start_s": 36.0,
+      "end_s": 44.0,
+      "move": "none",
+      "cue": "verdict-analyst"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_deepswe.png",
+      "start_s": 44.0,
+      "end_s": 52.0,
+      "move": "none",
+      "cue": "verdict-coding"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_specs.png",
+      "start_s": 52.0,
+      "end_s": 61.0,
+      "move": "none",
+      "cue": "verdict-context"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_cve.png",
+      "start_s": 61.0,
+      "end_s": 71.0,
+      "move": "none",
+      "cue": "verdict-cves"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\library\\backgrounds\\rm-bg-green.png",
+      "start_s": 71.0,
+      "end_s": 82.0,
+      "move": "left",
+      "cue": "verdict-wrap"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\glm-5-3-release\\evidence\\cybergym-leaderboard.png",
+      "start_s": 82.0,
+      "end_s": 94.0,
+      "move": "in",
+      "cue": "evidence-leaderboard"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_deepswe.png",
+      "start_s": 94.0,
+      "end_s": 106.0,
+      "move": "none",
+      "cue": "evidence-deepswe"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_terminal.png",
+      "start_s": 106.0,
+      "end_s": 117.0,
+      "move": "none",
+      "cue": "evidence-terminal"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\library\\backgrounds\\rm-bg-accent.png",
+      "start_s": 117.0,
+      "end_s": 128.0,
+      "move": "out",
+      "cue": "midroll-cta"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_terminal.png",
+      "start_s": 128.0,
+      "end_s": 140.0,
+      "move": "none",
+      "cue": "evidence-cli-ascend"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\glm-5-3-release\\work\\cards\\card_catch.png",
+      "start_s": 140.0,
+      "end_s": 152.0,
+      "move": "none",
+      "cue": "honest-gap-exploit"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\glm-5-3-release\\evidence\\zai-coding-pricing.png",
+      "start_s": 152.0,
+      "end_s": 165.0,
+      "move": "down",
+      "cue": "honest-gap-pricing"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\library\\backgrounds\\rm-bg-amber.png",
+      "start_s": 165.0,
+      "end_s": 174.0,
+      "move": "in",
+      "cue": "close-promise"
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\library\\backgrounds\\rm-bg-red.png",
+      "start_s": 174.0,
+      "end_s": 183.34,
+      "move": "out",
+      "cue": "close-cta"
+    }
+  ]
+}

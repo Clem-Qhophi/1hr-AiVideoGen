@@ -1,0 +1,1032 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.17,0:00:01.05,Cap,,0,0,0,,{\c&H00FFFFFF}**Format:** {\c&H8CFFFFFF}single-story {\c&H8CFFFFFF}**Niche:**
+Dialogue: 0,0:00:01.05,0:00:01.65,Cap,,0,0,0,,{\c&H00FFFFFF}**Format:** {\c&H00FFFFFF}single-story {\c&H8CFFFFFF}**Niche:**
+Dialogue: 0,0:00:01.65,0:00:01.92,Cap,,0,0,0,,{\c&H00FFFFFF}**Format:** {\c&H00FFFFFF}single-story {\c&H0051C4F5}**Niche:**
+Dialogue: 0,0:00:02.42,0:00:03.06,Cap,,0,0,0,,{\c&H00FFFFFF}ai-news {\c&H8CFFFFFF}**Target:** {\c&H8CFFFFFF}~6 {\c&H8CFFFFFF}min
+Dialogue: 0,0:00:03.06,0:00:03.89,Cap,,0,0,0,,{\c&H00FFFFFF}ai-news {\c&H00FFFFFF}**Target:** {\c&H8CFFFFFF}~6 {\c&H8CFFFFFF}min
+Dialogue: 0,0:00:03.89,0:00:04.20,Cap,,0,0,0,,{\c&H00FFFFFF}ai-news {\c&H00FFFFFF}**Target:** {\c&H0051C4F5}~6 {\c&H8CFFFFFF}min
+Dialogue: 0,0:00:04.20,0:00:04.52,Cap,,0,0,0,,{\c&H00FFFFFF}ai-news {\c&H00FFFFFF}**Target:** {\c&H0051C4F5}~6 {\c&H00FFFFFF}min
+Dialogue: 0,0:00:04.82,0:00:05.94,Cap,,0,0,0,,{\c&H0051C4F5}(1,028 {\c&H8CFFFFFF}words {\c&H8CFFFFFF}171.4 {\c&H8CFFFFFF}wpm)
+Dialogue: 0,0:00:05.94,0:00:06.34,Cap,,0,0,0,,{\c&H0051C4F5}(1,028 {\c&H00FFFFFF}words {\c&H8CFFFFFF}171.4 {\c&H8CFFFFFF}wpm)
+Dialogue: 0,0:00:06.34,0:00:07.63,Cap,,0,0,0,,{\c&H0051C4F5}(1,028 {\c&H00FFFFFF}words {\c&H00FFFFFF}171.4 {\c&H8CFFFFFF}wpm)
+Dialogue: 0,0:00:07.63,0:00:08.19,Cap,,0,0,0,,{\c&H0051C4F5}(1,028 {\c&H00FFFFFF}words {\c&H00FFFFFF}171.4 {\c&H00FFFFFF}wpm)
+Dialogue: 0,0:00:08.53,0:00:09.26,Cap,,0,0,0,,{\c&H00FFFFFF}**Voice:** {\c&H8CFFFFFF}en-US-AndrewNeural {\c&H8CFFFFFF}1.15x {\c&H8CFFFFFF}(breaking-news)
+Dialogue: 0,0:00:09.26,0:00:10.43,Cap,,0,0,0,,{\c&H00FFFFFF}**Voice:** {\c&H00FFFFFF}en-US-AndrewNeural {\c&H8CFFFFFF}1.15x {\c&H8CFFFFFF}(breaking-news)
+Dialogue: 0,0:00:10.43,0:00:11.73,Cap,,0,0,0,,{\c&H00FFFFFF}**Voice:** {\c&H00FFFFFF}en-US-AndrewNeural {\c&H0051C4F5}1.15x {\c&H8CFFFFFF}(breaking-news)
+Dialogue: 0,0:00:11.73,0:00:12.26,Cap,,0,0,0,,{\c&H00FFFFFF}**Voice:** {\c&H00FFFFFF}en-US-AndrewNeural {\c&H0051C4F5}1.15x {\c&H00FFFFFF}(breaking-news)
+Dialogue: 0,0:00:12.61,0:00:13.48,Cap,,0,0,0,,{\c&H00FFFFFF}**Date:** {\c&H8CFFFFFF}2026-08-10
+Dialogue: 0,0:00:13.48,0:00:15.12,Cap,,0,0,0,,{\c&H00FFFFFF}**Date:** {\c&H0051C4F5}2026-08-10
+Dialogue: 0,0:00:15.58,0:00:15.81,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H8CFFFFFF}August {\c&H8CFFFFFF}tenth,
+Dialogue: 0,0:00:15.81,0:00:16.06,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}August {\c&H8CFFFFFF}tenth,
+Dialogue: 0,0:00:16.06,0:00:16.32,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}August {\c&H00FFFFFF}tenth,
+Dialogue: 0,0:00:16.62,0:00:16.94,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H8CFFFFFF}open-sourced {\c&H8CFFFFFF}Muse {\c&H8CFFFFFF}Glimmer:
+Dialogue: 0,0:00:16.94,0:00:17.57,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}open-sourced {\c&H8CFFFFFF}Muse {\c&H8CFFFFFF}Glimmer:
+Dialogue: 0,0:00:17.57,0:00:17.83,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}open-sourced {\c&H00FFFFFF}Muse {\c&H8CFFFFFF}Glimmer:
+Dialogue: 0,0:00:17.83,0:00:18.15,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}open-sourced {\c&H00FFFFFF}Muse {\c&H0051C4F5}Glimmer:
+Dialogue: 0,0:00:18.55,0:00:18.61,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H8CFFFFFF}thirty-billion-parameter {\c&H8CFFFFFF}model {\c&H8CFFFFFF}built
+Dialogue: 0,0:00:18.61,0:00:19.61,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}thirty-billion-parameter {\c&H8CFFFFFF}model {\c&H8CFFFFFF}built
+Dialogue: 0,0:00:19.61,0:00:19.91,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}thirty-billion-parameter {\c&H00FFFFFF}model {\c&H8CFFFFFF}built
+Dialogue: 0,0:00:19.91,0:00:20.15,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}thirty-billion-parameter {\c&H00FFFFFF}model {\c&H00FFFFFF}built
+Dialogue: 0,0:00:20.15,0:00:20.31,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H8CFFFFFF}agents, {\c&H8CFFFFFF}that {\c&H8CFFFFFF}runs
+Dialogue: 0,0:00:20.31,0:00:20.95,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H00FFFFFF}agents, {\c&H8CFFFFFF}that {\c&H8CFFFFFF}runs
+Dialogue: 0,0:00:20.95,0:00:21.10,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H00FFFFFF}agents, {\c&H00FFFFFF}that {\c&H8CFFFFFF}runs
+Dialogue: 0,0:00:21.10,0:00:21.32,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H00FFFFFF}agents, {\c&H00FFFFFF}that {\c&H00FFFFFF}runs
+Dialogue: 0,0:00:21.35,0:00:21.43,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H8CFFFFFF}a {\c&H8CFFFFFF}single {\c&H8CFFFFFF}consumer
+Dialogue: 0,0:00:21.43,0:00:21.45,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}a {\c&H8CFFFFFF}single {\c&H8CFFFFFF}consumer
+Dialogue: 0,0:00:21.45,0:00:21.83,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}a {\c&H00FFFFFF}single {\c&H8CFFFFFF}consumer
+Dialogue: 0,0:00:21.83,0:00:22.24,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}a {\c&H00FFFFFF}single {\c&H00FFFFFF}consumer
+Dialogue: 0,0:00:22.24,0:00:22.80,Cap,,0,0,0,,{\c&H00FFFFFF}GPU.
+Dialogue: 0,0:00:23.13,0:00:23.28,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H8CFFFFFF}beats {\c&H8CFFFFFF}Google {\c&H8CFFFFFF}and
+Dialogue: 0,0:00:23.28,0:00:23.60,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}beats {\c&H8CFFFFFF}Google {\c&H8CFFFFFF}and
+Dialogue: 0,0:00:23.60,0:00:24.00,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}beats {\c&H00FFFFFF}Google {\c&H8CFFFFFF}and
+Dialogue: 0,0:00:24.00,0:00:24.20,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}beats {\c&H00FFFFFF}Google {\c&H00FFFFFF}and
+Dialogue: 0,0:00:24.22,0:00:24.82,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H8CFFFFFF}newest {\c&H8CFFFFFF}mid-size {\c&H8CFFFFFF}models
+Dialogue: 0,0:00:24.82,0:00:25.28,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H00FFFFFF}newest {\c&H8CFFFFFF}mid-size {\c&H8CFFFFFF}models
+Dialogue: 0,0:00:25.28,0:00:25.70,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H00FFFFFF}newest {\c&H00FFFFFF}mid-size {\c&H8CFFFFFF}models
+Dialogue: 0,0:00:25.70,0:00:26.05,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H00FFFFFF}newest {\c&H00FFFFFF}mid-size {\c&H00FFFFFF}models
+Dialogue: 0,0:00:26.15,0:00:26.24,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H8CFFFFFF}most {\c&H8CFFFFFF}agent {\c&H8CFFFFFF}benchmarks.
+Dialogue: 0,0:00:26.24,0:00:26.63,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}most {\c&H8CFFFFFF}agent {\c&H8CFFFFFF}benchmarks.
+Dialogue: 0,0:00:26.63,0:00:26.81,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}most {\c&H00FFFFFF}agent {\c&H8CFFFFFF}benchmarks.
+Dialogue: 0,0:00:26.81,0:00:27.38,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}most {\c&H00FFFFFF}agent {\c&H0051C4F5}benchmarks.
+Dialogue: 0,0:00:27.83,0:00:27.91,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H8CFFFFFF}you {\c&H8CFFFFFF}pay {\c&H8CFFFFFF}per
+Dialogue: 0,0:00:27.91,0:00:28.01,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H00FFFFFF}you {\c&H8CFFFFFF}pay {\c&H8CFFFFFF}per
+Dialogue: 0,0:00:28.01,0:00:28.17,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H00FFFFFF}you {\c&H00FFFFFF}pay {\c&H8CFFFFFF}per
+Dialogue: 0,0:00:28.17,0:00:28.37,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H00FFFFFF}you {\c&H00FFFFFF}pay {\c&H00FFFFFF}per
+Dialogue: 0,0:00:28.33,0:00:28.65,Cap,,0,0,0,,{\c&H00FFFFFF}token {\c&H8CFFFFFF}for {\c&H8CFFFFFF}an {\c&H8CFFFFFF}AI
+Dialogue: 0,0:00:28.65,0:00:28.80,Cap,,0,0,0,,{\c&H00FFFFFF}token {\c&H00FFFFFF}for {\c&H8CFFFFFF}an {\c&H8CFFFFFF}AI
+Dialogue: 0,0:00:28.80,0:00:28.96,Cap,,0,0,0,,{\c&H00FFFFFF}token {\c&H00FFFFFF}for {\c&H00FFFFFF}an {\c&H8CFFFFFF}AI
+Dialogue: 0,0:00:28.96,0:00:29.23,Cap,,0,0,0,,{\c&H00FFFFFF}token {\c&H00FFFFFF}for {\c&H00FFFFFF}an {\c&H00FFFFFF}AI
+Dialogue: 0,0:00:29.29,0:00:29.92,Cap,,0,0,0,,{\c&H00FFFFFF}agent, {\c&H8CFFFFFF}this {\c&H8CFFFFFF}undercuts {\c&H8CFFFFFF}your
+Dialogue: 0,0:00:29.92,0:00:30.18,Cap,,0,0,0,,{\c&H00FFFFFF}agent, {\c&H00FFFFFF}this {\c&H8CFFFFFF}undercuts {\c&H8CFFFFFF}your
+Dialogue: 0,0:00:30.18,0:00:30.58,Cap,,0,0,0,,{\c&H00FFFFFF}agent, {\c&H00FFFFFF}this {\c&H00FFFFFF}undercuts {\c&H8CFFFFFF}your
+Dialogue: 0,0:00:30.58,0:00:30.78,Cap,,0,0,0,,{\c&H00FFFFFF}agent, {\c&H00FFFFFF}this {\c&H00FFFFFF}undercuts {\c&H00FFFFFF}your
+Dialogue: 0,0:00:30.66,0:00:30.86,Cap,,0,0,0,,{\c&H0051C4F5}bill.
+Dialogue: 0,0:00:31.30,0:00:31.38,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H8CFFFFFF}there's {\c&H8CFFFFFF}one {\c&H8CFFFFFF}table
+Dialogue: 0,0:00:31.38,0:00:31.60,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}there's {\c&H8CFFFFFF}one {\c&H8CFFFFFF}table
+Dialogue: 0,0:00:31.60,0:00:31.77,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}there's {\c&H00FFFFFF}one {\c&H8CFFFFFF}table
+Dialogue: 0,0:00:31.77,0:00:32.09,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}there's {\c&H00FFFFFF}one {\c&H00FFFFFF}table
+Dialogue: 0,0:00:32.09,0:00:32.33,Cap,,0,0,0,,{\c&H00FFFFFF}where {\c&H8CFFFFFF}Alibaba's {\c&H8CFFFFFF}Qwen {\c&H8CFFFFFF}still
+Dialogue: 0,0:00:32.33,0:00:32.91,Cap,,0,0,0,,{\c&H00FFFFFF}where {\c&H00FFFFFF}Alibaba's {\c&H8CFFFFFF}Qwen {\c&H8CFFFFFF}still
+Dialogue: 0,0:00:32.91,0:00:33.16,Cap,,0,0,0,,{\c&H00FFFFFF}where {\c&H00FFFFFF}Alibaba's {\c&H00FFFFFF}Qwen {\c&H8CFFFFFF}still
+Dialogue: 0,0:00:33.16,0:00:33.42,Cap,,0,0,0,,{\c&H00FFFFFF}where {\c&H00FFFFFF}Alibaba's {\c&H00FFFFFF}Qwen {\c&H00FFFFFF}still
+Dialogue: 0,0:00:33.47,0:00:33.79,Cap,,0,0,0,,{\c&H00FFFFFF}wins {\c&H8CFFFFFF}big, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}it
+Dialogue: 0,0:00:33.79,0:00:34.43,Cap,,0,0,0,,{\c&H00FFFFFF}wins {\c&H00FFFFFF}big, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}it
+Dialogue: 0,0:00:34.43,0:00:34.51,Cap,,0,0,0,,{\c&H00FFFFFF}wins {\c&H00FFFFFF}big, {\c&H00FFFFFF}and {\c&H8CFFFFFF}it
+Dialogue: 0,0:00:34.51,0:00:34.71,Cap,,0,0,0,,{\c&H00FFFFFF}wins {\c&H00FFFFFF}big, {\c&H00FFFFFF}and {\c&H00FFFFFF}it
+Dialogue: 0,0:00:34.59,0:00:34.99,Cap,,0,0,0,,{\c&H00FFFFFF}changes {\c&H8CFFFFFF}who {\c&H8CFFFFFF}this {\c&H8CFFFFFF}is
+Dialogue: 0,0:00:34.99,0:00:35.15,Cap,,0,0,0,,{\c&H00FFFFFF}changes {\c&H00FFFFFF}who {\c&H8CFFFFFF}this {\c&H8CFFFFFF}is
+Dialogue: 0,0:00:35.15,0:00:35.49,Cap,,0,0,0,,{\c&H00FFFFFF}changes {\c&H00FFFFFF}who {\c&H00FFFFFF}this {\c&H8CFFFFFF}is
+Dialogue: 0,0:00:35.49,0:00:35.69,Cap,,0,0,0,,{\c&H00FFFFFF}changes {\c&H00FFFFFF}who {\c&H00FFFFFF}this {\c&H00FFFFFF}is
+Dialogue: 0,0:00:35.70,0:00:36.04,Cap,,0,0,0,,{\c&H0051C4F5}actually {\c&H8CFFFFFF}for.
+Dialogue: 0,0:00:36.04,0:00:36.24,Cap,,0,0,0,,{\c&H0051C4F5}actually {\c&H00FFFFFF}for.
+Dialogue: 0,0:00:36.74,0:00:36.84,Cap,,0,0,0,,{\c&H00FFFFFF}We'll {\c&H8CFFFFFF}get {\c&H8CFFFFFF}to {\c&H8CFFFFFF}it.
+Dialogue: 0,0:00:36.84,0:00:36.98,Cap,,0,0,0,,{\c&H00FFFFFF}We'll {\c&H00FFFFFF}get {\c&H8CFFFFFF}to {\c&H8CFFFFFF}it.
+Dialogue: 0,0:00:36.98,0:00:37.10,Cap,,0,0,0,,{\c&H00FFFFFF}We'll {\c&H00FFFFFF}get {\c&H00FFFFFF}to {\c&H8CFFFFFF}it.
+Dialogue: 0,0:00:37.10,0:00:37.30,Cap,,0,0,0,,{\c&H00FFFFFF}We'll {\c&H00FFFFFF}get {\c&H00FFFFFF}to {\c&H00FFFFFF}it.
+Dialogue: 0,0:00:37.63,0:00:37.80,Cap,,0,0,0,,{\c&H00FFFFFF}Quick {\c&H8CFFFFFF}backstory.
+Dialogue: 0,0:00:37.80,0:00:38.22,Cap,,0,0,0,,{\c&H00FFFFFF}Quick {\c&H0051C4F5}backstory.
+Dialogue: 0,0:00:38.69,0:00:38.91,Cap,,0,0,0,,{\c&H00FFFFFF}In {\c&H8CFFFFFF}April, {\c&H8CFFFFFF}Meta {\c&H8CFFFFFF}shipped
+Dialogue: 0,0:00:38.91,0:00:39.47,Cap,,0,0,0,,{\c&H00FFFFFF}In {\c&H00FFFFFF}April, {\c&H8CFFFFFF}Meta {\c&H8CFFFFFF}shipped
+Dialogue: 0,0:00:39.47,0:00:39.63,Cap,,0,0,0,,{\c&H00FFFFFF}In {\c&H00FFFFFF}April, {\c&H00FFFFFF}Meta {\c&H8CFFFFFF}shipped
+Dialogue: 0,0:00:39.63,0:00:39.95,Cap,,0,0,0,,{\c&H00FFFFFF}In {\c&H00FFFFFF}April, {\c&H00FFFFFF}Meta {\c&H00FFFFFF}shipped
+Dialogue: 0,0:00:39.95,0:00:40.13,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H8CFFFFFF}Spark, {\c&H8CFFFFFF}its {\c&H8CFFFFFF}first
+Dialogue: 0,0:00:40.13,0:00:40.85,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H00FFFFFF}Spark, {\c&H8CFFFFFF}its {\c&H8CFFFFFF}first
+Dialogue: 0,0:00:40.85,0:00:41.00,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H00FFFFFF}Spark, {\c&H00FFFFFF}its {\c&H8CFFFFFF}first
+Dialogue: 0,0:00:41.00,0:00:41.24,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H00FFFFFF}Spark, {\c&H00FFFFFF}its {\c&H0051C4F5}first
+Dialogue: 0,0:00:41.24,0:00:41.64,Cap,,0,0,0,,{\c&H00FFFFFF}frontier {\c&H8CFFFFFF}model, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}kept
+Dialogue: 0,0:00:41.64,0:00:42.22,Cap,,0,0,0,,{\c&H00FFFFFF}frontier {\c&H00FFFFFF}model, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}kept
+Dialogue: 0,0:00:42.22,0:00:42.30,Cap,,0,0,0,,{\c&H00FFFFFF}frontier {\c&H00FFFFFF}model, {\c&H00FFFFFF}and {\c&H8CFFFFFF}kept
+Dialogue: 0,0:00:42.30,0:00:42.50,Cap,,0,0,0,,{\c&H00FFFFFF}frontier {\c&H00FFFFFF}model, {\c&H00FFFFFF}and {\c&H00FFFFFF}kept
+Dialogue: 0,0:00:42.52,0:00:42.62,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}weights {\c&H8CFFFFFF}closed.
+Dialogue: 0,0:00:42.62,0:00:42.86,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}weights {\c&H8CFFFFFF}closed.
+Dialogue: 0,0:00:42.86,0:00:43.28,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}weights {\c&H0051C4F5}closed.
+Dialogue: 0,0:00:43.66,0:00:43.74,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}local-AI {\c&H8CFFFFFF}community {\c&H8CFFFFFF}called
+Dialogue: 0,0:00:43.74,0:00:44.29,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}local-AI {\c&H8CFFFFFF}community {\c&H8CFFFFFF}called
+Dialogue: 0,0:00:44.29,0:00:44.79,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}local-AI {\c&H00FFFFFF}community {\c&H8CFFFFFF}called
+Dialogue: 0,0:00:44.79,0:00:45.04,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}local-AI {\c&H00FFFFFF}community {\c&H00FFFFFF}called
+Dialogue: 0,0:00:45.04,0:00:45.12,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H8CFFFFFF}a {\c&H8CFFFFFF}betrayal.
+Dialogue: 0,0:00:45.12,0:00:45.19,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H00FFFFFF}a {\c&H8CFFFFFF}betrayal.
+Dialogue: 0,0:00:45.19,0:00:45.67,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H00FFFFFF}a {\c&H0051C4F5}betrayal.
+Dialogue: 0,0:00:46.06,0:00:46.15,Cap,,0,0,0,,{\c&H00FFFFFF}They {\c&H8CFFFFFF}spent {\c&H8CFFFFFF}years {\c&H8CFFFFFF}building
+Dialogue: 0,0:00:46.15,0:00:46.46,Cap,,0,0,0,,{\c&H00FFFFFF}They {\c&H00FFFFFF}spent {\c&H8CFFFFFF}years {\c&H8CFFFFFF}building
+Dialogue: 0,0:00:46.46,0:00:46.71,Cap,,0,0,0,,{\c&H00FFFFFF}They {\c&H00FFFFFF}spent {\c&H0051C4F5}years {\c&H8CFFFFFF}building
+Dialogue: 0,0:00:46.71,0:00:46.99,Cap,,0,0,0,,{\c&H00FFFFFF}They {\c&H00FFFFFF}spent {\c&H0051C4F5}years {\c&H00FFFFFF}building
+Dialogue: 0,0:00:47.02,0:00:47.26,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H8CFFFFFF}open {\c&H8CFFFFFF}Llama.
+Dialogue: 0,0:00:47.26,0:00:47.51,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}open {\c&H8CFFFFFF}Llama.
+Dialogue: 0,0:00:47.51,0:00:47.76,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}open {\c&H0051C4F5}Llama.
+Dialogue: 0,0:00:48.16,0:00:48.34,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H8CFFFFFF}promised {\c&H8CFFFFFF}open {\c&H8CFFFFFF}weights
+Dialogue: 0,0:00:48.34,0:00:48.80,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}promised {\c&H8CFFFFFF}open {\c&H8CFFFFFF}weights
+Dialogue: 0,0:00:48.80,0:00:49.04,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}promised {\c&H00FFFFFF}open {\c&H8CFFFFFF}weights
+Dialogue: 0,0:00:49.04,0:00:49.27,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}promised {\c&H00FFFFFF}open {\c&H00FFFFFF}weights
+Dialogue: 0,0:00:49.27,0:00:49.35,Cap,,0,0,0,,{\c&H00FFFFFF}were {\c&H8CFFFFFF}coming.
+Dialogue: 0,0:00:49.35,0:00:49.57,Cap,,0,0,0,,{\c&H00FFFFFF}were {\c&H0051C4F5}coming.
+Dialogue: 0,0:00:49.99,0:00:50.02,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}community's {\c&H8CFFFFFF}answer?
+Dialogue: 0,0:00:50.02,0:00:50.55,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}community's {\c&H8CFFFFFF}answer?
+Dialogue: 0,0:00:50.55,0:00:50.79,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}community's {\c&H0051C4F5}answer?
+Dialogue: 0,0:00:51.21,0:00:51.39,Cap,,0,0,0,,{\c&H00FFFFFF}"Talk {\c&H8CFFFFFF}is {\c&H8CFFFFFF}cheap.
+Dialogue: 0,0:00:51.39,0:00:51.52,Cap,,0,0,0,,{\c&H00FFFFFF}"Talk {\c&H00FFFFFF}is {\c&H8CFFFFFF}cheap.
+Dialogue: 0,0:00:51.52,0:00:51.79,Cap,,0,0,0,,{\c&H00FFFFFF}"Talk {\c&H00FFFFFF}is {\c&H0051C4F5}cheap.
+Dialogue: 0,0:00:52.16,0:00:52.35,Cap,,0,0,0,,{\c&H00FFFFFF}Show {\c&H8CFFFFFF}us {\c&H8CFFFFFF}the {\c&H8CFFFFFF}weights."
+Dialogue: 0,0:00:52.35,0:00:52.49,Cap,,0,0,0,,{\c&H00FFFFFF}Show {\c&H00FFFFFF}us {\c&H8CFFFFFF}the {\c&H8CFFFFFF}weights."
+Dialogue: 0,0:00:52.49,0:00:52.57,Cap,,0,0,0,,{\c&H00FFFFFF}Show {\c&H00FFFFFF}us {\c&H00FFFFFF}the {\c&H8CFFFFFF}weights."
+Dialogue: 0,0:00:52.57,0:00:52.82,Cap,,0,0,0,,{\c&H00FFFFFF}Show {\c&H00FFFFFF}us {\c&H00FFFFFF}the {\c&H0051C4F5}weights."
+Dialogue: 0,0:00:53.28,0:00:53.35,Cap,,0,0,0,,{\c&H0051C4F5}Four {\c&H8CFFFFFF}months {\c&H8CFFFFFF}later,
+Dialogue: 0,0:00:53.35,0:00:53.60,Cap,,0,0,0,,{\c&H0051C4F5}Four {\c&H00FFFFFF}months {\c&H8CFFFFFF}later,
+Dialogue: 0,0:00:53.60,0:00:53.80,Cap,,0,0,0,,{\c&H0051C4F5}Four {\c&H00FFFFFF}months {\c&H00FFFFFF}later,
+Dialogue: 0,0:00:54.10,0:00:54.24,Cap,,0,0,0,,{\c&H00FFFFFF}here {\c&H8CFFFFFF}they {\c&H8CFFFFFF}are.
+Dialogue: 0,0:00:54.24,0:00:54.41,Cap,,0,0,0,,{\c&H00FFFFFF}here {\c&H00FFFFFF}they {\c&H8CFFFFFF}are.
+Dialogue: 0,0:00:54.41,0:00:54.61,Cap,,0,0,0,,{\c&H00FFFFFF}here {\c&H00FFFFFF}they {\c&H00FFFFFF}are.
+Dialogue: 0,0:00:54.97,0:00:55.22,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H8CFFFFFF}Glimmer {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:00:55.22,0:00:55.63,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H00FFFFFF}Glimmer {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:00:55.63,0:00:55.71,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H00FFFFFF}Glimmer {\c&H00FFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:00:55.71,0:00:55.91,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H00FFFFFF}Glimmer {\c&H00FFFFFF}is {\c&H00FFFFFF}the
+Dialogue: 0,0:00:55.79,0:00:56.41,Cap,,0,0,0,,{\c&H0051C4F5}first {\c&H8CFFFFFF}open {\c&H8CFFFFFF}release {\c&H8CFFFFFF}from
+Dialogue: 0,0:00:56.41,0:00:56.59,Cap,,0,0,0,,{\c&H0051C4F5}first {\c&H00FFFFFF}open {\c&H8CFFFFFF}release {\c&H8CFFFFFF}from
+Dialogue: 0,0:00:56.59,0:00:56.97,Cap,,0,0,0,,{\c&H0051C4F5}first {\c&H00FFFFFF}open {\c&H00FFFFFF}release {\c&H8CFFFFFF}from
+Dialogue: 0,0:00:56.97,0:00:57.17,Cap,,0,0,0,,{\c&H0051C4F5}first {\c&H00FFFFFF}open {\c&H00FFFFFF}release {\c&H00FFFFFF}from
+Dialogue: 0,0:00:57.15,0:00:57.39,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H8CFFFFFF}Superintelligence {\c&H8CFFFFFF}Labs.
+Dialogue: 0,0:00:57.39,0:00:58.18,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}Superintelligence {\c&H8CFFFFFF}Labs.
+Dialogue: 0,0:00:58.18,0:00:58.48,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}Superintelligence {\c&H0051C4F5}Labs.
+Dialogue: 0,0:00:58.92,0:00:59.08,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H8CFFFFFF}a {\c&H8CFFFFFF}small {\c&H8CFFFFFF}fine-tune:
+Dialogue: 0,0:00:59.08,0:00:59.09,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}a {\c&H8CFFFFFF}small {\c&H8CFFFFFF}fine-tune:
+Dialogue: 0,0:00:59.09,0:00:59.38,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}a {\c&H00FFFFFF}small {\c&H8CFFFFFF}fine-tune:
+Dialogue: 0,0:00:59.38,0:00:59.91,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}a {\c&H00FFFFFF}small {\c&H0051C4F5}fine-tune:
+Dialogue: 0,0:01:00.30,0:01:00.35,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H8CFFFFFF}full {\c&H8CFFFFFF}agentic {\c&H8CFFFFFF}model,
+Dialogue: 0,0:01:00.35,0:01:00.75,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}full {\c&H8CFFFFFF}agentic {\c&H8CFFFFFF}model,
+Dialogue: 0,0:01:00.75,0:01:01.16,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}full {\c&H00FFFFFF}agentic {\c&H8CFFFFFF}model,
+Dialogue: 0,0:01:01.16,0:01:01.47,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}full {\c&H00FFFFFF}agentic {\c&H00FFFFFF}model,
+Dialogue: 0,0:01:01.71,0:01:02.05,Cap,,0,0,0,,{\c&H00FFFFFF}distilled {\c&H8CFFFFFF}from {\c&H8CFFFFFF}Muse {\c&H8CFFFFFF}Spark
+Dialogue: 0,0:01:02.05,0:01:02.21,Cap,,0,0,0,,{\c&H00FFFFFF}distilled {\c&H00FFFFFF}from {\c&H8CFFFFFF}Muse {\c&H8CFFFFFF}Spark
+Dialogue: 0,0:01:02.21,0:01:02.46,Cap,,0,0,0,,{\c&H00FFFFFF}distilled {\c&H00FFFFFF}from {\c&H00FFFFFF}Muse {\c&H8CFFFFFF}Spark
+Dialogue: 0,0:01:02.46,0:01:02.79,Cap,,0,0,0,,{\c&H00FFFFFF}distilled {\c&H00FFFFFF}from {\c&H00FFFFFF}Muse {\c&H00FFFFFF}Spark
+Dialogue: 0,0:01:02.79,0:01:03.12,Cap,,0,0,0,,{\c&H0051C4F5}itself.
+Dialogue: 0,0:01:03.57,0:01:03.72,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}Zuckerberg {\c&H8CFFFFFF}says {\c&H8CFFFFFF}the
+Dialogue: 0,0:01:03.72,0:01:04.13,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}Zuckerberg {\c&H8CFFFFFF}says {\c&H8CFFFFFF}the
+Dialogue: 0,0:01:04.13,0:01:04.37,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}says {\c&H8CFFFFFF}the
+Dialogue: 0,0:01:04.37,0:01:04.57,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}says {\c&H00FFFFFF}the
+Dialogue: 0,0:01:04.45,0:01:04.76,Cap,,0,0,0,,{\c&H00FFFFFF}big {\c&H8CFFFFFF}one {\c&H8CFFFFFF}is {\c&H8CFFFFFF}coming
+Dialogue: 0,0:01:04.76,0:01:05.02,Cap,,0,0,0,,{\c&H00FFFFFF}big {\c&H00FFFFFF}one {\c&H8CFFFFFF}is {\c&H8CFFFFFF}coming
+Dialogue: 0,0:01:05.02,0:01:05.10,Cap,,0,0,0,,{\c&H00FFFFFF}big {\c&H00FFFFFF}one {\c&H00FFFFFF}is {\c&H8CFFFFFF}coming
+Dialogue: 0,0:01:05.10,0:01:05.34,Cap,,0,0,0,,{\c&H00FFFFFF}big {\c&H00FFFFFF}one {\c&H00FFFFFF}is {\c&H00FFFFFF}coming
+Dialogue: 0,0:01:05.42,0:01:05.98,Cap,,0,0,0,,{\c&H00FFFFFF}too: {\c&H8CFFFFFF}Spark {\c&H8CFFFFFF}1.2's {\c&H8CFFFFFF}weights,
+Dialogue: 0,0:01:05.98,0:01:06.37,Cap,,0,0,0,,{\c&H00FFFFFF}too: {\c&H00FFFFFF}Spark {\c&H8CFFFFFF}1.2's {\c&H8CFFFFFF}weights,
+Dialogue: 0,0:01:06.37,0:01:07.02,Cap,,0,0,0,,{\c&H00FFFFFF}too: {\c&H00FFFFFF}Spark {\c&H0051C4F5}1.2's {\c&H8CFFFFFF}weights,
+Dialogue: 0,0:01:07.02,0:01:07.42,Cap,,0,0,0,,{\c&H00FFFFFF}too: {\c&H00FFFFFF}Spark {\c&H0051C4F5}1.2's {\c&H00FFFFFF}weights,
+Dialogue: 0,0:01:07.57,0:01:07.86,Cap,,0,0,0,,{\c&H0051C4F5}soon.
+Dialogue: 0,0:01:08.31,0:01:08.53,Cap,,0,0,0,,{\c&H00FFFFFF}Here's {\c&H8CFFFFFF}the {\c&H8CFFFFFF}read.
+Dialogue: 0,0:01:08.53,0:01:08.63,Cap,,0,0,0,,{\c&H00FFFFFF}Here's {\c&H00FFFFFF}the {\c&H8CFFFFFF}read.
+Dialogue: 0,0:01:08.63,0:01:08.89,Cap,,0,0,0,,{\c&H00FFFFFF}Here's {\c&H00FFFFFF}the {\c&H0051C4F5}read.
+Dialogue: 0,0:01:09.27,0:01:09.58,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H8CFFFFFF}Glimmer {\c&H8CFFFFFF}is {\c&H8CFFFFFF}thirty
+Dialogue: 0,0:01:09.58,0:01:09.93,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H00FFFFFF}Glimmer {\c&H8CFFFFFF}is {\c&H8CFFFFFF}thirty
+Dialogue: 0,0:01:09.93,0:01:10.15,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H00FFFFFF}Glimmer {\c&H00FFFFFF}is {\c&H8CFFFFFF}thirty
+Dialogue: 0,0:01:10.15,0:01:10.44,Cap,,0,0,0,,{\c&H00FFFFFF}Muse {\c&H00FFFFFF}Glimmer {\c&H00FFFFFF}is {\c&H0051C4F5}thirty
+Dialogue: 0,0:01:10.48,0:01:10.80,Cap,,0,0,0,,{\c&H0051C4F5}billion {\c&H8CFFFFFF}parameters, {\c&H8CFFFFFF}with {\c&H8CFFFFFF}vision.
+Dialogue: 0,0:01:10.80,0:01:11.66,Cap,,0,0,0,,{\c&H0051C4F5}billion {\c&H00FFFFFF}parameters, {\c&H8CFFFFFF}with {\c&H8CFFFFFF}vision.
+Dialogue: 0,0:01:11.66,0:01:11.82,Cap,,0,0,0,,{\c&H0051C4F5}billion {\c&H00FFFFFF}parameters, {\c&H00FFFFFF}with {\c&H8CFFFFFF}vision.
+Dialogue: 0,0:01:11.82,0:01:12.05,Cap,,0,0,0,,{\c&H0051C4F5}billion {\c&H00FFFFFF}parameters, {\c&H00FFFFFF}with {\c&H00FFFFFF}vision.
+Dialogue: 0,0:01:12.50,0:01:12.64,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H8CFFFFFF}reads {\c&H8CFFFFFF}text {\c&H8CFFFFFF}and
+Dialogue: 0,0:01:12.64,0:01:12.96,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}reads {\c&H8CFFFFFF}text {\c&H8CFFFFFF}and
+Dialogue: 0,0:01:12.96,0:01:13.51,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}reads {\c&H00FFFFFF}text {\c&H8CFFFFFF}and
+Dialogue: 0,0:01:13.51,0:01:13.71,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}reads {\c&H00FFFFFF}text {\c&H00FFFFFF}and
+Dialogue: 0,0:01:13.69,0:01:14.41,Cap,,0,0,0,,{\c&H0051C4F5}images, {\c&H8CFFFFFF}plans {\c&H8CFFFFFF}multi-step {\c&H8CFFFFFF}tasks,
+Dialogue: 0,0:01:14.41,0:01:14.71,Cap,,0,0,0,,{\c&H0051C4F5}images, {\c&H00FFFFFF}plans {\c&H8CFFFFFF}multi-step {\c&H8CFFFFFF}tasks,
+Dialogue: 0,0:01:14.71,0:01:15.28,Cap,,0,0,0,,{\c&H0051C4F5}images, {\c&H00FFFFFF}plans {\c&H00FFFFFF}multi-step {\c&H8CFFFFFF}tasks,
+Dialogue: 0,0:01:15.28,0:01:15.77,Cap,,0,0,0,,{\c&H0051C4F5}images, {\c&H00FFFFFF}plans {\c&H00FFFFFF}multi-step {\c&H00FFFFFF}tasks,
+Dialogue: 0,0:01:16.01,0:01:16.32,Cap,,0,0,0,,{\c&H00FFFFFF}calls {\c&H8CFFFFFF}tools, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}when
+Dialogue: 0,0:01:16.32,0:01:16.98,Cap,,0,0,0,,{\c&H00FFFFFF}calls {\c&H0051C4F5}tools, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}when
+Dialogue: 0,0:01:16.98,0:01:17.06,Cap,,0,0,0,,{\c&H00FFFFFF}calls {\c&H0051C4F5}tools, {\c&H00FFFFFF}and {\c&H8CFFFFFF}when
+Dialogue: 0,0:01:17.06,0:01:17.26,Cap,,0,0,0,,{\c&H00FFFFFF}calls {\c&H0051C4F5}tools, {\c&H00FFFFFF}and {\c&H00FFFFFF}when
+Dialogue: 0,0:01:17.20,0:01:17.28,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H8CFFFFFF}call {\c&H8CFFFFFF}fails,
+Dialogue: 0,0:01:17.28,0:01:17.52,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}call {\c&H8CFFFFFF}fails,
+Dialogue: 0,0:01:17.52,0:01:17.91,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}call {\c&H0051C4F5}fails,
+Dialogue: 0,0:01:18.34,0:01:18.42,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H8CFFFFFF}retries {\c&H8CFFFFFF}instead {\c&H8CFFFFFF}of
+Dialogue: 0,0:01:18.42,0:01:18.98,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H00FFFFFF}retries {\c&H8CFFFFFF}instead {\c&H8CFFFFFF}of
+Dialogue: 0,0:01:18.98,0:01:19.30,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H00FFFFFF}retries {\c&H00FFFFFF}instead {\c&H8CFFFFFF}of
+Dialogue: 0,0:01:19.30,0:01:19.50,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H00FFFFFF}retries {\c&H00FFFFFF}instead {\c&H00FFFFFF}of
+Dialogue: 0,0:01:19.39,0:01:19.67,Cap,,0,0,0,,{\c&H0051C4F5}dying.
+Dialogue: 0,0:01:20.03,0:01:20.19,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H8CFFFFFF}the {\c&H8CFFFFFF}difference {\c&H8CFFFFFF}between
+Dialogue: 0,0:01:20.19,0:01:20.33,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H00FFFFFF}the {\c&H8CFFFFFF}difference {\c&H8CFFFFFF}between
+Dialogue: 0,0:01:20.33,0:01:20.65,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H00FFFFFF}the {\c&H00FFFFFF}difference {\c&H8CFFFFFF}between
+Dialogue: 0,0:01:20.65,0:01:20.86,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H00FFFFFF}the {\c&H00FFFFFF}difference {\c&H00FFFFFF}between
+Dialogue: 0,0:01:20.91,0:01:20.93,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H8CFFFFFF}chatbot {\c&H8CFFFFFF}and {\c&H8CFFFFFF}an
+Dialogue: 0,0:01:20.93,0:01:21.63,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}chatbot {\c&H8CFFFFFF}and {\c&H8CFFFFFF}an
+Dialogue: 0,0:01:21.63,0:01:21.71,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}chatbot {\c&H00FFFFFF}and {\c&H8CFFFFFF}an
+Dialogue: 0,0:01:21.71,0:01:21.91,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}chatbot {\c&H00FFFFFF}and {\c&H00FFFFFF}an
+Dialogue: 0,0:01:21.79,0:01:22.02,Cap,,0,0,0,,{\c&H0051C4F5}agent.
+Dialogue: 0,0:01:22.50,0:01:22.58,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}headline {\c&H8CFFFFFF}number:
+Dialogue: 0,0:01:22.58,0:01:22.85,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}headline {\c&H8CFFFFFF}number:
+Dialogue: 0,0:01:22.85,0:01:23.16,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}headline {\c&H00FFFFFF}number:
+Dialogue: 0,0:01:23.48,0:01:23.57,Cap,,0,0,0,,{\c&H00FFFFFF}what {\c&H8CFFFFFF}it {\c&H8CFFFFFF}runs {\c&H8CFFFFFF}on.
+Dialogue: 0,0:01:23.57,0:01:23.70,Cap,,0,0,0,,{\c&H00FFFFFF}what {\c&H00FFFFFF}it {\c&H8CFFFFFF}runs {\c&H8CFFFFFF}on.
+Dialogue: 0,0:01:23.70,0:01:23.94,Cap,,0,0,0,,{\c&H00FFFFFF}what {\c&H00FFFFFF}it {\c&H00FFFFFF}runs {\c&H8CFFFFFF}on.
+Dialogue: 0,0:01:23.94,0:01:24.14,Cap,,0,0,0,,{\c&H00FFFFFF}what {\c&H00FFFFFF}it {\c&H00FFFFFF}runs {\c&H00FFFFFF}on.
+Dialogue: 0,0:01:24.52,0:01:24.60,Cap,,0,0,0,,{\c&H00FFFFFF}At {\c&H8CFFFFFF}full {\c&H8CFFFFFF}precision {\c&H8CFFFFFF}it
+Dialogue: 0,0:01:24.60,0:01:24.83,Cap,,0,0,0,,{\c&H00FFFFFF}At {\c&H00FFFFFF}full {\c&H8CFFFFFF}precision {\c&H8CFFFFFF}it
+Dialogue: 0,0:01:24.83,0:01:25.40,Cap,,0,0,0,,{\c&H00FFFFFF}At {\c&H00FFFFFF}full {\c&H00FFFFFF}precision {\c&H8CFFFFFF}it
+Dialogue: 0,0:01:25.40,0:01:25.60,Cap,,0,0,0,,{\c&H00FFFFFF}At {\c&H00FFFFFF}full {\c&H00FFFFFF}precision {\c&H00FFFFFF}it
+Dialogue: 0,0:01:25.49,0:01:25.58,Cap,,0,0,0,,{\c&H00FFFFFF}would {\c&H8CFFFFFF}need {\c&H8CFFFFFF}fifty-five {\c&H8CFFFFFF}gigabytes.
+Dialogue: 0,0:01:25.58,0:01:25.95,Cap,,0,0,0,,{\c&H00FFFFFF}would {\c&H00FFFFFF}need {\c&H8CFFFFFF}fifty-five {\c&H8CFFFFFF}gigabytes.
+Dialogue: 0,0:01:25.95,0:01:26.45,Cap,,0,0,0,,{\c&H00FFFFFF}would {\c&H00FFFFFF}need {\c&H00FFFFFF}fifty-five {\c&H8CFFFFFF}gigabytes.
+Dialogue: 0,0:01:26.45,0:01:26.95,Cap,,0,0,0,,{\c&H00FFFFFF}would {\c&H00FFFFFF}need {\c&H00FFFFFF}fifty-five {\c&H0051C4F5}gigabytes.
+Dialogue: 0,0:01:27.41,0:01:27.91,Cap,,0,0,0,,{\c&H00FFFFFF}Quantized {\c&H8CFFFFFF}to {\c&H8CFFFFFF}four-bit,
+Dialogue: 0,0:01:27.91,0:01:28.04,Cap,,0,0,0,,{\c&H00FFFFFF}Quantized {\c&H00FFFFFF}to {\c&H8CFFFFFF}four-bit,
+Dialogue: 0,0:01:28.04,0:01:28.46,Cap,,0,0,0,,{\c&H00FFFFFF}Quantized {\c&H00FFFFFF}to {\c&H00FFFFFF}four-bit,
+Dialogue: 0,0:01:28.76,0:01:28.82,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}model {\c&H8CFFFFFF}fits {\c&H8CFFFFFF}under
+Dialogue: 0,0:01:28.82,0:01:29.10,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}model {\c&H8CFFFFFF}fits {\c&H8CFFFFFF}under
+Dialogue: 0,0:01:29.10,0:01:29.50,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}model {\c&H00FFFFFF}fits {\c&H8CFFFFFF}under
+Dialogue: 0,0:01:29.50,0:01:29.70,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}model {\c&H00FFFFFF}fits {\c&H00FFFFFF}under
+Dialogue: 0,0:01:29.66,0:01:29.98,Cap,,0,0,0,,{\c&H0051C4F5}twenty {\c&H8CFFFFFF}gigabytes, {\c&H8CFFFFFF}inside {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:29.98,0:01:30.78,Cap,,0,0,0,,{\c&H0051C4F5}twenty {\c&H00FFFFFF}gigabytes, {\c&H8CFFFFFF}inside {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:30.78,0:01:31.18,Cap,,0,0,0,,{\c&H0051C4F5}twenty {\c&H00FFFFFF}gigabytes, {\c&H00FFFFFF}inside {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:31.18,0:01:31.38,Cap,,0,0,0,,{\c&H0051C4F5}twenty {\c&H00FFFFFF}gigabytes, {\c&H00FFFFFF}inside {\c&H00FFFFFF}a
+Dialogue: 0,0:01:31.20,0:01:32.15,Cap,,0,0,0,,{\c&H00FFFFFF}twenty-four-gigabyte {\c&H8CFFFFFF}card.
+Dialogue: 0,0:01:32.15,0:01:32.44,Cap,,0,0,0,,{\c&H00FFFFFF}twenty-four-gigabyte {\c&H0051C4F5}card.
+Dialogue: 0,0:01:32.79,0:01:32.85,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H8CFFFFFF}Mac {\c&H8CFFFFFF}or {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:32.85,0:01:33.27,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H00FFFFFF}Mac {\c&H8CFFFFFF}or {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:33.27,0:01:33.35,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H00FFFFFF}Mac {\c&H00FFFFFF}or {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:33.35,0:01:33.55,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H00FFFFFF}Mac {\c&H00FFFFFF}or {\c&H00FFFFFF}a
+Dialogue: 0,0:01:33.43,0:01:33.99,Cap,,0,0,0,,{\c&H00FFFFFF}PC {\c&H8CFFFFFF}with {\c&H8CFFFFFF}one {\c&H8CFFFFFF}GPU.
+Dialogue: 0,0:01:33.99,0:01:34.22,Cap,,0,0,0,,{\c&H00FFFFFF}PC {\c&H00FFFFFF}with {\c&H8CFFFFFF}one {\c&H8CFFFFFF}GPU.
+Dialogue: 0,0:01:34.22,0:01:34.38,Cap,,0,0,0,,{\c&H00FFFFFF}PC {\c&H00FFFFFF}with {\c&H00FFFFFF}one {\c&H8CFFFFFF}GPU.
+Dialogue: 0,0:01:34.38,0:01:34.70,Cap,,0,0,0,,{\c&H00FFFFFF}PC {\c&H00FFFFFF}with {\c&H00FFFFFF}one {\c&H0051C4F5}GPU.
+Dialogue: 0,0:01:35.20,0:01:35.36,Cap,,0,0,0,,{\c&H00FFFFFF}No {\c&H8CFFFFFF}cloud, {\c&H8CFFFFFF}no {\c&H8CFFFFFF}per-token
+Dialogue: 0,0:01:35.36,0:01:36.18,Cap,,0,0,0,,{\c&H00FFFFFF}No {\c&H0051C4F5}cloud, {\c&H8CFFFFFF}no {\c&H8CFFFFFF}per-token
+Dialogue: 0,0:01:36.18,0:01:36.32,Cap,,0,0,0,,{\c&H00FFFFFF}No {\c&H0051C4F5}cloud, {\c&H00FFFFFF}no {\c&H8CFFFFFF}per-token
+Dialogue: 0,0:01:36.32,0:01:36.80,Cap,,0,0,0,,{\c&H00FFFFFF}No {\c&H0051C4F5}cloud, {\c&H00FFFFFF}no {\c&H00FFFFFF}per-token
+Dialogue: 0,0:01:36.80,0:01:37.52,Cap,,0,0,0,,{\c&H0051C4F5}fees, {\c&H8CFFFFFF}no {\c&H8CFFFFFF}internet.
+Dialogue: 0,0:01:37.52,0:01:37.69,Cap,,0,0,0,,{\c&H0051C4F5}fees, {\c&H00FFFFFF}no {\c&H8CFFFFFF}internet.
+Dialogue: 0,0:01:37.69,0:01:38.02,Cap,,0,0,0,,{\c&H0051C4F5}fees, {\c&H00FFFFFF}no {\c&H00FFFFFF}internet.
+Dialogue: 0,0:01:38.49,0:01:38.71,Cap,,0,0,0,,{\c&H00FFFFFF}An {\c&H8CFFFFFF}always-on {\c&H8CFFFFFF}agent {\c&H8CFFFFFF}on
+Dialogue: 0,0:01:38.71,0:01:39.11,Cap,,0,0,0,,{\c&H00FFFFFF}An {\c&H00FFFFFF}always-on {\c&H8CFFFFFF}agent {\c&H8CFFFFFF}on
+Dialogue: 0,0:01:39.11,0:01:39.37,Cap,,0,0,0,,{\c&H00FFFFFF}An {\c&H00FFFFFF}always-on {\c&H00FFFFFF}agent {\c&H8CFFFFFF}on
+Dialogue: 0,0:01:39.37,0:01:39.57,Cap,,0,0,0,,{\c&H00FFFFFF}An {\c&H00FFFFFF}always-on {\c&H00FFFFFF}agent {\c&H00FFFFFF}on
+Dialogue: 0,0:01:39.45,0:01:39.60,Cap,,0,0,0,,{\c&H00FFFFFF}your {\c&H8CFFFFFF}own {\c&H8CFFFFFF}machine.
+Dialogue: 0,0:01:39.60,0:01:39.76,Cap,,0,0,0,,{\c&H00FFFFFF}your {\c&H00FFFFFF}own {\c&H8CFFFFFF}machine.
+Dialogue: 0,0:01:39.76,0:01:39.98,Cap,,0,0,0,,{\c&H00FFFFFF}your {\c&H00FFFFFF}own {\c&H0051C4F5}machine.
+Dialogue: 0,0:01:40.41,0:01:40.51,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}it's {\c&H8CFFFFFF}fast.
+Dialogue: 0,0:01:40.51,0:01:40.66,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}it's {\c&H8CFFFFFF}fast.
+Dialogue: 0,0:01:40.66,0:01:41.07,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}it's {\c&H0051C4F5}fast.
+Dialogue: 0,0:01:41.46,0:01:41.62,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H8CFFFFFF}ships {\c&H8CFFFFFF}a {\c&H8CFFFFFF}speculative-decoding
+Dialogue: 0,0:01:41.62,0:01:41.96,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}ships {\c&H8CFFFFFF}a {\c&H8CFFFFFF}speculative-decoding
+Dialogue: 0,0:01:41.96,0:01:42.00,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}ships {\c&H00FFFFFF}a {\c&H8CFFFFFF}speculative-decoding
+Dialogue: 0,0:01:42.00,0:01:43.03,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}ships {\c&H00FFFFFF}a {\c&H00FFFFFF}speculative-decoding
+Dialogue: 0,0:01:43.06,0:01:43.71,Cap,,0,0,0,,{\c&H00FFFFFF}drafter, {\c&H8CFFFFFF}DFlash.
+Dialogue: 0,0:01:43.71,0:01:44.27,Cap,,0,0,0,,{\c&H00FFFFFF}drafter, {\c&H0051C4F5}DFlash.
+Dialogue: 0,0:01:44.73,0:01:44.81,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H8CFFFFFF}an {\c&H8CFFFFFF}RTX {\c&H8CFFFFFF}5090,
+Dialogue: 0,0:01:44.81,0:01:44.92,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}an {\c&H8CFFFFFF}RTX {\c&H8CFFFFFF}5090,
+Dialogue: 0,0:01:44.92,0:01:45.39,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}an {\c&H00FFFFFF}RTX {\c&H8CFFFFFF}5090,
+Dialogue: 0,0:01:45.39,0:01:46.00,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}an {\c&H00FFFFFF}RTX {\c&H0051C4F5}5090,
+Dialogue: 0,0:01:46.27,0:01:46.35,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H8CFFFFFF}triples {\c&H8CFFFFFF}speed:
+Dialogue: 0,0:01:46.35,0:01:46.71,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H00FFFFFF}triples {\c&H8CFFFFFF}speed:
+Dialogue: 0,0:01:46.71,0:01:47.12,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H00FFFFFF}triples {\c&H0051C4F5}speed:
+Dialogue: 0,0:01:47.68,0:01:47.95,Cap,,0,0,0,,{\c&H0051C4F5}two {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}thirty-three {\c&H8CFFFFFF}tokens
+Dialogue: 0,0:01:47.95,0:01:48.21,Cap,,0,0,0,,{\c&H0051C4F5}two {\c&H00FFFFFF}hundred {\c&H8CFFFFFF}thirty-three {\c&H8CFFFFFF}tokens
+Dialogue: 0,0:01:48.21,0:01:48.48,Cap,,0,0,0,,{\c&H0051C4F5}two {\c&H00FFFFFF}hundred {\c&H00FFFFFF}thirty-three {\c&H8CFFFFFF}tokens
+Dialogue: 0,0:01:48.48,0:01:48.85,Cap,,0,0,0,,{\c&H0051C4F5}two {\c&H00FFFFFF}hundred {\c&H00FFFFFF}thirty-three {\c&H00FFFFFF}tokens
+Dialogue: 0,0:01:48.89,0:01:48.98,Cap,,0,0,0,,{\c&H00FFFFFF}per {\c&H8CFFFFFF}second.
+Dialogue: 0,0:01:48.98,0:01:49.34,Cap,,0,0,0,,{\c&H00FFFFFF}per {\c&H0051C4F5}second.
+Dialogue: 0,0:01:49.77,0:01:49.84,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H8CFFFFFF}a {\c&H8CFFFFFF}Mac {\c&H8CFFFFFF}M5
+Dialogue: 0,0:01:49.84,0:01:49.85,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}a {\c&H8CFFFFFF}Mac {\c&H8CFFFFFF}M5
+Dialogue: 0,0:01:49.85,0:01:50.18,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}a {\c&H00FFFFFF}Mac {\c&H8CFFFFFF}M5
+Dialogue: 0,0:01:50.18,0:01:50.64,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}a {\c&H00FFFFFF}Mac {\c&H0051C4F5}M5
+Dialogue: 0,0:01:50.64,0:01:51.29,Cap,,0,0,0,,{\c&H00FFFFFF}Max, {\c&H8CFFFFFF}fifty.
+Dialogue: 0,0:01:51.29,0:01:51.56,Cap,,0,0,0,,{\c&H00FFFFFF}Max, {\c&H0051C4F5}fifty.
+Dialogue: 0,0:01:52.01,0:01:52.26,Cap,,0,0,0,,{\c&H00FFFFFF}Agents {\c&H8CFFFFFF}feel {\c&H8CFFFFFF}real-time.
+Dialogue: 0,0:01:52.26,0:01:52.51,Cap,,0,0,0,,{\c&H00FFFFFF}Agents {\c&H00FFFFFF}feel {\c&H8CFFFFFF}real-time.
+Dialogue: 0,0:01:52.51,0:01:52.87,Cap,,0,0,0,,{\c&H00FFFFFF}Agents {\c&H00FFFFFF}feel {\c&H0051C4F5}real-time.
+Dialogue: 0,0:01:53.37,0:01:53.40,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}benchmark {\c&H8CFFFFFF}story:
+Dialogue: 0,0:01:53.40,0:01:53.78,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}benchmark {\c&H8CFFFFFF}story:
+Dialogue: 0,0:01:53.78,0:01:54.09,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}benchmark {\c&H00FFFFFF}story:
+Dialogue: 0,0:01:54.43,0:01:54.60,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H8CFFFFFF}compared {\c&H8CFFFFFF}it {\c&H8CFFFFFF}to
+Dialogue: 0,0:01:54.60,0:01:54.94,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}compared {\c&H8CFFFFFF}it {\c&H8CFFFFFF}to
+Dialogue: 0,0:01:54.94,0:01:55.00,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}compared {\c&H00FFFFFF}it {\c&H8CFFFFFF}to
+Dialogue: 0,0:01:55.00,0:01:55.20,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}compared {\c&H00FFFFFF}it {\c&H00FFFFFF}to
+Dialogue: 0,0:01:55.16,0:01:55.57,Cap,,0,0,0,,{\c&H00FFFFFF}Google's {\c&H8CFFFFFF}Gemma4-31B {\c&H8CFFFFFF}and {\c&H8CFFFFFF}Alibaba's
+Dialogue: 0,0:01:55.57,0:01:57.57,Cap,,0,0,0,,{\c&H00FFFFFF}Google's {\c&H0051C4F5}Gemma4-31B {\c&H8CFFFFFF}and {\c&H8CFFFFFF}Alibaba's
+Dialogue: 0,0:01:57.57,0:01:57.80,Cap,,0,0,0,,{\c&H00FFFFFF}Google's {\c&H0051C4F5}Gemma4-31B {\c&H00FFFFFF}and {\c&H8CFFFFFF}Alibaba's
+Dialogue: 0,0:01:57.80,0:01:58.36,Cap,,0,0,0,,{\c&H00FFFFFF}Google's {\c&H0051C4F5}Gemma4-31B {\c&H00FFFFFF}and {\c&H00FFFFFF}Alibaba's
+Dialogue: 0,0:01:58.36,0:02:00.63,Cap,,0,0,0,,{\c&H0051C4F5}Qwen3.6-27B.
+Dialogue: 0,0:02:01.11,0:02:01.25,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H8CFFFFFF}agent {\c&H8CFFFFFF}benchmarks,
+Dialogue: 0,0:02:01.25,0:02:01.51,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}agent {\c&H8CFFFFFF}benchmarks,
+Dialogue: 0,0:02:01.51,0:02:01.99,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}agent {\c&H00FFFFFF}benchmarks,
+Dialogue: 0,0:02:02.30,0:02:02.54,Cap,,0,0,0,,{\c&H00FFFFFF}Glimmer {\c&H8CFFFFFF}wins {\c&H8CFFFFFF}most.
+Dialogue: 0,0:02:02.54,0:02:02.80,Cap,,0,0,0,,{\c&H00FFFFFF}Glimmer {\c&H00FFFFFF}wins {\c&H8CFFFFFF}most.
+Dialogue: 0,0:02:02.80,0:02:03.14,Cap,,0,0,0,,{\c&H00FFFFFF}Glimmer {\c&H00FFFFFF}wins {\c&H0051C4F5}most.
+Dialogue: 0,0:02:03.59,0:02:04.16,Cap,,0,0,0,,{\c&H00FFFFFF}MCP {\c&H8CFFFFFF}Atlas, {\c&H8CFFFFFF}the {\c&H8CFFFFFF}tool-use
+Dialogue: 0,0:02:04.16,0:02:04.74,Cap,,0,0,0,,{\c&H00FFFFFF}MCP {\c&H0051C4F5}Atlas, {\c&H8CFFFFFF}the {\c&H8CFFFFFF}tool-use
+Dialogue: 0,0:02:04.74,0:02:04.82,Cap,,0,0,0,,{\c&H00FFFFFF}MCP {\c&H0051C4F5}Atlas, {\c&H00FFFFFF}the {\c&H8CFFFFFF}tool-use
+Dialogue: 0,0:02:04.82,0:02:05.24,Cap,,0,0,0,,{\c&H00FFFFFF}MCP {\c&H0051C4F5}Atlas, {\c&H00FFFFFF}the {\c&H00FFFFFF}tool-use
+Dialogue: 0,0:02:05.24,0:02:05.81,Cap,,0,0,0,,{\c&H00FFFFFF}test, {\c&H8CFFFFFF}seventy-five {\c&H8CFFFFFF}point {\c&H8CFFFFFF}five,
+Dialogue: 0,0:02:05.81,0:02:06.25,Cap,,0,0,0,,{\c&H00FFFFFF}test, {\c&H00FFFFFF}seventy-five {\c&H8CFFFFFF}point {\c&H8CFFFFFF}five,
+Dialogue: 0,0:02:06.25,0:02:06.69,Cap,,0,0,0,,{\c&H00FFFFFF}test, {\c&H00FFFFFF}seventy-five {\c&H00FFFFFF}point {\c&H8CFFFFFF}five,
+Dialogue: 0,0:02:06.69,0:02:07.13,Cap,,0,0,0,,{\c&H00FFFFFF}test, {\c&H00FFFFFF}seventy-five {\c&H00FFFFFF}point {\c&H0051C4F5}five,
+Dialogue: 0,0:02:07.41,0:02:07.81,Cap,,0,0,0,,{\c&H00FFFFFF}versus {\c&H8CFFFFFF}fifty-four {\c&H8CFFFFFF}and {\c&H8CFFFFFF}sixty-two.
+Dialogue: 0,0:02:07.81,0:02:08.46,Cap,,0,0,0,,{\c&H00FFFFFF}versus {\c&H00FFFFFF}fifty-four {\c&H8CFFFFFF}and {\c&H8CFFFFFF}sixty-two.
+Dialogue: 0,0:02:08.46,0:02:08.60,Cap,,0,0,0,,{\c&H00FFFFFF}versus {\c&H00FFFFFF}fifty-four {\c&H00FFFFFF}and {\c&H8CFFFFFF}sixty-two.
+Dialogue: 0,0:02:08.60,0:02:09.12,Cap,,0,0,0,,{\c&H00FFFFFF}versus {\c&H00FFFFFF}fifty-four {\c&H00FFFFFF}and {\c&H0051C4F5}sixty-two.
+Dialogue: 0,0:02:09.49,0:02:09.91,Cap,,0,0,0,,{\c&H00FFFFFF}DeepSearch {\c&H8CFFFFFF}QA, {\c&H8CFFFFFF}seventy-four {\c&H8CFFFFFF}point
+Dialogue: 0,0:02:09.91,0:02:10.55,Cap,,0,0,0,,{\c&H00FFFFFF}DeepSearch {\c&H00FFFFFF}QA, {\c&H8CFFFFFF}seventy-four {\c&H8CFFFFFF}point
+Dialogue: 0,0:02:10.55,0:02:10.88,Cap,,0,0,0,,{\c&H00FFFFFF}DeepSearch {\c&H00FFFFFF}QA, {\c&H00FFFFFF}seventy-four {\c&H8CFFFFFF}point
+Dialogue: 0,0:02:10.88,0:02:11.22,Cap,,0,0,0,,{\c&H00FFFFFF}DeepSearch {\c&H00FFFFFF}QA, {\c&H00FFFFFF}seventy-four {\c&H00FFFFFF}point
+Dialogue: 0,0:02:11.22,0:02:11.56,Cap,,0,0,0,,{\c&H0051C4F5}six.
+Dialogue: 0,0:02:12.02,0:02:12.69,Cap,,0,0,0,,{\c&H00FFFFFF}SWE-Bench {\c&H8CFFFFFF}Pro, {\c&H8CFFFFFF}fifty-one {\c&H8CFFFFFF}point
+Dialogue: 0,0:02:12.69,0:02:13.20,Cap,,0,0,0,,{\c&H00FFFFFF}SWE-Bench {\c&H00FFFFFF}Pro, {\c&H8CFFFFFF}fifty-one {\c&H8CFFFFFF}point
+Dialogue: 0,0:02:13.20,0:02:13.56,Cap,,0,0,0,,{\c&H00FFFFFF}SWE-Bench {\c&H00FFFFFF}Pro, {\c&H00FFFFFF}fifty-one {\c&H8CFFFFFF}point
+Dialogue: 0,0:02:13.56,0:02:13.93,Cap,,0,0,0,,{\c&H00FFFFFF}SWE-Bench {\c&H00FFFFFF}Pro, {\c&H00FFFFFF}fifty-one {\c&H00FFFFFF}point
+Dialogue: 0,0:02:13.93,0:02:14.29,Cap,,0,0,0,,{\c&H0051C4F5}two.
+Dialogue: 0,0:02:14.29,0:02:14.66,Cap,,0,0,0,,{\c&H00FFFFFF}AIME {\c&H8CFFFFFF}math, {\c&H8CFFFFFF}ninety-four {\c&H8CFFFFFF}point
+Dialogue: 0,0:02:14.66,0:02:15.02,Cap,,0,0,0,,{\c&H00FFFFFF}AIME {\c&H00FFFFFF}math, {\c&H8CFFFFFF}ninety-four {\c&H8CFFFFFF}point
+Dialogue: 0,0:02:15.02,0:02:15.39,Cap,,0,0,0,,{\c&H00FFFFFF}AIME {\c&H00FFFFFF}math, {\c&H00FFFFFF}ninety-four {\c&H8CFFFFFF}point
+Dialogue: 0,0:02:15.39,0:02:15.75,Cap,,0,0,0,,{\c&H00FFFFFF}AIME {\c&H00FFFFFF}math, {\c&H00FFFFFF}ninety-four {\c&H00FFFFFF}point
+Dialogue: 0,0:02:15.75,0:02:16.12,Cap,,0,0,0,,{\c&H0051C4F5}seven.
+Dialogue: 0,0:02:16.54,0:02:16.68,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H8CFFFFFF}what {\c&H8CFFFFFF}does {\c&H8CFFFFFF}this
+Dialogue: 0,0:02:16.68,0:02:16.76,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}what {\c&H8CFFFFFF}does {\c&H8CFFFFFF}this
+Dialogue: 0,0:02:16.76,0:02:16.86,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}what {\c&H00FFFFFF}does {\c&H8CFFFFFF}this
+Dialogue: 0,0:02:16.86,0:02:17.06,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}what {\c&H00FFFFFF}does {\c&H00FFFFFF}this
+Dialogue: 0,0:02:17.00,0:02:17.23,Cap,,0,0,0,,{\c&H00FFFFFF}mean {\c&H8CFFFFFF}for {\c&H8CFFFFFF}you?
+Dialogue: 0,0:02:17.23,0:02:17.32,Cap,,0,0,0,,{\c&H00FFFFFF}mean {\c&H00FFFFFF}for {\c&H8CFFFFFF}you?
+Dialogue: 0,0:02:17.32,0:02:17.52,Cap,,0,0,0,,{\c&H00FFFFFF}mean {\c&H00FFFFFF}for {\c&H00FFFFFF}you?
+Dialogue: 0,0:02:17.88,0:02:17.97,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H8CFFFFFF}you {\c&H8CFFFFFF}build {\c&H8CFFFFFF}agents,
+Dialogue: 0,0:02:17.97,0:02:18.05,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H00FFFFFF}you {\c&H8CFFFFFF}build {\c&H8CFFFFFF}agents,
+Dialogue: 0,0:02:18.05,0:02:18.29,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H00FFFFFF}you {\c&H00FFFFFF}build {\c&H8CFFFFFF}agents,
+Dialogue: 0,0:02:18.29,0:02:18.69,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H00FFFFFF}you {\c&H00FFFFFF}build {\c&H00FFFFFF}agents,
+Dialogue: 0,0:02:18.99,0:02:19.03,Cap,,0,0,0,,{\c&H00FFFFFF}you {\c&H8CFFFFFF}now {\c&H8CFFFFFF}have {\c&H8CFFFFFF}a
+Dialogue: 0,0:02:19.03,0:02:19.23,Cap,,0,0,0,,{\c&H00FFFFFF}you {\c&H00FFFFFF}now {\c&H8CFFFFFF}have {\c&H8CFFFFFF}a
+Dialogue: 0,0:02:19.23,0:02:19.35,Cap,,0,0,0,,{\c&H00FFFFFF}you {\c&H00FFFFFF}now {\c&H00FFFFFF}have {\c&H8CFFFFFF}a
+Dialogue: 0,0:02:19.35,0:02:19.55,Cap,,0,0,0,,{\c&H00FFFFFF}you {\c&H00FFFFFF}now {\c&H00FFFFFF}have {\c&H00FFFFFF}a
+Dialogue: 0,0:02:19.41,0:02:20.20,Cap,,0,0,0,,{\c&H0051C4F5}free, {\c&H8CFFFFFF}open, {\c&H8CFFFFFF}local {\c&H8CFFFFFF}option
+Dialogue: 0,0:02:20.20,0:02:20.68,Cap,,0,0,0,,{\c&H0051C4F5}free, {\c&H00FFFFFF}open, {\c&H8CFFFFFF}local {\c&H8CFFFFFF}option
+Dialogue: 0,0:02:20.68,0:02:21.00,Cap,,0,0,0,,{\c&H0051C4F5}free, {\c&H00FFFFFF}open, {\c&H00FFFFFF}local {\c&H8CFFFFFF}option
+Dialogue: 0,0:02:21.00,0:02:21.23,Cap,,0,0,0,,{\c&H0051C4F5}free, {\c&H00FFFFFF}open, {\c&H00FFFFFF}local {\c&H00FFFFFF}option
+Dialogue: 0,0:02:21.32,0:02:21.40,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H8CFFFFFF}the {\c&H8CFFFFFF}same {\c&H8CFFFFFF}league
+Dialogue: 0,0:02:21.40,0:02:21.43,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}the {\c&H8CFFFFFF}same {\c&H8CFFFFFF}league
+Dialogue: 0,0:02:21.43,0:02:21.74,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}the {\c&H00FFFFFF}same {\c&H8CFFFFFF}league
+Dialogue: 0,0:02:21.74,0:02:22.16,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}the {\c&H00FFFFFF}same {\c&H00FFFFFF}league
+Dialogue: 0,0:02:22.22,0:02:22.37,Cap,,0,0,0,,{\c&H00FFFFFF}as {\c&H8CFFFFFF}paid {\c&H8CFFFFFF}APIs.
+Dialogue: 0,0:02:22.37,0:02:22.61,Cap,,0,0,0,,{\c&H00FFFFFF}as {\c&H00FFFFFF}paid {\c&H8CFFFFFF}APIs.
+Dialogue: 0,0:02:22.61,0:02:23.07,Cap,,0,0,0,,{\c&H00FFFFFF}as {\c&H00FFFFFF}paid {\c&H0051C4F5}APIs.
+Dialogue: 0,0:02:23.59,0:02:23.75,Cap,,0,0,0,,{\c&H00FFFFFF}Your {\c&H8CFFFFFF}data {\c&H8CFFFFFF}never {\c&H8CFFFFFF}leaves
+Dialogue: 0,0:02:23.75,0:02:23.99,Cap,,0,0,0,,{\c&H00FFFFFF}Your {\c&H00FFFFFF}data {\c&H8CFFFFFF}never {\c&H8CFFFFFF}leaves
+Dialogue: 0,0:02:23.99,0:02:24.31,Cap,,0,0,0,,{\c&H00FFFFFF}Your {\c&H00FFFFFF}data {\c&H0051C4F5}never {\c&H8CFFFFFF}leaves
+Dialogue: 0,0:02:24.31,0:02:24.55,Cap,,0,0,0,,{\c&H00FFFFFF}Your {\c&H00FFFFFF}data {\c&H0051C4F5}never {\c&H00FFFFFF}leaves
+Dialogue: 0,0:02:24.55,0:02:24.65,Cap,,0,0,0,,{\c&H00FFFFFF}your {\c&H8CFFFFFF}machine.
+Dialogue: 0,0:02:24.65,0:02:24.92,Cap,,0,0,0,,{\c&H00FFFFFF}your {\c&H0051C4F5}machine.
+Dialogue: 0,0:02:25.35,0:02:25.43,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}this {\c&H8CFFFFFF}is {\c&H8CFFFFFF}also
+Dialogue: 0,0:02:25.43,0:02:25.61,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}this {\c&H8CFFFFFF}is {\c&H8CFFFFFF}also
+Dialogue: 0,0:02:25.61,0:02:25.74,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}this {\c&H00FFFFFF}is {\c&H8CFFFFFF}also
+Dialogue: 0,0:02:25.74,0:02:26.00,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}this {\c&H00FFFFFF}is {\c&H00FFFFFF}also
+Dialogue: 0,0:02:26.00,0:02:26.08,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H8CFFFFFF}political {\c&H8CFFFFFF}statement.
+Dialogue: 0,0:02:26.08,0:02:26.40,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}political {\c&H8CFFFFFF}statement.
+Dialogue: 0,0:02:26.40,0:02:26.81,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}political {\c&H0051C4F5}statement.
+Dialogue: 0,0:02:27.26,0:02:27.67,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H8CFFFFFF}says {\c&H8CFFFFFF}the {\c&H8CFFFFFF}US
+Dialogue: 0,0:02:27.67,0:02:27.86,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}says {\c&H8CFFFFFF}the {\c&H8CFFFFFF}US
+Dialogue: 0,0:02:27.86,0:02:28.07,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}says {\c&H00FFFFFF}the {\c&H8CFFFFFF}US
+Dialogue: 0,0:02:28.07,0:02:28.50,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}says {\c&H00FFFFFF}the {\c&H00FFFFFF}US
+Dialogue: 0,0:02:28.50,0:02:28.65,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H8CFFFFFF}falling {\c&H8CFFFFFF}behind {\c&H8CFFFFFF}China
+Dialogue: 0,0:02:28.65,0:02:28.97,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}falling {\c&H8CFFFFFF}behind {\c&H8CFFFFFF}China
+Dialogue: 0,0:02:28.97,0:02:29.35,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}falling {\c&H00FFFFFF}behind {\c&H8CFFFFFF}China
+Dialogue: 0,0:02:29.35,0:02:29.80,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}falling {\c&H00FFFFFF}behind {\c&H00FFFFFF}China
+Dialogue: 0,0:02:29.93,0:02:30.17,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H8CFFFFFF}open-weight {\c&H8CFFFFFF}models.
+Dialogue: 0,0:02:30.17,0:02:30.56,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}open-weight {\c&H8CFFFFFF}models.
+Dialogue: 0,0:02:30.56,0:02:30.86,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}open-weight {\c&H0051C4F5}models.
+Dialogue: 0,0:02:31.36,0:02:31.86,Cap,,0,0,0,,{\c&H00FFFFFF}Moonshot's {\c&H8CFFFFFF}Kimi {\c&H8CFFFFFF}K3,
+Dialogue: 0,0:02:31.86,0:02:32.10,Cap,,0,0,0,,{\c&H00FFFFFF}Moonshot's {\c&H00FFFFFF}Kimi {\c&H8CFFFFFF}K3,
+Dialogue: 0,0:02:32.10,0:02:32.76,Cap,,0,0,0,,{\c&H00FFFFFF}Moonshot's {\c&H00FFFFFF}Kimi {\c&H0051C4F5}K3,
+Dialogue: 0,0:02:33.13,0:02:33.62,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H8CFFFFFF}Qwen, {\c&H8CFFFFFF}DeepSeek's {\c&H8CFFFFFF}V4-Flash.
+Dialogue: 0,0:02:33.62,0:02:34.27,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H00FFFFFF}Qwen, {\c&H8CFFFFFF}DeepSeek's {\c&H8CFFFFFF}V4-Flash.
+Dialogue: 0,0:02:34.27,0:02:34.83,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H00FFFFFF}Qwen, {\c&H00FFFFFF}DeepSeek's {\c&H8CFFFFFF}V4-Flash.
+Dialogue: 0,0:02:34.83,0:02:35.95,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H00FFFFFF}Qwen, {\c&H00FFFFFF}DeepSeek's {\c&H0051C4F5}V4-Flash.
+Dialogue: 0,0:02:36.44,0:02:36.52,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H8CFFFFFF}says {\c&H8CFFFFFF}American {\c&H8CFFFFFF}labs
+Dialogue: 0,0:02:36.52,0:02:36.74,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H00FFFFFF}says {\c&H8CFFFFFF}American {\c&H8CFFFFFF}labs
+Dialogue: 0,0:02:36.74,0:02:37.16,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H00FFFFFF}says {\c&H00FFFFFF}American {\c&H8CFFFFFF}labs
+Dialogue: 0,0:02:37.16,0:02:37.50,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H00FFFFFF}says {\c&H00FFFFFF}American {\c&H00FFFFFF}labs
+Dialogue: 0,0:02:37.62,0:02:38.03,Cap,,0,0,0,,{\c&H00FFFFFF}carry {\c&H8CFFFFFF}extra {\c&H8CFFFFFF}training-data {\c&H8CFFFFFF}restrictions,
+Dialogue: 0,0:02:38.03,0:02:38.28,Cap,,0,0,0,,{\c&H00FFFFFF}carry {\c&H00FFFFFF}extra {\c&H8CFFFFFF}training-data {\c&H8CFFFFFF}restrictions,
+Dialogue: 0,0:02:38.28,0:02:38.76,Cap,,0,0,0,,{\c&H00FFFFFF}carry {\c&H00FFFFFF}extra {\c&H00FFFFFF}training-data {\c&H8CFFFFFF}restrictions,
+Dialogue: 0,0:02:38.76,0:02:39.29,Cap,,0,0,0,,{\c&H00FFFFFF}carry {\c&H00FFFFFF}extra {\c&H00FFFFFF}training-data {\c&H00FFFFFF}restrictions,
+Dialogue: 0,0:02:39.63,0:02:39.79,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H8CFFFFFF}US {\c&H8CFFFFFF}policy {\c&H8CFFFFFF}has
+Dialogue: 0,0:02:39.79,0:02:40.05,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H00FFFFFF}US {\c&H8CFFFFFF}policy {\c&H8CFFFFFF}has
+Dialogue: 0,0:02:40.05,0:02:40.51,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H00FFFFFF}US {\c&H00FFFFFF}policy {\c&H8CFFFFFF}has
+Dialogue: 0,0:02:40.51,0:02:40.71,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H00FFFFFF}US {\c&H00FFFFFF}policy {\c&H00FFFFFF}has
+Dialogue: 0,0:02:40.68,0:02:40.77,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H8CFFFFFF}change.
+Dialogue: 0,0:02:40.77,0:02:41.06,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H0051C4F5}change.
+Dialogue: 0,0:02:41.57,0:02:41.74,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H8CFFFFFF}release {\c&H8CFFFFFF}is {\c&H8CFFFFFF}Meta's
+Dialogue: 0,0:02:41.74,0:02:42.22,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}release {\c&H8CFFFFFF}is {\c&H8CFFFFFF}Meta's
+Dialogue: 0,0:02:42.22,0:02:42.31,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}release {\c&H00FFFFFF}is {\c&H8CFFFFFF}Meta's
+Dialogue: 0,0:02:42.31,0:02:42.62,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}release {\c&H00FFFFFF}is {\c&H00FFFFFF}Meta's
+Dialogue: 0,0:02:42.62,0:02:42.84,Cap,,0,0,0,,{\c&H0051C4F5}proof.
+Dialogue: 0,0:02:43.34,0:02:43.57,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}evidence {\c&H8CFFFFFF}is {\c&H8CFFFFFF}on
+Dialogue: 0,0:02:43.57,0:02:44.00,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}evidence {\c&H8CFFFFFF}is {\c&H8CFFFFFF}on
+Dialogue: 0,0:02:44.00,0:02:44.13,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}evidence {\c&H00FFFFFF}is {\c&H8CFFFFFF}on
+Dialogue: 0,0:02:44.13,0:02:44.33,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}evidence {\c&H00FFFFFF}is {\c&H00FFFFFF}on
+Dialogue: 0,0:02:44.21,0:02:44.26,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}model {\c&H8CFFFFFF}card.
+Dialogue: 0,0:02:44.26,0:02:44.53,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}model {\c&H8CFFFFFF}card.
+Dialogue: 0,0:02:44.53,0:02:44.80,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}model {\c&H0051C4F5}card.
+Dialogue: 0,0:02:45.19,0:02:45.33,Cap,,0,0,0,,{\c&H00FFFFFF}Read {\c&H8CFFFFFF}it {\c&H8CFFFFFF}carefully.
+Dialogue: 0,0:02:45.33,0:02:45.41,Cap,,0,0,0,,{\c&H00FFFFFF}Read {\c&H00FFFFFF}it {\c&H8CFFFFFF}carefully.
+Dialogue: 0,0:02:45.41,0:02:45.77,Cap,,0,0,0,,{\c&H00FFFFFF}Read {\c&H00FFFFFF}it {\c&H0051C4F5}carefully.
+Dialogue: 0,0:02:46.23,0:02:46.79,Cap,,0,0,0,,{\c&H0051C4F5}First, {\c&H8CFFFFFF}the {\c&H8CFFFFFF}context {\c&H8CFFFFFF}window.
+Dialogue: 0,0:02:46.79,0:02:46.86,Cap,,0,0,0,,{\c&H0051C4F5}First, {\c&H00FFFFFF}the {\c&H8CFFFFFF}context {\c&H8CFFFFFF}window.
+Dialogue: 0,0:02:46.86,0:02:47.28,Cap,,0,0,0,,{\c&H0051C4F5}First, {\c&H00FFFFFF}the {\c&H00FFFFFF}context {\c&H8CFFFFFF}window.
+Dialogue: 0,0:02:47.28,0:02:47.50,Cap,,0,0,0,,{\c&H0051C4F5}First, {\c&H00FFFFFF}the {\c&H00FFFFFF}context {\c&H00FFFFFF}window.
+Dialogue: 0,0:02:47.74,0:02:48.16,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H8CFFFFFF}how {\c&H8CFFFFFF}much {\c&H8CFFFFFF}text
+Dialogue: 0,0:02:48.16,0:02:48.26,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H00FFFFFF}how {\c&H8CFFFFFF}much {\c&H8CFFFFFF}text
+Dialogue: 0,0:02:48.26,0:02:48.55,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H00FFFFFF}how {\c&H00FFFFFF}much {\c&H8CFFFFFF}text
+Dialogue: 0,0:02:48.55,0:02:48.82,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H00FFFFFF}how {\c&H00FFFFFF}much {\c&H00FFFFFF}text
+Dialogue: 0,0:02:48.82,0:02:48.90,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}model {\c&H8CFFFFFF}can {\c&H8CFFFFFF}hold
+Dialogue: 0,0:02:48.90,0:02:49.27,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}model {\c&H8CFFFFFF}can {\c&H8CFFFFFF}hold
+Dialogue: 0,0:02:49.27,0:02:49.43,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}model {\c&H00FFFFFF}can {\c&H8CFFFFFF}hold
+Dialogue: 0,0:02:49.43,0:02:49.69,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}model {\c&H00FFFFFF}can {\c&H00FFFFFF}hold
+Dialogue: 0,0:02:49.69,0:02:49.77,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H8CFFFFFF}its {\c&H8CFFFFFF}head {\c&H8CFFFFFF}at
+Dialogue: 0,0:02:49.77,0:02:49.91,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}its {\c&H8CFFFFFF}head {\c&H8CFFFFFF}at
+Dialogue: 0,0:02:49.91,0:02:50.07,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}its {\c&H00FFFFFF}head {\c&H8CFFFFFF}at
+Dialogue: 0,0:02:50.07,0:02:50.27,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}its {\c&H00FFFFFF}head {\c&H00FFFFFF}at
+Dialogue: 0,0:02:50.23,0:02:50.89,Cap,,0,0,0,,{\c&H00FFFFFF}once: {\c&H8CFFFFFF}one {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}thirty-one
+Dialogue: 0,0:02:50.89,0:02:51.21,Cap,,0,0,0,,{\c&H00FFFFFF}once: {\c&H00FFFFFF}one {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}thirty-one
+Dialogue: 0,0:02:51.21,0:02:51.53,Cap,,0,0,0,,{\c&H00FFFFFF}once: {\c&H00FFFFFF}one {\c&H0051C4F5}hundred {\c&H8CFFFFFF}thirty-one
+Dialogue: 0,0:02:51.53,0:02:51.85,Cap,,0,0,0,,{\c&H00FFFFFF}once: {\c&H00FFFFFF}one {\c&H0051C4F5}hundred {\c&H00FFFFFF}thirty-one
+Dialogue: 0,0:02:51.85,0:02:52.17,Cap,,0,0,0,,{\c&H0051C4F5}thousand {\c&H8CFFFFFF}tokens, {\c&H8CFFFFFF}double {\c&H8CFFFFFF}that
+Dialogue: 0,0:02:52.17,0:02:52.90,Cap,,0,0,0,,{\c&H0051C4F5}thousand {\c&H00FFFFFF}tokens, {\c&H8CFFFFFF}double {\c&H8CFFFFFF}that
+Dialogue: 0,0:02:52.90,0:02:53.14,Cap,,0,0,0,,{\c&H0051C4F5}thousand {\c&H00FFFFFF}tokens, {\c&H00FFFFFF}double {\c&H8CFFFFFF}that
+Dialogue: 0,0:02:53.14,0:02:53.34,Cap,,0,0,0,,{\c&H0051C4F5}thousand {\c&H00FFFFFF}tokens, {\c&H00FFFFFF}double {\c&H00FFFFFF}that
+Dialogue: 0,0:02:53.30,0:02:53.38,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H8CFFFFFF}some {\c&H8CFFFFFF}configs.
+Dialogue: 0,0:02:53.38,0:02:53.60,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}some {\c&H8CFFFFFF}configs.
+Dialogue: 0,0:02:53.60,0:02:54.07,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}some {\c&H0051C4F5}configs.
+Dialogue: 0,0:02:54.57,0:02:55.16,Cap,,0,0,0,,{\c&H00FFFFFF}Multilingual, {\c&H8CFFFFFF}a {\c&H8CFFFFFF}hundred-plus {\c&H8CFFFFFF}languages.
+Dialogue: 0,0:02:55.16,0:02:55.44,Cap,,0,0,0,,{\c&H00FFFFFF}Multilingual, {\c&H00FFFFFF}a {\c&H8CFFFFFF}hundred-plus {\c&H8CFFFFFF}languages.
+Dialogue: 0,0:02:55.44,0:02:55.77,Cap,,0,0,0,,{\c&H00FFFFFF}Multilingual, {\c&H00FFFFFF}a {\c&H00FFFFFF}hundred-plus {\c&H8CFFFFFF}languages.
+Dialogue: 0,0:02:55.77,0:02:56.40,Cap,,0,0,0,,{\c&H00FFFFFF}Multilingual, {\c&H00FFFFFF}a {\c&H00FFFFFF}hundred-plus {\c&H0051C4F5}languages.
+Dialogue: 0,0:02:56.90,0:02:57.22,Cap,,0,0,0,,{\c&H00FFFFFF}Knowledge {\c&H8CFFFFFF}cutoff: {\c&H8CFFFFFF}January {\c&H8CFFFFFF}fourth.
+Dialogue: 0,0:02:57.22,0:02:57.86,Cap,,0,0,0,,{\c&H00FFFFFF}Knowledge {\c&H0051C4F5}cutoff: {\c&H8CFFFFFF}January {\c&H8CFFFFFF}fourth.
+Dialogue: 0,0:02:57.86,0:02:58.20,Cap,,0,0,0,,{\c&H00FFFFFF}Knowledge {\c&H0051C4F5}cutoff: {\c&H00FFFFFF}January {\c&H8CFFFFFF}fourth.
+Dialogue: 0,0:02:58.20,0:02:58.57,Cap,,0,0,0,,{\c&H00FFFFFF}Knowledge {\c&H0051C4F5}cutoff: {\c&H00FFFFFF}January {\c&H00FFFFFF}fourth.
+Dialogue: 0,0:02:59.00,0:02:59.10,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H8CFFFFFF}a {\c&H8CFFFFFF}stale {\c&H8CFFFFFF}model.
+Dialogue: 0,0:02:59.10,0:02:59.15,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}a {\c&H8CFFFFFF}stale {\c&H8CFFFFFF}model.
+Dialogue: 0,0:02:59.15,0:02:59.40,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}a {\c&H00FFFFFF}stale {\c&H8CFFFFFF}model.
+Dialogue: 0,0:02:59.40,0:02:59.64,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}a {\c&H00FFFFFF}stale {\c&H0051C4F5}model.
+Dialogue: 0,0:03:00.12,0:03:00.69,Cap,,0,0,0,,{\c&H0051C4F5}Second, {\c&H8CFFFFFF}the {\c&H8CFFFFFF}quant {\c&H8CFFFFFF}story.
+Dialogue: 0,0:03:00.69,0:03:00.77,Cap,,0,0,0,,{\c&H0051C4F5}Second, {\c&H00FFFFFF}the {\c&H8CFFFFFF}quant {\c&H8CFFFFFF}story.
+Dialogue: 0,0:03:00.77,0:03:00.99,Cap,,0,0,0,,{\c&H0051C4F5}Second, {\c&H00FFFFFF}the {\c&H00FFFFFF}quant {\c&H8CFFFFFF}story.
+Dialogue: 0,0:03:00.99,0:03:01.25,Cap,,0,0,0,,{\c&H0051C4F5}Second, {\c&H00FFFFFF}the {\c&H00FFFFFF}quant {\c&H00FFFFFF}story.
+Dialogue: 0,0:03:01.80,0:03:01.91,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H8CFFFFFF}is {\c&H8CFFFFFF}where {\c&H8CFFFFFF}local
+Dialogue: 0,0:03:01.91,0:03:02.05,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H8CFFFFFF}where {\c&H8CFFFFFF}local
+Dialogue: 0,0:03:02.05,0:03:02.20,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H00FFFFFF}where {\c&H8CFFFFFF}local
+Dialogue: 0,0:03:02.20,0:03:02.44,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H00FFFFFF}where {\c&H00FFFFFF}local
+Dialogue: 0,0:03:02.44,0:03:02.77,Cap,,0,0,0,,{\c&H00FFFFFF}models {\c&H8CFFFFFF}fall {\c&H8CFFFFFF}apart.
+Dialogue: 0,0:03:02.77,0:03:02.95,Cap,,0,0,0,,{\c&H00FFFFFF}models {\c&H00FFFFFF}fall {\c&H8CFFFFFF}apart.
+Dialogue: 0,0:03:02.95,0:03:03.32,Cap,,0,0,0,,{\c&H00FFFFFF}models {\c&H00FFFFFF}fall {\c&H0051C4F5}apart.
+Dialogue: 0,0:03:03.72,0:03:03.88,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H8CFFFFFF}says {\c&H8CFFFFFF}the {\c&H8CFFFFFF}four-bit
+Dialogue: 0,0:03:03.88,0:03:04.14,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}says {\c&H8CFFFFFF}the {\c&H8CFFFFFF}four-bit
+Dialogue: 0,0:03:04.14,0:03:04.22,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}says {\c&H00FFFFFF}the {\c&H8CFFFFFF}four-bit
+Dialogue: 0,0:03:04.22,0:03:04.70,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}says {\c&H00FFFFFF}the {\c&H00FFFFFF}four-bit
+Dialogue: 0,0:03:04.70,0:03:05.25,Cap,,0,0,0,,{\c&H00FFFFFF}compression {\c&H8CFFFFFF}loses {\c&H8CFFFFFF}about {\c&H8CFFFFFF}one
+Dialogue: 0,0:03:05.25,0:03:05.59,Cap,,0,0,0,,{\c&H00FFFFFF}compression {\c&H00FFFFFF}loses {\c&H8CFFFFFF}about {\c&H8CFFFFFF}one
+Dialogue: 0,0:03:05.59,0:03:05.97,Cap,,0,0,0,,{\c&H00FFFFFF}compression {\c&H00FFFFFF}loses {\c&H00FFFFFF}about {\c&H8CFFFFFF}one
+Dialogue: 0,0:03:05.97,0:03:06.17,Cap,,0,0,0,,{\c&H00FFFFFF}compression {\c&H00FFFFFF}loses {\c&H00FFFFFF}about {\c&H00FFFFFF}one
+Dialogue: 0,0:03:06.00,0:03:06.20,Cap,,0,0,0,,{\c&H0051C4F5}percent
+Dialogue: 0,0:03:06.63,0:03:06.93,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H8CFFFFFF}average {\c&H8CFFFFFF}across {\c&H8CFFFFFF}fifteen
+Dialogue: 0,0:03:06.93,0:03:07.19,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}average {\c&H8CFFFFFF}across {\c&H8CFFFFFF}fifteen
+Dialogue: 0,0:03:07.19,0:03:07.51,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}average {\c&H00FFFFFF}across {\c&H8CFFFFFF}fifteen
+Dialogue: 0,0:03:07.51,0:03:07.80,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}average {\c&H00FFFFFF}across {\c&H0051C4F5}fifteen
+Dialogue: 0,0:03:07.83,0:03:08.33,Cap,,0,0,0,,{\c&H0051C4F5}benchmarks.
+Dialogue: 0,0:03:08.72,0:03:08.77,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H8CFFFFFF}percent.
+Dialogue: 0,0:03:08.77,0:03:08.97,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H0051C4F5}percent.
+Dialogue: 0,0:03:09.68,0:03:09.78,Cap,,0,0,0,,{\c&H00FFFFFF}For {\c&H8CFFFFFF}a {\c&H8CFFFFFF}thirty-billion {\c&H8CFFFFFF}agent
+Dialogue: 0,0:03:09.78,0:03:09.84,Cap,,0,0,0,,{\c&H00FFFFFF}For {\c&H00FFFFFF}a {\c&H8CFFFFFF}thirty-billion {\c&H8CFFFFFF}agent
+Dialogue: 0,0:03:09.84,0:03:10.48,Cap,,0,0,0,,{\c&H00FFFFFF}For {\c&H00FFFFFF}a {\c&H00FFFFFF}thirty-billion {\c&H8CFFFFFF}agent
+Dialogue: 0,0:03:10.48,0:03:10.76,Cap,,0,0,0,,{\c&H00FFFFFF}For {\c&H00FFFFFF}a {\c&H00FFFFFF}thirty-billion {\c&H00FFFFFF}agent
+Dialogue: 0,0:03:10.80,0:03:10.90,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H8CFFFFFF}a {\c&H8CFFFFFF}gaming {\c&H8CFFFFFF}card,
+Dialogue: 0,0:03:10.90,0:03:10.96,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}a {\c&H8CFFFFFF}gaming {\c&H8CFFFFFF}card,
+Dialogue: 0,0:03:10.96,0:03:11.28,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}a {\c&H00FFFFFF}gaming {\c&H8CFFFFFF}card,
+Dialogue: 0,0:03:11.28,0:03:11.57,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}a {\c&H00FFFFFF}gaming {\c&H0051C4F5}card,
+Dialogue: 0,0:03:11.93,0:03:12.09,Cap,,0,0,0,,{\c&H00FFFFFF}that's {\c&H8CFFFFFF}the {\c&H8CFFFFFF}trade {\c&H8CFFFFFF}everyone
+Dialogue: 0,0:03:12.09,0:03:12.23,Cap,,0,0,0,,{\c&H00FFFFFF}that's {\c&H00FFFFFF}the {\c&H8CFFFFFF}trade {\c&H8CFFFFFF}everyone
+Dialogue: 0,0:03:12.23,0:03:12.73,Cap,,0,0,0,,{\c&H00FFFFFF}that's {\c&H00FFFFFF}the {\c&H00FFFFFF}trade {\c&H8CFFFFFF}everyone
+Dialogue: 0,0:03:12.73,0:03:13.02,Cap,,0,0,0,,{\c&H00FFFFFF}that's {\c&H00FFFFFF}the {\c&H00FFFFFF}trade {\c&H0051C4F5}everyone
+Dialogue: 0,0:03:13.07,0:03:13.21,Cap,,0,0,0,,{\c&H00FFFFFF}has {\c&H8CFFFFFF}been {\c&H8CFFFFFF}waiting {\c&H8CFFFFFF}for.
+Dialogue: 0,0:03:13.21,0:03:13.35,Cap,,0,0,0,,{\c&H00FFFFFF}has {\c&H00FFFFFF}been {\c&H8CFFFFFF}waiting {\c&H8CFFFFFF}for.
+Dialogue: 0,0:03:13.35,0:03:13.68,Cap,,0,0,0,,{\c&H00FFFFFF}has {\c&H00FFFFFF}been {\c&H00FFFFFF}waiting {\c&H8CFFFFFF}for.
+Dialogue: 0,0:03:13.68,0:03:13.88,Cap,,0,0,0,,{\c&H00FFFFFF}has {\c&H00FFFFFF}been {\c&H00FFFFFF}waiting {\c&H00FFFFFF}for.
+Dialogue: 0,0:03:14.33,0:03:14.90,Cap,,0,0,0,,{\c&H00FFFFFF}Third, {\c&H8CFFFFFF}the {\c&H8CFFFFFF}license.
+Dialogue: 0,0:03:14.90,0:03:14.98,Cap,,0,0,0,,{\c&H00FFFFFF}Third, {\c&H00FFFFFF}the {\c&H8CFFFFFF}license.
+Dialogue: 0,0:03:14.98,0:03:15.33,Cap,,0,0,0,,{\c&H00FFFFFF}Third, {\c&H00FFFFFF}the {\c&H0051C4F5}license.
+Dialogue: 0,0:03:15.86,0:03:16.26,Cap,,0,0,0,,{\c&H00FFFFFF}Apache {\c&H8CFFFFFF}2.0.
+Dialogue: 0,0:03:16.26,0:03:16.89,Cap,,0,0,0,,{\c&H00FFFFFF}Apache {\c&H0051C4F5}2.0.
+Dialogue: 0,0:03:17.38,0:03:17.59,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H8CFFFFFF}Meta's {\c&H8CFFFFFF}usual {\c&H8CFFFFFF}restricted
+Dialogue: 0,0:03:17.59,0:03:17.93,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}Meta's {\c&H8CFFFFFF}usual {\c&H8CFFFFFF}restricted
+Dialogue: 0,0:03:17.93,0:03:18.25,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}Meta's {\c&H00FFFFFF}usual {\c&H8CFFFFFF}restricted
+Dialogue: 0,0:03:18.25,0:03:18.73,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}Meta's {\c&H00FFFFFF}usual {\c&H00FFFFFF}restricted
+Dialogue: 0,0:03:18.73,0:03:19.13,Cap,,0,0,0,,{\c&H00FFFFFF}community {\c&H8CFFFFFF}license.
+Dialogue: 0,0:03:19.13,0:03:19.47,Cap,,0,0,0,,{\c&H00FFFFFF}community {\c&H0051C4F5}license.
+Dialogue: 0,0:03:19.95,0:03:20.17,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H8CFFFFFF}one {\c&H8CFFFFFF}says:
+Dialogue: 0,0:03:20.17,0:03:20.34,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}one {\c&H8CFFFFFF}says:
+Dialogue: 0,0:03:20.34,0:03:20.56,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}one {\c&H0051C4F5}says:
+Dialogue: 0,0:03:21.07,0:03:21.25,Cap,,0,0,0,,{\c&H00FFFFFF}use {\c&H8CFFFFFF}it {\c&H8CFFFFFF}commercially,
+Dialogue: 0,0:03:21.25,0:03:21.38,Cap,,0,0,0,,{\c&H00FFFFFF}use {\c&H00FFFFFF}it {\c&H8CFFFFFF}commercially,
+Dialogue: 0,0:03:21.38,0:03:21.84,Cap,,0,0,0,,{\c&H00FFFFFF}use {\c&H00FFFFFF}it {\c&H00FFFFFF}commercially,
+Dialogue: 0,0:03:22.12,0:03:22.49,Cap,,0,0,0,,{\c&H00FFFFFF}modify {\c&H8CFFFFFF}it, {\c&H8CFFFFFF}no {\c&H8CFFFFFF}strings
+Dialogue: 0,0:03:22.49,0:03:22.92,Cap,,0,0,0,,{\c&H00FFFFFF}modify {\c&H00FFFFFF}it, {\c&H8CFFFFFF}no {\c&H8CFFFFFF}strings
+Dialogue: 0,0:03:22.92,0:03:23.08,Cap,,0,0,0,,{\c&H00FFFFFF}modify {\c&H00FFFFFF}it, {\c&H00FFFFFF}no {\c&H8CFFFFFF}strings
+Dialogue: 0,0:03:23.08,0:03:23.40,Cap,,0,0,0,,{\c&H00FFFFFF}modify {\c&H00FFFFFF}it, {\c&H00FFFFFF}no {\c&H00FFFFFF}strings
+Dialogue: 0,0:03:23.40,0:03:23.85,Cap,,0,0,0,,{\c&H0051C4F5}attached.
+Dialogue: 0,0:03:24.27,0:03:24.38,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H8CFFFFFF}made {\c&H8CFFFFFF}a {\c&H8CFFFFFF}point
+Dialogue: 0,0:03:24.38,0:03:24.52,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}made {\c&H8CFFFFFF}a {\c&H8CFFFFFF}point
+Dialogue: 0,0:03:24.52,0:03:24.54,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}made {\c&H00FFFFFF}a {\c&H8CFFFFFF}point
+Dialogue: 0,0:03:24.54,0:03:24.83,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}made {\c&H00FFFFFF}a {\c&H00FFFFFF}point
+Dialogue: 0,0:03:24.83,0:03:25.03,Cap,,0,0,0,,{\c&H00FFFFFF}here.
+Dialogue: 0,0:03:25.41,0:03:25.50,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}if {\c&H8CFFFFFF}you {\c&H8CFFFFFF}want
+Dialogue: 0,0:03:25.50,0:03:25.63,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}if {\c&H8CFFFFFF}you {\c&H8CFFFFFF}want
+Dialogue: 0,0:03:25.63,0:03:25.71,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}if {\c&H00FFFFFF}you {\c&H8CFFFFFF}want
+Dialogue: 0,0:03:25.71,0:03:25.91,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}if {\c&H00FFFFFF}you {\c&H00FFFFFF}want
+Dialogue: 0,0:03:25.90,0:03:26.11,Cap,,0,0,0,,{\c&H00FFFFFF}these {\c&H8CFFFFFF}breakdowns {\c&H8CFFFFFF}the {\c&H8CFFFFFF}day
+Dialogue: 0,0:03:26.11,0:03:26.59,Cap,,0,0,0,,{\c&H00FFFFFF}these {\c&H00FFFFFF}breakdowns {\c&H8CFFFFFF}the {\c&H8CFFFFFF}day
+Dialogue: 0,0:03:26.59,0:03:26.69,Cap,,0,0,0,,{\c&H00FFFFFF}these {\c&H00FFFFFF}breakdowns {\c&H00FFFFFF}the {\c&H8CFFFFFF}day
+Dialogue: 0,0:03:26.69,0:03:26.89,Cap,,0,0,0,,{\c&H00FFFFFF}these {\c&H00FFFFFF}breakdowns {\c&H00FFFFFF}the {\c&H0051C4F5}day
+Dialogue: 0,0:03:26.85,0:03:26.87,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H8CFFFFFF}model {\c&H8CFFFFFF}drops,
+Dialogue: 0,0:03:26.87,0:03:27.25,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}model {\c&H8CFFFFFF}drops,
+Dialogue: 0,0:03:27.25,0:03:27.65,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}model {\c&H00FFFFFF}drops,
+Dialogue: 0,0:03:27.96,0:03:28.05,Cap,,0,0,0,,{\c&H00FFFFFF}hit {\c&H8CFFFFFF}subscribe.
+Dialogue: 0,0:03:28.05,0:03:28.63,Cap,,0,0,0,,{\c&H00FFFFFF}hit {\c&H0051C4F5}subscribe.
+Dialogue: 0,0:03:29.02,0:03:29.27,Cap,,0,0,0,,{\c&H00FFFFFF}Verdict {\c&H8CFFFFFF}in {\c&H8CFFFFFF}the {\c&H8CFFFFFF}first
+Dialogue: 0,0:03:29.27,0:03:29.35,Cap,,0,0,0,,{\c&H00FFFFFF}Verdict {\c&H00FFFFFF}in {\c&H8CFFFFFF}the {\c&H8CFFFFFF}first
+Dialogue: 0,0:03:29.35,0:03:29.48,Cap,,0,0,0,,{\c&H00FFFFFF}Verdict {\c&H00FFFFFF}in {\c&H00FFFFFF}the {\c&H8CFFFFFF}first
+Dialogue: 0,0:03:29.48,0:03:29.82,Cap,,0,0,0,,{\c&H00FFFFFF}Verdict {\c&H00FFFFFF}in {\c&H00FFFFFF}the {\c&H0051C4F5}first
+Dialogue: 0,0:03:29.82,0:03:30.00,Cap,,0,0,0,,{\c&H0051C4F5}three {\c&H8CFFFFFF}minutes, {\c&H8CFFFFFF}every {\c&H8CFFFFFF}time.
+Dialogue: 0,0:03:30.00,0:03:30.69,Cap,,0,0,0,,{\c&H0051C4F5}three {\c&H00FFFFFF}minutes, {\c&H8CFFFFFF}every {\c&H8CFFFFFF}time.
+Dialogue: 0,0:03:30.69,0:03:30.86,Cap,,0,0,0,,{\c&H0051C4F5}three {\c&H00FFFFFF}minutes, {\c&H00FFFFFF}every {\c&H8CFFFFFF}time.
+Dialogue: 0,0:03:30.86,0:03:31.06,Cap,,0,0,0,,{\c&H0051C4F5}three {\c&H00FFFFFF}minutes, {\c&H00FFFFFF}every {\c&H00FFFFFF}time.
+Dialogue: 0,0:03:31.50,0:03:31.58,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}weights {\c&H8CFFFFFF}are {\c&H8CFFFFFF}live
+Dialogue: 0,0:03:31.58,0:03:31.82,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}weights {\c&H8CFFFFFF}are {\c&H8CFFFFFF}live
+Dialogue: 0,0:03:31.82,0:03:31.91,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}weights {\c&H00FFFFFF}are {\c&H8CFFFFFF}live
+Dialogue: 0,0:03:31.91,0:03:32.21,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}weights {\c&H00FFFFFF}are {\c&H00FFFFFF}live
+Dialogue: 0,0:03:32.21,0:03:32.31,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H8CFFFFFF}Hugging {\c&H8CFFFFFF}Face {\c&H8CFFFFFF}today.
+Dialogue: 0,0:03:32.31,0:03:32.63,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}Hugging {\c&H8CFFFFFF}Face {\c&H8CFFFFFF}today.
+Dialogue: 0,0:03:32.63,0:03:32.87,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}Hugging {\c&H00FFFFFF}Face {\c&H8CFFFFFF}today.
+Dialogue: 0,0:03:32.87,0:03:33.12,Cap,,0,0,0,,{\c&H00FFFFFF}on {\c&H00FFFFFF}Hugging {\c&H00FFFFFF}Face {\c&H0051C4F5}today.
+Dialogue: 0,0:03:33.57,0:03:34.23,Cap,,0,0,0,,{\c&H00FFFFFF}vLLM {\c&H8CFFFFFF}and {\c&H8CFFFFFF}SGLang {\c&H8CFFFFFF}support
+Dialogue: 0,0:03:34.23,0:03:34.39,Cap,,0,0,0,,{\c&H00FFFFFF}vLLM {\c&H00FFFFFF}and {\c&H8CFFFFFF}SGLang {\c&H8CFFFFFF}support
+Dialogue: 0,0:03:34.39,0:03:34.89,Cap,,0,0,0,,{\c&H00FFFFFF}vLLM {\c&H00FFFFFF}and {\c&H00FFFFFF}SGLang {\c&H8CFFFFFF}support
+Dialogue: 0,0:03:34.89,0:03:35.27,Cap,,0,0,0,,{\c&H00FFFFFF}vLLM {\c&H00FFFFFF}and {\c&H00FFFFFF}SGLang {\c&H00FFFFFF}support
+Dialogue: 0,0:03:35.27,0:03:35.36,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H8CFFFFFF}day {\c&H8CFFFFFF}one.
+Dialogue: 0,0:03:35.36,0:03:35.58,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H0051C4F5}day {\c&H8CFFFFFF}one.
+Dialogue: 0,0:03:35.58,0:03:35.78,Cap,,0,0,0,,{\c&H00FFFFFF}it {\c&H0051C4F5}day {\c&H00FFFFFF}one.
+Dialogue: 0,0:03:36.08,0:03:37.52,Cap,,0,0,0,,{\c&H00FFFFFF}llama.cpp, {\c&H8CFFFFFF}MLX, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}ExecuTorch
+Dialogue: 0,0:03:37.52,0:03:38.25,Cap,,0,0,0,,{\c&H00FFFFFF}llama.cpp, {\c&H00FFFFFF}MLX, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}ExecuTorch
+Dialogue: 0,0:03:38.25,0:03:38.47,Cap,,0,0,0,,{\c&H00FFFFFF}llama.cpp, {\c&H00FFFFFF}MLX, {\c&H00FFFFFF}and {\c&H8CFFFFFF}ExecuTorch
+Dialogue: 0,0:03:38.47,0:03:39.19,Cap,,0,0,0,,{\c&H00FFFFFF}llama.cpp, {\c&H00FFFFFF}MLX, {\c&H00FFFFFF}and {\c&H00FFFFFF}ExecuTorch
+Dialogue: 0,0:03:39.21,0:03:39.84,Cap,,0,0,0,,{\c&H00FFFFFF}integrations {\c&H8CFFFFFF}land {\c&H8CFFFFFF}in {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:39.84,0:03:40.08,Cap,,0,0,0,,{\c&H00FFFFFF}integrations {\c&H00FFFFFF}land {\c&H8CFFFFFF}in {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:40.08,0:03:40.11,Cap,,0,0,0,,{\c&H00FFFFFF}integrations {\c&H00FFFFFF}land {\c&H00FFFFFF}in {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:40.11,0:03:40.31,Cap,,0,0,0,,{\c&H00FFFFFF}integrations {\c&H00FFFFFF}land {\c&H00FFFFFF}in {\c&H00FFFFFF}the
+Dialogue: 0,0:03:40.19,0:03:40.48,Cap,,0,0,0,,{\c&H00FFFFFF}coming {\c&H8CFFFFFF}days, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}Ollama
+Dialogue: 0,0:03:40.48,0:03:41.06,Cap,,0,0,0,,{\c&H00FFFFFF}coming {\c&H0051C4F5}days, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}Ollama
+Dialogue: 0,0:03:41.06,0:03:41.36,Cap,,0,0,0,,{\c&H00FFFFFF}coming {\c&H0051C4F5}days, {\c&H00FFFFFF}and {\c&H8CFFFFFF}Ollama
+Dialogue: 0,0:03:41.36,0:03:41.72,Cap,,0,0,0,,{\c&H00FFFFFF}coming {\c&H0051C4F5}days, {\c&H00FFFFFF}and {\c&H00FFFFFF}Ollama
+Dialogue: 0,0:03:41.86,0:03:42.08,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H8CFFFFFF}LM {\c&H8CFFFFFF}Studio {\c&H8CFFFFFF}are
+Dialogue: 0,0:03:42.08,0:03:42.36,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H00FFFFFF}LM {\c&H8CFFFFFF}Studio {\c&H8CFFFFFF}are
+Dialogue: 0,0:03:42.36,0:03:42.92,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H00FFFFFF}LM {\c&H00FFFFFF}Studio {\c&H8CFFFFFF}are
+Dialogue: 0,0:03:42.92,0:03:43.12,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H00FFFFFF}LM {\c&H00FFFFFF}Studio {\c&H00FFFFFF}are
+Dialogue: 0,0:03:42.98,0:03:43.29,Cap,,0,0,0,,{\c&H00FFFFFF}coming {\c&H8CFFFFFF}too.
+Dialogue: 0,0:03:43.29,0:03:43.55,Cap,,0,0,0,,{\c&H00FFFFFF}coming {\c&H00FFFFFF}too.
+Dialogue: 0,0:03:43.88,0:03:44.03,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H8CFFFFFF}tonight {\c&H8CFFFFFF}you {\c&H8CFFFFFF}can
+Dialogue: 0,0:03:44.03,0:03:44.27,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}tonight {\c&H8CFFFFFF}you {\c&H8CFFFFFF}can
+Dialogue: 0,0:03:44.27,0:03:44.35,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}tonight {\c&H00FFFFFF}you {\c&H8CFFFFFF}can
+Dialogue: 0,0:03:44.35,0:03:44.55,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}tonight {\c&H00FFFFFF}you {\c&H00FFFFFF}can
+Dialogue: 0,0:03:44.51,0:03:44.90,Cap,,0,0,0,,{\c&H00FFFFFF}download {\c&H8CFFFFFF}it, {\c&H8CFFFFFF}but {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:44.90,0:03:45.23,Cap,,0,0,0,,{\c&H00FFFFFF}download {\c&H00FFFFFF}it, {\c&H8CFFFFFF}but {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:45.23,0:03:45.38,Cap,,0,0,0,,{\c&H00FFFFFF}download {\c&H00FFFFFF}it, {\c&H00FFFFFF}but {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:45.38,0:03:45.58,Cap,,0,0,0,,{\c&H00FFFFFF}download {\c&H00FFFFFF}it, {\c&H00FFFFFF}but {\c&H00FFFFFF}the
+Dialogue: 0,0:03:45.47,0:03:45.81,Cap,,0,0,0,,{\c&H00FFFFFF}one-click {\c&H8CFFFFFF}tools {\c&H8CFFFFFF}are {\c&H8CFFFFFF}days
+Dialogue: 0,0:03:45.81,0:03:46.12,Cap,,0,0,0,,{\c&H00FFFFFF}one-click {\c&H00FFFFFF}tools {\c&H8CFFFFFF}are {\c&H8CFFFFFF}days
+Dialogue: 0,0:03:46.12,0:03:46.20,Cap,,0,0,0,,{\c&H00FFFFFF}one-click {\c&H00FFFFFF}tools {\c&H00FFFFFF}are {\c&H8CFFFFFF}days
+Dialogue: 0,0:03:46.20,0:03:46.41,Cap,,0,0,0,,{\c&H00FFFFFF}one-click {\c&H00FFFFFF}tools {\c&H00FFFFFF}are {\c&H0051C4F5}days
+Dialogue: 0,0:03:46.44,0:03:46.85,Cap,,0,0,0,,{\c&H0051C4F5}behind.
+Dialogue: 0,0:03:47.24,0:03:47.32,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}context {\c&H8CFFFFFF}around
+Dialogue: 0,0:03:47.32,0:03:47.40,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}context {\c&H8CFFFFFF}around
+Dialogue: 0,0:03:47.40,0:03:47.95,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}context {\c&H8CFFFFFF}around
+Dialogue: 0,0:03:47.95,0:03:48.19,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}context {\c&H00FFFFFF}around
+Dialogue: 0,0:03:48.19,0:03:48.28,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}launch {\c&H8CFFFFFF}matters.
+Dialogue: 0,0:03:48.28,0:03:48.51,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}launch {\c&H8CFFFFFF}matters.
+Dialogue: 0,0:03:48.51,0:03:48.89,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}launch {\c&H0051C4F5}matters.
+Dialogue: 0,0:03:49.41,0:03:49.55,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H8CFFFFFF}Reuters, {\c&H8CFFFFFF}Zuckerberg {\c&H8CFFFFFF}is
+Dialogue: 0,0:03:49.55,0:03:50.20,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}Reuters, {\c&H8CFFFFFF}Zuckerberg {\c&H8CFFFFFF}is
+Dialogue: 0,0:03:50.20,0:03:50.63,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}Reuters, {\c&H00FFFFFF}Zuckerberg {\c&H8CFFFFFF}is
+Dialogue: 0,0:03:50.63,0:03:50.83,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}Reuters, {\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}is
+Dialogue: 0,0:03:50.77,0:03:51.18,Cap,,0,0,0,,{\c&H00FFFFFF}pushing {\c&H8CFFFFFF}Washington {\c&H8CFFFFFF}to {\c&H8CFFFFFF}ease
+Dialogue: 0,0:03:51.18,0:03:51.64,Cap,,0,0,0,,{\c&H00FFFFFF}pushing {\c&H00FFFFFF}Washington {\c&H8CFFFFFF}to {\c&H8CFFFFFF}ease
+Dialogue: 0,0:03:51.64,0:03:51.88,Cap,,0,0,0,,{\c&H00FFFFFF}pushing {\c&H00FFFFFF}Washington {\c&H00FFFFFF}to {\c&H8CFFFFFF}ease
+Dialogue: 0,0:03:51.88,0:03:52.08,Cap,,0,0,0,,{\c&H00FFFFFF}pushing {\c&H00FFFFFF}Washington {\c&H00FFFFFF}to {\c&H00FFFFFF}ease
+Dialogue: 0,0:03:51.98,0:03:52.52,Cap,,0,0,0,,{\c&H00FFFFFF}restrictions {\c&H8CFFFFFF}on {\c&H8CFFFFFF}open {\c&H8CFFFFFF}models,
+Dialogue: 0,0:03:52.52,0:03:52.77,Cap,,0,0,0,,{\c&H00FFFFFF}restrictions {\c&H00FFFFFF}on {\c&H8CFFFFFF}open {\c&H8CFFFFFF}models,
+Dialogue: 0,0:03:52.77,0:03:52.94,Cap,,0,0,0,,{\c&H00FFFFFF}restrictions {\c&H00FFFFFF}on {\c&H00FFFFFF}open {\c&H8CFFFFFF}models,
+Dialogue: 0,0:03:52.94,0:03:53.23,Cap,,0,0,0,,{\c&H00FFFFFF}restrictions {\c&H00FFFFFF}on {\c&H00FFFFFF}open {\c&H0051C4F5}models,
+Dialogue: 0,0:03:53.81,0:03:54.13,Cap,,0,0,0,,{\c&H00FFFFFF}arguing {\c&H8CFFFFFF}American {\c&H8CFFFFFF}labs {\c&H8CFFFFFF}are
+Dialogue: 0,0:03:54.13,0:03:54.55,Cap,,0,0,0,,{\c&H00FFFFFF}arguing {\c&H00FFFFFF}American {\c&H8CFFFFFF}labs {\c&H8CFFFFFF}are
+Dialogue: 0,0:03:54.55,0:03:54.89,Cap,,0,0,0,,{\c&H00FFFFFF}arguing {\c&H00FFFFFF}American {\c&H00FFFFFF}labs {\c&H8CFFFFFF}are
+Dialogue: 0,0:03:54.89,0:03:55.09,Cap,,0,0,0,,{\c&H00FFFFFF}arguing {\c&H00FFFFFF}American {\c&H00FFFFFF}labs {\c&H00FFFFFF}are
+Dialogue: 0,0:03:55.01,0:03:55.53,Cap,,0,0,0,,{\c&H00FFFFFF}handcuffed {\c&H8CFFFFFF}compared {\c&H8CFFFFFF}to {\c&H8CFFFFFF}Chinese
+Dialogue: 0,0:03:55.53,0:03:55.90,Cap,,0,0,0,,{\c&H00FFFFFF}handcuffed {\c&H00FFFFFF}compared {\c&H8CFFFFFF}to {\c&H8CFFFFFF}Chinese
+Dialogue: 0,0:03:55.90,0:03:55.98,Cap,,0,0,0,,{\c&H00FFFFFF}handcuffed {\c&H00FFFFFF}compared {\c&H00FFFFFF}to {\c&H8CFFFFFF}Chinese
+Dialogue: 0,0:03:55.98,0:03:56.28,Cap,,0,0,0,,{\c&H00FFFFFF}handcuffed {\c&H00FFFFFF}compared {\c&H00FFFFFF}to {\c&H00FFFFFF}Chinese
+Dialogue: 0,0:03:56.38,0:03:56.60,Cap,,0,0,0,,{\c&H0051C4F5}ones.
+Dialogue: 0,0:03:57.12,0:03:57.29,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H8CFFFFFF}own {\c&H8CFFFFFF}shares {\c&H8CFFFFFF}moved
+Dialogue: 0,0:03:57.29,0:03:57.50,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H00FFFFFF}own {\c&H8CFFFFFF}shares {\c&H8CFFFFFF}moved
+Dialogue: 0,0:03:57.50,0:03:57.84,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H00FFFFFF}own {\c&H00FFFFFF}shares {\c&H8CFFFFFF}moved
+Dialogue: 0,0:03:57.84,0:03:58.15,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H00FFFFFF}own {\c&H00FFFFFF}shares {\c&H00FFFFFF}moved
+Dialogue: 0,0:03:58.15,0:03:58.39,Cap,,0,0,0,,{\c&H00FFFFFF}up {\c&H8CFFFFFF}one {\c&H8CFFFFFF}percent {\c&H8CFFFFFF}premarket.
+Dialogue: 0,0:03:58.39,0:03:58.62,Cap,,0,0,0,,{\c&H00FFFFFF}up {\c&H00FFFFFF}one {\c&H8CFFFFFF}percent {\c&H8CFFFFFF}premarket.
+Dialogue: 0,0:03:58.62,0:03:58.97,Cap,,0,0,0,,{\c&H00FFFFFF}up {\c&H00FFFFFF}one {\c&H0051C4F5}percent {\c&H8CFFFFFF}premarket.
+Dialogue: 0,0:03:58.97,0:03:59.46,Cap,,0,0,0,,{\c&H00FFFFFF}up {\c&H00FFFFFF}one {\c&H0051C4F5}percent {\c&H00FFFFFF}premarket.
+Dialogue: 0,0:03:59.85,0:03:59.93,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}in {\c&H8CFFFFFF}case {\c&H8CFFFFFF}you
+Dialogue: 0,0:03:59.93,0:04:00.01,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}in {\c&H8CFFFFFF}case {\c&H8CFFFFFF}you
+Dialogue: 0,0:04:00.01,0:04:00.31,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}in {\c&H00FFFFFF}case {\c&H8CFFFFFF}you
+Dialogue: 0,0:04:00.31,0:04:00.51,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}in {\c&H00FFFFFF}case {\c&H00FFFFFF}you
+Dialogue: 0,0:04:00.38,0:04:00.65,Cap,,0,0,0,,{\c&H00FFFFFF}missed {\c&H8CFFFFFF}it:
+Dialogue: 0,0:04:00.65,0:04:00.85,Cap,,0,0,0,,{\c&H00FFFFFF}missed {\c&H00FFFFFF}it:
+Dialogue: 0,0:04:01.20,0:04:01.52,Cap,,0,0,0,,{\c&H00FFFFFF}Hugging {\c&H8CFFFFFF}Face, {\c&H8CFFFFFF}where {\c&H8CFFFFFF}these
+Dialogue: 0,0:04:01.52,0:04:02.07,Cap,,0,0,0,,{\c&H00FFFFFF}Hugging {\c&H00FFFFFF}Face, {\c&H8CFFFFFF}where {\c&H8CFFFFFF}these
+Dialogue: 0,0:04:02.07,0:04:02.16,Cap,,0,0,0,,{\c&H00FFFFFF}Hugging {\c&H00FFFFFF}Face, {\c&H00FFFFFF}where {\c&H8CFFFFFF}these
+Dialogue: 0,0:04:02.16,0:04:02.36,Cap,,0,0,0,,{\c&H00FFFFFF}Hugging {\c&H00FFFFFF}Face, {\c&H00FFFFFF}where {\c&H00FFFFFF}these
+Dialogue: 0,0:04:02.40,0:04:02.66,Cap,,0,0,0,,{\c&H00FFFFFF}weights {\c&H8CFFFFFF}live, {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:02.66,0:04:03.22,Cap,,0,0,0,,{\c&H00FFFFFF}weights {\c&H0051C4F5}live, {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:03.22,0:04:03.30,Cap,,0,0,0,,{\c&H00FFFFFF}weights {\c&H0051C4F5}live, {\c&H00FFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:03.30,0:04:03.50,Cap,,0,0,0,,{\c&H00FFFFFF}weights {\c&H0051C4F5}live, {\c&H00FFFFFF}is {\c&H00FFFFFF}the
+Dialogue: 0,0:04:03.38,0:04:03.86,Cap,,0,0,0,,{\c&H00FFFFFF}platform {\c&H8CFFFFFF}caught {\c&H8CFFFFFF}in {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:03.86,0:04:04.19,Cap,,0,0,0,,{\c&H00FFFFFF}platform {\c&H00FFFFFF}caught {\c&H8CFFFFFF}in {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:04.19,0:04:04.27,Cap,,0,0,0,,{\c&H00FFFFFF}platform {\c&H00FFFFFF}caught {\c&H00FFFFFF}in {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:04.27,0:04:04.47,Cap,,0,0,0,,{\c&H00FFFFFF}platform {\c&H00FFFFFF}caught {\c&H00FFFFFF}in {\c&H00FFFFFF}the
+Dialogue: 0,0:04:04.41,0:04:04.91,Cap,,0,0,0,,{\c&H00FFFFFF}rogue-agent {\c&H8CFFFFFF}breach {\c&H8CFFFFFF}we {\c&H8CFFFFFF}broke
+Dialogue: 0,0:04:04.91,0:04:05.29,Cap,,0,0,0,,{\c&H00FFFFFF}rogue-agent {\c&H00FFFFFF}breach {\c&H8CFFFFFF}we {\c&H8CFFFFFF}broke
+Dialogue: 0,0:04:05.29,0:04:05.46,Cap,,0,0,0,,{\c&H00FFFFFF}rogue-agent {\c&H00FFFFFF}breach {\c&H00FFFFFF}we {\c&H8CFFFFFF}broke
+Dialogue: 0,0:04:05.46,0:04:05.71,Cap,,0,0,0,,{\c&H00FFFFFF}rogue-agent {\c&H00FFFFFF}breach {\c&H00FFFFFF}we {\c&H00FFFFFF}broke
+Dialogue: 0,0:04:05.71,0:04:05.95,Cap,,0,0,0,,{\c&H00FFFFFF}down {\c&H8CFFFFFF}in {\c&H8CFFFFFF}detail.
+Dialogue: 0,0:04:05.95,0:04:06.03,Cap,,0,0,0,,{\c&H00FFFFFF}down {\c&H00FFFFFF}in {\c&H8CFFFFFF}detail.
+Dialogue: 0,0:04:06.03,0:04:06.37,Cap,,0,0,0,,{\c&H00FFFFFF}down {\c&H00FFFFFF}in {\c&H0051C4F5}detail.
+Dialogue: 0,0:04:06.84,0:04:07.01,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H8CFFFFFF}exactly {\c&H8CFFFFFF}why {\c&H8CFFFFFF}open-weight
+Dialogue: 0,0:04:07.01,0:04:07.56,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H0051C4F5}exactly {\c&H8CFFFFFF}why {\c&H8CFFFFFF}open-weight
+Dialogue: 0,0:04:07.56,0:04:07.87,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H0051C4F5}exactly {\c&H00FFFFFF}why {\c&H8CFFFFFF}open-weight
+Dialogue: 0,0:04:07.87,0:04:08.20,Cap,,0,0,0,,{\c&H00FFFFFF}That's {\c&H0051C4F5}exactly {\c&H00FFFFFF}why {\c&H00FFFFFF}open-weight
+Dialogue: 0,0:04:08.20,0:04:08.91,Cap,,0,0,0,,{\c&H00FFFFFF}security {\c&H8CFFFFFF}is {\c&H8CFFFFFF}suddenly {\c&H8CFFFFFF}a
+Dialogue: 0,0:04:08.91,0:04:09.01,Cap,,0,0,0,,{\c&H00FFFFFF}security {\c&H00FFFFFF}is {\c&H8CFFFFFF}suddenly {\c&H8CFFFFFF}a
+Dialogue: 0,0:04:09.01,0:04:09.57,Cap,,0,0,0,,{\c&H00FFFFFF}security {\c&H00FFFFFF}is {\c&H00FFFFFF}suddenly {\c&H8CFFFFFF}a
+Dialogue: 0,0:04:09.57,0:04:09.77,Cap,,0,0,0,,{\c&H00FFFFFF}security {\c&H00FFFFFF}is {\c&H00FFFFFF}suddenly {\c&H00FFFFFF}a
+Dialogue: 0,0:04:09.62,0:04:10.12,Cap,,0,0,0,,{\c&H00FFFFFF}mainstream {\c&H8CFFFFFF}question.
+Dialogue: 0,0:04:10.12,0:04:10.42,Cap,,0,0,0,,{\c&H00FFFFFF}mainstream {\c&H0051C4F5}question.
+Dialogue: 0,0:04:10.92,0:04:11.10,Cap,,0,0,0,,{\c&H00FFFFFF}Here's {\c&H8CFFFFFF}the {\c&H8CFFFFFF}catch {\c&H8CFFFFFF}I
+Dialogue: 0,0:04:11.10,0:04:11.18,Cap,,0,0,0,,{\c&H00FFFFFF}Here's {\c&H00FFFFFF}the {\c&H8CFFFFFF}catch {\c&H8CFFFFFF}I
+Dialogue: 0,0:04:11.18,0:04:11.39,Cap,,0,0,0,,{\c&H00FFFFFF}Here's {\c&H00FFFFFF}the {\c&H00FFFFFF}catch {\c&H8CFFFFFF}I
+Dialogue: 0,0:04:11.39,0:04:11.59,Cap,,0,0,0,,{\c&H00FFFFFF}Here's {\c&H00FFFFFF}the {\c&H00FFFFFF}catch {\c&H00FFFFFF}I
+Dialogue: 0,0:04:11.42,0:04:11.92,Cap,,0,0,0,,{\c&H0051C4F5}promised.
+Dialogue: 0,0:04:12.30,0:04:12.45,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H8CFFFFFF}one {\c&H8CFFFFFF}table?
+Dialogue: 0,0:04:12.45,0:04:12.56,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H00FFFFFF}one {\c&H8CFFFFFF}table?
+Dialogue: 0,0:04:12.56,0:04:12.85,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H00FFFFFF}one {\c&H0051C4F5}table?
+Dialogue: 0,0:04:13.33,0:04:13.83,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H8CFFFFFF}Qwen3.6-27B {\c&H8CFFFFFF}still {\c&H8CFFFFFF}wins
+Dialogue: 0,0:04:13.83,0:04:16.26,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H0051C4F5}Qwen3.6-27B {\c&H8CFFFFFF}still {\c&H8CFFFFFF}wins
+Dialogue: 0,0:04:16.26,0:04:16.64,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H0051C4F5}Qwen3.6-27B {\c&H00FFFFFF}still {\c&H8CFFFFFF}wins
+Dialogue: 0,0:04:16.64,0:04:16.98,Cap,,0,0,0,,{\c&H00FFFFFF}Alibaba's {\c&H0051C4F5}Qwen3.6-27B {\c&H00FFFFFF}still {\c&H00FFFFFF}wins
+Dialogue: 0,0:04:17.11,0:04:17.43,Cap,,0,0,0,,{\c&H00FFFFFF}several {\c&H8CFFFFFF}benchmarks.
+Dialogue: 0,0:04:17.43,0:04:17.94,Cap,,0,0,0,,{\c&H00FFFFFF}several {\c&H0051C4F5}benchmarks.
+Dialogue: 0,0:04:18.41,0:04:19.39,Cap,,0,0,0,,{\c&H00FFFFFF}GDPVal, {\c&H8CFFFFFF}a {\c&H8CFFFFFF}financial {\c&H8CFFFFFF}agent
+Dialogue: 0,0:04:19.39,0:04:19.44,Cap,,0,0,0,,{\c&H00FFFFFF}GDPVal, {\c&H00FFFFFF}a {\c&H8CFFFFFF}financial {\c&H8CFFFFFF}agent
+Dialogue: 0,0:04:19.44,0:04:19.92,Cap,,0,0,0,,{\c&H00FFFFFF}GDPVal, {\c&H00FFFFFF}a {\c&H00FFFFFF}financial {\c&H8CFFFFFF}agent
+Dialogue: 0,0:04:19.92,0:04:20.15,Cap,,0,0,0,,{\c&H00FFFFFF}GDPVal, {\c&H00FFFFFF}a {\c&H00FFFFFF}financial {\c&H00FFFFFF}agent
+Dialogue: 0,0:04:20.15,0:04:20.57,Cap,,0,0,0,,{\c&H00FFFFFF}test: {\c&H8CFFFFFF}eleven {\c&H8CFFFFFF}forty-one {\c&H8CFFFFFF}versus
+Dialogue: 0,0:04:20.57,0:04:21.08,Cap,,0,0,0,,{\c&H00FFFFFF}test: {\c&H0051C4F5}eleven {\c&H8CFFFFFF}forty-one {\c&H8CFFFFFF}versus
+Dialogue: 0,0:04:21.08,0:04:21.70,Cap,,0,0,0,,{\c&H00FFFFFF}test: {\c&H0051C4F5}eleven {\c&H00FFFFFF}forty-one {\c&H8CFFFFFF}versus
+Dialogue: 0,0:04:21.70,0:04:22.01,Cap,,0,0,0,,{\c&H00FFFFFF}test: {\c&H0051C4F5}eleven {\c&H00FFFFFF}forty-one {\c&H00FFFFFF}versus
+Dialogue: 0,0:04:22.06,0:04:22.44,Cap,,0,0,0,,{\c&H0051C4F5}nine {\c&H8CFFFFFF}fifty-three.
+Dialogue: 0,0:04:22.44,0:04:22.83,Cap,,0,0,0,,{\c&H0051C4F5}nine {\c&H00FFFFFF}fifty-three.
+Dialogue: 0,0:04:23.33,0:04:24.22,Cap,,0,0,0,,{\c&H00FFFFFF}OSWorld, {\c&H8CFFFFFF}operating {\c&H8CFFFFFF}a {\c&H8CFFFFFF}real
+Dialogue: 0,0:04:24.22,0:04:24.63,Cap,,0,0,0,,{\c&H00FFFFFF}OSWorld, {\c&H00FFFFFF}operating {\c&H8CFFFFFF}a {\c&H8CFFFFFF}real
+Dialogue: 0,0:04:24.63,0:04:24.78,Cap,,0,0,0,,{\c&H00FFFFFF}OSWorld, {\c&H00FFFFFF}operating {\c&H00FFFFFF}a {\c&H8CFFFFFF}real
+Dialogue: 0,0:04:24.78,0:04:24.98,Cap,,0,0,0,,{\c&H00FFFFFF}OSWorld, {\c&H00FFFFFF}operating {\c&H00FFFFFF}a {\c&H0051C4F5}real
+Dialogue: 0,0:04:24.95,0:04:25.67,Cap,,0,0,0,,{\c&H00FFFFFF}computer: {\c&H8CFFFFFF}seventy-five {\c&H8CFFFFFF}point {\c&H8CFFFFFF}six
+Dialogue: 0,0:04:25.67,0:04:26.05,Cap,,0,0,0,,{\c&H00FFFFFF}computer: {\c&H00FFFFFF}seventy-five {\c&H8CFFFFFF}point {\c&H8CFFFFFF}six
+Dialogue: 0,0:04:26.05,0:04:26.43,Cap,,0,0,0,,{\c&H00FFFFFF}computer: {\c&H00FFFFFF}seventy-five {\c&H00FFFFFF}point {\c&H8CFFFFFF}six
+Dialogue: 0,0:04:26.43,0:04:26.82,Cap,,0,0,0,,{\c&H00FFFFFF}computer: {\c&H00FFFFFF}seventy-five {\c&H00FFFFFF}point {\c&H0051C4F5}six
+Dialogue: 0,0:04:26.82,0:04:27.28,Cap,,0,0,0,,{\c&H00FFFFFF}versus {\c&H8CFFFFFF}sixty-five {\c&H8CFFFFFF}point {\c&H8CFFFFFF}nine.
+Dialogue: 0,0:04:27.28,0:04:27.44,Cap,,0,0,0,,{\c&H00FFFFFF}versus {\c&H00FFFFFF}sixty-five {\c&H8CFFFFFF}point {\c&H8CFFFFFF}nine.
+Dialogue: 0,0:04:27.44,0:04:27.60,Cap,,0,0,0,,{\c&H00FFFFFF}versus {\c&H00FFFFFF}sixty-five {\c&H00FFFFFF}point {\c&H8CFFFFFF}nine.
+Dialogue: 0,0:04:27.60,0:04:27.80,Cap,,0,0,0,,{\c&H00FFFFFF}versus {\c&H00FFFFFF}sixty-five {\c&H00FFFFFF}point {\c&H0051C4F5}nine.
+Dialogue: 0,0:04:28.86,0:04:29.57,Cap,,0,0,0,,{\c&H00FFFFFF}SWE-Bench {\c&H8CFFFFFF}Verified {\c&H8CFFFFFF}and {\c&H8CFFFFFF}TerminalBench
+Dialogue: 0,0:04:29.57,0:04:30.21,Cap,,0,0,0,,{\c&H00FFFFFF}SWE-Bench {\c&H00FFFFFF}Verified {\c&H8CFFFFFF}and {\c&H8CFFFFFF}TerminalBench
+Dialogue: 0,0:04:30.21,0:04:30.29,Cap,,0,0,0,,{\c&H00FFFFFF}SWE-Bench {\c&H00FFFFFF}Verified {\c&H00FFFFFF}and {\c&H8CFFFFFF}TerminalBench
+Dialogue: 0,0:04:30.29,0:04:30.89,Cap,,0,0,0,,{\c&H00FFFFFF}SWE-Bench {\c&H00FFFFFF}Verified {\c&H00FFFFFF}and {\c&H00FFFFFF}TerminalBench
+Dialogue: 0,0:04:30.92,0:04:31.15,Cap,,0,0,0,,{\c&H0051C4F5}too.
+Dialogue: 0,0:04:31.51,0:04:31.68,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H8CFFFFFF}"Meta {\c&H8CFFFFFF}beats {\c&H8CFFFFFF}everything"
+Dialogue: 0,0:04:31.68,0:04:31.98,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}"Meta {\c&H8CFFFFFF}beats {\c&H8CFFFFFF}everything"
+Dialogue: 0,0:04:31.98,0:04:32.37,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}"Meta {\c&H00FFFFFF}beats {\c&H8CFFFFFF}everything"
+Dialogue: 0,0:04:32.37,0:04:32.67,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}"Meta {\c&H00FFFFFF}beats {\c&H0051C4F5}everything"
+Dialogue: 0,0:04:32.86,0:04:33.01,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H8CFFFFFF}wrong.
+Dialogue: 0,0:04:33.01,0:04:33.21,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H0051C4F5}wrong.
+Dialogue: 0,0:04:33.65,0:04:33.81,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}honest {\c&H8CFFFFFF}read:
+Dialogue: 0,0:04:33.81,0:04:34.13,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}honest {\c&H8CFFFFFF}read:
+Dialogue: 0,0:04:34.13,0:04:34.36,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}honest {\c&H00FFFFFF}read:
+Dialogue: 0,0:04:34.62,0:04:34.95,Cap,,0,0,0,,{\c&H00FFFFFF}trading {\c&H8CFFFFFF}blows, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}Qwen
+Dialogue: 0,0:04:34.95,0:04:35.60,Cap,,0,0,0,,{\c&H00FFFFFF}trading {\c&H0051C4F5}blows, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}Qwen
+Dialogue: 0,0:04:35.60,0:04:35.68,Cap,,0,0,0,,{\c&H00FFFFFF}trading {\c&H0051C4F5}blows, {\c&H00FFFFFF}and {\c&H8CFFFFFF}Qwen
+Dialogue: 0,0:04:35.68,0:04:35.88,Cap,,0,0,0,,{\c&H00FFFFFF}trading {\c&H0051C4F5}blows, {\c&H00FFFFFF}and {\c&H00FFFFFF}Qwen
+Dialogue: 0,0:04:35.98,0:04:36.22,Cap,,0,0,0,,{\c&H00FFFFFF}wins {\c&H8CFFFFFF}the {\c&H8CFFFFFF}ones {\c&H8CFFFFFF}that
+Dialogue: 0,0:04:36.22,0:04:36.32,Cap,,0,0,0,,{\c&H00FFFFFF}wins {\c&H00FFFFFF}the {\c&H8CFFFFFF}ones {\c&H8CFFFFFF}that
+Dialogue: 0,0:04:36.32,0:04:36.58,Cap,,0,0,0,,{\c&H00FFFFFF}wins {\c&H00FFFFFF}the {\c&H00FFFFFF}ones {\c&H8CFFFFFF}that
+Dialogue: 0,0:04:36.58,0:04:36.78,Cap,,0,0,0,,{\c&H00FFFFFF}wins {\c&H00FFFFFF}the {\c&H00FFFFFF}ones {\c&H00FFFFFF}that
+Dialogue: 0,0:04:36.72,0:04:37.19,Cap,,0,0,0,,{\c&H00FFFFFF}involve {\c&H8CFFFFFF}running {\c&H8CFFFFFF}real {\c&H8CFFFFFF}systems.
+Dialogue: 0,0:04:37.19,0:04:37.43,Cap,,0,0,0,,{\c&H00FFFFFF}involve {\c&H00FFFFFF}running {\c&H8CFFFFFF}real {\c&H8CFFFFFF}systems.
+Dialogue: 0,0:04:37.43,0:04:37.59,Cap,,0,0,0,,{\c&H00FFFFFF}involve {\c&H00FFFFFF}running {\c&H0051C4F5}real {\c&H8CFFFFFF}systems.
+Dialogue: 0,0:04:37.59,0:04:38.02,Cap,,0,0,0,,{\c&H00FFFFFF}involve {\c&H00FFFFFF}running {\c&H0051C4F5}real {\c&H00FFFFFF}systems.
+Dialogue: 0,0:04:38.57,0:04:39.13,Cap,,0,0,0,,{\c&H00FFFFFF}Also, {\c&H8CFFFFFF}don't {\c&H8CFFFFFF}mistake {\c&H8CFFFFFF}size
+Dialogue: 0,0:04:39.13,0:04:39.29,Cap,,0,0,0,,{\c&H00FFFFFF}Also, {\c&H00FFFFFF}don't {\c&H8CFFFFFF}mistake {\c&H8CFFFFFF}size
+Dialogue: 0,0:04:39.29,0:04:39.63,Cap,,0,0,0,,{\c&H00FFFFFF}Also, {\c&H00FFFFFF}don't {\c&H00FFFFFF}mistake {\c&H8CFFFFFF}size
+Dialogue: 0,0:04:39.63,0:04:39.90,Cap,,0,0,0,,{\c&H00FFFFFF}Also, {\c&H00FFFFFF}don't {\c&H00FFFFFF}mistake {\c&H00FFFFFF}size
+Dialogue: 0,0:04:40.00,0:04:40.10,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H8CFFFFFF}frontier.
+Dialogue: 0,0:04:40.10,0:04:40.45,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H0051C4F5}frontier.
+Dialogue: 0,0:04:40.98,0:04:41.04,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H8CFFFFFF}thirty-billion {\c&H8CFFFFFF}local {\c&H8CFFFFFF}model
+Dialogue: 0,0:04:41.04,0:04:41.61,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H00FFFFFF}thirty-billion {\c&H8CFFFFFF}local {\c&H8CFFFFFF}model
+Dialogue: 0,0:04:41.61,0:04:41.88,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H00FFFFFF}thirty-billion {\c&H00FFFFFF}local {\c&H8CFFFFFF}model
+Dialogue: 0,0:04:41.88,0:04:42.17,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H00FFFFFF}thirty-billion {\c&H00FFFFFF}local {\c&H00FFFFFF}model
+Dialogue: 0,0:04:42.33,0:04:42.43,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H8CFFFFFF}not {\c&H8CFFFFFF}a {\c&H8CFFFFFF}GPT-5.6
+Dialogue: 0,0:04:42.43,0:04:42.60,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}not {\c&H8CFFFFFF}a {\c&H8CFFFFFF}GPT-5.6
+Dialogue: 0,0:04:42.60,0:04:42.67,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}not {\c&H00FFFFFF}a {\c&H8CFFFFFF}GPT-5.6
+Dialogue: 0,0:04:42.67,0:04:44.47,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}not {\c&H00FFFFFF}a {\c&H0051C4F5}GPT-5.6
+Dialogue: 0,0:04:44.66,0:04:44.69,Cap,,0,0,0,,{\c&H00FFFFFF}or {\c&H8CFFFFFF}a {\c&H8CFFFFFF}Muse {\c&H8CFFFFFF}Spark.
+Dialogue: 0,0:04:44.69,0:04:44.76,Cap,,0,0,0,,{\c&H00FFFFFF}or {\c&H00FFFFFF}a {\c&H8CFFFFFF}Muse {\c&H8CFFFFFF}Spark.
+Dialogue: 0,0:04:44.76,0:04:45.04,Cap,,0,0,0,,{\c&H00FFFFFF}or {\c&H00FFFFFF}a {\c&H00FFFFFF}Muse {\c&H8CFFFFFF}Spark.
+Dialogue: 0,0:04:45.04,0:04:45.32,Cap,,0,0,0,,{\c&H00FFFFFF}or {\c&H00FFFFFF}a {\c&H00FFFFFF}Muse {\c&H0051C4F5}Spark.
+Dialogue: 0,0:04:45.72,0:04:45.78,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H8CFFFFFF}competes {\c&H8CFFFFFF}with {\c&H8CFFFFFF}other
+Dialogue: 0,0:04:45.78,0:04:46.19,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}competes {\c&H8CFFFFFF}with {\c&H8CFFFFFF}other
+Dialogue: 0,0:04:46.19,0:04:46.44,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}competes {\c&H00FFFFFF}with {\c&H8CFFFFFF}other
+Dialogue: 0,0:04:46.44,0:04:46.64,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}competes {\c&H00FFFFFF}with {\c&H00FFFFFF}other
+Dialogue: 0,0:04:46.60,0:04:47.15,Cap,,0,0,0,,{\c&H00FFFFFF}mid-size {\c&H8CFFFFFF}open {\c&H8CFFFFFF}models.
+Dialogue: 0,0:04:47.15,0:04:47.33,Cap,,0,0,0,,{\c&H00FFFFFF}mid-size {\c&H00FFFFFF}open {\c&H8CFFFFFF}models.
+Dialogue: 0,0:04:47.33,0:04:47.70,Cap,,0,0,0,,{\c&H00FFFFFF}mid-size {\c&H00FFFFFF}open {\c&H0051C4F5}models.
+Dialogue: 0,0:04:48.21,0:04:48.29,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}Meta's {\c&H8CFFFFFF}own {\c&H8CFFFFFF}model
+Dialogue: 0,0:04:48.29,0:04:48.60,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}Meta's {\c&H8CFFFFFF}own {\c&H8CFFFFFF}model
+Dialogue: 0,0:04:48.60,0:04:48.69,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}Meta's {\c&H00FFFFFF}own {\c&H8CFFFFFF}model
+Dialogue: 0,0:04:48.69,0:04:49.00,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}Meta's {\c&H00FFFFFF}own {\c&H00FFFFFF}model
+Dialogue: 0,0:04:49.01,0:04:49.25,Cap,,0,0,0,,{\c&H00FFFFFF}card {\c&H8CFFFFFF}notes {\c&H8CFFFFFF}it {\c&H8CFFFFFF}can
+Dialogue: 0,0:04:49.25,0:04:49.67,Cap,,0,0,0,,{\c&H00FFFFFF}card {\c&H00FFFFFF}notes {\c&H8CFFFFFF}it {\c&H8CFFFFFF}can
+Dialogue: 0,0:04:49.67,0:04:49.74,Cap,,0,0,0,,{\c&H00FFFFFF}card {\c&H00FFFFFF}notes {\c&H00FFFFFF}it {\c&H8CFFFFFF}can
+Dialogue: 0,0:04:49.74,0:04:49.94,Cap,,0,0,0,,{\c&H00FFFFFF}card {\c&H00FFFFFF}notes {\c&H00FFFFFF}it {\c&H00FFFFFF}can
+Dialogue: 0,0:04:49.88,0:04:50.14,Cap,,0,0,0,,{\c&H00FFFFFF}still {\c&H8CFFFFFF}produce {\c&H8CFFFFFF}inaccurate {\c&H8CFFFFFF}or
+Dialogue: 0,0:04:50.14,0:04:50.54,Cap,,0,0,0,,{\c&H00FFFFFF}still {\c&H00FFFFFF}produce {\c&H8CFFFFFF}inaccurate {\c&H8CFFFFFF}or
+Dialogue: 0,0:04:50.54,0:04:51.18,Cap,,0,0,0,,{\c&H00FFFFFF}still {\c&H00FFFFFF}produce {\c&H00FFFFFF}inaccurate {\c&H8CFFFFFF}or
+Dialogue: 0,0:04:51.18,0:04:51.38,Cap,,0,0,0,,{\c&H00FFFFFF}still {\c&H00FFFFFF}produce {\c&H00FFFFFF}inaccurate {\c&H00FFFFFF}or
+Dialogue: 0,0:04:51.34,0:04:51.68,Cap,,0,0,0,,{\c&H00FFFFFF}biased {\c&H8CFFFFFF}responses, {\c&H8CFFFFFF}especially {\c&H8CFFFFFF}in
+Dialogue: 0,0:04:51.68,0:04:52.61,Cap,,0,0,0,,{\c&H00FFFFFF}biased {\c&H0051C4F5}responses, {\c&H8CFFFFFF}especially {\c&H8CFFFFFF}in
+Dialogue: 0,0:04:52.61,0:04:53.19,Cap,,0,0,0,,{\c&H00FFFFFF}biased {\c&H0051C4F5}responses, {\c&H00FFFFFF}especially {\c&H8CFFFFFF}in
+Dialogue: 0,0:04:53.19,0:04:53.39,Cap,,0,0,0,,{\c&H00FFFFFF}biased {\c&H0051C4F5}responses, {\c&H00FFFFFF}especially {\c&H00FFFFFF}in
+Dialogue: 0,0:04:53.35,0:04:53.59,Cap,,0,0,0,,{\c&H00FFFFFF}novel {\c&H8CFFFFFF}situations.
+Dialogue: 0,0:04:53.59,0:04:54.20,Cap,,0,0,0,,{\c&H00FFFFFF}novel {\c&H0051C4F5}situations.
+Dialogue: 0,0:04:54.56,0:04:54.76,Cap,,0,0,0,,{\c&H0051C4F5}Plus:
+Dialogue: 0,0:04:55.34,0:04:55.68,Cap,,0,0,0,,{\c&H0051C4F5}everyone {\c&H8CFFFFFF}gets {\c&H8CFFFFFF}this {\c&H8CFFFFFF}license,
+Dialogue: 0,0:04:55.68,0:04:55.92,Cap,,0,0,0,,{\c&H0051C4F5}everyone {\c&H00FFFFFF}gets {\c&H8CFFFFFF}this {\c&H8CFFFFFF}license,
+Dialogue: 0,0:04:55.92,0:04:56.15,Cap,,0,0,0,,{\c&H0051C4F5}everyone {\c&H00FFFFFF}gets {\c&H00FFFFFF}this {\c&H8CFFFFFF}license,
+Dialogue: 0,0:04:56.15,0:04:56.56,Cap,,0,0,0,,{\c&H0051C4F5}everyone {\c&H00FFFFFF}gets {\c&H00FFFFFF}this {\c&H00FFFFFF}license,
+Dialogue: 0,0:04:56.80,0:04:57.19,Cap,,0,0,0,,{\c&H00FFFFFF}including {\c&H8CFFFFFF}the {\c&H8CFFFFFF}people {\c&H8CFFFFFF}who
+Dialogue: 0,0:04:57.19,0:04:57.27,Cap,,0,0,0,,{\c&H00FFFFFF}including {\c&H00FFFFFF}the {\c&H8CFFFFFF}people {\c&H8CFFFFFF}who
+Dialogue: 0,0:04:57.27,0:04:57.54,Cap,,0,0,0,,{\c&H00FFFFFF}including {\c&H00FFFFFF}the {\c&H00FFFFFF}people {\c&H8CFFFFFF}who
+Dialogue: 0,0:04:57.54,0:04:57.74,Cap,,0,0,0,,{\c&H00FFFFFF}including {\c&H00FFFFFF}the {\c&H00FFFFFF}people {\c&H00FFFFFF}who
+Dialogue: 0,0:04:57.75,0:04:57.99,Cap,,0,0,0,,{\c&H00FFFFFF}won't {\c&H8CFFFFFF}add {\c&H8CFFFFFF}guardrails.
+Dialogue: 0,0:04:57.99,0:04:58.17,Cap,,0,0,0,,{\c&H00FFFFFF}won't {\c&H00FFFFFF}add {\c&H8CFFFFFF}guardrails.
+Dialogue: 0,0:04:58.17,0:04:58.62,Cap,,0,0,0,,{\c&H00FFFFFF}won't {\c&H00FFFFFF}add {\c&H0051C4F5}guardrails.
+Dialogue: 0,0:04:59.20,0:04:59.37,Cap,,0,0,0,,{\c&H00FFFFFF}Open {\c&H8CFFFFFF}weights {\c&H8CFFFFFF}are {\c&H8CFFFFFF}a
+Dialogue: 0,0:04:59.37,0:04:59.69,Cap,,0,0,0,,{\c&H00FFFFFF}Open {\c&H00FFFFFF}weights {\c&H8CFFFFFF}are {\c&H8CFFFFFF}a
+Dialogue: 0,0:04:59.69,0:04:59.76,Cap,,0,0,0,,{\c&H00FFFFFF}Open {\c&H00FFFFFF}weights {\c&H00FFFFFF}are {\c&H8CFFFFFF}a
+Dialogue: 0,0:04:59.76,0:04:59.96,Cap,,0,0,0,,{\c&H00FFFFFF}Open {\c&H00FFFFFF}weights {\c&H00FFFFFF}are {\c&H00FFFFFF}a
+Dialogue: 0,0:04:59.85,0:05:00.18,Cap,,0,0,0,,{\c&H00FFFFFF}risk {\c&H8CFFFFFF}as {\c&H8CFFFFFF}much {\c&H8CFFFFFF}as
+Dialogue: 0,0:05:00.18,0:05:00.32,Cap,,0,0,0,,{\c&H00FFFFFF}risk {\c&H00FFFFFF}as {\c&H8CFFFFFF}much {\c&H8CFFFFFF}as
+Dialogue: 0,0:05:00.32,0:05:00.50,Cap,,0,0,0,,{\c&H00FFFFFF}risk {\c&H00FFFFFF}as {\c&H00FFFFFF}much {\c&H8CFFFFFF}as
+Dialogue: 0,0:05:00.50,0:05:00.70,Cap,,0,0,0,,{\c&H00FFFFFF}risk {\c&H00FFFFFF}as {\c&H00FFFFFF}much {\c&H00FFFFFF}as
+Dialogue: 0,0:05:00.58,0:05:00.66,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H8CFFFFFF}gift.
+Dialogue: 0,0:05:00.66,0:05:00.91,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H0051C4F5}gift.
+Dialogue: 0,0:05:01.32,0:05:01.46,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H8CFFFFFF}what's {\c&H8CFFFFFF}next?
+Dialogue: 0,0:05:01.46,0:05:01.62,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}what's {\c&H8CFFFFFF}next?
+Dialogue: 0,0:05:01.62,0:05:01.96,Cap,,0,0,0,,{\c&H00FFFFFF}So {\c&H00FFFFFF}what's {\c&H0051C4F5}next?
+Dialogue: 0,0:05:02.34,0:05:02.42,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}Spark {\c&H8CFFFFFF}1.2 {\c&H8CFFFFFF}open
+Dialogue: 0,0:05:02.42,0:05:02.81,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Spark {\c&H8CFFFFFF}1.2 {\c&H8CFFFFFF}open
+Dialogue: 0,0:05:02.81,0:05:03.39,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Spark {\c&H0051C4F5}1.2 {\c&H8CFFFFFF}open
+Dialogue: 0,0:05:03.39,0:05:03.59,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Spark {\c&H0051C4F5}1.2 {\c&H00FFFFFF}open
+Dialogue: 0,0:05:03.63,0:05:03.93,Cap,,0,0,0,,{\c&H0051C4F5}weights.
+Dialogue: 0,0:05:04.37,0:05:04.83,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H8CFFFFFF}says {\c&H8CFFFFFF}they're {\c&H8CFFFFFF}coming
+Dialogue: 0,0:05:04.83,0:05:05.01,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}says {\c&H8CFFFFFF}they're {\c&H8CFFFFFF}coming
+Dialogue: 0,0:05:05.01,0:05:05.14,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}says {\c&H00FFFFFF}they're {\c&H8CFFFFFF}coming
+Dialogue: 0,0:05:05.14,0:05:05.34,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}says {\c&H00FFFFFF}they're {\c&H00FFFFFF}coming
+Dialogue: 0,0:05:05.33,0:05:05.60,Cap,,0,0,0,,{\c&H0051C4F5}soon.
+Dialogue: 0,0:05:06.04,0:05:06.13,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H8CFFFFFF}that {\c&H8CFFFFFF}happens,
+Dialogue: 0,0:05:06.13,0:05:06.28,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H00FFFFFF}that {\c&H8CFFFFFF}happens,
+Dialogue: 0,0:05:06.28,0:05:06.65,Cap,,0,0,0,,{\c&H00FFFFFF}If {\c&H00FFFFFF}that {\c&H00FFFFFF}happens,
+Dialogue: 0,0:05:06.98,0:05:07.22,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H8CFFFFFF}flagship {\c&H8CFFFFFF}joins {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:07.22,0:05:07.79,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H00FFFFFF}flagship {\c&H8CFFFFFF}joins {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:07.79,0:05:08.11,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H00FFFFFF}flagship {\c&H00FFFFFF}joins {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:08.11,0:05:08.31,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H00FFFFFF}flagship {\c&H00FFFFFF}joins {\c&H00FFFFFF}the
+Dialogue: 0,0:05:08.27,0:05:08.44,Cap,,0,0,0,,{\c&H00FFFFFF}open {\c&H8CFFFFFF}club, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:08.44,0:05:09.01,Cap,,0,0,0,,{\c&H00FFFFFF}open {\c&H00FFFFFF}club, {\c&H8CFFFFFF}and {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:09.01,0:05:09.10,Cap,,0,0,0,,{\c&H00FFFFFF}open {\c&H00FFFFFF}club, {\c&H00FFFFFF}and {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:09.10,0:05:09.30,Cap,,0,0,0,,{\c&H00FFFFFF}open {\c&H00FFFFFF}club, {\c&H00FFFFFF}and {\c&H00FFFFFF}the
+Dialogue: 0,0:05:09.23,0:05:09.65,Cap,,0,0,0,,{\c&H00FFFFFF}frontier {\c&H8CFFFFFF}conversation {\c&H8CFFFFFF}changes.
+Dialogue: 0,0:05:09.65,0:05:10.27,Cap,,0,0,0,,{\c&H00FFFFFF}frontier {\c&H00FFFFFF}conversation {\c&H8CFFFFFF}changes.
+Dialogue: 0,0:05:10.27,0:05:10.63,Cap,,0,0,0,,{\c&H00FFFFFF}frontier {\c&H00FFFFFF}conversation {\c&H0051C4F5}changes.
+Dialogue: 0,0:05:11.09,0:05:11.32,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H8CFFFFFF}release {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:11.32,0:05:11.73,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}release {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:11.73,0:05:11.81,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}release {\c&H00FFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:11.81,0:05:12.01,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}release {\c&H00FFFFFF}is {\c&H00FFFFFF}the
+Dialogue: 0,0:05:11.96,0:05:12.44,Cap,,0,0,0,,{\c&H0051C4F5}appetizer.
+Dialogue: 0,0:05:12.86,0:05:12.92,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}main {\c&H8CFFFFFF}course {\c&H8CFFFFFF}is
+Dialogue: 0,0:05:12.92,0:05:13.16,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}main {\c&H8CFFFFFF}course {\c&H8CFFFFFF}is
+Dialogue: 0,0:05:13.16,0:05:13.44,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}main {\c&H00FFFFFF}course {\c&H8CFFFFFF}is
+Dialogue: 0,0:05:13.44,0:05:13.64,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}main {\c&H00FFFFFF}course {\c&H00FFFFFF}is
+Dialogue: 0,0:05:13.50,0:05:13.97,Cap,,0,0,0,,{\c&H00FFFFFF}Spark {\c&H8CFFFFFF}1.2's {\c&H8CFFFFFF}weights,
+Dialogue: 0,0:05:13.97,0:05:14.70,Cap,,0,0,0,,{\c&H00FFFFFF}Spark {\c&H0051C4F5}1.2's {\c&H8CFFFFFF}weights,
+Dialogue: 0,0:05:14.70,0:05:15.11,Cap,,0,0,0,,{\c&H00FFFFFF}Spark {\c&H0051C4F5}1.2's {\c&H00FFFFFF}weights,
+Dialogue: 0,0:05:15.33,0:05:15.43,Cap,,0,0,0,,{\c&H00FFFFFF}when {\c&H8CFFFFFF}they {\c&H8CFFFFFF}land.
+Dialogue: 0,0:05:15.43,0:05:15.57,Cap,,0,0,0,,{\c&H00FFFFFF}when {\c&H00FFFFFF}they {\c&H8CFFFFFF}land.
+Dialogue: 0,0:05:15.57,0:05:15.88,Cap,,0,0,0,,{\c&H00FFFFFF}when {\c&H00FFFFFF}they {\c&H0051C4F5}land.
+Dialogue: 0,0:05:16.23,0:05:16.36,Cap,,0,0,0,,{\c&H00FFFFFF}For {\c&H8CFFFFFF}the {\c&H8CFFFFFF}community,
+Dialogue: 0,0:05:16.36,0:05:16.45,Cap,,0,0,0,,{\c&H00FFFFFF}For {\c&H00FFFFFF}the {\c&H8CFFFFFF}community,
+Dialogue: 0,0:05:16.45,0:05:16.84,Cap,,0,0,0,,{\c&H00FFFFFF}For {\c&H00FFFFFF}the {\c&H0051C4F5}community,
+Dialogue: 0,0:05:17.26,0:05:17.37,Cap,,0,0,0,,{\c&H00FFFFFF}this {\c&H8CFFFFFF}is {\c&H8CFFFFFF}a {\c&H8CFFFFFF}real
+Dialogue: 0,0:05:17.37,0:05:17.45,Cap,,0,0,0,,{\c&H00FFFFFF}this {\c&H00FFFFFF}is {\c&H8CFFFFFF}a {\c&H8CFFFFFF}real
+Dialogue: 0,0:05:17.45,0:05:17.59,Cap,,0,0,0,,{\c&H00FFFFFF}this {\c&H00FFFFFF}is {\c&H00FFFFFF}a {\c&H8CFFFFFF}real
+Dialogue: 0,0:05:17.59,0:05:17.79,Cap,,0,0,0,,{\c&H00FFFFFF}this {\c&H00FFFFFF}is {\c&H00FFFFFF}a {\c&H0051C4F5}real
+Dialogue: 0,0:05:17.77,0:05:18.12,Cap,,0,0,0,,{\c&H0051C4F5}moment.
+Dialogue: 0,0:05:18.62,0:05:18.80,Cap,,0,0,0,,{\c&H00FFFFFF}After {\c&H8CFFFFFF}the {\c&H8CFFFFFF}April {\c&H8CFFFFFF}betrayal,
+Dialogue: 0,0:05:18.80,0:05:18.96,Cap,,0,0,0,,{\c&H00FFFFFF}After {\c&H00FFFFFF}the {\c&H8CFFFFFF}April {\c&H8CFFFFFF}betrayal,
+Dialogue: 0,0:05:18.96,0:05:19.20,Cap,,0,0,0,,{\c&H00FFFFFF}After {\c&H00FFFFFF}the {\c&H00FFFFFF}April {\c&H8CFFFFFF}betrayal,
+Dialogue: 0,0:05:19.20,0:05:19.57,Cap,,0,0,0,,{\c&H00FFFFFF}After {\c&H00FFFFFF}the {\c&H00FFFFFF}April {\c&H0051C4F5}betrayal,
+Dialogue: 0,0:05:19.99,0:05:20.15,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H8CFFFFFF}is {\c&H8CFFFFFF}back {\c&H8CFFFFFF}on
+Dialogue: 0,0:05:20.15,0:05:20.32,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}is {\c&H8CFFFFFF}back {\c&H8CFFFFFF}on
+Dialogue: 0,0:05:20.32,0:05:20.64,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}is {\c&H00FFFFFF}back {\c&H8CFFFFFF}on
+Dialogue: 0,0:05:20.64,0:05:20.84,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}is {\c&H00FFFFFF}back {\c&H00FFFFFF}on
+Dialogue: 0,0:05:20.72,0:05:20.87,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}open {\c&H8CFFFFFF}side,
+Dialogue: 0,0:05:20.87,0:05:21.11,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}open {\c&H8CFFFFFF}side,
+Dialogue: 0,0:05:21.11,0:05:21.46,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}open {\c&H00FFFFFF}side,
+Dialogue: 0,0:05:21.67,0:05:21.85,Cap,,0,0,0,,{\c&H00FFFFFF}under {\c&H8CFFFFFF}Apache {\c&H8CFFFFFF}2.0,
+Dialogue: 0,0:05:21.85,0:05:22.25,Cap,,0,0,0,,{\c&H00FFFFFF}under {\c&H00FFFFFF}Apache {\c&H8CFFFFFF}2.0,
+Dialogue: 0,0:05:22.25,0:05:23.11,Cap,,0,0,0,,{\c&H00FFFFFF}under {\c&H00FFFFFF}Apache {\c&H0051C4F5}2.0,
+Dialogue: 0,0:05:23.37,0:05:23.43,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}most {\c&H8CFFFFFF}permissive {\c&H8CFFFFFF}license
+Dialogue: 0,0:05:23.43,0:05:23.67,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}most {\c&H8CFFFFFF}permissive {\c&H8CFFFFFF}license
+Dialogue: 0,0:05:23.67,0:05:24.17,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}most {\c&H00FFFFFF}permissive {\c&H8CFFFFFF}license
+Dialogue: 0,0:05:24.17,0:05:24.52,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}most {\c&H00FFFFFF}permissive {\c&H00FFFFFF}license
+Dialogue: 0,0:05:24.57,0:05:24.65,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H8CFFFFFF}the {\c&H8CFFFFFF}industry.
+Dialogue: 0,0:05:24.65,0:05:24.80,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}the {\c&H8CFFFFFF}industry.
+Dialogue: 0,0:05:24.80,0:05:25.15,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}the {\c&H0051C4F5}industry.
+Dialogue: 0,0:05:25.60,0:05:25.68,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}verdict: {\c&H8CFFFFFF}if {\c&H8CFFFFFF}you've
+Dialogue: 0,0:05:25.68,0:05:26.32,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}verdict: {\c&H8CFFFFFF}if {\c&H8CFFFFFF}you've
+Dialogue: 0,0:05:26.32,0:05:26.40,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}verdict: {\c&H00FFFFFF}if {\c&H8CFFFFFF}you've
+Dialogue: 0,0:05:26.40,0:05:26.60,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}verdict: {\c&H00FFFFFF}if {\c&H00FFFFFF}you've
+Dialogue: 0,0:05:26.56,0:05:26.72,Cap,,0,0,0,,{\c&H00FFFFFF}been {\c&H8CFFFFFF}waiting {\c&H8CFFFFFF}for {\c&H8CFFFFFF}a
+Dialogue: 0,0:05:26.72,0:05:26.96,Cap,,0,0,0,,{\c&H00FFFFFF}been {\c&H00FFFFFF}waiting {\c&H8CFFFFFF}for {\c&H8CFFFFFF}a
+Dialogue: 0,0:05:26.96,0:05:27.12,Cap,,0,0,0,,{\c&H00FFFFFF}been {\c&H00FFFFFF}waiting {\c&H00FFFFFF}for {\c&H8CFFFFFF}a
+Dialogue: 0,0:05:27.12,0:05:27.32,Cap,,0,0,0,,{\c&H00FFFFFF}been {\c&H00FFFFFF}waiting {\c&H00FFFFFF}for {\c&H00FFFFFF}a
+Dialogue: 0,0:05:27.22,0:05:27.60,Cap,,0,0,0,,{\c&H00FFFFFF}local {\c&H8CFFFFFF}agent {\c&H8CFFFFFF}model {\c&H8CFFFFFF}that's
+Dialogue: 0,0:05:27.60,0:05:27.86,Cap,,0,0,0,,{\c&H00FFFFFF}local {\c&H00FFFFFF}agent {\c&H8CFFFFFF}model {\c&H8CFFFFFF}that's
+Dialogue: 0,0:05:27.86,0:05:28.18,Cap,,0,0,0,,{\c&H00FFFFFF}local {\c&H00FFFFFF}agent {\c&H00FFFFFF}model {\c&H8CFFFFFF}that's
+Dialogue: 0,0:05:28.18,0:05:28.40,Cap,,0,0,0,,{\c&H00FFFFFF}local {\c&H00FFFFFF}agent {\c&H00FFFFFF}model {\c&H00FFFFFF}that's
+Dialogue: 0,0:05:28.48,0:05:28.80,Cap,,0,0,0,,{\c&H0051C4F5}actually {\c&H8CFFFFFF}good, {\c&H8CFFFFFF}today {\c&H8CFFFFFF}is
+Dialogue: 0,0:05:28.80,0:05:29.30,Cap,,0,0,0,,{\c&H0051C4F5}actually {\c&H00FFFFFF}good, {\c&H8CFFFFFF}today {\c&H8CFFFFFF}is
+Dialogue: 0,0:05:29.30,0:05:29.88,Cap,,0,0,0,,{\c&H0051C4F5}actually {\c&H00FFFFFF}good, {\c&H00FFFFFF}today {\c&H8CFFFFFF}is
+Dialogue: 0,0:05:29.88,0:05:30.08,Cap,,0,0,0,,{\c&H0051C4F5}actually {\c&H00FFFFFF}good, {\c&H00FFFFFF}today {\c&H00FFFFFF}is
+Dialogue: 0,0:05:29.96,0:05:30.10,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}day {\c&H8CFFFFFF}the {\c&H8CFFFFFF}wait
+Dialogue: 0,0:05:30.10,0:05:30.34,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H0051C4F5}day {\c&H8CFFFFFF}the {\c&H8CFFFFFF}wait
+Dialogue: 0,0:05:30.34,0:05:30.42,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H0051C4F5}day {\c&H00FFFFFF}the {\c&H8CFFFFFF}wait
+Dialogue: 0,0:05:30.42,0:05:30.66,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H0051C4F5}day {\c&H00FFFFFF}the {\c&H00FFFFFF}wait
+Dialogue: 0,0:05:30.66,0:05:30.87,Cap,,0,0,0,,{\c&H0051C4F5}ended.
+Dialogue: 0,0:05:31.30,0:05:31.41,Cap,,0,0,0,,{\c&H00FFFFFF}Just {\c&H8CFFFFFF}don't {\c&H8CFFFFFF}expect {\c&H8CFFFFFF}it
+Dialogue: 0,0:05:31.41,0:05:31.61,Cap,,0,0,0,,{\c&H00FFFFFF}Just {\c&H00FFFFFF}don't {\c&H8CFFFFFF}expect {\c&H8CFFFFFF}it
+Dialogue: 0,0:05:31.61,0:05:31.96,Cap,,0,0,0,,{\c&H00FFFFFF}Just {\c&H00FFFFFF}don't {\c&H00FFFFFF}expect {\c&H8CFFFFFF}it
+Dialogue: 0,0:05:31.96,0:05:32.16,Cap,,0,0,0,,{\c&H00FFFFFF}Just {\c&H00FFFFFF}don't {\c&H00FFFFFF}expect {\c&H00FFFFFF}it
+Dialogue: 0,0:05:32.02,0:05:32.18,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H8CFFFFFF}win {\c&H8CFFFFFF}every {\c&H8CFFFFFF}table.
+Dialogue: 0,0:05:32.18,0:05:32.65,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}win {\c&H8CFFFFFF}every {\c&H8CFFFFFF}table.
+Dialogue: 0,0:05:32.65,0:05:32.82,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}win {\c&H0051C4F5}every {\c&H8CFFFFFF}table.
+Dialogue: 0,0:05:32.82,0:05:33.14,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}win {\c&H0051C4F5}every {\c&H00FFFFFF}table.
+Dialogue: 0,0:05:33.55,0:05:33.63,Cap,,0,0,0,,{\c&H00FFFFFF}We {\c&H8CFFFFFF}tracked {\c&H8CFFFFFF}this {\c&H8CFFFFFF}one
+Dialogue: 0,0:05:33.63,0:05:33.95,Cap,,0,0,0,,{\c&H00FFFFFF}We {\c&H00FFFFFF}tracked {\c&H8CFFFFFF}this {\c&H8CFFFFFF}one
+Dialogue: 0,0:05:33.95,0:05:34.17,Cap,,0,0,0,,{\c&H00FFFFFF}We {\c&H00FFFFFF}tracked {\c&H00FFFFFF}this {\c&H8CFFFFFF}one
+Dialogue: 0,0:05:34.17,0:05:34.37,Cap,,0,0,0,,{\c&H00FFFFFF}We {\c&H00FFFFFF}tracked {\c&H00FFFFFF}this {\c&H00FFFFFF}one
+Dialogue: 0,0:05:34.27,0:05:34.35,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}day {\c&H8CFFFFFF}it {\c&H8CFFFFFF}dropped.
+Dialogue: 0,0:05:34.35,0:05:34.51,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H0051C4F5}day {\c&H8CFFFFFF}it {\c&H8CFFFFFF}dropped.
+Dialogue: 0,0:05:34.51,0:05:34.59,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H0051C4F5}day {\c&H00FFFFFF}it {\c&H8CFFFFFF}dropped.
+Dialogue: 0,0:05:34.59,0:05:34.96,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H0051C4F5}day {\c&H00FFFFFF}it {\c&H00FFFFFF}dropped.
+Dialogue: 0,0:05:35.39,0:05:35.87,Cap,,0,0,0,,{\c&H00FFFFFF}Subscribe {\c&H8CFFFFFF}so {\c&H8CFFFFFF}you {\c&H8CFFFFFF}don't
+Dialogue: 0,0:05:35.87,0:05:36.01,Cap,,0,0,0,,{\c&H00FFFFFF}Subscribe {\c&H00FFFFFF}so {\c&H8CFFFFFF}you {\c&H8CFFFFFF}don't
+Dialogue: 0,0:05:36.01,0:05:36.11,Cap,,0,0,0,,{\c&H00FFFFFF}Subscribe {\c&H00FFFFFF}so {\c&H00FFFFFF}you {\c&H8CFFFFFF}don't
+Dialogue: 0,0:05:36.11,0:05:36.33,Cap,,0,0,0,,{\c&H00FFFFFF}Subscribe {\c&H00FFFFFF}so {\c&H00FFFFFF}you {\c&H00FFFFFF}don't
+Dialogue: 0,0:05:36.35,0:05:36.51,Cap,,0,0,0,,{\c&H00FFFFFF}miss {\c&H8CFFFFFF}Spark {\c&H8CFFFFFF}1.2 {\c&H8CFFFFFF}when
+Dialogue: 0,0:05:36.51,0:05:36.91,Cap,,0,0,0,,{\c&H00FFFFFF}miss {\c&H00FFFFFF}Spark {\c&H8CFFFFFF}1.2 {\c&H8CFFFFFF}when
+Dialogue: 0,0:05:36.91,0:05:37.78,Cap,,0,0,0,,{\c&H00FFFFFF}miss {\c&H00FFFFFF}Spark {\c&H0051C4F5}1.2 {\c&H8CFFFFFF}when
+Dialogue: 0,0:05:37.78,0:05:37.98,Cap,,0,0,0,,{\c&H00FFFFFF}miss {\c&H00FFFFFF}Spark {\c&H0051C4F5}1.2 {\c&H00FFFFFF}when
+Dialogue: 0,0:05:37.87,0:05:37.95,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}weights {\c&H8CFFFFFF}land.
+Dialogue: 0,0:05:37.95,0:05:38.19,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}weights {\c&H8CFFFFFF}land.
+Dialogue: 0,0:05:38.19,0:05:38.39,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}weights {\c&H00FFFFFF}land.
+Dialogue: 0,0:05:38.90,0:05:39.06,Cap,,0,0,0,,{\c&H00FFFFFF}Drop {\c&H8CFFFFFF}a {\c&H8CFFFFFF}comment:
+Dialogue: 0,0:05:39.06,0:05:39.09,Cap,,0,0,0,,{\c&H00FFFFFF}Drop {\c&H00FFFFFF}a {\c&H8CFFFFFF}comment:
+Dialogue: 0,0:05:39.09,0:05:39.44,Cap,,0,0,0,,{\c&H00FFFFFF}Drop {\c&H00FFFFFF}a {\c&H00FFFFFF}comment:
+Dialogue: 0,0:05:39.86,0:05:39.94,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H8CFFFFFF}this {\c&H8CFFFFFF}enough {\c&H8CFFFFFF}to
+Dialogue: 0,0:05:39.94,0:05:40.12,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}this {\c&H8CFFFFFF}enough {\c&H8CFFFFFF}to
+Dialogue: 0,0:05:40.12,0:05:40.36,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}this {\c&H00FFFFFF}enough {\c&H8CFFFFFF}to
+Dialogue: 0,0:05:40.36,0:05:40.56,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}this {\c&H00FFFFFF}enough {\c&H00FFFFFF}to
+Dialogue: 0,0:05:40.44,0:05:40.66,Cap,,0,0,0,,{\c&H00FFFFFF}bring {\c&H8CFFFFFF}you {\c&H8CFFFFFF}back {\c&H8CFFFFFF}to
+Dialogue: 0,0:05:40.66,0:05:40.76,Cap,,0,0,0,,{\c&H00FFFFFF}bring {\c&H00FFFFFF}you {\c&H8CFFFFFF}back {\c&H8CFFFFFF}to
+Dialogue: 0,0:05:40.76,0:05:41.06,Cap,,0,0,0,,{\c&H00FFFFFF}bring {\c&H00FFFFFF}you {\c&H00FFFFFF}back {\c&H8CFFFFFF}to
+Dialogue: 0,0:05:41.06,0:05:41.26,Cap,,0,0,0,,{\c&H00FFFFFF}bring {\c&H00FFFFFF}you {\c&H00FFFFFF}back {\c&H00FFFFFF}to
+Dialogue: 0,0:05:41.12,0:05:41.46,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H8CFFFFFF}open {\c&H8CFFFFFF}models?
+Dialogue: 0,0:05:41.46,0:05:41.64,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H00FFFFFF}open {\c&H8CFFFFFF}models?
+Dialogue: 0,0:05:41.64,0:05:41.93,Cap,,0,0,0,,{\c&H00FFFFFF}Meta's {\c&H00FFFFFF}open {\c&H00FFFFFF}models?
+Dialogue: 0,0:05:42.44,0:05:42.58,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}watch {\c&H8CFFFFFF}our {\c&H8CFFFFFF}rogue-agents
+Dialogue: 0,0:05:42.58,0:05:42.82,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}watch {\c&H8CFFFFFF}our {\c&H8CFFFFFF}rogue-agents
+Dialogue: 0,0:05:42.82,0:05:42.92,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}watch {\c&H00FFFFFF}our {\c&H8CFFFFFF}rogue-agents
+Dialogue: 0,0:05:42.92,0:05:43.48,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}watch {\c&H00FFFFFF}our {\c&H00FFFFFF}rogue-agents
+Dialogue: 0,0:05:43.48,0:05:43.72,Cap,,0,0,0,,{\c&H00FFFFFF}deep {\c&H8CFFFFFF}dive {\c&H8CFFFFFF}if {\c&H8CFFFFFF}you
+Dialogue: 0,0:05:43.72,0:05:44.12,Cap,,0,0,0,,{\c&H00FFFFFF}deep {\c&H00FFFFFF}dive {\c&H8CFFFFFF}if {\c&H8CFFFFFF}you
+Dialogue: 0,0:05:44.12,0:05:44.20,Cap,,0,0,0,,{\c&H00FFFFFF}deep {\c&H00FFFFFF}dive {\c&H00FFFFFF}if {\c&H8CFFFFFF}you
+Dialogue: 0,0:05:44.20,0:05:44.40,Cap,,0,0,0,,{\c&H00FFFFFF}deep {\c&H00FFFFFF}dive {\c&H00FFFFFF}if {\c&H00FFFFFF}you
+Dialogue: 0,0:05:44.35,0:05:44.51,Cap,,0,0,0,,{\c&H00FFFFFF}want {\c&H8CFFFFFF}the {\c&H8CFFFFFF}security {\c&H8CFFFFFF}side
+Dialogue: 0,0:05:44.51,0:05:44.59,Cap,,0,0,0,,{\c&H00FFFFFF}want {\c&H00FFFFFF}the {\c&H8CFFFFFF}security {\c&H8CFFFFFF}side
+Dialogue: 0,0:05:44.59,0:05:45.00,Cap,,0,0,0,,{\c&H00FFFFFF}want {\c&H00FFFFFF}the {\c&H00FFFFFF}security {\c&H8CFFFFFF}side
+Dialogue: 0,0:05:45.00,0:05:45.34,Cap,,0,0,0,,{\c&H00FFFFFF}want {\c&H00FFFFFF}the {\c&H00FFFFFF}security {\c&H00FFFFFF}side
+Dialogue: 0,0:05:45.34,0:05:45.48,Cap,,0,0,0,,{\c&H00FFFFFF}of {\c&H8CFFFFFF}open {\c&H8CFFFFFF}weights.
+Dialogue: 0,0:05:45.48,0:05:45.79,Cap,,0,0,0,,{\c&H00FFFFFF}of {\c&H00FFFFFF}open {\c&H8CFFFFFF}weights.
+Dialogue: 0,0:05:45.79,0:05:46.01,Cap,,0,0,0,,{\c&H00FFFFFF}of {\c&H00FFFFFF}open {\c&H00FFFFFF}weights.
+Dialogue: 0,0:05:46.51,0:05:46.61,Cap,,0,0,0,,{\c&H00FFFFFF}We'll {\c&H8CFFFFFF}see {\c&H8CFFFFFF}you {\c&H8CFFFFFF}in
+Dialogue: 0,0:05:46.61,0:05:46.83,Cap,,0,0,0,,{\c&H00FFFFFF}We'll {\c&H00FFFFFF}see {\c&H8CFFFFFF}you {\c&H8CFFFFFF}in
+Dialogue: 0,0:05:46.83,0:05:46.93,Cap,,0,0,0,,{\c&H00FFFFFF}We'll {\c&H00FFFFFF}see {\c&H00FFFFFF}you {\c&H8CFFFFFF}in
+Dialogue: 0,0:05:46.93,0:05:47.13,Cap,,0,0,0,,{\c&H00FFFFFF}We'll {\c&H00FFFFFF}see {\c&H00FFFFFF}you {\c&H00FFFFFF}in
+Dialogue: 0,0:05:46.99,0:05:47.02,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}next {\c&H8CFFFFFF}one.
+Dialogue: 0,0:05:47.02,0:05:47.31,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}next {\c&H8CFFFFFF}one.
+Dialogue: 0,0:05:47.31,0:05:47.51,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}next {\c&H00FFFFFF}one.
+Dialogue: 0,0:05:47.87,0:05:48.12,Cap,,0,0,0,,{\c&H00FFFFFF}**Word {\c&H8CFFFFFF}count:** {\c&H8CFFFFFF}~990 {\c&H8CFFFFFF}**Estimated
+Dialogue: 0,0:05:48.12,0:05:48.39,Cap,,0,0,0,,{\c&H00FFFFFF}**Word {\c&H00FFFFFF}count:** {\c&H8CFFFFFF}~990 {\c&H8CFFFFFF}**Estimated
+Dialogue: 0,0:05:48.39,0:05:49.59,Cap,,0,0,0,,{\c&H00FFFFFF}**Word {\c&H00FFFFFF}count:** {\c&H0051C4F5}~990 {\c&H8CFFFFFF}**Estimated
+Dialogue: 0,0:05:49.59,0:05:50.04,Cap,,0,0,0,,{\c&H00FFFFFF}**Word {\c&H00FFFFFF}count:** {\c&H0051C4F5}~990 {\c&H00FFFFFF}**Estimated
+Dialogue: 0,0:05:50.07,0:05:50.43,Cap,,0,0,0,,{\c&H00FFFFFF}runtime:**
+Dialogue: 0,0:05:51.03,0:05:52.48,Cap,,0,0,0,,{\c&H0051C4F5}~5:47 {\c&H8CFFFFFF}at {\c&H8CFFFFFF}171.4 {\c&H8CFFFFFF}wpm
+Dialogue: 0,0:05:52.48,0:05:52.58,Cap,,0,0,0,,{\c&H0051C4F5}~5:47 {\c&H00FFFFFF}at {\c&H8CFFFFFF}171.4 {\c&H8CFFFFFF}wpm
+Dialogue: 0,0:05:52.58,0:05:53.96,Cap,,0,0,0,,{\c&H0051C4F5}~5:47 {\c&H00FFFFFF}at {\c&H00FFFFFF}171.4 {\c&H8CFFFFFF}wpm
+Dialogue: 0,0:05:53.96,0:05:54.52,Cap,,0,0,0,,{\c&H0051C4F5}~5:47 {\c&H00FFFFFF}at {\c&H00FFFFFF}171.4 {\c&H00FFFFFF}wpm
+Dialogue: 0,0:05:54.85,0:05:55.20,Cap,,0,0,0,,{\c&H00FFFFFF}(within
+Dialogue: 0,0:05:56.13,0:05:56.30,Cap,,0,0,0,,{\c&H0051C4F5}+/-8% {\c&H8CFFFFFF}of {\c&H8CFFFFFF}6:00) {\c&H8CFFFFFF}**Phase-1
+Dialogue: 0,0:05:56.30,0:05:56.60,Cap,,0,0,0,,{\c&H0051C4F5}+/-8% {\c&H00FFFFFF}of {\c&H8CFFFFFF}6:00) {\c&H8CFFFFFF}**Phase-1
+Dialogue: 0,0:05:56.60,0:05:57.43,Cap,,0,0,0,,{\c&H0051C4F5}+/-8% {\c&H00FFFFFF}of {\c&H00FFFFFF}6:00) {\c&H8CFFFFFF}**Phase-1
+Dialogue: 0,0:05:57.43,0:05:58.27,Cap,,0,0,0,,{\c&H0051C4F5}+/-8% {\c&H00FFFFFF}of {\c&H00FFFFFF}6:00) {\c&H00FFFFFF}**Phase-1
+Dialogue: 0,0:05:58.32,0:05:58.80,Cap,,0,0,0,,{\c&H00FFFFFF}cap:** {\c&H8CFFFFFF}~438 {\c&H8CFFFFFF}words {\c&H8CFFFFFF}(~153s)
+Dialogue: 0,0:05:58.80,0:06:00.00,Cap,,0,0,0,,{\c&H00FFFFFF}cap:** {\c&H0051C4F5}~438 {\c&H8CFFFFFF}words {\c&H8CFFFFFF}(~153s)
+Dialogue: 0,0:06:00.00,0:06:00.64,Cap,,0,0,0,,{\c&H00FFFFFF}cap:** {\c&H0051C4F5}~438 {\c&H00FFFFFF}words {\c&H8CFFFFFF}(~153s)
+Dialogue: 0,0:06:00.64,0:06:01.46,Cap,,0,0,0,,{\c&H00FFFFFF}cap:** {\c&H0051C4F5}~438 {\c&H00FFFFFF}words {\c&H00FFFFFF}(~153s)
+Dialogue: 0,0:06:02.01,0:06:02.42,Cap,,0,0,0,,{\c&H00FFFFFF}inside {\c&H8CFFFFFF}the {\c&H8CFFFFFF}~170s {\c&H8CFFFFFF}"Under
+Dialogue: 0,0:06:02.42,0:06:02.51,Cap,,0,0,0,,{\c&H00FFFFFF}inside {\c&H00FFFFFF}the {\c&H8CFFFFFF}~170s {\c&H8CFFFFFF}"Under
+Dialogue: 0,0:06:02.51,0:06:03.62,Cap,,0,0,0,,{\c&H00FFFFFF}inside {\c&H00FFFFFF}the {\c&H0051C4F5}~170s {\c&H8CFFFFFF}"Under
+Dialogue: 0,0:06:03.62,0:06:03.82,Cap,,0,0,0,,{\c&H00FFFFFF}inside {\c&H00FFFFFF}the {\c&H0051C4F5}~170s {\c&H00FFFFFF}"Under
+Dialogue: 0,0:06:03.79,0:06:04.04,Cap,,0,0,0,,{\c&H0051C4F5}3 {\c&H8CFFFFFF}Min" {\c&H8CFFFFFF}limit {\c&H8CFFFFFF}**Sources:**
+Dialogue: 0,0:06:04.04,0:06:04.61,Cap,,0,0,0,,{\c&H0051C4F5}3 {\c&H00FFFFFF}Min" {\c&H8CFFFFFF}limit {\c&H8CFFFFFF}**Sources:**
+Dialogue: 0,0:06:04.61,0:06:04.85,Cap,,0,0,0,,{\c&H0051C4F5}3 {\c&H00FFFFFF}Min" {\c&H00FFFFFF}limit {\c&H8CFFFFFF}**Sources:**
+Dialogue: 0,0:06:04.85,0:06:05.26,Cap,,0,0,0,,{\c&H0051C4F5}3 {\c&H00FFFFFF}Min" {\c&H00FFFFFF}limit {\c&H00FFFFFF}**Sources:**
+Dialogue: 0,0:06:05.81,0:06:06.05,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H8CFFFFFF}research {\c&H8CFFFFFF}blog {\c&H8CFFFFFF}(research.meta.ai,
+Dialogue: 0,0:06:06.05,0:06:06.47,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}research {\c&H8CFFFFFF}blog {\c&H8CFFFFFF}(research.meta.ai,
+Dialogue: 0,0:06:06.47,0:06:07.04,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}research {\c&H00FFFFFF}blog {\c&H8CFFFFFF}(research.meta.ai,
+Dialogue: 0,0:06:07.04,0:06:07.79,Cap,,0,0,0,,{\c&H00FFFFFF}Meta {\c&H00FFFFFF}research {\c&H00FFFFFF}blog {\c&H00FFFFFF}(research.meta.ai,
+Dialogue: 0,0:06:07.79,0:06:08.55,Cap,,0,0,0,,{\c&H00FFFFFF}Aug {\c&H8CFFFFFF}10), {\c&H8CFFFFFF}Meta {\c&H8CFFFFFF}model
+Dialogue: 0,0:06:08.55,0:06:09.61,Cap,,0,0,0,,{\c&H00FFFFFF}Aug {\c&H0051C4F5}10), {\c&H8CFFFFFF}Meta {\c&H8CFFFFFF}model
+Dialogue: 0,0:06:09.61,0:06:09.77,Cap,,0,0,0,,{\c&H00FFFFFF}Aug {\c&H0051C4F5}10), {\c&H00FFFFFF}Meta {\c&H8CFFFFFF}model
+Dialogue: 0,0:06:09.77,0:06:10.03,Cap,,0,0,0,,{\c&H00FFFFFF}Aug {\c&H0051C4F5}10), {\c&H00FFFFFF}Meta {\c&H00FFFFFF}model
+Dialogue: 0,0:06:10.03,0:06:10.74,Cap,,0,0,0,,{\c&H00FFFFFF}card {\c&H8CFFFFFF}(Hugging {\c&H8CFFFFFF}Face {\c&H8CFFFFFF}meta-models/Muse-Glimmer-30B),
+Dialogue: 0,0:06:10.74,0:06:11.00,Cap,,0,0,0,,{\c&H00FFFFFF}card {\c&H00FFFFFF}(Hugging {\c&H8CFFFFFF}Face {\c&H8CFFFFFF}meta-models/Muse-Glimmer-30B),
+Dialogue: 0,0:06:11.00,0:06:11.32,Cap,,0,0,0,,{\c&H00FFFFFF}card {\c&H00FFFFFF}(Hugging {\c&H00FFFFFF}Face {\c&H8CFFFFFF}meta-models/Muse-Glimmer-30B),
+Dialogue: 0,0:06:11.32,0:06:14.44,Cap,,0,0,0,,{\c&H00FFFFFF}card {\c&H00FFFFFF}(Hugging {\c&H00FFFFFF}Face {\c&H0051C4F5}meta-models/Muse-Glimmer-30B),
+Dialogue: 0,0:06:14.44,0:06:15.16,Cap,,0,0,0,,{\c&H00FFFFFF}Reuters {\c&H8CFFFFFF}(Aug {\c&H8CFFFFFF}10),
+Dialogue: 0,0:06:15.16,0:06:15.60,Cap,,0,0,0,,{\c&H00FFFFFF}Reuters {\c&H00FFFFFF}(Aug {\c&H8CFFFFFF}10),
+Dialogue: 0,0:06:15.60,0:06:16.04,Cap,,0,0,0,,{\c&H00FFFFFF}Reuters {\c&H00FFFFFF}(Aug {\c&H0051C4F5}10),
+Dialogue: 0,0:06:16.04,0:06:16.42,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H8CFFFFFF}on {\c&H8CFFFFFF}X {\c&H8CFFFFFF}(@finkd,
+Dialogue: 0,0:06:16.42,0:06:16.58,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}on {\c&H8CFFFFFF}X {\c&H8CFFFFFF}(@finkd,
+Dialogue: 0,0:06:16.58,0:06:17.18,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}on {\c&H00FFFFFF}X {\c&H8CFFFFFF}(@finkd,
+Dialogue: 0,0:06:17.18,0:06:17.75,Cap,,0,0,0,,{\c&H00FFFFFF}Zuckerberg {\c&H00FFFFFF}on {\c&H00FFFFFF}X {\c&H00FFFFFF}(@finkd,
+Dialogue: 0,0:06:17.75,0:06:18.32,Cap,,0,0,0,,{\c&H00FFFFFF}Aug {\c&H8CFFFFFF}10), {\c&H8CFFFFFF}Unsloth {\c&H8CFFFFFF}docs
+Dialogue: 0,0:06:18.32,0:06:18.89,Cap,,0,0,0,,{\c&H00FFFFFF}Aug {\c&H0051C4F5}10), {\c&H8CFFFFFF}Unsloth {\c&H8CFFFFFF}docs
+Dialogue: 0,0:06:18.89,0:06:19.46,Cap,,0,0,0,,{\c&H00FFFFFF}Aug {\c&H0051C4F5}10), {\c&H00FFFFFF}Unsloth {\c&H8CFFFFFF}docs
+Dialogue: 0,0:06:19.46,0:06:20.00,Cap,,0,0,0,,{\c&H00FFFFFF}Aug {\c&H0051C4F5}10), {\c&H00FFFFFF}Unsloth {\c&H00FFFFFF}docs
+Dialogue: 0,0:06:20.00,0:06:20.38,Cap,,0,0,0,,{\c&H00FFFFFF}(day-zero {\c&H8CFFFFFF}support) {\c&H8CFFFFFF}**Cross-link:**
+Dialogue: 0,0:06:20.38,0:06:21.26,Cap,,0,0,0,,{\c&H00FFFFFF}(day-zero {\c&H00FFFFFF}support) {\c&H8CFFFFFF}**Cross-link:**
+Dialogue: 0,0:06:21.26,0:06:21.68,Cap,,0,0,0,,{\c&H00FFFFFF}(day-zero {\c&H00FFFFFF}support) {\c&H00FFFFFF}**Cross-link:**
+Dialogue: 0,0:06:22.18,0:06:23.52,Cap,,0,0,0,,{\c&H00FFFFFF}openai-rogue-agents {\c&H8CFFFFFF}(Hugging {\c&H8CFFFFFF}Face {\c&H8CFFFFFF}breach,
+Dialogue: 0,0:06:23.52,0:06:23.78,Cap,,0,0,0,,{\c&H00FFFFFF}openai-rogue-agents {\c&H00FFFFFF}(Hugging {\c&H8CFFFFFF}Face {\c&H8CFFFFFF}breach,
+Dialogue: 0,0:06:23.78,0:06:24.00,Cap,,0,0,0,,{\c&H00FFFFFF}openai-rogue-agents {\c&H00FFFFFF}(Hugging {\c&H00FFFFFF}Face {\c&H8CFFFFFF}breach,
+Dialogue: 0,0:06:24.00,0:06:24.65,Cap,,0,0,0,,{\c&H00FFFFFF}openai-rogue-agents {\c&H00FFFFFF}(Hugging {\c&H00FFFFFF}Face {\c&H00FFFFFF}breach,
+Dialogue: 0,0:06:24.72,0:06:24.96,Cap,,0,0,0,,{\c&H00FFFFFF}mentioned {\c&H8CFFFFFF}twice {\c&H8CFFFFFF}once {\c&H8CFFFFFF}in
+Dialogue: 0,0:06:24.96,0:06:26.02,Cap,,0,0,0,,{\c&H00FFFFFF}mentioned {\c&H0051C4F5}twice {\c&H8CFFFFFF}once {\c&H8CFFFFFF}in
+Dialogue: 0,0:06:26.02,0:06:26.12,Cap,,0,0,0,,{\c&H00FFFFFF}mentioned {\c&H0051C4F5}twice {\c&H00FFFFFF}once {\c&H8CFFFFFF}in
+Dialogue: 0,0:06:26.12,0:06:26.32,Cap,,0,0,0,,{\c&H00FFFFFF}mentioned {\c&H0051C4F5}twice {\c&H00FFFFFF}once {\c&H00FFFFFF}in
+Dialogue: 0,0:06:26.22,0:06:26.47,Cap,,0,0,0,,{\c&H00FFFFFF}evidence,
+Dialogue: 0,0:06:27.04,0:06:27.14,Cap,,0,0,0,,{\c&H00FFFFFF}once {\c&H8CFFFFFF}in {\c&H8CFFFFFF}close)
+Dialogue: 0,0:06:27.14,0:06:27.32,Cap,,0,0,0,,{\c&H00FFFFFF}once {\c&H00FFFFFF}in {\c&H8CFFFFFF}close)
+Dialogue: 0,0:06:27.32,0:06:27.77,Cap,,0,0,0,,{\c&H00FFFFFF}once {\c&H00FFFFFF}in {\c&H00FFFFFF}close)

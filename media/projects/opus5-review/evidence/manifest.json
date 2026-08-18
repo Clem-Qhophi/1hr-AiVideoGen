@@ -1,0 +1,50 @@
+[
+ {
+  "name": "announce",
+  "file": "announce.png",
+  "url": "https://www.anthropic.com/news/claude-opus-5",
+  "source": "anthropic.com, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T18:29:16"
+ },
+ {
+  "name": "_recon",
+  "file": "_recon.png",
+  "url": "https://www.anthropic.com/news/claude-opus-5",
+  "source": "anthropic.com",
+  "selector": null,
+  "captured_at": "2026-07-24T18:29:36"
+ },
+ {
+  "name": "bench_1500",
+  "file": "bench_1500.png",
+  "url": "https://www.anthropic.com/news/claude-opus-5",
+  "source": "anthropic.com, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T18:30:55"
+ },
+ {
+  "name": "bench_2400",
+  "file": "bench_2400.png",
+  "url": "https://www.anthropic.com/news/claude-opus-5",
+  "source": "anthropic.com, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T18:31:12"
+ },
+ {
+  "name": "bench_3300",
+  "file": "bench_3300.png",
+  "url": "https://www.anthropic.com/news/claude-opus-5",
+  "source": "anthropic.com, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T18:31:31"
+ },
+ {
+  "name": "chart-arcagi",
+  "file": "chart-arcagi.png",
+  "url": "https://www.anthropic.com/news/claude-opus-5",
+  "source": "anthropic.com, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T18:33:28"
+ }
+]

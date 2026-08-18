@@ -1,0 +1,78 @@
+[
+  {
+    "id": "card_deepswe",
+    "type": "stat",
+    "kicker": "CODING BENCHMARK",
+    "stat": "65.3",
+    "unit": "%",
+    "label": "DeepSWE v1.1 Score (Up from 49.0% on 3.6 Flash)",
+    "foot": "Google DeepMind, August 13, 2026",
+    "accent": "signal"
+  },
+  {
+    "id": "card_price_cut",
+    "type": "compare",
+    "kicker": "API TOKEN PRICING (INPUT)",
+    "left": {
+      "value": "$1.50",
+      "label": "3.6 Flash / 1M Tokens",
+      "accent": "warn"
+    },
+    "right": {
+      "value": "$0.75",
+      "label": "3.7 Flash / 1M Tokens (50% Cut)",
+      "accent": "signal"
+    },
+    "foot": "Google AI Studio Pricing, August 2026",
+    "accent": "signal"
+  },
+  {
+    "id": "card_frontiercode",
+    "type": "stat",
+    "kicker": "AGENTIC REASONING",
+    "stat": "43.6",
+    "unit": "%",
+    "label": "FrontierCode 1.1 Main Benchmark (+9.2 points)",
+    "foot": "Google DeepMind, August 13, 2026",
+    "accent": "accent"
+  },
+  {
+    "id": "card_webdev",
+    "type": "stat",
+    "kicker": "WEB DEVELOPMENT",
+    "stat": "1588",
+    "unit": "ELO",
+    "label": "WebDev Arena Leaderboard (Leading Flash Tier)",
+    "foot": "Arena.ai Leaderboard, August 2026",
+    "accent": "signal"
+  },
+  {
+    "id": "card_automation",
+    "type": "stat",
+    "kicker": "WORKFLOW AUTOMATION",
+    "stat": "30.4",
+    "unit": "%",
+    "label": "AutomationBench Score (Jumped from 17.0%)",
+    "foot": "Google DeepMind, August 13, 2026",
+    "accent": "accent"
+  },
+  {
+    "id": "card_gdppdf",
+    "type": "stat",
+    "kicker": "DOCUMENT COMPREHENSION",
+    "stat": "34.0",
+    "unit": "%",
+    "label": "GDP.pdf Complex Document Understanding (Up from 22.0%)",
+    "foot": "Google DeepMind, August 13, 2026",
+    "accent": "signal"
+  },
+  {
+    "id": "card_catch_2027",
+    "type": "quote",
+    "kicker": "FINE PRINT CATCH",
+    "stat": "Introductory rate valid through Dec 31, 2026. Standard pricing of $1.50 / $7.50 effective Jan 1, 2027.",
+    "label": "Google Cloud Platform Documentation",
+    "foot": "Google Vertex AI Official Documentation, August 2026",
+    "accent": "warn"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "video": "videos/ai-secret-language/output/ai-secret-language-preview-tech-pulse-MASTER.mp4",
+  "title": "AI Agents Just Invented Their Own Language (Humanity Is Locked Out)",
+  "description": "Researchers found 518 proposals for secret AI agent languages — some designed specifically to hide what they're saying from humans.\n\nIn this video, we break down:\n- Gibberlink Mode: the viral hackathon demo where two AI agents switched from English to sound-based communication\n- The Moltbook Files: a 2026 arXiv paper studying 518 emergent language proposals from autonomous agents\n- Secret Collusion: how AI agents hide messages in normal-looking text (steganography)\n- Emergent Cyber Behavior: AI agents autonomously hacking systems they manage\n- The platform problem: why this matters for your data\n\nThis isn't science fiction. It's published research from arXiv, NeurIPS, and Irregular.\n\nSources:\n- arXiv 2605.31170: Emergent Languages in Populations of Language Model Agents (2026)\n- Motwani et al., NeurIPS 2024: Secret Collusion Among AI Agents\n- Irregular Research: Emergent Cyber Behavior (March 2026)\n- ElevenLabs Hackathon: Gibberlink Mode (Feb 2025)\n- Forbes, Infobip, Wikipedia coverage",
+  "tags": ["ai agents", "ai secret language", "gibberlink", "emergent language", "ai safety", "steganography", "multi-agent", "ai communication", "artificial intelligence", "ai research", "neurips", "arxiv", "ai security", "autonomous agents"],
+  "category": "Science & Technology",
+  "thumbnail": "videos/ai-secret-language/packaging/thumb.jpg",
+  "privacy": "private",
+  "channel": "ai-news"
+}

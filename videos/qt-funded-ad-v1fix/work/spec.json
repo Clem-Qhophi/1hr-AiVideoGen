@@ -1,0 +1,23 @@
+{
+  "format": "shortform-explainer",
+  "client": "quant-tekel",
+  "product": "qt-funded",
+  "campaign": "Trade with discipline. Scale with confidence.",
+  "runtime": { "target_min": 0.5, "tolerance": 0.017 },
+  "video": { "aspect": "9:16", "width": 1080, "height": 1920, "fps": 30 },
+  "source": "generated",
+  "voice": { "engine": "edge-tts", "name": "en-US-ChristopherNeural", "speed": 1.08 },
+  "captions": { "enabled": true, "style": "overlay", "emphasis": true, "font_px": null },
+  "motion": { "kind": "shots", "beat_seconds": 3.0 },
+  "sfx": { "enabled": true, "density": "medium" },
+  "music": { "enabled": true, "bed": "tech-pulse", "gain_db": null },
+  "evidence": { "required": true, "min_on_screen": 2 },
+  "master": { "lufs": -14.0, "true_peak": -1.0 },
+  "notes": [
+    "v1fix: the ORIGINAL Gate-A-approved 30s qt-funded-ad script/VO/timing, unchanged -- see videos/qt-funded-ad/work/v1-audit-report.md for why this exists. v1's original master.mp4/VO/edited-transcript.json are read as source data only; v1's own files are never modified.",
+    "Only change from v1: every full-bleed marketing-screenshot background (hero.png, features.png, testimonials.png, trust.png, evaluations.png, programs.png -- all carried unapproved profit-share/discount-code/trader-count/testimonial claims) replaced with either the abstract fintech vibe or a claims-clean crop from media/projects/qt-funded-ad/evidence/clean/.",
+    "evidence.min_on_screen is 2 (QTStructureFix: mobile-dropdowns.png, QTProgressFix: mobile-platforms.png) -- same reasoning as qt-funded-ad-v2's spec: GROWTH RULES allow 2-3, do not pad to 3 by reintroducing a marketing screenshot.",
+    "New shot files live in remotion/src/shots/qt-funded-ad-v1fix/ (not qt-funded-ad/) so v1's originals are never touched. QTDiscover is the one shot reused unmodified from qt-funded-ad/ -- it was already safe (logo + text only, no screenshot).",
+    "See videos/qt-funded-ad/work/claims-register.md for the full claim-by-claim audit this fix responds to."
+  ]
+}

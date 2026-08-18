@@ -1,0 +1,40 @@
+{
+  "engine": "remotion-still",
+  "composition": "HydrogenPeroxideTruth",
+  "props": {
+    "headline": "IT WORKS",
+    "emphasis": "NOT ON WOUNDS",
+    "kicker": "THE BROWN BOTTLE",
+    "sub": null,
+    "badge": null,
+    "accent": "hot",
+    "variant": "photo",
+    "image": "thumbs/001-amber-medicine-bottle-0.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": [
+      56.0,
+      43.0,
+      24.0,
+      60.0
+    ],
+    "align": "left",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": "persona/walt-combs-cutout.png",
+    "faceAt": [
+      88.0,
+      42.0
+    ],
+    "faceFocus": null,
+    "faceCutout": true
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\HydrogenPeroxideTruth.tsx"
+}

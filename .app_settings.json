@@ -1,0 +1,17 @@
+{
+  "llm_provider": "openai",
+  "llm_api_key": "sk-BXzfj8I1c5FGARhqJLzBEi6KVl7vQ8D2Dv3KnP7L0t8BpSsCtvF7hUdF7AQIwpSh",
+  "llm_model": "glm-5.2",
+  "llm_base_url": "https://opencode.ai/zen/go/v1",
+  "elevenlabs_api_key": "3e8a25b7a702cf579f768512775ebb09adc41642df24a9230cf644a1f3aaab23",
+  "gemini_api_key": "",
+  "default_voice": "onwK4e9ZLuTAKqWW03F9",
+  "default_delivery_mode": "breaking-news",
+  "default_goal": "followers",
+  "brand_wordmark": [
+    "Reel",
+    "Forge",
+    ""
+  ],
+  "brand_accent": "#6366F1"
+}

@@ -1,0 +1,13 @@
+{
+  "master": "videos/grok-bot-release/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [],
+  "preview": {
+    "end_s": 341.17,
+    "out": "videos/grok-bot-release/output/grok-bot-release-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

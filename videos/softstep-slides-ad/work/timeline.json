@@ -1,0 +1,78 @@
+{
+  "master": "videos/softstep-slides-ad/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "SSHook",
+      "type": "cutaway",
+      "master_in_s": 0.0,
+      "master_out_s": 9.45,
+      "cue": "How many pairs of slides have you thrown away this year"
+    },
+    {
+      "id": "SSProblem",
+      "type": "cutaway",
+      "master_in_s": 9.45,
+      "master_out_s": 17.1,
+      "cue": "Cheap slides look great for one week"
+    },
+    {
+      "id": "SSAgitate",
+      "type": "cutaway",
+      "master_in_s": 17.1,
+      "master_out_s": 25.4,
+      "cue": "Same price. Same fall-apart. That's a tax on your feet"
+    },
+    {
+      "id": "SSFlip",
+      "type": "cutaway",
+      "master_in_s": 25.4,
+      "master_out_s": 35.2,
+      "cue": "Softstep is different. Cushioned foam"
+    },
+    {
+      "id": "SSHow",
+      "type": "cutaway",
+      "master_in_s": 35.2,
+      "master_out_s": 42.0,
+      "cue": "Soft where it should be soft"
+    },
+    {
+      "id": "SSProof",
+      "type": "cutaway",
+      "master_in_s": 42.0,
+      "master_out_s": 51.1,
+      "cue": "Nationwide delivery. Pay on delivery within Accra"
+    },
+    {
+      "id": "SSCTA",
+      "type": "cutaway",
+      "master_in_s": 51.1,
+      "master_out_s": 56.7,
+      "cue": "DM @softstep_slides now"
+    },
+    {
+      "id": "SSSting",
+      "type": "cutaway",
+      "master_in_s": 56.7,
+      "master_out_s": 60.0,
+      "cue": "Step into comfort. Step into Softstep"
+    },
+    {
+      "id": "EmphasisCaptions-softstep-slides-ad",
+      "type": "overlay",
+      "master_in_s": 0.0,
+      "master_out_s": 60.0,
+      "cue": "emphasis captions (whole video)"
+    }
+  ],
+  "reframes": [],
+  "preview": {
+    "end_s": 60.0,
+    "out": "videos/softstep-slides-ad/output/softstep-slides-ad-preview.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

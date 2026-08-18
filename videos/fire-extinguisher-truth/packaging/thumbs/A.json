@@ -1,0 +1,40 @@
+{
+  "engine": "remotion-still",
+  "composition": "FireExtinguisherTruth",
+  "props": {
+    "headline": "IT'S DEAD",
+    "emphasis": "GAUGE WON'T SAY",
+    "kicker": "YOUR FIRE EXTINGUISHER",
+    "sub": null,
+    "badge": null,
+    "accent": "hot",
+    "variant": "photo",
+    "image": "thumbs/001-kitchen-extinguisher.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": [
+      48.0,
+      22.0,
+      20.0,
+      30.0
+    ],
+    "align": "left",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": "persona/walt-combs-cutout.png",
+    "faceAt": [
+      88.0,
+      55.0
+    ],
+    "faceFocus": null,
+    "faceCutout": true
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\FireExtinguisherTruth.tsx"
+}

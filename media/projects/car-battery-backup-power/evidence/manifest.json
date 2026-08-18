@@ -1,0 +1,42 @@
+[
+ {
+  "name": "co-safety",
+  "file": "co-safety.png",
+  "url": "https://www.cdc.gov/carbon-monoxide/factsheets/generator-safety-fact-sheet.html",
+  "source": "CDC, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-03T20:06:30"
+ },
+ {
+  "name": "fridge-wattage",
+  "file": "fridge-wattage.png",
+  "url": "https://www.energysage.com/electricity/house-watts/how-many-watts-does-a-refrigerator-use/",
+  "source": "EnergySage, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-03T20:06:54"
+ },
+ {
+  "name": "backfeed-danger",
+  "file": "backfeed-danger.png",
+  "url": "https://safeelectricity.org/safety-tips/urge-caution-using-back-generators/",
+  "source": "Safe Electricity, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-03T20:07:09"
+ },
+ {
+  "name": "inverter-product",
+  "file": "inverter-product.png",
+  "url": "https://carcaretotal.com/best-car-inverter/",
+  "source": "carcaretotal.com, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-03T20:10:34"
+ },
+ {
+  "name": "inverter-price-detail",
+  "file": "inverter-price-detail.png",
+  "url": "https://carcaretotal.com/best-car-inverter/",
+  "source": "carcaretotal.com, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-03T20:11:21"
+ }
+]

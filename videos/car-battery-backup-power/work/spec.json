@@ -1,0 +1,46 @@
+{
+  "format": "longform-images",
+  "niche": "home-hacks",
+  "runtime": {
+    "target_min": 22.0,
+    "tolerance": 0.08
+  },
+  "video": {
+    "aspect": "16:9",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "source": "generated",
+  "voice": {
+    "engine": "edge-tts",
+    "name": "en-US-AndrewNeural"
+  },
+  "captions": {
+    "enabled": true,
+    "style": "burned",
+    "emphasis": true,
+    "font_px": null
+  },
+  "motion": {
+    "kind": "ken-burns",
+    "beat_seconds": 8.0
+  },
+  "sfx": {
+    "enabled": true,
+    "density": "low"
+  },
+  "music": {
+    "enabled": true,
+    "bed": "docu-pluck",
+    "gain_db": -5
+  },
+  "evidence": {
+    "required": true,
+    "min_on_screen": 2
+  },
+  "master": {
+    "lufs": -14.0,
+    "true_peak": -1.0
+  }
+}

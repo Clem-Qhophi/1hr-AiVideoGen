@@ -1,0 +1,31 @@
+{
+  "engine": "remotion-still",
+  "composition": "MustyBasementFix",
+  "props": {
+    "headline": "DEHUMIDIFIES",
+    "emphasis": "FOREVER",
+    "kicker": "$4 DRY TRICK",
+    "badge": "NO POWER",
+    "sub": null,
+    "accent": "violet",
+    "variant": "photo",
+    "image": "thumbs/007-calcium-chloride-ice-melt-0.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "left",
+    "pos": "top",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": "persona/walt-combs-cutout.png",
+    "faceAt": [88.0, 60.0],
+    "faceCutout": true
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\MustyBasementFix.tsx"
+}

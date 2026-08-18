@@ -1,0 +1,15 @@
+{
+  "_note": "Paths are ABSOLUTE on purpose: yt_upload.py's rp() resolves relative plan paths against the PARENT of this repo folder (it assumes a monorepo layout this standalone checkout doesn't have), so relative paths silently miss. Single thumbnail (A.jpg) per the 2026-08-04 standing preference.",
+  "video": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/ai-kill-switch/output/ai-kill-switch-MASTER.mp4",
+  "title": "The AI Kill Switch Act: Why Every Tech CEO Is Scared",
+  "description_file": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/ai-kill-switch/packaging/description.txt",
+  "thumbnail": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/ai-kill-switch/packaging/thumbs/A.jpg",
+  "tags": [
+    "ai kill switch act", "ai regulation", "ai news", "artificial intelligence",
+    "ai safety", "openai", "anthropic", "ai kill switch", "dhs ai",
+    "frontier ai", "ai policy", "llm", "ai shutdown", "ai companies"
+  ],
+  "categoryId": 28,
+  "privacy": "private",
+  "madeForKids": false
+}

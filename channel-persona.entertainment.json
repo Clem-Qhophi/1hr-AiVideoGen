@@ -1,0 +1,30 @@
+{
+  "_note": "Channel persona for the entertainment niche, picked 2026-07-31 to complete the 5-channel lineup. Name/handle NOT yet verified against an existing live YouTube channel - if this niche already has a real channel under a different name, overwrite channel_name/channel_handle to match reality rather than this draft, and update docs/CHANNEL-SETUP.md accordingly.",
+
+  "channel_name": "The Untold Record",
+  "channel_handle": "@TheUntoldRecord",
+  "channel_tagline": "The stories with a detail nobody caught the first time.",
+
+  "delivery_mode": "authoritative",
+  "_delivery_mode_options": ["breaking-news", "calm-explainer", "sarcastic-review", "authoritative"],
+  "_delivery_mode_note": "Closest existing mode to niches/entertainment.json's 'narrator, deliberate, theatrical restraint' - override per video if a story calls for something else.",
+
+  "tone_flavor": "narrator, deliberate, theatrical restraint, varies sentence length hard - per niches/entertainment.json voice rules",
+
+  "voice_id": "TBD - validate via edge_tts.list_voices() before first video",
+  "voice_name": "warm low, variable pacing (niche spec) - do not guess a specific voice ID; confirm before locking one, same discipline as the other new channels",
+
+  "audience": "mixed",
+  "default_goal": "watch-time",
+  "default_conversion": "nothing",
+
+  "default_target_seconds": 2400,
+  "_target_seconds_note": "RAISED 2026-08-02 from 1200 (20 min) to 2400 (40 min), tracking the niche file's widened range. niches/entertainment.json target_minutes went [10,30] -> [25,50] on live yt_research data: real winners in this lane run a 44-51 min median, so the old 20-min default was well under half of what the format's audience actually watches. 40 min is the middle of the new range. Still a PROPOSAL per the user's 2026-07-31 standing preference (always propose a length for approval, never generate silently against an unstated one) - confirm per video. Budget check before writing: 40 min = ~7,092 narration words / ~400 beats (`plan_runtime.py budget 40 --niche entertainment`).",
+
+  "content_pillars": [
+    "Curiosity-gap stories - a real, sourced story told cold-open-tease then rewind then escalation, never resolving the hook in the title",
+    "One resonant close line + next-video hook, per the niche's close beat"
+  ],
+
+  "notes": "honesty_guard from niches/entertainment.json applies: storytelling licence covers pacing/framing, NOT invented facts about real people - real names need real sources, dramatised/uncertain parts must say so on screen."
+}

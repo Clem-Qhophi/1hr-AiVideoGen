@@ -1,0 +1,202 @@
+{
+  "re-closing-costs": {
+    "niche": "real-estate",
+    "hook_type": "cost-callout",
+    "evidence_type": "screenshots",
+    "title_lever": "number",
+    "journey_framing": false,
+    "cross_linked_from": null,
+    "thumbnail_lever": null,
+    "tagged_at": "2026-08-06T08:57:59+00:00"
+  },
+  "weathernext-cyclones": {
+    "niche": "ai-news",
+    "hook_type": "cost-callout",
+    "evidence_type": "screenshots",
+    "title_lever": "number",
+    "thumbnail_lever": "own-term",
+    "journey_framing": false,
+    "cross_linked_from": null,
+    "tagged_at": "2026-08-06T19:45:04+00:00"
+  },
+  "burnt-pan-truth": {
+    "niche": "home-hacks",
+    "hook_type": "dollar-stakes",
+    "evidence_type": "screenshots",
+    "title_lever": "money-mistake",
+    "thumbnail_lever": "correction-sting",
+    "journey_framing": false,
+    "cross_linked_from": "hydrogen-peroxide-truth",
+    "tagged_at": "2026-08-07T06:03:44+00:00"
+  },
+  "ai-kill-switch": {
+    "niche": null,
+    "hook_type": "question-hook",
+    "evidence_type": "screenshots",
+    "title_lever": "fear-curiosity",
+    "thumbnail_lever": "high-contrast-text",
+    "journey_framing": false,
+    "cross_linked_from": null,
+    "tagged_at": "2026-08-08T06:48:46+00:00"
+  },
+  "grok-imagine-image-2": {
+    "niche": "ai-news",
+    "hook_type": "contrast",
+    "evidence_type": "screenshots",
+    "title_lever": "number-lead",
+    "thumbnail_lever": "honest-sting",
+    "journey_framing": false,
+    "cross_linked_from": null,
+    "tagged_at": "2026-08-08T19:24:24+00:00"
+  },
+  "muse-glimmer-open-weights": {
+    "niche": "ai-news",
+    "hook_type": "cost-callout",
+    "evidence_type": "screenshots",
+    "title_lever": "barrier-drop",
+    "thumbnail_lever": "magnet-word",
+    "journey_framing": false,
+    "cross_linked_from": "openai-rogue-agents",
+    "tagged_at": "2026-08-10T15:14:14+00:00"
+  },
+  "grok-imagine-image-2/shorts/01": {
+    "niche": "ai-news",
+    "hook_type": "news-hook",
+    "evidence_type": "screenshots",
+    "title_lever": "news-now",
+    "thumbnail_lever": "news-now",
+    "journey_framing": false,
+    "cross_linked_from": "grok-imagine-image-2",
+    "tagged_at": "2026-08-11T13:57:07+00:00"
+  },
+  "grok-imagine-image-2/shorts/02": {
+    "niche": "ai-news",
+    "hook_type": "cost-callout",
+    "evidence_type": "screenshots",
+    "title_lever": "number",
+    "thumbnail_lever": "news-now",
+    "journey_framing": false,
+    "cross_linked_from": "grok-imagine-image-2",
+    "tagged_at": "2026-08-11T13:57:07+00:00"
+  },
+  "grok-imagine-image-2/shorts/03": {
+    "niche": "ai-news",
+    "hook_type": "cost-callout",
+    "evidence_type": "screenshots",
+    "title_lever": "magnet-word",
+    "thumbnail_lever": "news-now",
+    "journey_framing": false,
+    "cross_linked_from": "grok-imagine-image-2",
+    "tagged_at": "2026-08-11T13:57:07+00:00"
+  },
+  "grok-imagine-image-2/shorts/04": {
+    "niche": "ai-news",
+    "hook_type": "curiosity-gap",
+    "evidence_type": "screenshots",
+    "title_lever": "own-term",
+    "thumbnail_lever": "news-now",
+    "journey_framing": false,
+    "cross_linked_from": "grok-imagine-image-2",
+    "tagged_at": "2026-08-11T13:57:08+00:00"
+  },
+  "grok-imagine-image-2/shorts/05": {
+    "niche": "ai-news",
+    "hook_type": "cost-callout",
+    "evidence_type": "screenshots",
+    "title_lever": "news-now",
+    "thumbnail_lever": "news-now",
+    "journey_framing": false,
+    "cross_linked_from": "grok-imagine-image-2",
+    "tagged_at": "2026-08-11T13:57:08+00:00"
+  },
+  "ai-kill-switch/shorts/01": {
+    "niche": "ai-news",
+    "journey_framing": false,
+    "cross_linked_from": "ai-kill-switch",
+    "hook_type": null,
+    "evidence_type": null,
+    "title_lever": null,
+    "thumbnail_lever": null,
+    "tagged_at": "2026-08-11T16:34:53+00:00"
+  },
+  "ai-kill-switch/shorts/02": {
+    "niche": "ai-news",
+    "journey_framing": false,
+    "cross_linked_from": "ai-kill-switch",
+    "hook_type": null,
+    "evidence_type": null,
+    "title_lever": null,
+    "thumbnail_lever": null,
+    "tagged_at": "2026-08-11T16:34:54+00:00"
+  },
+  "ai-kill-switch/shorts/03": {
+    "niche": "ai-news",
+    "journey_framing": false,
+    "cross_linked_from": "ai-kill-switch",
+    "hook_type": null,
+    "evidence_type": null,
+    "title_lever": null,
+    "thumbnail_lever": null,
+    "tagged_at": "2026-08-11T16:34:55+00:00"
+  },
+  "ai-kill-switch/shorts/04": {
+    "niche": "ai-news",
+    "journey_framing": false,
+    "cross_linked_from": "ai-kill-switch",
+    "hook_type": null,
+    "evidence_type": null,
+    "title_lever": null,
+    "thumbnail_lever": null,
+    "tagged_at": "2026-08-11T16:34:55+00:00"
+  },
+  "muse-glimmer-open-weights/shorts/01": {
+    "niche": "ai-news",
+    "hook_type": "myth-bust",
+    "evidence_type": "code-cards",
+    "title_lever": "barrier-drop",
+    "journey_framing": false,
+    "cross_linked_from": "muse-glimmer-open-weights",
+    "thumbnail_lever": null,
+    "tagged_at": "2026-08-11T16:46:25+00:00"
+  },
+  "muse-glimmer-open-weights/shorts/02": {
+    "niche": "ai-news",
+    "hook_type": "curiosity-gap",
+    "evidence_type": "code-cards",
+    "title_lever": "news-now",
+    "journey_framing": false,
+    "cross_linked_from": "muse-glimmer-open-weights",
+    "thumbnail_lever": null,
+    "tagged_at": "2026-08-11T16:46:40+00:00"
+  },
+  "muse-glimmer-open-weights/shorts/03": {
+    "niche": "ai-news",
+    "hook_type": "news-hook",
+    "evidence_type": "code-cards",
+    "title_lever": "number",
+    "journey_framing": false,
+    "cross_linked_from": "muse-glimmer-open-weights",
+    "thumbnail_lever": null,
+    "tagged_at": "2026-08-11T16:46:41+00:00"
+  },
+  "muse-glimmer-open-weights/shorts/04": {
+    "niche": "ai-news",
+    "hook_type": "curiosity-gap",
+    "evidence_type": "screenshots",
+    "title_lever": "barrier-drop",
+    "journey_framing": false,
+    "cross_linked_from": "muse-glimmer-open-weights",
+    "thumbnail_lever": null,
+    "tagged_at": "2026-08-11T16:46:41+00:00"
+  },
+  "neuralink-smart-home": {
+    "niche": null,
+    "hook_type": "number-contrast",
+    "evidence_type": "code-cards",
+    "title_lever": "number",
+    "thumbnail_lever": "word-focus",
+    "journey_framing": false,
+    "cross_linked_from": null,
+    "tagged_at": "2026-08-11T18:12:41+00:00"
+  }
+}

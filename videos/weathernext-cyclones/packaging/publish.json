@@ -1,0 +1,16 @@
+{
+  "_note": "Paths are ABSOLUTE on purpose: yt_upload.py's rp() resolves relative plan paths against the PARENT of this repo folder (it assumes a monorepo layout this standalone checkout doesn't have), so relative paths silently miss. Upload lands as a private draft; the one-video-per-channel-per-day cadence governs flipping it public in Studio.",
+  "video": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/weathernext-cyclones/output/weathernext-cyclones-music-MASTER.mp4",
+  "title": "AI Just Gave Hurricane Forecasts +24 Hours — Proven in Real Use",
+  "description_file": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/weathernext-cyclones/packaging/description.txt",
+  "thumbnail": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/weathernext-cyclones/packaging/thumbs/A.jpg",
+  "tags": [
+    "weathernext", "ai weather forecasting", "hurricane forecast", "hurricane melissa",
+    "google deepmind", "google ai", "cyclone", "ai news", "hurricane prediction",
+    "machine learning weather", "tropical cyclone", "nhc", "weather ai",
+    "artificial intelligence", "open source ai"
+  ],
+  "categoryId": 28,
+  "privacy": "private",
+  "madeForKids": false
+}

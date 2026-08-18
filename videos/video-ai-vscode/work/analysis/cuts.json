@@ -1,0 +1,24 @@
+{
+  "project": "video-ai-vscode",
+  "clip_order": ["raw"],
+  "clips": [
+    {
+      "id": "raw",
+      "file": "raw.mp4",
+      "keeps": [
+        {"s": 0.0, "e": 28.0}
+      ]
+    }
+  ],
+  "styles": {
+    "tight": {
+      "head": 0.08,
+      "min_tail": 0.12,
+      "max_tail": 0.28,
+      "soft_max_tail": 0.35,
+      "soft_margin": 6.0,
+      "internal_gap": 0.35,
+      "max_pause": 0.4
+    }
+  }
+}

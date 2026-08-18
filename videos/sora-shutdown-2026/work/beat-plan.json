@@ -1,0 +1,226 @@
+[
+ {
+  "beat": "cold-open-claim",
+  "start": 0.11,
+  "end": 17.55,
+  "nwords": 61,
+  "start_wi": 0,
+  "text": "In six weeks, the AI video model that started this industry gets switched off forever. And if you ever made anything with it, OpenAI is deleting your clips. The number that explains why is the one nobody is reporting: it cost about a million dollars a day to run. It made back two point one million. Total. In its whole life."
+ },
+ {
+  "beat": "context",
+  "start": 18.0,
+  "end": 34.04,
+  "nwords": 45,
+  "start_wi": 61,
+  "text": "Here's what existed before, so the deadline means something to you. Sora is OpenAI's video generator. In February 2024, it dropped a demo that made the internet lose its mind: type a sentence, get film-quality footage. OpenAI itself called it the GPT-1 moment for video."
+ },
+ {
+  "beat": "context-2",
+  "start": 34.36,
+  "end": 47.26,
+  "nwords": 34,
+  "start_wi": 106,
+  "text": "December 2024, Sora went public. September 2025, Sora 2 shipped with sound, real physics, and a social app where you could star in your own clips. OpenAI called that the GPT-3.5 moment for video."
+ },
+ {
+  "beat": "context-3",
+  "start": 47.59,
+  "end": 60.44,
+  "nwords": 43,
+  "start_wi": 140,
+  "text": "Three months later, Disney signed on. One billion dollars. Two hundred of its most famous characters. Then it all collapsed. And the date you need to know is September twenty-fourth. That's when the last piece of Sora, the developer access, gets turned off."
+ },
+ {
+  "beat": "verdict",
+  "start": 60.83,
+  "end": 68.67,
+  "nwords": 27,
+  "start_wi": 183,
+  "text": "The verdict, right now, because you shouldn't have to wait for it. OpenAI didn't lose interest in video. It ran the numbers, and the numbers were catastrophic."
+ },
+ {
+  "beat": "verdict-2",
+  "start": 69.0,
+  "end": 86.3,
+  "nwords": 55,
+  "start_wi": 210,
+  "text": "The Wall Street Journal, reported through TechCrunch, says Sora burned roughly a million dollars a day in compute. Every clip you generated drew down chips that OpenAI needed elsewhere. And the app made back two point one million dollars in purchases. Total. That's about two days of burn, against the entire lifetime of the product."
+ },
+ {
+  "beat": "verdict-3",
+  "start": 86.64,
+  "end": 100.43,
+  "nwords": 43,
+  "start_wi": 265,
+  "text": "Users were leaving before the plug got pulled. Sora peaked around a million users, then fell below half a million, per the WSJ. Downloads tell the same story: six point one million in November, one point one million by March, per Sensor Tower."
+ },
+ {
+  "beat": "verdict-4",
+  "start": 100.9,
+  "end": 118.11,
+  "nwords": 54,
+  "start_wi": 308,
+  "text": "Even Disney got blindsided. The one-billion-dollar deal, two hundred characters, signed three months earlier. Reuters says Disney teams were working on a Sora project one evening. Thirty minutes after that meeting, they learned the app was being killed. One source called it a big rug-pull. The deal never closed. No money ever changed hands."
+ },
+ {
+  "beat": "verdict-5",
+  "start": 118.62,
+  "end": 134.01,
+  "nwords": 50,
+  "start_wi": 362,
+  "text": "Here's what it means for you. The tool that made AI video a mainstream idea is being erased. On September twenty-fourth, the developer access dies. After that, OpenAI permanently deletes the data. If you made anything with Sora, or build on its API, the clock is not on your side."
+ },
+ {
+  "beat": "evidence-open",
+  "start": 134.43,
+  "end": 135.3,
+  "nwords": 6,
+  "start_wi": 412,
+  "text": "Let me show you the receipts."
+ },
+ {
+  "beat": "evidence-1",
+  "start": 135.88,
+  "end": 156.52,
+  "nwords": 61,
+  "start_wi": 418,
+  "text": "This is the announcement, as NBC covered it. March twenty-fourth, 2026. \"We're saying goodbye to Sora.\" Same week, OpenAI raised another ten billion dollars from investors. That's the context nobody mentions: the killing of Sora and the fundraising were one decision. The company was preparing for an IPO, and a video app losing money in public did nothing for that story."
+ },
+ {
+  "beat": "evidence-2",
+  "start": 156.99,
+  "end": 175.98,
+  "nwords": 61,
+  "start_wi": 479,
+  "text": "Here's the autopsy, from the Wall Street Journal's investigation, as TechCrunch summarized it. The app was burning roughly one million dollars a day. Not because people loved it. Because video generation is that expensive to run. And the reason that mattered? OpenAI needed those chips for the products that actually pay: coding and enterprise. The products developers like you build on."
+ },
+ {
+  "beat": "evidence-3",
+  "start": 176.48,
+  "end": 191.43,
+  "nwords": 45,
+  "start_wi": 540,
+  "text": "Claude Code, Anthropic's coding tool, was eating OpenAI's lunch with the developers and companies that drive revenue. That's the real competition, per the WSJ reporting: not another video app. A terminal tool. Sora was a side quest, and the company decided side quests are over."
+ },
+ {
+  "beat": "evidence-4",
+  "start": 191.81,
+  "end": 212.37,
+  "nwords": 67,
+  "start_wi": 585,
+  "text": "Here's the usage data, from Sensor Tower, via The Verge. October: four point eight million downloads. November: six point one million. Then the slide. Three point two. Two point one. One point four. One point one by March. And the analyst's note is the part you should care about: it was dropping while OpenAI expanded to new countries. Growth should have gone up. It went down anyway."
+ },
+ {
+  "beat": "evidence-5",
+  "start": 212.83,
+  "end": 231.9,
+  "nwords": 62,
+  "start_wi": 652,
+  "text": "And Disney. The deal was announced in December: one billion dollars from Disney, and more than two hundred characters, from Mickey to Marvel, available in Sora. Reuters reported the teams were literally working together on a project on a Monday evening. Thirty minutes after that meeting ended, Disney learned the app was being discontinued. It was, one source said, a big rug-pull."
+ },
+ {
+  "beat": "evidence-6",
+  "start": 232.32,
+  "end": 252.2,
+  "nwords": 66,
+  "start_wi": 714,
+  "text": "Now the part that makes this more than a funeral. The company that invented AI video walked away. The market you're building on didn't. In the last week, per Vector's analysis: MiniMax claimed the top spot on the independent video-editing leaderboards, at roughly half the price of anything comparable. ByteDance shipped an upgrade of its own within hours, unwilling to let a rival own the moment."
+ },
+ {
+  "beat": "evidence-7",
+  "start": 252.58,
+  "end": 273.47,
+  "nwords": 67,
+  "start_wi": 780,
+  "text": "The video-generation market is a few billion dollars a year right now. It's compounding at more than twenty percent annually. And it's one of the few AI applications where customers actually pay, and pay again: ad teams, e-commerce sellers, game studios. They don't buy tokens. They buy finished clips. The money moved to editing, and OpenAI left the one modality its rivals had learned to charge for."
+ },
+ {
+  "beat": "mid-roll-cta",
+  "start": 273.92,
+  "end": 287.23,
+  "nwords": 55,
+  "start_wi": 847,
+  "text": "If this is the kind of breakdown you want before you bet a workflow on a tool, subscribe. We cover these stories while the clock still matters, verdict in the first three minutes. And if you've got a take on who wins the video war now that OpenAI is out, drop it in the comments."
+ },
+ {
+  "beat": "evidence-8",
+  "start": 287.79,
+  "end": 301.3,
+  "nwords": 39,
+  "start_wi": 902,
+  "text": "So here's what the evidence says. Sora didn't die from one mistake. It died from four stacked ones: brutal compute costs, collapsing usage, a competitor nobody expected, and an IPO clock. Each one is documented. Together, they were fatal."
+ },
+ {
+  "beat": "honest-gap",
+  "start": 301.68,
+  "end": 302.85,
+  "nwords": 9,
+  "start_wi": 941,
+  "text": "Here's where I have to be straight with you."
+ },
+ {
+  "beat": "honest-gap-2",
+  "start": 303.37,
+  "end": 316.24,
+  "nwords": 43,
+  "start_wi": 950,
+  "text": "First, the numbers are estimates, and they disagree. A million dollars a day is the WSJ's figure. Other outlets floated numbers several times higher. The exact burn doesn't change the shape of the story, but it's a reported number, not a bank statement."
+ },
+ {
+  "beat": "honest-gap-3",
+  "start": 316.64,
+  "end": 331.38,
+  "nwords": 45,
+  "start_wi": 993,
+  "text": "Second, Sora 2 wasn't bad. Its physics were genuinely good, and OpenAI says the model lives on as world-simulation research for robotics. The side quest may be the main quest. The company's own words: Sora was a step toward robots that understand the physical world."
+ },
+ {
+  "beat": "honest-gap-4",
+  "start": 331.89,
+  "end": 350.28,
+  "nwords": 54,
+  "start_wi": 1038,
+  "text": "Third, the deletion is not total, yet. OpenAI's help page says data gets permanently deleted after the final export window passes. You can still export at sora.chatgpt.com/sunset. The hedge in the fine print: OpenAI says the final window exists if we are able to offer one. The word if is doing real work there."
+ },
+ {
+  "beat": "honest-gap-5",
+  "start": 350.81,
+  "end": 359.91,
+  "nwords": 26,
+  "start_wi": 1092,
+  "text": "And one more. The side-quests quote, from OpenAI's own executive, is reported by the WSJ, not confirmed by the company. Treat it as reporting, not confession."
+ },
+ {
+  "beat": "close",
+  "start": 360.33,
+  "end": 374.38,
+  "nwords": 51,
+  "start_wi": 1118,
+  "text": "So the catch, in one line. The app that made AI video real cost a million dollars a day to run. It made back two point one million in its whole life. And on September twenty-fourth, it gets turned off for good. OpenAI isn't deleting the memories. It's deleting the data."
+ },
+ {
+  "beat": "close-2",
+  "start": 374.84,
+  "end": 396.04,
+  "nwords": 63,
+  "start_wi": 1169,
+  "text": "Here's what you can do today, all of it free. One: if you ever made anything in Sora, export it now. The window closes when OpenAI says it closes. Two: if you build on the Sora API, your migration deadline is September twenty-fourth, and it's six weeks away. Three: watch MiniMax, ByteDance, and Google. The category OpenAI abandoned is the one moving fastest."
+ },
+ {
+  "beat": "close-3",
+  "start": 396.43,
+  "end": 414.48,
+  "nwords": 60,
+  "start_wi": 1232,
+  "text": "We put this together while the deadline still matters, not after it passed. That's the channel: when a story has a clock, the verdict lands here first. If that's useful, subscribe. Like the video if the two-million-versus-two-days math hit you the way it hit me. And comment your call: who takes the crown in AI video, MiniMax, ByteDance, or Google?"
+ },
+ {
+  "beat": "close-4",
+  "start": 414.87,
+  "end": 415.73,
+  "nwords": 7,
+  "start_wi": 1292,
+  "text": "We'll see you on the next one."
+ }
+]

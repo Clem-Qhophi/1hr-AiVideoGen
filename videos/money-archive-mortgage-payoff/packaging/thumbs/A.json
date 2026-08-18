@@ -1,0 +1,32 @@
+{
+  "engine": "remotion-still",
+  "composition": "MoneyArchiveMortgageA",
+  "props": {
+    "headline": "$300/MO SAVES THIS",
+    "emphasis": null,
+    "kicker": "REAL MORTGAGE MATH",
+    "sub": null,
+    "badge": "7.5 YRS EARLY",
+    "accent": "lime",
+    "variant": "versus",
+    "image": "thumbs/000-kitchen-table-bills-0.jpg",
+    "image2": "thumbs/004-piggy-bank-close-up-0.jpg",
+    "labelA": "NO EXTRA PAYMENTS",
+    "labelB": "+$300/MONTH",
+    "valueA": "$525K",
+    "valueB": "$370K",
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "left",
+    "pos": "center",
+    "focus": "50 pct 30 pct",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": null,
+    "faceAt": null,
+    "faceFocus": null,
+    "faceCutout": false
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\MoneyArchiveMortgageA.tsx"
+}

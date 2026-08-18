@@ -1,0 +1,3160 @@
+{
+ "words": [
+  {
+   "text": "Google",
+   "start": 87,
+   "end": 460
+  },
+  {
+   "text": "just",
+   "start": 515,
+   "end": 778
+  },
+  {
+   "text": "dropped",
+   "start": 789,
+   "end": 1140
+  },
+  {
+   "text": "Gemini",
+   "start": 1151,
+   "end": 1589
+  },
+  {
+   "text": "3.7",
+   "start": 1644,
+   "end": 2521
+  },
+  {
+   "text": "Flash",
+   "start": 2532,
+   "end": 3037
+  },
+  {
+   "text": "jumping",
+   "start": 3300,
+   "end": 3596
+  },
+  {
+   "text": "to",
+   "start": 3607,
+   "end": 3673
+  },
+  {
+   "text": "65.3 percent",
+   "start": 3684,
+   "end": 5208
+  },
+  {
+   "text": "on",
+   "start": 5219,
+   "end": 5317
+  },
+  {
+   "text": "coding",
+   "start": 5328,
+   "end": 5603
+  },
+  {
+   "text": "benchmarks",
+   "start": 5614,
+   "end": 6129
+  },
+  {
+   "text": "while",
+   "start": 6217,
+   "end": 6381
+  },
+  {
+   "text": "cutting",
+   "start": 6392,
+   "end": 6655
+  },
+  {
+   "text": "your",
+   "start": 6666,
+   "end": 6820
+  },
+  {
+   "text": "API",
+   "start": 6907,
+   "end": 7346
+  },
+  {
+   "text": "cost",
+   "start": 7357,
+   "end": 7697
+  },
+  {
+   "text": "in",
+   "start": 7708,
+   "end": 7774
+  },
+  {
+   "text": "half",
+   "start": 7785,
+   "end": 8168
+  },
+  {
+   "text": "But",
+   "start": 8541,
+   "end": 8618
+  },
+  {
+   "text": "there",
+   "start": 8629,
+   "end": 8760
+  },
+  {
+   "text": "is",
+   "start": 8771,
+   "end": 8848
+  },
+  {
+   "text": "a",
+   "start": 8859,
+   "end": 8925
+  },
+  {
+   "text": "2027",
+   "start": 8936,
+   "end": 9769
+  },
+  {
+   "text": "catch",
+   "start": 9780,
+   "end": 10087
+  },
+  {
+   "text": "in",
+   "start": 10098,
+   "end": 10164
+  },
+  {
+   "text": "the",
+   "start": 10175,
+   "end": 10252
+  },
+  {
+   "text": "fine",
+   "start": 10263,
+   "end": 10559
+  },
+  {
+   "text": "print",
+   "start": 10570,
+   "end": 10866
+  },
+  {
+   "text": "that",
+   "start": 10932,
+   "end": 11063
+  },
+  {
+   "text": "completely",
+   "start": 11074,
+   "end": 11578
+  },
+  {
+   "text": "changes",
+   "start": 11589,
+   "end": 12028
+  },
+  {
+   "text": "what",
+   "start": 12039,
+   "end": 12160
+  },
+  {
+   "text": "you",
+   "start": 12171,
+   "end": 12247
+  },
+  {
+   "text": "will",
+   "start": 12258,
+   "end": 12368
+  },
+  {
+   "text": "pay",
+   "start": 12379,
+   "end": 12774
+  },
+  {
+   "text": "as",
+   "start": 12785,
+   "end": 12894
+  },
+  {
+   "text": "a",
+   "start": 12905,
+   "end": 12938
+  },
+  {
+   "text": "developer",
+   "start": 12949,
+   "end": 13453
+  },
+  {
+   "text": "This",
+   "start": 13826,
+   "end": 13969
+  },
+  {
+   "text": "release",
+   "start": 13980,
+   "end": 14287
+  },
+  {
+   "text": "comes",
+   "start": 14298,
+   "end": 14550
+  },
+  {
+   "text": "only",
+   "start": 14660,
+   "end": 14934
+  },
+  {
+   "text": "three",
+   "start": 14945,
+   "end": 15186
+  },
+  {
+   "text": "weeks",
+   "start": 15197,
+   "end": 15559
+  },
+  {
+   "text": "after",
+   "start": 15570,
+   "end": 15789
+  },
+  {
+   "text": "Gemini",
+   "start": 15800,
+   "end": 16228
+  },
+  {
+   "text": "3.6",
+   "start": 16304,
+   "end": 17017
+  },
+  {
+   "text": "Flash",
+   "start": 17028,
+   "end": 17500
+  },
+  {
+   "text": "Google",
+   "start": 17861,
+   "end": 18103
+  },
+  {
+   "text": "is",
+   "start": 18114,
+   "end": 18223
+  },
+  {
+   "text": "moving",
+   "start": 18234,
+   "end": 18563
+  },
+  {
+   "text": "at",
+   "start": 18574,
+   "end": 18662
+  },
+  {
+   "text": "breakneck",
+   "start": 18673,
+   "end": 19035
+  },
+  {
+   "text": "speed",
+   "start": 19046,
+   "end": 19418
+  },
+  {
+   "text": "They",
+   "start": 19780,
+   "end": 19901
+  },
+  {
+   "text": "built",
+   "start": 19912,
+   "end": 20164
+  },
+  {
+   "text": "3.7",
+   "start": 20230,
+   "end": 21118
+  },
+  {
+   "text": "Flash",
+   "start": 21129,
+   "end": 21546
+  },
+  {
+   "text": "as",
+   "start": 21557,
+   "end": 21688
+  },
+  {
+   "text": "a",
+   "start": 21699,
+   "end": 21776
+  },
+  {
+   "text": "dedicated",
+   "start": 21787,
+   "end": 22280
+  },
+  {
+   "text": "workhorse",
+   "start": 22291,
+   "end": 22719
+  },
+  {
+   "text": "for",
+   "start": 22730,
+   "end": 22850
+  },
+  {
+   "text": "coding",
+   "start": 22861,
+   "end": 23234
+  },
+  {
+   "text": "agentic",
+   "start": 23552,
+   "end": 23903
+  },
+  {
+   "text": "workflows",
+   "start": 23914,
+   "end": 24506
+  },
+  {
+   "text": "and",
+   "start": 24682,
+   "end": 24780
+  },
+  {
+   "text": "complex",
+   "start": 24791,
+   "end": 25274
+  },
+  {
+   "text": "document",
+   "start": 25285,
+   "end": 25635
+  },
+  {
+   "text": "parsing",
+   "start": 25646,
+   "end": 26008
+  },
+  {
+   "text": "Instead",
+   "start": 26359,
+   "end": 26633
+  },
+  {
+   "text": "of",
+   "start": 26644,
+   "end": 26721
+  },
+  {
+   "text": "just",
+   "start": 26732,
+   "end": 26940
+  },
+  {
+   "text": "guessing",
+   "start": 26951,
+   "end": 27335
+  },
+  {
+   "text": "it",
+   "start": 27598,
+   "end": 27664
+  },
+  {
+   "text": "introduces",
+   "start": 27675,
+   "end": 28234
+  },
+  {
+   "text": "customizable",
+   "start": 28245,
+   "end": 28914
+  },
+  {
+   "text": "thinking",
+   "start": 28925,
+   "end": 29243
+  },
+  {
+   "text": "budgets",
+   "start": 29254,
+   "end": 29725
+  },
+  {
+   "text": "That",
+   "start": 30087,
+   "end": 30164
+  },
+  {
+   "text": "means",
+   "start": 30175,
+   "end": 30361
+  },
+  {
+   "text": "you",
+   "start": 30372,
+   "end": 30460
+  },
+  {
+   "text": "can",
+   "start": 30471,
+   "end": 30603
+  },
+  {
+   "text": "tune",
+   "start": 30614,
+   "end": 30899
+  },
+  {
+   "text": "exactly",
+   "start": 30910,
+   "end": 31425
+  },
+  {
+   "text": "how",
+   "start": 31436,
+   "end": 31600
+  },
+  {
+   "text": "long",
+   "start": 31611,
+   "end": 31929
+  },
+  {
+   "text": "the",
+   "start": 31940,
+   "end": 32006
+  },
+  {
+   "text": "model",
+   "start": 32017,
+   "end": 32346
+  },
+  {
+   "text": "reasons",
+   "start": 32357,
+   "end": 32697
+  },
+  {
+   "text": "before",
+   "start": 32708,
+   "end": 33026
+  },
+  {
+   "text": "answering",
+   "start": 33037,
+   "end": 33442
+  },
+  {
+   "text": "You",
+   "start": 33804,
+   "end": 33870
+  },
+  {
+   "text": "control",
+   "start": 33881,
+   "end": 34265
+  },
+  {
+   "text": "the",
+   "start": 34276,
+   "end": 34364
+  },
+  {
+   "text": "balance",
+   "start": 34375,
+   "end": 34693
+  },
+  {
+   "text": "between",
+   "start": 34703,
+   "end": 35010
+  },
+  {
+   "text": "latency",
+   "start": 35021,
+   "end": 35493
+  },
+  {
+   "text": "which",
+   "start": 35701,
+   "end": 35844
+  },
+  {
+   "text": "is",
+   "start": 35855,
+   "end": 35942
+  },
+  {
+   "text": "response",
+   "start": 35953,
+   "end": 36326
+  },
+  {
+   "text": "speed",
+   "start": 36337,
+   "end": 36754
+  },
+  {
+   "text": "and",
+   "start": 37028,
+   "end": 37094
+  },
+  {
+   "text": "total",
+   "start": 37105,
+   "end": 37401
+  },
+  {
+   "text": "accuracy",
+   "start": 37412,
+   "end": 37916
+  },
+  {
+   "text": "Here",
+   "start": 38300,
+   "end": 38497
+  },
+  {
+   "text": "is",
+   "start": 38508,
+   "end": 38596
+  },
+  {
+   "text": "the",
+   "start": 38607,
+   "end": 38706
+  },
+  {
+   "text": "under",
+   "start": 38717,
+   "end": 38980
+  },
+  {
+   "text": "3-minute",
+   "start": 38991,
+   "end": 39528
+  },
+  {
+   "text": "verdict",
+   "start": 39539,
+   "end": 39901
+  },
+  {
+   "text": "on",
+   "start": 40010,
+   "end": 40142
+  },
+  {
+   "text": "what",
+   "start": 40153,
+   "end": 40328
+  },
+  {
+   "text": "this",
+   "start": 40339,
+   "end": 40526
+  },
+  {
+   "text": "means",
+   "start": 40537,
+   "end": 40855
+  },
+  {
+   "text": "for",
+   "start": 40866,
+   "end": 40975
+  },
+  {
+   "text": "your",
+   "start": 40986,
+   "end": 41074
+  },
+  {
+   "text": "daily",
+   "start": 41085,
+   "end": 41337
+  },
+  {
+   "text": "work",
+   "start": 41348,
+   "end": 41699
+  },
+  {
+   "text": "Gemini",
+   "start": 42061,
+   "end": 42445
+  },
+  {
+   "text": "3.7",
+   "start": 42456,
+   "end": 43311
+  },
+  {
+   "text": "Flash",
+   "start": 43322,
+   "end": 43739
+  },
+  {
+   "text": "is",
+   "start": 43848,
+   "end": 43936
+  },
+  {
+   "text": "no",
+   "start": 43947,
+   "end": 44122
+  },
+  {
+   "text": "longer",
+   "start": 44133,
+   "end": 44594
+  },
+  {
+   "text": "just",
+   "start": 44714,
+   "end": 44923
+  },
+  {
+   "text": "a",
+   "start": 44934,
+   "end": 44978
+  },
+  {
+   "text": "budget",
+   "start": 44989,
+   "end": 45296
+  },
+  {
+   "text": "fallback",
+   "start": 45307,
+   "end": 45866
+  },
+  {
+   "text": "It",
+   "start": 46228,
+   "end": 46293
+  },
+  {
+   "text": "is",
+   "start": 46304,
+   "end": 46403
+  },
+  {
+   "text": "now",
+   "start": 46414,
+   "end": 46611
+  },
+  {
+   "text": "Google's",
+   "start": 46622,
+   "end": 46995
+  },
+  {
+   "text": "most",
+   "start": 47006,
+   "end": 47302
+  },
+  {
+   "text": "practical",
+   "start": 47313,
+   "end": 47796
+  },
+  {
+   "text": "model",
+   "start": 47807,
+   "end": 48081
+  },
+  {
+   "text": "for",
+   "start": 48092,
+   "end": 48278
+  },
+  {
+   "text": "real",
+   "start": 48289,
+   "end": 48497
+  },
+  {
+   "text": "software",
+   "start": 48508,
+   "end": 48936
+  },
+  {
+   "text": "engineering",
+   "start": 48947,
+   "end": 49429
+  },
+  {
+   "text": "On",
+   "start": 49791,
+   "end": 49934
+  },
+  {
+   "text": "everyday",
+   "start": 49945,
+   "end": 50306
+  },
+  {
+   "text": "code",
+   "start": 50318,
+   "end": 50559
+  },
+  {
+   "text": "fixes",
+   "start": 50570,
+   "end": 51030
+  },
+  {
+   "text": "it",
+   "start": 51260,
+   "end": 51326
+  },
+  {
+   "text": "performs",
+   "start": 51337,
+   "end": 51732
+  },
+  {
+   "text": "like",
+   "start": 51743,
+   "end": 51853
+  },
+  {
+   "text": "a",
+   "start": 51864,
+   "end": 51918
+  },
+  {
+   "text": "top-tier",
+   "start": 51929,
+   "end": 52401
+  },
+  {
+   "text": "frontier",
+   "start": 52412,
+   "end": 52861
+  },
+  {
+   "text": "model",
+   "start": 52872,
+   "end": 53212
+  },
+  {
+   "text": "at",
+   "start": 53223,
+   "end": 53300
+  },
+  {
+   "text": "a",
+   "start": 53311,
+   "end": 53344
+  },
+  {
+   "text": "fraction",
+   "start": 53355,
+   "end": 53760
+  },
+  {
+   "text": "of",
+   "start": 53771,
+   "end": 53826
+  },
+  {
+   "text": "the",
+   "start": 53837,
+   "end": 53892
+  },
+  {
+   "text": "price",
+   "start": 53903,
+   "end": 54375
+  },
+  {
+   "text": "If",
+   "start": 54736,
+   "end": 54835
+  },
+  {
+   "text": "you",
+   "start": 54846,
+   "end": 54934
+  },
+  {
+   "text": "build",
+   "start": 54945,
+   "end": 55230
+  },
+  {
+   "text": "AI",
+   "start": 55361,
+   "end": 55614
+  },
+  {
+   "text": "coding",
+   "start": 55625,
+   "end": 55943
+  },
+  {
+   "text": "agents",
+   "start": 55953,
+   "end": 56414
+  },
+  {
+   "text": "your",
+   "start": 56655,
+   "end": 56743
+  },
+  {
+   "text": "per-task",
+   "start": 56754,
+   "end": 57192
+  },
+  {
+   "text": "operational",
+   "start": 57203,
+   "end": 57730
+  },
+  {
+   "text": "cost",
+   "start": 57741,
+   "end": 58113
+  },
+  {
+   "text": "just",
+   "start": 58168,
+   "end": 58410
+  },
+  {
+   "text": "dropped",
+   "start": 58421,
+   "end": 58771
+  },
+  {
+   "text": "by",
+   "start": 58782,
+   "end": 58925
+  },
+  {
+   "text": "fifty",
+   "start": 58936,
+   "end": 59243
+  },
+  {
+   "text": "percent",
+   "start": 59254,
+   "end": 59692
+  },
+  {
+   "text": "You",
+   "start": 60054,
+   "end": 60120
+  },
+  {
+   "text": "do",
+   "start": 60131,
+   "end": 60219
+  },
+  {
+   "text": "not",
+   "start": 60230,
+   "end": 60416
+  },
+  {
+   "text": "need",
+   "start": 60427,
+   "end": 60592
+  },
+  {
+   "text": "to",
+   "start": 60603,
+   "end": 60690
+  },
+  {
+   "text": "rewrite",
+   "start": 60701,
+   "end": 61074
+  },
+  {
+   "text": "your",
+   "start": 61085,
+   "end": 61173
+  },
+  {
+   "text": "prompt",
+   "start": 61184,
+   "end": 61436
+  },
+  {
+   "text": "stack",
+   "start": 61447,
+   "end": 61853
+  },
+  {
+   "text": "It",
+   "start": 62214,
+   "end": 62291
+  },
+  {
+   "text": "drops",
+   "start": 62302,
+   "end": 62620
+  },
+  {
+   "text": "right",
+   "start": 62631,
+   "end": 62883
+  },
+  {
+   "text": "into",
+   "start": 62894,
+   "end": 63048
+  },
+  {
+   "text": "the",
+   "start": 63059,
+   "end": 63146
+  },
+  {
+   "text": "Gemini",
+   "start": 63157,
+   "end": 63596
+  },
+  {
+   "text": "API",
+   "start": 63607,
+   "end": 64155
+  },
+  {
+   "text": "Google",
+   "start": 64407,
+   "end": 64725
+  },
+  {
+   "text": "AI",
+   "start": 64802,
+   "end": 65043
+  },
+  {
+   "text": "Studio",
+   "start": 65054,
+   "end": 65570
+  },
+  {
+   "text": "and",
+   "start": 65789,
+   "end": 65931
+  },
+  {
+   "text": "Android",
+   "start": 65943,
+   "end": 66250
+  },
+  {
+   "text": "Studio",
+   "start": 66260,
+   "end": 66677
+  },
+  {
+   "text": "The",
+   "start": 67050,
+   "end": 67094
+  },
+  {
+   "text": "key",
+   "start": 67105,
+   "end": 67313
+  },
+  {
+   "text": "upgrade",
+   "start": 67324,
+   "end": 67730
+  },
+  {
+   "text": "is",
+   "start": 67774,
+   "end": 67850
+  },
+  {
+   "text": "how",
+   "start": 67861,
+   "end": 68026
+  },
+  {
+   "text": "it",
+   "start": 68037,
+   "end": 68092
+  },
+  {
+   "text": "handles",
+   "start": 68103,
+   "end": 68497
+  },
+  {
+   "text": "multi-step",
+   "start": 68508,
+   "end": 69100
+  },
+  {
+   "text": "logic",
+   "start": 69111,
+   "end": 69506
+  },
+  {
+   "text": "When",
+   "start": 69879,
+   "end": 69956
+  },
+  {
+   "text": "an",
+   "start": 69967,
+   "end": 70065
+  },
+  {
+   "text": "agent",
+   "start": 70076,
+   "end": 70394
+  },
+  {
+   "text": "breaks",
+   "start": 70405,
+   "end": 70657
+  },
+  {
+   "text": "a",
+   "start": 70668,
+   "end": 70712
+  },
+  {
+   "text": "codebase",
+   "start": 70723,
+   "end": 71238
+  },
+  {
+   "text": "into",
+   "start": 71250,
+   "end": 71370
+  },
+  {
+   "text": "smaller",
+   "start": 71381,
+   "end": 71743
+  },
+  {
+   "text": "sub-tasks",
+   "start": 71754,
+   "end": 72401
+  },
+  {
+   "text": "earlier",
+   "start": 72741,
+   "end": 73048
+  },
+  {
+   "text": "models",
+   "start": 73059,
+   "end": 73410
+  },
+  {
+   "text": "would",
+   "start": 73421,
+   "end": 73640
+  },
+  {
+   "text": "lose",
+   "start": 73651,
+   "end": 73925
+  },
+  {
+   "text": "track",
+   "start": 73936,
+   "end": 74342
+  },
+  {
+   "text": "after",
+   "start": 74418,
+   "end": 74616
+  },
+  {
+   "text": "three",
+   "start": 74627,
+   "end": 74813
+  },
+  {
+   "text": "steps",
+   "start": 74824,
+   "end": 75328
+  },
+  {
+   "text": "Gemini",
+   "start": 75690,
+   "end": 76107
+  },
+  {
+   "text": "3.7",
+   "start": 76118,
+   "end": 77039
+  },
+  {
+   "text": "maintains",
+   "start": 77050,
+   "end": 77532
+  },
+  {
+   "text": "plan",
+   "start": 77543,
+   "end": 77807
+  },
+  {
+   "text": "fidelity",
+   "start": 77818,
+   "end": 78322
+  },
+  {
+   "text": "across",
+   "start": 78399,
+   "end": 78793
+  },
+  {
+   "text": "long",
+   "start": 78804,
+   "end": 79100
+  },
+  {
+   "text": "tool",
+   "start": 79111,
+   "end": 79331
+  },
+  {
+   "text": "calls",
+   "start": 79342,
+   "end": 79780
+  },
+  {
+   "text": "For",
+   "start": 80164,
+   "end": 80230
+  },
+  {
+   "text": "developers",
+   "start": 80241,
+   "end": 80844
+  },
+  {
+   "text": "this",
+   "start": 81063,
+   "end": 81249
+  },
+  {
+   "text": "turns",
+   "start": 81260,
+   "end": 81524
+  },
+  {
+   "text": "fragile",
+   "start": 81535,
+   "end": 81962
+  },
+  {
+   "text": "scripts",
+   "start": 81973,
+   "end": 82357
+  },
+  {
+   "text": "into",
+   "start": 82368,
+   "end": 82609
+  },
+  {
+   "text": "reliable",
+   "start": 82620,
+   "end": 83157
+  },
+  {
+   "text": "background",
+   "start": 83168,
+   "end": 83607
+  },
+  {
+   "text": "workers",
+   "start": 83618,
+   "end": 84089
+  },
+  {
+   "text": "If",
+   "start": 84451,
+   "end": 84550
+  },
+  {
+   "text": "your",
+   "start": 84561,
+   "end": 84671
+  },
+  {
+   "text": "workflow",
+   "start": 84682,
+   "end": 85054
+  },
+  {
+   "text": "handles",
+   "start": 85065,
+   "end": 85482
+  },
+  {
+   "text": "messy",
+   "start": 85493,
+   "end": 85899
+  },
+  {
+   "text": "PDFs",
+   "start": 85910,
+   "end": 86600
+  },
+  {
+   "text": "API",
+   "start": 86787,
+   "end": 87192
+  },
+  {
+   "text": "logs",
+   "start": 87203,
+   "end": 87631
+  },
+  {
+   "text": "or",
+   "start": 87785,
+   "end": 87861
+  },
+  {
+   "text": "pull",
+   "start": 87872,
+   "end": 88081
+  },
+  {
+   "text": "requests",
+   "start": 88092,
+   "end": 88629
+  },
+  {
+   "text": "this",
+   "start": 88969,
+   "end": 89188
+  },
+  {
+   "text": "is",
+   "start": 89254,
+   "end": 89364
+  },
+  {
+   "text": "an",
+   "start": 89375,
+   "end": 89451
+  },
+  {
+   "text": "instant",
+   "start": 89462,
+   "end": 89780
+  },
+  {
+   "text": "upgrade",
+   "start": 89791,
+   "end": 90197
+  },
+  {
+   "text": "You",
+   "start": 90559,
+   "end": 90635
+  },
+  {
+   "text": "get",
+   "start": 90646,
+   "end": 90789
+  },
+  {
+   "text": "faster",
+   "start": 90800,
+   "end": 91184
+  },
+  {
+   "text": "response",
+   "start": 91195,
+   "end": 91589
+  },
+  {
+   "text": "times",
+   "start": 91600,
+   "end": 92017
+  },
+  {
+   "text": "cleaner",
+   "start": 92182,
+   "end": 92456
+  },
+  {
+   "text": "JSON",
+   "start": 92467,
+   "end": 92850
+  },
+  {
+   "text": "outputs",
+   "start": 92861,
+   "end": 93377
+  },
+  {
+   "text": "and",
+   "start": 93552,
+   "end": 93662
+  },
+  {
+   "text": "fewer",
+   "start": 93673,
+   "end": 93958
+  },
+  {
+   "text": "syntax",
+   "start": 93969,
+   "end": 94407
+  },
+  {
+   "text": "errors",
+   "start": 94418,
+   "end": 94780
+  },
+  {
+   "text": "That",
+   "start": 95153,
+   "end": 95252
+  },
+  {
+   "text": "is",
+   "start": 95263,
+   "end": 95339
+  },
+  {
+   "text": "the",
+   "start": 95350,
+   "end": 95427
+  },
+  {
+   "text": "verdict",
+   "start": 95438,
+   "end": 95866
+  },
+  {
+   "text": "in",
+   "start": 95953,
+   "end": 96052
+  },
+  {
+   "text": "under",
+   "start": 96107,
+   "end": 96304
+  },
+  {
+   "text": "three",
+   "start": 96315,
+   "end": 96535
+  },
+  {
+   "text": "minutes",
+   "start": 96546,
+   "end": 97017
+  },
+  {
+   "text": "Now",
+   "start": 97379,
+   "end": 97500
+  },
+  {
+   "text": "let",
+   "start": 97510,
+   "end": 97620
+  },
+  {
+   "text": "us",
+   "start": 97631,
+   "end": 97752
+  },
+  {
+   "text": "look",
+   "start": 97763,
+   "end": 97905
+  },
+  {
+   "text": "at",
+   "start": 97916,
+   "end": 97971
+  },
+  {
+   "text": "the",
+   "start": 97982,
+   "end": 98048
+  },
+  {
+   "text": "verified",
+   "start": 98059,
+   "end": 98629
+  },
+  {
+   "text": "benchmark",
+   "start": 98640,
+   "end": 99035
+  },
+  {
+   "text": "data",
+   "start": 99046,
+   "end": 99309
+  },
+  {
+   "text": "Let",
+   "start": 99671,
+   "end": 99758
+  },
+  {
+   "text": "us",
+   "start": 99769,
+   "end": 99879
+  },
+  {
+   "text": "break",
+   "start": 99890,
+   "end": 100142
+  },
+  {
+   "text": "down",
+   "start": 100153,
+   "end": 100394
+  },
+  {
+   "text": "the",
+   "start": 100405,
+   "end": 100493
+  },
+  {
+   "text": "verified",
+   "start": 100504,
+   "end": 101030
+  },
+  {
+   "text": "numbers",
+   "start": 101041,
+   "end": 101326
+  },
+  {
+   "text": "from",
+   "start": 101337,
+   "end": 101535
+  },
+  {
+   "text": "Google",
+   "start": 101546,
+   "end": 101907
+  },
+  {
+   "text": "DeepMind's",
+   "start": 101918,
+   "end": 102478
+  },
+  {
+   "text": "official",
+   "start": 102489,
+   "end": 102850
+  },
+  {
+   "text": "report",
+   "start": 102861,
+   "end": 103256
+  },
+  {
+   "text": "On",
+   "start": 103618,
+   "end": 103695
+  },
+  {
+   "text": "the",
+   "start": 103706,
+   "end": 103815
+  },
+  {
+   "text": "DeepSWE",
+   "start": 103826,
+   "end": 104561
+  },
+  {
+   "text": "v1.1",
+   "start": 104572,
+   "end": 105877
+  },
+  {
+   "text": "coding",
+   "start": 105888,
+   "end": 106173
+  },
+  {
+   "text": "benchmark",
+   "start": 106184,
+   "end": 106699
+  },
+  {
+   "text": "Gemini",
+   "start": 106940,
+   "end": 107357
+  },
+  {
+   "text": "3.7",
+   "start": 107423,
+   "end": 108234
+  },
+  {
+   "text": "Flash",
+   "start": 108245,
+   "end": 108629
+  },
+  {
+   "text": "hits",
+   "start": 108640,
+   "end": 108892
+  },
+  {
+   "text": "65.3 percent",
+   "start": 108958,
+   "end": 110504
+  },
+  {
+   "text": "That",
+   "start": 110866,
+   "end": 110953
+  },
+  {
+   "text": "is",
+   "start": 110964,
+   "end": 111074
+  },
+  {
+   "text": "up",
+   "start": 111085,
+   "end": 111206
+  },
+  {
+   "text": "from",
+   "start": 111217,
+   "end": 111359
+  },
+  {
+   "text": "49.0 percent",
+   "start": 111370,
+   "end": 112291
+  },
+  {
+   "text": "on",
+   "start": 112390,
+   "end": 112499
+  },
+  {
+   "text": "3.6",
+   "start": 112510,
+   "end": 113234
+  },
+  {
+   "text": "Flash",
+   "start": 113245,
+   "end": 113717
+  },
+  {
+   "text": "On",
+   "start": 114078,
+   "end": 114177
+  },
+  {
+   "text": "FrontierCode",
+   "start": 114188,
+   "end": 114813
+  },
+  {
+   "text": "Main",
+   "start": 114824,
+   "end": 115098
+  },
+  {
+   "text": "it",
+   "start": 115427,
+   "end": 115482
+  },
+  {
+   "text": "scores",
+   "start": 115493,
+   "end": 115811
+  },
+  {
+   "text": "43.6 percent",
+   "start": 115822,
+   "end": 117247
+  },
+  {
+   "text": "up",
+   "start": 117576,
+   "end": 117708
+  },
+  {
+   "text": "nearly",
+   "start": 117719,
+   "end": 118026
+  },
+  {
+   "text": "ten",
+   "start": 118037,
+   "end": 118333
+  },
+  {
+   "text": "full",
+   "start": 118344,
+   "end": 118607
+  },
+  {
+   "text": "points",
+   "start": 118618,
+   "end": 119100
+  },
+  {
+   "text": "On",
+   "start": 119462,
+   "end": 119528
+  },
+  {
+   "text": "the",
+   "start": 119539,
+   "end": 119616
+  },
+  {
+   "text": "WebDev",
+   "start": 119627,
+   "end": 120021
+  },
+  {
+   "text": "Arena",
+   "start": 120032,
+   "end": 120296
+  },
+  {
+   "text": "benchmark",
+   "start": 120307,
+   "end": 120822
+  },
+  {
+   "text": "it",
+   "start": 121008,
+   "end": 121085
+  },
+  {
+   "text": "posts",
+   "start": 121096,
+   "end": 121436
+  },
+  {
+   "text": "an",
+   "start": 121447,
+   "end": 121578
+  },
+  {
+   "text": "Elo",
+   "start": 121644,
+   "end": 122083
+  },
+  {
+   "text": "rating",
+   "start": 122094,
+   "end": 122499
+  },
+  {
+   "text": "of",
+   "start": 122510,
+   "end": 122598
+  },
+  {
+   "text": "1588",
+   "start": 122609,
+   "end": 123607
+  },
+  {
+   "text": "beating",
+   "start": 123870,
+   "end": 124177
+  },
+  {
+   "text": "previous",
+   "start": 124188,
+   "end": 124660
+  },
+  {
+   "text": "flash",
+   "start": 124671,
+   "end": 124999
+  },
+  {
+   "text": "models",
+   "start": 125010,
+   "end": 125405
+  },
+  {
+   "text": "on",
+   "start": 125504,
+   "end": 125614
+  },
+  {
+   "text": "frontend",
+   "start": 125625,
+   "end": 126074
+  },
+  {
+   "text": "web",
+   "start": 126085,
+   "end": 126239
+  },
+  {
+   "text": "creation",
+   "start": 126250,
+   "end": 126710
+  },
+  {
+   "text": "For",
+   "start": 127105,
+   "end": 127192
+  },
+  {
+   "text": "document",
+   "start": 127203,
+   "end": 127609
+  },
+  {
+   "text": "analysis",
+   "start": 127620,
+   "end": 128168
+  },
+  {
+   "text": "on",
+   "start": 128234,
+   "end": 128399
+  },
+  {
+   "text": "GDP",
+   "start": 128410,
+   "end": 129002
+  },
+  {
+   "text": ".",
+   "start": 129013,
+   "end": 129210
+  },
+  {
+   "text": "pdf",
+   "start": 129221,
+   "end": 129802
+  },
+  {
+   "text": "it",
+   "start": 130043,
+   "end": 130098
+  },
+  {
+   "text": "scores",
+   "start": 130109,
+   "end": 130449
+  },
+  {
+   "text": "34.0 percent",
+   "start": 130460,
+   "end": 131370
+  },
+  {
+   "text": "compared",
+   "start": 131480,
+   "end": 131831
+  },
+  {
+   "text": "to",
+   "start": 131842,
+   "end": 131896
+  },
+  {
+   "text": "22.0 percent",
+   "start": 131907,
+   "end": 132697
+  },
+  {
+   "text": "before",
+   "start": 132708,
+   "end": 133103
+  },
+  {
+   "text": "On",
+   "start": 133464,
+   "end": 133563
+  },
+  {
+   "text": "AutomationBench",
+   "start": 133574,
+   "end": 134440
+  },
+  {
+   "text": "measuring",
+   "start": 134638,
+   "end": 135087
+  },
+  {
+   "text": "business",
+   "start": 135098,
+   "end": 135449
+  },
+  {
+   "text": "workflows",
+   "start": 135460,
+   "end": 136052
+  },
+  {
+   "text": "it",
+   "start": 136228,
+   "end": 136337
+  },
+  {
+   "text": "jumped",
+   "start": 136348,
+   "end": 136600
+  },
+  {
+   "text": "from",
+   "start": 136611,
+   "end": 136754
+  },
+  {
+   "text": "17.0 percent",
+   "start": 136765,
+   "end": 137653
+  },
+  {
+   "text": "to",
+   "start": 137839,
+   "end": 137916
+  },
+  {
+   "text": "30.4 percent",
+   "start": 137927,
+   "end": 139122
+  },
+  {
+   "text": "Now",
+   "start": 139484,
+   "end": 139725
+  },
+  {
+   "text": "if",
+   "start": 139802,
+   "end": 139923
+  },
+  {
+   "text": "you",
+   "start": 139934,
+   "end": 140021
+  },
+  {
+   "text": "want",
+   "start": 140032,
+   "end": 140252
+  },
+  {
+   "text": "real",
+   "start": 140263,
+   "end": 140581
+  },
+  {
+   "text": "verified",
+   "start": 140778,
+   "end": 141217
+  },
+  {
+   "text": "breakdowns",
+   "start": 141228,
+   "end": 141688
+  },
+  {
+   "text": "the",
+   "start": 141699,
+   "end": 141787
+  },
+  {
+   "text": "same",
+   "start": 141798,
+   "end": 142061
+  },
+  {
+   "text": "day",
+   "start": 142072,
+   "end": 142324
+  },
+  {
+   "text": "new",
+   "start": 142335,
+   "end": 142631
+  },
+  {
+   "text": "AI",
+   "start": 142642,
+   "end": 142993
+  },
+  {
+   "text": "models",
+   "start": 143004,
+   "end": 143366
+  },
+  {
+   "text": "drop",
+   "start": 143377,
+   "end": 143728
+  },
+  {
+   "text": "hit",
+   "start": 143980,
+   "end": 144111
+  },
+  {
+   "text": "subscribe",
+   "start": 144122,
+   "end": 144583
+  },
+  {
+   "text": "right",
+   "start": 144594,
+   "end": 144747
+  },
+  {
+   "text": "now",
+   "start": 144758,
+   "end": 145010
+  },
+  {
+   "text": "We",
+   "start": 145383,
+   "end": 145460
+  },
+  {
+   "text": "test",
+   "start": 145471,
+   "end": 145734
+  },
+  {
+   "text": "the",
+   "start": 145745,
+   "end": 145811
+  },
+  {
+   "text": "claims",
+   "start": 145822,
+   "end": 146184
+  },
+  {
+   "text": "so",
+   "start": 146195,
+   "end": 146282
+  },
+  {
+   "text": "you",
+   "start": 146293,
+   "end": 146425
+  },
+  {
+   "text": "know",
+   "start": 146436,
+   "end": 146633
+  },
+  {
+   "text": "what",
+   "start": 146644,
+   "end": 146754
+  },
+  {
+   "text": "is",
+   "start": 146765,
+   "end": 146863
+  },
+  {
+   "text": "actually",
+   "start": 146875,
+   "end": 147193
+  },
+  {
+   "text": "worth",
+   "start": 147203,
+   "end": 147401
+  },
+  {
+   "text": "using",
+   "start": 147412,
+   "end": 147708
+  },
+  {
+   "text": "The",
+   "start": 148081,
+   "end": 148135
+  },
+  {
+   "text": "pricing",
+   "start": 148146,
+   "end": 148552
+  },
+  {
+   "text": "is",
+   "start": 148563,
+   "end": 148651
+  },
+  {
+   "text": "where",
+   "start": 148662,
+   "end": 148804
+  },
+  {
+   "text": "Google",
+   "start": 148815,
+   "end": 149177
+  },
+  {
+   "text": "is",
+   "start": 149298,
+   "end": 149385
+  },
+  {
+   "text": "making",
+   "start": 149396,
+   "end": 149692
+  },
+  {
+   "text": "a",
+   "start": 149703,
+   "end": 149736
+  },
+  {
+   "text": "massive",
+   "start": 149747,
+   "end": 150208
+  },
+  {
+   "text": "land",
+   "start": 150219,
+   "end": 150471
+  },
+  {
+   "text": "grab",
+   "start": 150482,
+   "end": 150800
+  },
+  {
+   "text": "The",
+   "start": 151162,
+   "end": 151239
+  },
+  {
+   "text": "introductory",
+   "start": 151250,
+   "end": 151809
+  },
+  {
+   "text": "price",
+   "start": 151820,
+   "end": 152247
+  },
+  {
+   "text": "is",
+   "start": 152335,
+   "end": 152445
+  },
+  {
+   "text": "seventy-five",
+   "start": 152456,
+   "end": 153103
+  },
+  {
+   "text": "cents",
+   "start": 153114,
+   "end": 153388
+  },
+  {
+   "text": "per",
+   "start": 153399,
+   "end": 153552
+  },
+  {
+   "text": "million",
+   "start": 153563,
+   "end": 154002
+  },
+  {
+   "text": "input",
+   "start": 154013,
+   "end": 154385
+  },
+  {
+   "text": "tokens",
+   "start": 154396,
+   "end": 154879
+  },
+  {
+   "text": "and",
+   "start": 155000,
+   "end": 155131
+  },
+  {
+   "text": "three",
+   "start": 155142,
+   "end": 155405
+  },
+  {
+   "text": "dollars",
+   "start": 155416,
+   "end": 155866
+  },
+  {
+   "text": "and",
+   "start": 155943,
+   "end": 156074
+  },
+  {
+   "text": "seventy-five",
+   "start": 156085,
+   "end": 156721
+  },
+  {
+   "text": "cents",
+   "start": 156732,
+   "end": 157017
+  },
+  {
+   "text": "per",
+   "start": 157127,
+   "end": 157280
+  },
+  {
+   "text": "million",
+   "start": 157291,
+   "end": 157697
+  },
+  {
+   "text": "output",
+   "start": 157708,
+   "end": 158015
+  },
+  {
+   "text": "tokens",
+   "start": 158026,
+   "end": 158497
+  },
+  {
+   "text": "That",
+   "start": 158870,
+   "end": 158980
+  },
+  {
+   "text": "cuts",
+   "start": 158991,
+   "end": 159199
+  },
+  {
+   "text": "the",
+   "start": 159210,
+   "end": 159298
+  },
+  {
+   "text": "cost",
+   "start": 159309,
+   "end": 159649
+  },
+  {
+   "text": "of",
+   "start": 159660,
+   "end": 159747
+  },
+  {
+   "text": "3.6",
+   "start": 159758,
+   "end": 160548
+  },
+  {
+   "text": "Flash",
+   "start": 160559,
+   "end": 160931
+  },
+  {
+   "text": "clean",
+   "start": 160943,
+   "end": 161217
+  },
+  {
+   "text": "in",
+   "start": 161228,
+   "end": 161304
+  },
+  {
+   "text": "half",
+   "start": 161315,
+   "end": 161732
+  },
+  {
+   "text": "Think",
+   "start": 162138,
+   "end": 162269
+  },
+  {
+   "text": "of",
+   "start": 162280,
+   "end": 162379
+  },
+  {
+   "text": "it",
+   "start": 162390,
+   "end": 162478
+  },
+  {
+   "text": "as",
+   "start": 162587,
+   "end": 162741
+  },
+  {
+   "text": "getting",
+   "start": 162752,
+   "end": 162960
+  },
+  {
+   "text": "senior",
+   "start": 162971,
+   "end": 163355
+  },
+  {
+   "text": "engineer",
+   "start": 163366,
+   "end": 163771
+  },
+  {
+   "text": "reasoning",
+   "start": 163782,
+   "end": 164221
+  },
+  {
+   "text": "at",
+   "start": 164364,
+   "end": 164451
+  },
+  {
+   "text": "junior",
+   "start": 164462,
+   "end": 164791
+  },
+  {
+   "text": "developer",
+   "start": 164802,
+   "end": 165241
+  },
+  {
+   "text": "API",
+   "start": 165350,
+   "end": 165734
+  },
+  {
+   "text": "rates",
+   "start": 165745,
+   "end": 166195
+  },
+  {
+   "text": "Now",
+   "start": 166557,
+   "end": 166699
+  },
+  {
+   "text": "let",
+   "start": 166710,
+   "end": 166820
+  },
+  {
+   "text": "us",
+   "start": 166831,
+   "end": 166929
+  },
+  {
+   "text": "pay",
+   "start": 166940,
+   "end": 167127
+  },
+  {
+   "text": "off",
+   "start": 167138,
+   "end": 167269
+  },
+  {
+   "text": "the",
+   "start": 167280,
+   "end": 167346
+  },
+  {
+   "text": "catch",
+   "start": 167357,
+   "end": 167598
+  },
+  {
+   "text": "we",
+   "start": 167609,
+   "end": 167697
+  },
+  {
+   "text": "mentioned",
+   "start": 167708,
+   "end": 168015
+  },
+  {
+   "text": "at",
+   "start": 168026,
+   "end": 168081
+  },
+  {
+   "text": "the",
+   "start": 168092,
+   "end": 168146
+  },
+  {
+   "text": "start",
+   "start": 168157,
+   "end": 168541
+  },
+  {
+   "text": "That",
+   "start": 168914,
+   "end": 169035
+  },
+  {
+   "text": "seventy-five",
+   "start": 169046,
+   "end": 169638
+  },
+  {
+   "text": "cent",
+   "start": 169649,
+   "end": 169890
+  },
+  {
+   "text": "rate",
+   "start": 169901,
+   "end": 170153
+  },
+  {
+   "text": "is",
+   "start": 170372,
+   "end": 170449
+  },
+  {
+   "text": "an",
+   "start": 170460,
+   "end": 170526
+  },
+  {
+   "text": "introductory",
+   "start": 170537,
+   "end": 171096
+  },
+  {
+   "text": "promotion",
+   "start": 171107,
+   "end": 171600
+  },
+  {
+   "text": "It",
+   "start": 171962,
+   "end": 172039
+  },
+  {
+   "text": "is",
+   "start": 172050,
+   "end": 172203
+  },
+  {
+   "text": "only",
+   "start": 172214,
+   "end": 172456
+  },
+  {
+   "text": "valid",
+   "start": 172467,
+   "end": 172807
+  },
+  {
+   "text": "through",
+   "start": 172818,
+   "end": 172949
+  },
+  {
+   "text": "December 31, 2026",
+   "start": 172960,
+   "end": 175230
+  },
+  {
+   "text": "On",
+   "start": 175623,
+   "end": 175722
+  },
+  {
+   "text": "January 1, 2027",
+   "start": 175733,
+   "end": 177696
+  },
+  {
+   "text": "the",
+   "start": 177959,
+   "end": 178036
+  },
+  {
+   "text": "price",
+   "start": 178046,
+   "end": 178342
+  },
+  {
+   "text": "doubles",
+   "start": 178354,
+   "end": 178682
+  },
+  {
+   "text": "to",
+   "start": 178693,
+   "end": 178803
+  },
+  {
+   "text": "one",
+   "start": 178814,
+   "end": 179077
+  },
+  {
+   "text": "dollar",
+   "start": 179088,
+   "end": 179450
+  },
+  {
+   "text": "and",
+   "start": 179461,
+   "end": 179538
+  },
+  {
+   "text": "fifty",
+   "start": 179549,
+   "end": 179932
+  },
+  {
+   "text": "cents",
+   "start": 179943,
+   "end": 180228
+  },
+  {
+   "text": "input",
+   "start": 180239,
+   "end": 180634
+  },
+  {
+   "text": "and",
+   "start": 180897,
+   "end": 180985
+  },
+  {
+   "text": "seven",
+   "start": 180996,
+   "end": 181292
+  },
+  {
+   "text": "dollars",
+   "start": 181303,
+   "end": 181665
+  },
+  {
+   "text": "and",
+   "start": 181676,
+   "end": 181796
+  },
+  {
+   "text": "fifty",
+   "start": 181807,
+   "end": 182136
+  },
+  {
+   "text": "cents",
+   "start": 182147,
+   "end": 182389
+  },
+  {
+   "text": "output",
+   "start": 182400,
+   "end": 182794
+  },
+  {
+   "text": "If",
+   "start": 183167,
+   "end": 183255
+  },
+  {
+   "text": "you",
+   "start": 183266,
+   "end": 183332
+  },
+  {
+   "text": "are",
+   "start": 183343,
+   "end": 183441
+  },
+  {
+   "text": "baking",
+   "start": 183452,
+   "end": 183770
+  },
+  {
+   "text": "this",
+   "start": 183781,
+   "end": 183924
+  },
+  {
+   "text": "into",
+   "start": 183935,
+   "end": 184121
+  },
+  {
+   "text": "a",
+   "start": 184132,
+   "end": 184176
+  },
+  {
+   "text": "commercial",
+   "start": 184187,
+   "end": 184549
+  },
+  {
+   "text": "product",
+   "start": 184560,
+   "end": 184932
+  },
+  {
+   "text": "you",
+   "start": 185207,
+   "end": 185272
+  },
+  {
+   "text": "must",
+   "start": 185283,
+   "end": 185503
+  },
+  {
+   "text": "model",
+   "start": 185514,
+   "end": 185843
+  },
+  {
+   "text": "that",
+   "start": 185854,
+   "end": 186007
+  },
+  {
+   "text": "price",
+   "start": 186018,
+   "end": 186358
+  },
+  {
+   "text": "jump",
+   "start": 186369,
+   "end": 186610
+  },
+  {
+   "text": "into",
+   "start": 186621,
+   "end": 186785
+  },
+  {
+   "text": "your",
+   "start": 186796,
+   "end": 186928
+  },
+  {
+   "text": "runway",
+   "start": 186939,
+   "end": 187334
+  },
+  {
+   "text": "Also",
+   "start": 187696,
+   "end": 188079
+  },
+  {
+   "text": "while",
+   "start": 188277,
+   "end": 188353
+  },
+  {
+   "text": "the",
+   "start": 188364,
+   "end": 188441
+  },
+  {
+   "text": "thinking",
+   "start": 188452,
+   "end": 188792
+  },
+  {
+   "text": "toggle",
+   "start": 188803,
+   "end": 189154
+  },
+  {
+   "text": "helps",
+   "start": 189165,
+   "end": 189593
+  },
+  {
+   "text": "3.7",
+   "start": 189790,
+   "end": 190546
+  },
+  {
+   "text": "Flash",
+   "start": 190557,
+   "end": 190996
+  },
+  {
+   "text": "is",
+   "start": 191106,
+   "end": 191193
+  },
+  {
+   "text": "still",
+   "start": 191204,
+   "end": 191500
+  },
+  {
+   "text": "a",
+   "start": 191588,
+   "end": 191632
+  },
+  {
+   "text": "lightweight",
+   "start": 191643,
+   "end": 192103
+  },
+  {
+   "text": "architecture",
+   "start": 192114,
+   "end": 192750
+  },
+  {
+   "text": "On",
+   "start": 193112,
+   "end": 193255
+  },
+  {
+   "text": "deeply",
+   "start": 193266,
+   "end": 193595
+  },
+  {
+   "text": "nested",
+   "start": 193606,
+   "end": 193989
+  },
+  {
+   "text": "mathematical",
+   "start": 194000,
+   "end": 194560
+  },
+  {
+   "text": "proofs",
+   "start": 194571,
+   "end": 194976
+  },
+  {
+   "text": "or",
+   "start": 195086,
+   "end": 195185
+  },
+  {
+   "text": "massive",
+   "start": 195196,
+   "end": 195634
+  },
+  {
+   "text": "multi-repo",
+   "start": 195645,
+   "end": 196391
+  },
+  {
+   "text": "architecture",
+   "start": 196402,
+   "end": 196939
+  },
+  {
+   "text": "refactors",
+   "start": 196950,
+   "end": 197575
+  },
+  {
+   "text": "massive",
+   "start": 197838,
+   "end": 198178
+  },
+  {
+   "text": "flagship",
+   "start": 198189,
+   "end": 198606
+  },
+  {
+   "text": "models",
+   "start": 198617,
+   "end": 198968
+  },
+  {
+   "text": "like",
+   "start": 198979,
+   "end": 199110
+  },
+  {
+   "text": "Claude",
+   "start": 199121,
+   "end": 199439
+  },
+  {
+   "text": "Opus",
+   "start": 199527,
+   "end": 199921
+  },
+  {
+   "text": "or",
+   "start": 199976,
+   "end": 200097
+  },
+  {
+   "text": "full",
+   "start": 200108,
+   "end": 200371
+  },
+  {
+   "text": "Pro",
+   "start": 200382,
+   "end": 200590
+  },
+  {
+   "text": "models",
+   "start": 200601,
+   "end": 200963
+  },
+  {
+   "text": "still",
+   "start": 201029,
+   "end": 201358
+  },
+  {
+   "text": "hold",
+   "start": 201369,
+   "end": 201577
+  },
+  {
+   "text": "an",
+   "start": 201588,
+   "end": 201654
+  },
+  {
+   "text": "edge",
+   "start": 201665,
+   "end": 202005
+  },
+  {
+   "text": "We",
+   "start": 202378,
+   "end": 202476
+  },
+  {
+   "text": "track",
+   "start": 202487,
+   "end": 202794
+  },
+  {
+   "text": "every",
+   "start": 202915,
+   "end": 203134
+  },
+  {
+   "text": "major",
+   "start": 203145,
+   "end": 203463
+  },
+  {
+   "text": "model",
+   "start": 203474,
+   "end": 203726
+  },
+  {
+   "text": "drop",
+   "start": 203737,
+   "end": 204055
+  },
+  {
+   "text": "and",
+   "start": 204242,
+   "end": 204340
+  },
+  {
+   "text": "verify",
+   "start": 204351,
+   "end": 204834
+  },
+  {
+   "text": "the",
+   "start": 204845,
+   "end": 204921
+  },
+  {
+   "text": "numbers",
+   "start": 204932,
+   "end": 205261
+  },
+  {
+   "text": "the",
+   "start": 205272,
+   "end": 205360
+  },
+  {
+   "text": "day",
+   "start": 205371,
+   "end": 205557
+  },
+  {
+   "text": "they",
+   "start": 205568,
+   "end": 205689
+  },
+  {
+   "text": "land",
+   "start": 205700,
+   "end": 206084
+  },
+  {
+   "text": "so",
+   "start": 206292,
+   "end": 206413
+  },
+  {
+   "text": "you",
+   "start": 206424,
+   "end": 206544
+  },
+  {
+   "text": "never",
+   "start": 206555,
+   "end": 206862
+  },
+  {
+   "text": "build",
+   "start": 206873,
+   "end": 207071
+  },
+  {
+   "text": "your",
+   "start": 207082,
+   "end": 207169
+  },
+  {
+   "text": "tech",
+   "start": 207180,
+   "end": 207378
+  },
+  {
+   "text": "stack",
+   "start": 207389,
+   "end": 207663
+  },
+  {
+   "text": "on",
+   "start": 207674,
+   "end": 207783
+  },
+  {
+   "text": "hype",
+   "start": 207794,
+   "end": 208079
+  },
+  {
+   "text": "If",
+   "start": 208441,
+   "end": 208551
+  },
+  {
+   "text": "this",
+   "start": 208562,
+   "end": 208715
+  },
+  {
+   "text": "breakdown",
+   "start": 208726,
+   "end": 209165
+  },
+  {
+   "text": "saved",
+   "start": 209176,
+   "end": 209516
+  },
+  {
+   "text": "you",
+   "start": 209527,
+   "end": 209647
+  },
+  {
+   "text": "research",
+   "start": 209658,
+   "end": 210086
+  },
+  {
+   "text": "time",
+   "start": 210097,
+   "end": 210393
+  },
+  {
+   "text": "hit",
+   "start": 210722,
+   "end": 210843
+  },
+  {
+   "text": "that",
+   "start": 210854,
+   "end": 210996
+  },
+  {
+   "text": "subscribe",
+   "start": 211007,
+   "end": 211435
+  },
+  {
+   "text": "button",
+   "start": 211446,
+   "end": 211676
+  },
+  {
+   "text": "right",
+   "start": 211687,
+   "end": 211851
+  },
+  {
+   "text": "now",
+   "start": 211862,
+   "end": 212114
+  },
+  {
+   "text": "Drop",
+   "start": 212476,
+   "end": 212630
+  },
+  {
+   "text": "a",
+   "start": 212641,
+   "end": 212685
+  },
+  {
+   "text": "comment",
+   "start": 212696,
+   "end": 213035
+  },
+  {
+   "text": "below",
+   "start": 213046,
+   "end": 213299
+  },
+  {
+   "text": "with",
+   "start": 213310,
+   "end": 213408
+  },
+  {
+   "text": "your",
+   "start": 213419,
+   "end": 213507
+  },
+  {
+   "text": "thoughts",
+   "start": 213518,
+   "end": 214000
+  },
+  {
+   "text": "Are",
+   "start": 214362,
+   "end": 214439
+  },
+  {
+   "text": "you",
+   "start": 214450,
+   "end": 214538
+  },
+  {
+   "text": "planning",
+   "start": 214549,
+   "end": 214834
+  },
+  {
+   "text": "to",
+   "start": 214845,
+   "end": 214900
+  },
+  {
+   "text": "switch",
+   "start": 214911,
+   "end": 215174
+  },
+  {
+   "text": "your",
+   "start": 215185,
+   "end": 215294
+  },
+  {
+   "text": "coding",
+   "start": 215305,
+   "end": 215601
+  },
+  {
+   "text": "workflows",
+   "start": 215612,
+   "end": 216171
+  },
+  {
+   "text": "to",
+   "start": 216182,
+   "end": 216281
+  },
+  {
+   "text": "Gemini",
+   "start": 216292,
+   "end": 216742
+  },
+  {
+   "text": "3.7",
+   "start": 216753,
+   "end": 217586
+  },
+  {
+   "text": "Flash",
+   "start": 217597,
+   "end": 218003
+  },
+  {
+   "text": "or",
+   "start": 218364,
+   "end": 218430
+  },
+  {
+   "text": "are",
+   "start": 218441,
+   "end": 218496
+  },
+  {
+   "text": "you",
+   "start": 218507,
+   "end": 218595
+  },
+  {
+   "text": "staying",
+   "start": 218606,
+   "end": 218880
+  },
+  {
+   "text": "on",
+   "start": 218891,
+   "end": 218968
+  },
+  {
+   "text": "your",
+   "start": 218979,
+   "end": 219066
+  },
+  {
+   "text": "current",
+   "start": 219077,
+   "end": 219285
+  },
+  {
+   "text": "stack",
+   "start": 219296,
+   "end": 219636
+  },
+  {
+   "text": "Leave",
+   "start": 219998,
+   "end": 220119
+  },
+  {
+   "text": "a",
+   "start": 220130,
+   "end": 220174
+  },
+  {
+   "text": "like",
+   "start": 220185,
+   "end": 220546
+  },
+  {
+   "text": "and",
+   "start": 220821,
+   "end": 220886
+  },
+  {
+   "text": "we",
+   "start": 220897,
+   "end": 220985
+  },
+  {
+   "text": "will",
+   "start": 220996,
+   "end": 221095
+  },
+  {
+   "text": "see",
+   "start": 221106,
+   "end": 221325
+  },
+  {
+   "text": "you",
+   "start": 221336,
+   "end": 221500
+  },
+  {
+   "text": "in",
+   "start": 221511,
+   "end": 221588
+  },
+  {
+   "text": "the",
+   "start": 221599,
+   "end": 221654
+  },
+  {
+   "text": "next",
+   "start": 221665,
+   "end": 221873
+  },
+  {
+   "text": "breakdown",
+   "start": 221884,
+   "end": 222334
+  }
+ ],
+ "duration_s": 222.672
+}

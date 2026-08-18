@@ -1,0 +1,104 @@
+{
+ "topic": "how to remove PMI early",
+ "niche": "real-estate",
+ "niche_target": [
+  10,
+  40
+ ],
+ "recent_window": "90d",
+ "long_only": false,
+ "generated": "2026-08-04T21:11:34+00:00",
+ "autocomplete": {
+  "topic": "how to remove pmi early",
+  "self_suggest_chars": null,
+  "self_suggest_prefix": null,
+  "self_suggest_rank": null,
+  "topic_chars": 23,
+  "reach": null,
+  "head_suggestions": [],
+  "longtail": [
+   "how to reschedule nmc cbt exam",
+   "how to pass corporate reporting aca",
+   "how to take outlook backup",
+   "how to calculate redundancy pay",
+   "how to remove tamper code for prepaid meter",
+   "how to report pdu in pmi",
+   "how to repay debt faster",
+   "how to remove emergency",
+   "how to remove emergency contact",
+   "how to remove ppe",
+   "how to reset conlog prepaid meter"
+  ],
+  "longtail_n": 11,
+  "probes": 13,
+  "probe_failures": 0
+ },
+ "year": {
+  "rows": [],
+  "total_results": null
+ },
+ "recent": {
+  "rows": [],
+  "total_results": null
+ },
+ "quota_units_used": 204,
+ "assessment": {
+  "scores": {
+   "demand": 0,
+   "performance": 0,
+   "freshness": 0,
+   "winnability": 1
+  },
+  "why": {
+   "demand": "YouTube never autocompletes this exact phrase, at any prefix — it is not a thing people type",
+   "performance": "nothing on this topic is being watched — best is 0 views/day",
+   "freshness": "nobody has published on this in 90d",
+   "winnability": "no small channel has broken out on this topic"
+  },
+  "total": 1,
+  "verdict": "NO-DEMAND",
+  "big_channel_share": 0.0,
+  "supply_saturated": false,
+  "freshness_ratio": null,
+  "drift": 1.0,
+  "strict_on_topic": false,
+  "downgrade": null,
+  "n_on_topic": 0,
+  "n_sampled": 0,
+  "small_breakouts": []
+ },
+ "angles": [
+  {
+   "q": "how to reschedule nmc cbt exam",
+   "covered": false
+  },
+  {
+   "q": "how to pass corporate reporting aca",
+   "covered": false
+  },
+  {
+   "q": "how to take outlook backup",
+   "covered": false
+  },
+  {
+   "q": "how to calculate redundancy pay",
+   "covered": false
+  },
+  {
+   "q": "how to remove tamper code for prepaid meter",
+   "covered": false
+  },
+  {
+   "q": "how to report pdu in pmi",
+   "covered": false
+  },
+  {
+   "q": "how to repay debt faster",
+   "covered": false
+  },
+  {
+   "q": "how to remove emergency",
+   "covered": false
+  }
+ ]
+}

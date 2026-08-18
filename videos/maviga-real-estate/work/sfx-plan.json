@@ -1,0 +1,29 @@
+{
+  "master": "videos/maviga-real-estate/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/maviga-real-estate/output/maviga-real-estate-preview.mp4",
+    "out": "videos/maviga-real-estate/output/maviga-real-estate-sfx.mp4"
+  },
+  "_note": "Minimal, restrained sound design per the client brief: gentle whooshes at the six shot transitions, soft piano pings on the money beats, a single stamp on the 20-plots scarcity, a message-sent cue on WhatsApp. Nothing aggressive, no trailer drops.",
+  "events": [
+    {"at_s": 0.1, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVHook", "cue": "into hook"},
+    {"at_s": 0.9, "sfx_id": "piano-c-maj", "gain_db": -2, "shot": "MVHook", "cue": "GHC 5,000 reveals (local f20)"},
+    {"at_s": 2.4, "sfx_id": "chime-reward", "gain_db": -6, "shot": "MVHook", "cue": "THE LAND IS YOURS slams (local f53)"},
+    {"at_s": 3.4, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVLand", "cue": "into land"},
+    {"at_s": 5.2, "sfx_id": "piano-g-maj", "gain_db": -2, "shot": "MVLand", "cue": "DAWHENYA slams (local f46)"},
+    {"at_s": 8.2, "sfx_id": "warm-shimmer", "gain_db": -4, "shot": "MVLand", "cue": "80x80 square pops (local f105)"},
+    {"at_s": 10.9, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVCash", "cue": "into cash"},
+    {"at_s": 12.1, "sfx_id": "chime-reward", "gain_db": -4, "shot": "MVCash", "cue": "GHC 30,000 CASH (local f35)"},
+    {"at_s": 15.0, "sfx_id": "pop-reveal", "gain_db": -2, "shot": "MVCash", "cue": "flyer option crops fly in (local f120)"},
+    {"at_s": 17.4, "sfx_id": "ui-click-soft", "gain_db": -2, "shot": "MVCash", "cue": "JUST 5,000 TO START (local f194)"},
+    {"at_s": 18.7, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVLocation", "cue": "into location"},
+    {"at_s": 20.6, "sfx_id": "ui-click-soft", "gain_db": -3, "shot": "MVLocation", "cue": "4 MIN DRIVE step (local f57)"},
+    {"at_s": 22.6, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVScarcity", "cue": "into scarcity"},
+    {"at_s": 23.7, "sfx_id": "stamp-hit", "gain_db": 0, "shot": "MVScarcity", "cue": "20 PLOTS LEFT stamp (local f31)"},
+    {"at_s": 25.5, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVCTA", "cue": "into cta"},
+    {"at_s": 27.0, "sfx_id": "ui-send", "gain_db": -4, "shot": "MVCTA", "cue": "WHATSAPP (local f43)"},
+    {"at_s": 29.3, "sfx_id": "piano-c-maj", "gain_db": -3, "shot": "MVCTA", "cue": "YOUR FUTURE YOUR LAND (local f114)"}
+  ]
+}

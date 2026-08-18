@@ -1,0 +1,18 @@
+[
+ {
+  "name": "announcement-main",
+  "file": "announcement-main.png",
+  "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+  "source": "OpenAI announcement, Aug 6 2026",
+  "selector": null,
+  "captured_at": "2026-08-07T04:56:02"
+ },
+ {
+  "name": "help-availability",
+  "file": "help-availability.png",
+  "url": "https://help.openai.com/en/articles/20001354-gpt-5-6-in-chatgpt",
+  "source": "OpenAI Help Center, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-07T05:55:47"
+ }
+]

@@ -1,0 +1,591 @@
+{
+  "note": "Data League broadcast SFX plan (brand.md §8: punchy broadcast, whistle stingers, scoreboard hits, crowd under celebrations, 3-note sonic logo whistle->brass on every scoreboard update, silence before big reveals). All at_s = master seconds, anchored to shot-local frames (f) and/or edited-transcript.json word onsets. New library clips whistle-blast/brass-hit/crowd-roar synthesized deterministically (lavfi, license-clean, zero credits) + catalogued. Gains: broadcast under the voice — whoosh -24, pops -12/-14, logo whistle/brass -4..-8 (percussive, ceiling-bound clips), crowd -10..-16. R8 final-score logo is the loudest moment.",
+  "master": "videos/messi-ronaldo-final-score/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/messi-ronaldo-final-score/output/messi-ronaldo-final-score-preview.mp4",
+    "out": "videos/messi-ronaldo-final-score/output/messi-ronaldo-final-score-sfx.mp4",
+    "end_s": 345.31,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.05,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -10,
+      "shot": "DLColdOpen",
+      "cue": "BigScore 5-4 slams in (f0-14 overshoot)",
+      "note": "opening hero hit"
+    },
+    {
+      "at_s": 0.12,
+      "sfx_id": "brass-hit",
+      "gain_db": -6,
+      "shot": "DLColdOpen",
+      "cue": "BigScore slam landing",
+      "note": "hero layer: impact + brass"
+    },
+    {
+      "at_s": 5.696,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLColdOpen",
+      "cue": "CommentaryBar 'numbers have voted' (f190)"
+    },
+    {
+      "at_s": 9.194,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLColdOpen",
+      "cue": "CommentaryBar 'winner is not who...' (f308)"
+    },
+    {
+      "at_s": 11.815,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "optional": true,
+      "shot": "DLColdOpen",
+      "cue": "WordmarkShot 'MESSI VS RONALDO — THE FINAL SCORE' rises (f396 = 'This is')"
+    },
+    {
+      "at_s": 15.894,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut ColdOpen -> Rules ('Two legends')"
+    },
+    {
+      "at_s": 17.429,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLRules",
+      "cue": "slots 1-4 pop (f45-66)",
+      "note": "click sequence, one gesture"
+    },
+    {
+      "at_s": 17.429,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLRules",
+      "cue": "slot 2 pop (f52)"
+    },
+    {
+      "at_s": 17.703,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLRules",
+      "cue": "slot 3 pop (f59)"
+    },
+    {
+      "at_s": 17.703,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLRules",
+      "cue": "slot 4 pop (f66)"
+    },
+    {
+      "at_s": 21.453,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLRules",
+      "cue": "slot 5 pop (f200)"
+    },
+    {
+      "at_s": 21.453,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLRules",
+      "cue": "slot 6 pop (f208)"
+    },
+    {
+      "at_s": 22.835,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLRules",
+      "cue": "slot 7 pop (f216)"
+    },
+    {
+      "at_s": 22.835,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLRules",
+      "cue": "slot 8 enters plain (f224)"
+    },
+    {
+      "at_s": 28.558,
+      "sfx_id": "pop-reveal",
+      "gain_db": -10,
+      "shot": "DLRules",
+      "cue": "R8 slot x2 double-pop (f425 = 'Round eight is worth double')",
+      "note": "rules twist beat"
+    },
+    {
+      "at_s": 28.558,
+      "sfx_id": "whistle-blast",
+      "gain_db": -8,
+      "shot": "DLRules",
+      "cue": "x2 double-pop flash",
+      "note": "whistle stinger on the twist"
+    },
+    {
+      "at_s": 31.113,
+      "sfx_id": "brass-hit",
+      "gain_db": -12,
+      "optional": true,
+      "shot": "DLRules",
+      "cue": "Belt graphic on the line (f510)"
+    },
+    {
+      "at_s": 36.003,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut Rules -> R1 Record Book"
+    },
+    {
+      "at_s": 45.62,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "shot": "DLR1Goals",
+      "cue": "RaceLine locks 976-919 (f322 = 'Nine hundred seventy six')"
+    },
+    {
+      "at_s": 62.286,
+      "sfx_id": "whistle-blast",
+      "gain_db": -4,
+      "shot": "DLR1Goals",
+      "cue": "score 1-0: sonic logo whistle (f881 = '1-0')",
+      "note": "Ronaldo takes the lead"
+    },
+    {
+      "at_s": 62.286,
+      "sfx_id": "brass-hit",
+      "gain_db": -4,
+      "shot": "DLR1Goals",
+      "cue": "score 1-0: sonic logo brass hit on the pop"
+    },
+    {
+      "at_s": 62.286,
+      "sfx_id": "crowd-roar",
+      "gain_db": -12,
+      "shot": "DLR1Goals",
+      "cue": "score 1-0: crowd under the celebration"
+    },
+    {
+      "at_s": 67.813,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut R1 -> R2 Artist"
+    },
+    {
+      "at_s": 77.023,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "shot": "DLR2Assists",
+      "cue": "H2HMeter locks 418-261 (f309 = 'four hundred eighteen')"
+    },
+    {
+      "at_s": 89.205,
+      "sfx_id": "pop-reveal",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLR2Assists",
+      "cue": "GapCallout 157 (f717 = 'gap')"
+    },
+    {
+      "at_s": 98.679,
+      "sfx_id": "whistle-blast",
+      "gain_db": -4,
+      "shot": "DLR2Assists",
+      "cue": "score 1-1: sonic logo whistle (f1035 = '1-1')",
+      "note": "Messi equalizes"
+    },
+    {
+      "at_s": 98.679,
+      "sfx_id": "brass-hit",
+      "gain_db": -4,
+      "shot": "DLR2Assists",
+      "cue": "score 1-1: brass hit on the pop"
+    },
+    {
+      "at_s": 98.679,
+      "sfx_id": "crowd-roar",
+      "gain_db": -12,
+      "shot": "DLR2Assists",
+      "cue": "score 1-1: crowd"
+    },
+    {
+      "at_s": 103.723,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut R2 -> R3 Trophy Room"
+    },
+    {
+      "at_s": 109.797,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "shot": "DLR3Ballon",
+      "cue": "Counter 8 starts ('Eight')",
+      "note": "all-time record"
+    },
+    {
+      "at_s": 116.76,
+      "sfx_id": "pop-reveal",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLR3Ballon",
+      "cue": "Counter 5 starts ('five')"
+    },
+    {
+      "at_s": 126.826,
+      "sfx_id": "whistle-blast",
+      "gain_db": -4,
+      "shot": "DLR3Ballon",
+      "cue": "score 2-1: sonic logo whistle (f775 = '2-1')",
+      "note": "Messi retakes"
+    },
+    {
+      "at_s": 126.826,
+      "sfx_id": "brass-hit",
+      "gain_db": -4,
+      "shot": "DLR3Ballon",
+      "cue": "score 2-1: brass hit"
+    },
+    {
+      "at_s": 127.034,
+      "sfx_id": "crowd-roar",
+      "gain_db": -12,
+      "shot": "DLR3Ballon",
+      "cue": "score 2-1: crowd"
+    },
+    {
+      "at_s": 130.126,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut R3 -> R4 World Stage"
+    },
+    {
+      "at_s": 147.44,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "shot": "DLR4WorldCup",
+      "cue": "RaceLine locks 19-11 (f581 = 'eleven')"
+    },
+    {
+      "at_s": 150.905,
+      "sfx_id": "pop-reveal",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLR4WorldCup",
+      "cue": "TrophyRow 1-0 titles (f697)"
+    },
+    {
+      "at_s": 155.828,
+      "sfx_id": "whistle-blast",
+      "gain_db": -4,
+      "shot": "DLR4WorldCup",
+      "cue": "score 3-1: sonic logo whistle (f862 = '3-1')",
+      "note": "Messi extends"
+    },
+    {
+      "at_s": 155.828,
+      "sfx_id": "brass-hit",
+      "gain_db": -4,
+      "shot": "DLR4WorldCup",
+      "cue": "score 3-1: brass hit"
+    },
+    {
+      "at_s": 155.828,
+      "sfx_id": "crowd-roar",
+      "gain_db": -12,
+      "shot": "DLR4WorldCup",
+      "cue": "score 3-1: crowd"
+    },
+    {
+      "at_s": 160.894,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut R4 -> R5 Money"
+    },
+    {
+      "at_s": 174.984,
+      "sfx_id": "pop-reveal",
+      "gain_db": -10,
+      "shot": "DLR5Money",
+      "cue": "Counter 2.1B starts + ESTIMATE tag (f472 = 'two point one')",
+      "note": "first athlete past 2B — medium hero"
+    },
+    {
+      "at_s": 174.984,
+      "sfx_id": "crowd-roar",
+      "gain_db": -16,
+      "shot": "DLR5Money",
+      "cue": "2.1B counter: low crowd texture"
+    },
+    {
+      "at_s": 178.503,
+      "sfx_id": "pop-reveal",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLR5Money",
+      "cue": "Counter 1.8B starts (f590)"
+    },
+    {
+      "at_s": 190.543,
+      "sfx_id": "whistle-blast",
+      "gain_db": -4,
+      "shot": "DLR5Money",
+      "cue": "score 3-2: sonic logo whistle (f994 = '3-2')",
+      "note": "Ronaldo retakes"
+    },
+    {
+      "at_s": 190.543,
+      "sfx_id": "brass-hit",
+      "gain_db": -4,
+      "shot": "DLR5Money",
+      "cue": "score 3-2: brass hit"
+    },
+    {
+      "at_s": 190.543,
+      "sfx_id": "crowd-roar",
+      "gain_db": -12,
+      "shot": "DLR5Money",
+      "cue": "score 3-2: crowd"
+    },
+    {
+      "at_s": 194.216,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut R5 -> R6 Crowd"
+    },
+    {
+      "at_s": 206.289,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "shot": "DLR6Crowd",
+      "cue": "RaceLine locks 677M-515M (f405 = 'five hundred fifteen')"
+    },
+    {
+      "at_s": 216.31,
+      "sfx_id": "pop-reveal",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLR6Crowd",
+      "cue": "YT cards 82.1M-4.8M pop (f741)"
+    },
+    {
+      "at_s": 226.457,
+      "sfx_id": "whistle-blast",
+      "gain_db": -4,
+      "shot": "DLR6Crowd",
+      "cue": "score 3-3: sonic logo whistle (f1083 = '3-3')",
+      "note": "level — the overtake"
+    },
+    {
+      "at_s": 226.545,
+      "sfx_id": "brass-hit",
+      "gain_db": -4,
+      "shot": "DLR6Crowd",
+      "cue": "score 3-3: brass hit"
+    },
+    {
+      "at_s": 226.545,
+      "sfx_id": "crowd-roar",
+      "gain_db": -10,
+      "shot": "DLR6Crowd",
+      "cue": "score 3-3: bigger crowd — equalizer"
+    },
+    {
+      "at_s": 232.323,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut R6 -> R7 Efficiency"
+    },
+    {
+      "at_s": 240.569,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "shot": "DLR7Ratio",
+      "cue": "H2HMeter grows 0.79 (f276 = 'zero point seven nine')"
+    },
+    {
+      "at_s": 247.586,
+      "sfx_id": "pop-reveal",
+      "gain_db": -14,
+      "optional": true,
+      "shot": "DLR7Ratio",
+      "cue": "RatioCallout +0.06 (f512)"
+    },
+    {
+      "at_s": 256.326,
+      "sfx_id": "whistle-blast",
+      "gain_db": -4,
+      "shot": "DLR7Ratio",
+      "cue": "score 4-3: sonic logo whistle (f805 = 'smallest')",
+      "note": "Messi, smallest margin"
+    },
+    {
+      "at_s": 256.326,
+      "sfx_id": "brass-hit",
+      "gain_db": -4,
+      "shot": "DLR7Ratio",
+      "cue": "score 4-3: brass hit"
+    },
+    {
+      "at_s": 256.326,
+      "sfx_id": "crowd-roar",
+      "gain_db": -12,
+      "shot": "DLR7Ratio",
+      "cue": "score 4-3: crowd"
+    },
+    {
+      "at_s": 263.321,
+      "sfx_id": "riser-soft",
+      "gain_db": -16,
+      "optional": true,
+      "shot": "cut",
+      "cue": "riser into the double-points round"
+    },
+    {
+      "at_s": 263.321,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut R7 -> R8 Hat-Trick"
+    },
+    {
+      "at_s": 264.747,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -10,
+      "shot": "DLR8Hattrick",
+      "cue": "DoublePulse x2 banner slams (f48 = 'Double')",
+      "note": "hero — worth two"
+    },
+    {
+      "at_s": 264.747,
+      "sfx_id": "whistle-blast",
+      "gain_db": -8,
+      "shot": "DLR8Hattrick",
+      "cue": "x2 pulse whistle stinger"
+    },
+    {
+      "at_s": 285.415,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "shot": "DLR8Hattrick",
+      "cue": "H2HMeter locks 66-61 (f741 = 'sixty six')"
+    },
+    {
+      "at_s": 294.692,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -8,
+      "shot": "DLR8Hattrick",
+      "cue": "BeltReveal slams (f1052 = 'Down on the scoreboard')",
+      "note": "hero — the belt"
+    },
+    {
+      "at_s": 294.692,
+      "sfx_id": "brass-hit",
+      "gain_db": -8,
+      "shot": "DLR8Hattrick",
+      "cue": "belt reveal brass glow"
+    },
+    {
+      "at_s": 294.988,
+      "sfx_id": "crowd-roar",
+      "gain_db": -12,
+      "shot": "DLR8Hattrick",
+      "cue": "belt reveal crowd"
+    },
+    {
+      "at_s": 299.429,
+      "sfx_id": "whistle-blast",
+      "gain_db": -4,
+      "shot": "DLR8Hattrick",
+      "cue": "score 5-4: sonic logo whistle (f1211 = 'takes')",
+      "note": "LOUDEST — the final score"
+    },
+    {
+      "at_s": 299.429,
+      "sfx_id": "brass-hit",
+      "gain_db": -4,
+      "shot": "DLR8Hattrick",
+      "cue": "score 5-4: brass hit"
+    },
+    {
+      "at_s": 299.429,
+      "sfx_id": "crowd-roar",
+      "gain_db": -10,
+      "shot": "DLR8Hattrick",
+      "cue": "score 5-4: biggest crowd"
+    },
+    {
+      "at_s": 305.032,
+      "sfx_id": "whistle-blast",
+      "gain_db": -8,
+      "optional": true,
+      "shot": "DLR8Hattrick",
+      "cue": "'a champion is crowned'"
+    },
+    {
+      "at_s": 306.907,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -24,
+      "shot": "cut",
+      "cue": "cut R8 -> Verdict"
+    },
+    {
+      "at_s": 307.06,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "shot": "DLVerdict",
+      "cue": "VerdictScene THE VERDICT 5-4 + panels rise (f5)"
+    },
+    {
+      "at_s": 329.714,
+      "sfx_id": "whistle-blast",
+      "gain_db": -14,
+      "shot": "DLVerdict",
+      "cue": "BeltCard 'THE BELT: RONALDO' rises (f767)",
+      "note": "quiet layer — belt handover"
+    },
+    {
+      "at_s": 329.801,
+      "sfx_id": "brass-hit",
+      "gain_db": -10,
+      "shot": "DLVerdict",
+      "cue": "BeltCard brass hit"
+    },
+    {
+      "at_s": 338.058,
+      "sfx_id": "pop-reveal",
+      "gain_db": -10,
+      "shot": "DLVerdict",
+      "cue": "PollCard 'WHO FIGHTS NEXT?' rises (f1044)"
+    },
+    {
+      "at_s": 343.453,
+      "sfx_id": "pop-reveal",
+      "gain_db": -12,
+      "shot": "DLVerdict",
+      "cue": "WordmarkShot sign-off 'AND THE NUMBERS HAVE SPOKEN' (f1225)"
+    }
+  ]
+}

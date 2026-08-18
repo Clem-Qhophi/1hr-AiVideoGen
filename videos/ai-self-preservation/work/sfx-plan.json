@@ -1,0 +1,40 @@
+{
+  "master": "videos/ai-self-preservation/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/ai-self-preservation/output/ai-self-preservation-captioned.mp4",
+    "out": "videos/ai-self-preservation/output/ai-self-preservation-sfx.mp4",
+    "end_s": 420,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.0,
+      "sfx_id": "impact-soft",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Video start - subtle opening impact"
+    },
+    {
+      "at_s": 63.0,
+      "sfx_id": "riser-soft",
+      "gain_db": -20,
+      "optional": true,
+      "cue": "Verdict section begins - tension build"
+    },
+    {
+      "at_s": 225.0,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -16,
+      "cue": "Evidence section begins - transition click"
+    },
+    {
+      "at_s": 420.0,
+      "sfx_id": "impact-soft",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Video end - closing impact"
+    }
+  ]
+}

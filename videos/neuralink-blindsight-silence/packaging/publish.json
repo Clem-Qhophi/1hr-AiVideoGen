@@ -1,0 +1,15 @@
+{
+  "_note": "Paths are ABSOLUTE - yt_upload.py resolves relative plan paths against the parent of this repo folder. Single thumbnail only (A.jpg) per the 2026-08-04 standing preference - no B/C bets.",
+  "video": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/neuralink-blindsight-silence/output/neuralink-blindsight-silence-sfx-music-MASTER.mp4",
+  "title": "Neuralink Raised $650M This Year \u2014 $0 Went Into Their Vision Trial",
+  "description_file": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/neuralink-blindsight-silence/packaging/description.txt",
+  "thumbnail": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/neuralink-blindsight-silence/packaging/thumbs/A.jpg",
+  "tags": [
+    "neuralink", "neuralink blindsight", "elon musk neuralink", "brain computer interface",
+    "neuralink update", "neuralink trial", "blindsight neuralink", "neural implant",
+    "ai news", "neuralink 2026", "brain implant vision", "neuralink fact check"
+  ],
+  "categoryId": 28,
+  "privacy": "private",
+  "madeForKids": false
+}

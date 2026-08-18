@@ -1,0 +1,23 @@
+{
+  "master": "videos/qt-funded-ad/work/audio/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "QTHook169", "type": "cutaway", "master_in_s": 0.0, "master_out_s": 1.9, "cue": "Every trader has a plan" },
+    { "id": "QTConsistency169", "type": "cutaway", "master_in_s": 1.9, "master_out_s": 5.0, "cue": "But consistency is what moves you forward" },
+    { "id": "QTStructure169", "type": "cutaway", "master_in_s": 5.0, "master_out_s": 11.2, "cue": "QT Funded gives traders a structured evaluation, clear requirements, and tools to track their progress" },
+    { "id": "QTChoose169", "type": "cutaway", "master_in_s": 11.2, "master_out_s": 14.2, "cue": "Choose the path that fits your strategy" },
+    { "id": "QTDiscipline169", "type": "cutaway", "master_in_s": 14.2, "master_out_s": 17.8, "cue": "Trade with discipline. Prove your consistency." },
+    { "id": "QTProgress169", "type": "cutaway", "master_in_s": 17.8, "master_out_s": 23.0, "cue": "Then progress toward a simulated funded account, subject to the program rules" },
+    { "id": "QTDiscover169", "type": "cutaway", "master_in_s": 23.0, "master_out_s": 25.5, "cue": "Discover QT Funded" },
+    { "id": "QTEndCard169", "type": "cutaway", "master_in_s": 25.5, "master_out_s": 30.0, "cue": "Trade with discipline. Scale with confidence." }
+  ],
+  "reframes": [],
+  "preview": {
+    "end_s": 30.0,
+    "out": "videos/qt-funded-ad/output/qt-funded-ad-169-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

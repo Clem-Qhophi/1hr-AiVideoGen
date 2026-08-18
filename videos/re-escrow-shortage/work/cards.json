@@ -1,0 +1,31 @@
+[
+  {
+    "id": "escrow-math",
+    "type": "compare",
+    "kicker": "THE TWO BILLS INSIDE YOUR ESCROW ACCOUNT",
+    "left": { "value": "$2,948", "label": "avg. annual homeowners insurance, 2026", "accent": "danger" },
+    "right": { "value": "$4,427", "label": "avg. annual property tax bill, 2025", "accent": "accent" },
+    "foot": "Insurify, Mar 18, 2026 + ATTOM Data Solutions, Apr 9, 2026",
+    "match": ["card-escrow-math"]
+  },
+  {
+    "id": "shortage-rule",
+    "type": "stat",
+    "kicker": "THE FEDERAL CUSHION CAP",
+    "stat": "1/6",
+    "unit": "of your annual escrow bills, max",
+    "label": "Roughly two months' worth. Your lender cannot pad the buffer past this.",
+    "foot": "Consumer Financial Protection Bureau, escrow account rules",
+    "accent": "signal",
+    "match": ["card-shortage-rule"]
+  },
+  {
+    "id": "close-recap",
+    "type": "compare",
+    "kicker": "WHAT ACTUALLY MOVED THIS YEAR",
+    "left": { "value": "+12%", "label": "homeowners insurance, 2025", "accent": "danger" },
+    "right": { "value": "+3%", "label": "property tax, 2025", "accent": "accent" },
+    "foot": "Insurify + ATTOM Data Solutions, 2026 reports",
+    "match": ["card-close-recap"]
+  }
+]

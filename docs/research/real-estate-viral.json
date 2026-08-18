@@ -1,0 +1,578 @@
+{
+ "queries": [
+  "closing costs explained",
+  "first time home buyer mistakes",
+  "realtor commission explained",
+  "mortgage points explained"
+ ],
+ "window": "365d",
+ "rows": [
+  {
+   "title": "I Spent HOURS on Bilt 2.0 so You Don't Have To... Here's What You Need to Know",
+   "channel": "The Jordan Rules for Credit",
+   "subs": 1580,
+   "views": 9240,
+   "age_days": 175.8,
+   "vpd": 53,
+   "multiplier": 5.85,
+   "like_per_1k": 21.4,
+   "comment_per_1k": 9.74,
+   "dur_min": 26,
+   "levers": [
+    "contrarian",
+    "personal-frame",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/mKizfo9PuVQ"
+  },
+  {
+   "title": "THE COSTLY MISTAKES LANDED BUYERS ALWAYS MAKE",
+   "channel": "ItsClearHomes",
+   "subs": 695,
+   "views": 2407,
+   "age_days": 78.2,
+   "vpd": 31,
+   "multiplier": 3.46,
+   "like_per_1k": 5.4,
+   "comment_per_1k": 2.49,
+   "dur_min": 48,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/pmG1EJaJeDI"
+  },
+  {
+   "title": "How to Become a Realtor in Canada | First Time Home Buyer Guide & Market Forecast 🇨🇦",
+   "channel": "The Punjabi Lounge",
+   "subs": 6120,
+   "views": 19832,
+   "age_days": 178.2,
+   "vpd": 111,
+   "multiplier": 3.24,
+   "like_per_1k": 1.2,
+   "comment_per_1k": 0.4,
+   "dur_min": 44,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/2Vft_UOFNPo"
+  },
+  {
+   "title": "The Only First Time Home Buying Guide You'll Ever Need",
+   "channel": "Living In America",
+   "subs": 781,
+   "views": 1697,
+   "age_days": 132.4,
+   "vpd": 13,
+   "multiplier": 2.17,
+   "like_per_1k": 48.9,
+   "comment_per_1k": 0.59,
+   "dur_min": 84,
+   "levers": [
+    "superlative",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/CWYH2wySjBI"
+  },
+  {
+   "title": "Why So Many People REGRET Buying a Home (Hidden Costs Exposed)",
+   "channel": "Make Gains",
+   "subs": 1700,
+   "views": 3161,
+   "age_days": 178.0,
+   "vpd": 18,
+   "multiplier": 1.86,
+   "like_per_1k": 19.3,
+   "comment_per_1k": 4.43,
+   "dur_min": 22,
+   "levers": [
+    "curiosity-gap",
+    "loss-threat",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/dj0C_tTGliU"
+  },
+  {
+   "title": "5 Mistakes First-Time NYC Buyers Make (And How to Avoid Them)",
+   "channel": "Dewey Moss | Manhattan Real Estate",
+   "subs": 1650,
+   "views": 2808,
+   "age_days": 277.1,
+   "vpd": 10,
+   "multiplier": 1.7,
+   "like_per_1k": 28.1,
+   "comment_per_1k": 6.05,
+   "dur_min": 27,
+   "levers": [
+    "listicle-count",
+    "loss-threat",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/e5c1do6r0M0"
+  },
+  {
+   "title": "2026 Tesla Buyers Have Huge Regrets | Don't Make a Mistake",
+   "channel": "Ryan Shaw",
+   "subs": 339000,
+   "views": 481307,
+   "age_days": 183.1,
+   "vpd": 2629,
+   "multiplier": 1.42,
+   "like_per_1k": 17.7,
+   "comment_per_1k": 2.75,
+   "dur_min": 31,
+   "levers": [
+    "contrarian",
+    "loss-threat",
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/bNykmt0pFYA"
+  },
+  {
+   "title": "2026 National Real Estate Exam Prep | 111 Most Missed Questions Explained",
+   "channel": "Exam Prep - by Birdsy",
+   "subs": 19600,
+   "views": 21989,
+   "age_days": 116.9,
+   "vpd": 188,
+   "multiplier": 1.12,
+   "like_per_1k": 23.3,
+   "comment_per_1k": 0.82,
+   "dur_min": 85,
+   "levers": [
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/Al5TD5dNCsY"
+  },
+  {
+   "title": "Mortgage Expert: 5 Quiet Mistakes First Time Buyers MUST Avoid",
+   "channel": "Nathan Udomsri",
+   "subs": 6490,
+   "views": 7007,
+   "age_days": 21.2,
+   "vpd": 330,
+   "multiplier": 1.08,
+   "like_per_1k": 22.1,
+   "comment_per_1k": 3.0,
+   "dur_min": 26,
+   "levers": [
+    "authority-borrow",
+    "loss-threat",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/_fQET12WKy8"
+  },
+  {
+   "title": "Bilt's New Credit Cards: Earning Points on Rent & Mortgage Explained",
+   "channel": "Katie’s Travel Tricks",
+   "subs": 9450,
+   "views": 9315,
+   "age_days": 190.8,
+   "vpd": 49,
+   "multiplier": 0.99,
+   "like_per_1k": 26.1,
+   "comment_per_1k": 6.55,
+   "dur_min": 24,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/2jZZnWcNokw"
+  },
+  {
+   "title": "Gastos de Cierre en Puerto Rico: Quién Paga Qué al Comprar Casa",
+   "channel": "INCANTO Real Estate & Relocation | Puerto Rico",
+   "subs": 1870,
+   "views": 1373,
+   "age_days": 204.9,
+   "vpd": 7,
+   "multiplier": 0.73,
+   "like_per_1k": 25.5,
+   "comment_per_1k": 0.0,
+   "dur_min": 29,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/AO-WMU0GDTc"
+  },
+  {
+   "title": "He bought the wrong house and lost everything ",
+   "channel": "LEND2USA",
+   "subs": 20600,
+   "views": 13146,
+   "age_days": 340.0,
+   "vpd": 39,
+   "multiplier": 0.64,
+   "like_per_1k": 27.7,
+   "comment_per_1k": 4.79,
+   "dur_min": 23,
+   "levers": [
+    "contrarian",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/H_-n-N6-R6E"
+  },
+  {
+   "title": "“The Real Cost of Pre-Construction Homes in Ontario (Complete Buyer Guide)”  |  EPISODE 2",
+   "channel": "Rising Sun TV",
+   "subs": 26600,
+   "views": 14875,
+   "age_days": 240.9,
+   "vpd": 62,
+   "multiplier": 0.56,
+   "like_per_1k": 1.0,
+   "comment_per_1k": 0.47,
+   "dur_min": 32,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/NyJR148rW98"
+  },
+  {
+   "title": "How Credit Managers Analyse Bank Statements | Loan Underwriting Guide",
+   "channel": "Banking with Shravan",
+   "subs": 12400,
+   "views": 5526,
+   "age_days": 353.4,
+   "vpd": 16,
+   "multiplier": 0.45,
+   "like_per_1k": 35.5,
+   "comment_per_1k": 5.25,
+   "dur_min": 23,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/zZyl5HrmXLU"
+  },
+  {
+   "title": "২০২৬ সালের নতুন বাড়ি with Closing cost $40,000/ 3.5% -4.5% interest!! Wesley Chapel, Florida",
+   "channel": "Manjur Ahmed",
+   "subs": 9100,
+   "views": 3897,
+   "age_days": 213.7,
+   "vpd": 18,
+   "multiplier": 0.43,
+   "like_per_1k": 15.1,
+   "comment_per_1k": 4.36,
+   "dur_min": 22,
+   "levers": [
+    "dollar-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/UWCH-X1jOBk"
+  },
+  {
+   "title": "Buying Property in Portugal - Part 1 - AVOID These Mistakes!",
+   "channel": "Nations Without Borders",
+   "subs": 7560,
+   "views": 2724,
+   "age_days": 322.0,
+   "vpd": 8,
+   "multiplier": 0.36,
+   "like_per_1k": 48.5,
+   "comment_per_1k": 6.61,
+   "dur_min": 29,
+   "levers": [
+    "loss-threat",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/B4CO0GBXdcE"
+  },
+  {
+   "title": "I Thought Bilt 2.0 Was Great Until I Learned This",
+   "channel": "Mark Reese",
+   "subs": 94400,
+   "views": 33465,
+   "age_days": 186.8,
+   "vpd": 179,
+   "multiplier": 0.35,
+   "like_per_1k": 29.1,
+   "comment_per_1k": 7.8,
+   "dur_min": 27,
+   "levers": [
+    "curiosity-gap",
+    "personal-frame",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/NsVA5qWqs9g"
+  },
+  {
+   "title": "Most Houston Sellers Don't Know About These 10 Mistakes",
+   "channel": "Making Houston Home with Travis Harris Realtor",
+   "subs": 4270,
+   "views": 1452,
+   "age_days": 200.8,
+   "vpd": 7,
+   "multiplier": 0.34,
+   "like_per_1k": 27.5,
+   "comment_per_1k": 0.69,
+   "dur_min": 31,
+   "levers": [
+    "listicle-count",
+    "contrarian",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/MtGSYN8NqVc"
+  },
+  {
+   "title": "Buying A Toronto Condo | Huge Mistakes To Avoid (2026)",
+   "channel": "Tom Storey",
+   "subs": 23000,
+   "views": 7390,
+   "age_days": 230.1,
+   "vpd": 32,
+   "multiplier": 0.32,
+   "like_per_1k": 22.5,
+   "comment_per_1k": 1.62,
+   "dur_min": 20,
+   "levers": [
+    "loss-threat",
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/nd0CI15E8jM"
+  },
+  {
+   "title": "The Houston Move Nobody Warns You About",
+   "channel": "Making Houston Home with Travis Harris Realtor",
+   "subs": 4270,
+   "views": 1328,
+   "age_days": 144.9,
+   "vpd": 9,
+   "multiplier": 0.31,
+   "like_per_1k": 39.9,
+   "comment_per_1k": 6.02,
+   "dur_min": 21,
+   "levers": [
+    "curiosity-gap",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/wC6cv_RIEfg"
+  },
+  {
+   "title": "Our SECRET Strategy to Closing $130,000 In One Week (Explained)",
+   "channel": "Tony Mont",
+   "subs": 4870,
+   "views": 1310,
+   "age_days": 314.0,
+   "vpd": 4,
+   "multiplier": 0.27,
+   "like_per_1k": 46.6,
+   "comment_per_1k": 6.87,
+   "dur_min": 33,
+   "levers": [
+    "dollar-anchor",
+    "curiosity-gap",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/YqKVxN_gYDM"
+  },
+  {
+   "title": "Buying a House on $70K? Don't Make These Debt Mistakes",
+   "channel": "LEND2USA",
+   "subs": 20600,
+   "views": 5297,
+   "age_days": 31.1,
+   "vpd": 170,
+   "multiplier": 0.26,
+   "like_per_1k": 36.1,
+   "comment_per_1k": 11.33,
+   "dur_min": 22,
+   "levers": [
+    "dollar-anchor",
+    "contrarian",
+    "question-hook",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/B3H7wfYlpwU"
+  },
+  {
+   "title": "6 Costly First-Time Home Buyer Mistakes You Must Avoid",
+   "channel": "Zuko Vilakazi",
+   "subs": 7120,
+   "views": 1617,
+   "age_days": 109.0,
+   "vpd": 15,
+   "multiplier": 0.23,
+   "like_per_1k": 81.0,
+   "comment_per_1k": 12.37,
+   "dur_min": 25,
+   "levers": [
+    "loss-threat",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/TrQ2RWdp91c"
+  },
+  {
+   "title": "Top 8 Mistakes First-Time Home Buyers Make",
+   "channel": "Ina Andolong - Chavenia",
+   "subs": 26000,
+   "views": 5496,
+   "age_days": 59.8,
+   "vpd": 92,
+   "multiplier": 0.21,
+   "like_per_1k": 15.8,
+   "comment_per_1k": 15.83,
+   "dur_min": 27,
+   "levers": [
+    "listicle-count",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/i0-O_TlAt5k"
+  },
+  {
+   "title": "Property Buying Mistakes Every Indian Must Avoid | Sanjeev Singh | The Founder's Dream",
+   "channel": "The Founder's Dream | Abhishek vyas",
+   "subs": 265000,
+   "views": 41186,
+   "age_days": 333.3,
+   "vpd": 124,
+   "multiplier": 0.16,
+   "like_per_1k": 0.5,
+   "comment_per_1k": 0.56,
+   "dur_min": 44,
+   "levers": [
+    "loss-threat",
+    "superlative",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/iAacp1eSTmo"
+  },
+  {
+   "title": "Buying a Home? Real Estate Scams, Title Insurance & Costly Mistakes Explained.",
+   "channel": "The Haitian Kings Podcast",
+   "subs": 31800,
+   "views": 4521,
+   "age_days": 184.7,
+   "vpd": 24,
+   "multiplier": 0.14,
+   "like_per_1k": 1.3,
+   "comment_per_1k": 1.11,
+   "dur_min": 108,
+   "levers": [
+    "question-hook",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/zQfgcjif41Q"
+  },
+  {
+   "title": "🔑 Title and Escrow Explained for the Real Estate Exam",
+   "channel": "Exam Prep - by Birdsy",
+   "subs": 19600,
+   "views": 1946,
+   "age_days": 321.2,
+   "vpd": 6,
+   "multiplier": 0.1,
+   "like_per_1k": 33.9,
+   "comment_per_1k": 0.51,
+   "dur_min": 47,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/i5noRg1J724"
+  },
+  {
+   "title": "What I'd Tell My Sister If She Was Buying Her First Home",
+   "channel": "Javier Vidana",
+   "subs": 177000,
+   "views": 13954,
+   "age_days": 58.7,
+   "vpd": 238,
+   "multiplier": 0.08,
+   "like_per_1k": 35.4,
+   "comment_per_1k": 3.44,
+   "dur_min": 20,
+   "levers": [
+    "personal-frame",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/oX4VTGnJkdo"
+  },
+  {
+   "title": "First-Time Homebuyer Struggles Unfolding",
+   "channel": "Sachs Realty",
+   "subs": 230000,
+   "views": 15672,
+   "age_days": 290.9,
+   "vpd": 54,
+   "multiplier": 0.07,
+   "like_per_1k": 30.0,
+   "comment_per_1k": 7.78,
+   "dur_min": 31,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/oSeffpMajdQ"
+  },
+  {
+   "title": "Realtor vs Builder: New Construction Homes & Secrets Every Buyer Must Know (2026)",
+   "channel": "NITIN KUMAR- Austin Texas Real Estate",
+   "subs": 15700,
+   "views": 1145,
+   "age_days": 94.8,
+   "vpd": 12,
+   "multiplier": 0.07,
+   "like_per_1k": 2.6,
+   "comment_per_1k": 0.87,
+   "dur_min": 35,
+   "levers": [
+    "time-anchor",
+    "superlative",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/5X1elsS6Zyw"
+  },
+  {
+   "title": "Bilt 2.0 Refresh & Update: Let’s Talk About It",
+   "channel": "John Liang",
+   "subs": 658000,
+   "views": 38827,
+   "age_days": 184.9,
+   "vpd": 210,
+   "multiplier": 0.06,
+   "like_per_1k": 26.5,
+   "comment_per_1k": 7.83,
+   "dur_min": 33,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/S6T7j4WURVE"
+  },
+  {
+   "title": "2026 FHA Loan Requirements (What's ACTUALLY Required?)",
+   "channel": "Win The House You Love",
+   "subs": 199000,
+   "views": 10673,
+   "age_days": 87.0,
+   "vpd": 123,
+   "multiplier": 0.05,
+   "like_per_1k": 27.8,
+   "comment_per_1k": 2.72,
+   "dur_min": 35,
+   "levers": [
+    "contrarian",
+    "time-anchor",
+    "question-hook",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/4RV0B0FSKEA"
+  },
+  {
+   "title": "Do NOT Buy a Home in USA Without This Guide | Satish Chigullapally | Home Buying 101 - Part 1",
+   "channel": "SumanTV",
+   "subs": 8860000,
+   "views": 25682,
+   "age_days": 316.2,
+   "vpd": 81,
+   "multiplier": 0.0,
+   "like_per_1k": 2.9,
+   "comment_per_1k": 0.39,
+   "dur_min": 37,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/BI3zHgyHMfo"
+  }
+ ]
+}

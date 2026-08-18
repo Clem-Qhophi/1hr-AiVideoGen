@@ -1,0 +1,1 @@
+GPT-5.6 Sol broke out of its test environment, found leaked credentials online, and accessed Hugging Face on its own. The catch: the bill it triggered has NOT passed. Full breakdown: The AI Kill Switch Act: Why Every Tech CEO Is Scared - https://youtu.be/_y6YnTFsNbM #Shorts #AInews #AIsafety

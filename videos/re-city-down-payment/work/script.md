@@ -1,0 +1,175 @@
+# The Closing Table — Video 5
+# "3 Cities That Will Forgive Part of Your Down Payment (Not What You Heard)"
+# Niche: real-estate | Voice: en-US-JennyNeural (150.3 wpm measured) | Budget: ~1750 words (target 11 min, past videos ran ~5-9% faster than baseline)
+# Topic validated: "cities that will pay you to move there" scored GO-NARROW (8/12), real breakouts up to 80.7x.
+# ORIGIN NOTE: this topic started as a hyped pitch claiming cities "pay your entire down payment,
+# bypass private lending entirely, zero equity, no PMI." Fact-checked before writing: that framing is
+# false for every real program found. The honest version below is the actual mechanism, used as the
+# video's own myth-vs-reality hook.
+# Verified sources (each read start-to-finish, not from a search summary):
+#   South Bend, IN / Community Homebuyers Corporation (ahomeallmyown.org, captured) -> 20% of purchase
+#     price, forgivable 2nd mortgage, price cap $175,000, must apply BEFORE signed purchase agreement
+#   Baltimore MD / Live Baltimore "Buying Into Baltimore" (livebaltimore.com, captured) -> $5,000,
+#     5-year forgivable loan, lottery of 20 winners/year, $1,000 buyer contribution required, FHA loan
+#     limit $731,400, fixed-rate mortgages only
+#   Newark NJ / Live Newark Program (newarknj.gov, captured) -> $20,000 no-interest forgivable loan,
+#     20%/year forgiven over 5 years, first-time buyers, avg homebuyer income $54,000 / avg home $235,386
+# Evidence captured (media/projects/re-city-down-payment/evidence/): southbend-chc.png, baltimore-bib.png, newark-live.png
+
+## cold-open-claim
+
+[beat: for sale sign yard | suburban house exterior]
+There is a video going around right now claiming certain cities will pay your entire down payment. Skip the bank completely. Zero equity. No mortgage insurance.
+
+That is not how any of this works.
+
+[beat: closing table documents | house keys door]
+But there is something real hiding underneath that myth. Three actual cities, with a real mechanism, that can hand you thousands of dollars toward a down payment.
+
+One of them can cover a fifth of your entire purchase price. I will show you all three, and the one rule that trips up almost everyone who applies.
+
+## stakes
+
+[beat: mortgage paperwork | closing table documents]
+Here is why the myth is actually dangerous, not just wrong.
+
+People search for "free down payment" and land on a video promising something that does not exist. They waste weeks looking for a shortcut around the bank.
+
+[beat: calculator desk paperwork | mortgage paperwork]
+Meanwhile, the real programs sit right there, mostly ignored, because they do not sound flashy enough to go viral.
+
+They are boring. They are bureaucratic. They also genuinely work, for the right buyer, in the right city.
+
+[beat: house keys door | open house]
+So let's do the boring version. It is worth more to you than the exciting one.
+
+Think of it like a coupon versus a scam email promising a free car. The coupon actually saves you real money. It is just never going to trend on its own. "Here are the exact terms and conditions" does not get clicks the way "free house" does.
+
+## mechanism
+
+[beat: mortgage paperwork | closing table documents]
+First, the mechanism itself. What these programs actually are.
+
+Nearly all of them work the same way. A city or a nonprofit partner gives you a second loan, on top of your regular mortgage, specifically for your down payment or closing costs.
+
+That second loan is forgivable. Meaning if you live in the house for a set number of years, usually five, you never pay it back at all. Leave early, and you typically owe some or all of it, prorated for how long you actually stayed.
+
+It works a lot like a signing bonus that vests over time at a new job. Stay the full term, and it is genuinely yours. Leave halfway through, and you owe back whatever has not vested yet.
+
+[beat: EVIDENCE-southbend-chc]
+City one. South Bend, Indiana.
+
+Per Community Homebuyers Corporation, the city's program partner, qualifying buyers get a forgivable second mortgage equal to twenty percent of the home's purchase price.
+
+Twenty percent. On a lot of homes, that is the entire conventional down payment, covered.
+
+Say you are buying a home at South Bend's own price cap. On a hundred seventy five thousand dollar house, twenty percent works out to thirty five thousand dollars, forgiven, as long as you stay.
+
+[beat: card-southbend-math]
+There are real limits. The home price cannot exceed one hundred seventy five thousand dollars. And here is the rule that trips people up.
+
+You cannot already have a signed purchase agreement when you apply. Sign first, and you are disqualified before you even start.
+
+That single rule quietly knocks out a lot of applicants who did everything else right. They found a house, got excited, signed the offer, and only found this program afterward. By then, it is too late.
+
+[beat: EVIDENCE-baltimore-bib]
+City two. Baltimore, Maryland.
+
+Per Live Baltimore's own program page, the "Buying Into Baltimore" incentive offers five thousand dollars toward your down payment and closing costs. It forgives completely over five years of living there.
+
+[beat: card-baltimore-math]
+Here is the catch. It is not first-come, first-served. It is a lottery. Only twenty winners are selected each year, and you have to attend a specific city tour event just to enter.
+
+You also have to put in one thousand dollars of your own money. Your mortgage has to stay under the FHA limit, currently around seven hundred thirty one thousand dollars. And only fixed-rate mortgages qualify. No adjustable rates, no owner financing, no cash deals.
+
+[beat: EVIDENCE-newark-live]
+City three. Newark, New Jersey.
+
+Per the city's own Live Newark program page, first-time buyers can get a twenty thousand dollar loan. Zero percent interest. Usable for closing costs and your down payment.
+
+It forgives at twenty percent a year. Stay five years, owe nothing.
+
+[beat: card-newark-math]
+Per the city's own data, the average buyer using this program earned around fifty four thousand dollars a year. The average home they bought cost around two hundred thirty five thousand dollars.
+
+This is not a program built for luxury buyers. It is built for exactly the buyer most down payment content online ignores completely.
+
+[beat: house keys door | closing table documents]
+Notice what all three have in common. None of them replace a mortgage. Every single one still requires you to qualify for, and close on, a real loan from a real private lender.
+
+The city money covers part of the down payment. It does not cover the loan itself. It also does not remove underwriting, which is the bank's own process of checking your income, your credit, and the house before saying yes.
+
+You still need decent credit. You still need provable income. You still need a house that passes inspection. The city program removes one obstacle, the cash up front, not every obstacle.
+
+Digging past a viral claim to find the boring, real version underneath it is the entire point of this channel. If that is useful to you, subscribing means the next one finds you before the next fake promise does.
+
+## honest-limits
+
+[beat: closing table documents | mortgage paperwork]
+Now the honest part, because these programs get exaggerated for a reason. The real details are less exciting than the pitch.
+
+First, every one of these has an income limit, a residency requirement, or both. Newark and South Bend are aimed at first-time, moderate-income buyers specifically. Read the actual eligibility page for the city you care about. Do not assume you qualify because a number sounded big.
+
+Baltimore is the exception on income, with no household income cap listed, but it adds its own hurdle instead. You have to attend a specific event, complete homeownership counseling, and then win a lottery. Generous does not always mean easy.
+
+[beat: residential street | suburban house exterior]
+Second, these programs run on limited funding. Baltimore caps it at twenty winners a year, by lottery. Other cities pause their programs entirely when the budget runs out, and can reopen it later. What is true this month is not guaranteed to be true next year.
+
+This is the exact detail the viral version conveniently skips. A program can be completely real, and also completely full, on the day you actually go looking for it. Confirm current status before you build a plan around any of this.
+
+[beat: mortgage paperwork | calculator desk paperwork]
+Third, this is three real examples, not a complete national list. Hundreds of similar programs exist across different cities and counties, each with its own rules. If your city is not one of these three, that does not mean nothing exists where you live.
+
+Some are run by the city directly. Others are run by a nonprofit partner, like South Bend's, or paired with a specific mortgage lender. The structure varies. The core idea, a forgivable second loan tied to how long you stay, tends to repeat.
+
+[beat: closing table documents | mortgage paperwork]
+And to be completely direct about what this is.
+
+This is general information about how these specific programs work, verified on their own official pages. It is not a promise that you personally will qualify, and not legal or financial advice for your situation.
+
+This channel has nothing to sell you, and no referral fee riding on which city, or which lender, you choose.
+
+## how-to-apply
+
+[beat: mortgage paperwork | closing table documents]
+So here is exactly what to do this week.
+
+One. Search your own city or county name plus "down payment assistance program." Most mid-size and large cities have something, even if it never goes viral.
+
+Check both the city government site and your state's own housing finance agency. Some programs live at the state level instead, and cover every city inside it.
+
+[beat: house keys door | open house]
+Two. Read the eligibility page fully before you do anything else. Income limits, occupancy years, and price caps vary enormously, city to city.
+
+Write down the actual numbers for your situation. Your household income, the home prices you're looking at, how long you realistically plan to stay. Compare those against the program's own limits before you get attached to the idea.
+
+[beat: closing table documents | house keys door]
+Three. Check the application order carefully. South Bend disqualifies you for signing a purchase agreement too early. Other cities require the opposite. Getting the sequence backwards can cost you the entire benefit.
+
+[beat: mortgage paperwork | calculator desk paperwork]
+Four. Get pre-approved with a private lender at the same time you apply to the city program, not after. You will need both to actually close.
+
+Some cities require you to use a specific participating lender, or complete their homebuyer counseling first. Ask that question early, so it does not derail you halfway through.
+
+[beat: calculator desk paperwork | mortgage paperwork]
+Five. Ask directly what happens if you move before the forgiveness period ends. That answer, in writing, tells you what you are really signing up for.
+
+Job changes, family changes, life happens. Knowing your actual exit cost before you sign is the difference between a genuine gift and a debt you forgot you had.
+
+## close
+
+[beat: card-southbend-math]
+So, quickly, the three real programs.
+
+South Bend, twenty percent of your purchase price, forgivable. Baltimore, five thousand dollars, by lottery. Newark, twenty thousand dollars, at zero interest.
+
+[beat: EVIDENCE-newark-live]
+All three are real. All three still require a real mortgage. None of them bypass the bank, no matter what the viral version claims.
+
+[beat: house keys door | for sale sign yard]
+Knowing the boring, accurate version beats chasing a promise that was never true. If that is worth something to you, subscribing is the whole ask.
+
+And if your own city has a program like this, tell me the details in the comments. It helps the next person find something real instead of another viral myth.
+
+[beat: card-close-recap]
+See you in the next one.

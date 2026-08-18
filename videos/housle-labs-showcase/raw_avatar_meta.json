@@ -1,0 +1,9 @@
+{
+  "script": "Most ads are seen. Few are remembered. Better creative. Better connection. Better results. Created by Housle Labs.\n",
+  "voice": "en-US-ChristopherNeural",
+  "model": "gemini-3-pro-image",
+  "avatar_prompt": "A professional, charismatic tech YouTuber standing in a sleek modern studio with subtle indigo neon accents. Looking directly at the camera, neutral confident expression, 4k ultra realistic, high detail, studio lighting.",
+  "refs": [],
+  "audio": "videos\\housle-labs-showcase\\avatar_narration.mp3",
+  "created": "2026-08-06T15:38:47"
+}

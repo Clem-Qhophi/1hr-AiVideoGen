@@ -1,0 +1,37 @@
+{
+  "source": "videos/gemini-3-7-release/output/gemini-3-7-release-MASTER.mp4",
+  "clips": [
+    {
+      "id": "01",
+      "hook_text": "The 2027 Trap in Gemini 3.7 Flash",
+      "segments": [
+        {"start": 0.0, "end": 14.0},
+        {"start": 165.8, "end": 193.0}
+      ],
+      "loop": true,
+      "title": "The Hidden Trap in Google's New Gemini 3.7 ⚠️ (Price Doubles)",
+      "description": "Google's new Gemini 3.7 Flash cuts API pricing in half and hits 65.3% on SWE benchmarks... but there is a hidden 2027 catch in the fine print developers need to know.\n\n👉 WATCH THE FULL BREAKDOWN: Search 'Gemini 3.7 Flash Breakdown' on our channel or check the pinned comment!\n\n🔔 Subscribe for real, benchmark-verified AI breakdowns the day models drop.\n\n#Shorts #Gemini37 #GoogleAI #CodingAI #Developers #AIPricing #TechNews",
+      "tags": ["shorts", "gemini 3.7", "gemini flash", "google deepmind", "ai pricing", "coding ai", "developer news", "ai benchmarks"]
+    },
+    {
+      "id": "02",
+      "hook_text": "Google Just Fixed AI Speed vs Accuracy",
+      "start": 17.9,
+      "end": 49.5,
+      "loop": true,
+      "title": "Google's New AI Feature Changes Coding Forever 🧠⚡",
+      "description": "Gemini 3.7 Flash introduces customizable thinking budgets—letting you tune exact reasoning tokens to balance latency and accuracy for coding and agentic workflows.\n\n👉 WATCH THE FULL IN-DEPTH REVIEW on our channel or via pinned comment!\n\n🔔 Subscribe to stay ahead of every major AI model release without the hype.\n\n#Shorts #Gemini37 #AIRuntime #AIReasoning #CodingAgent #SoftwareEngineering #GoogleDeepMind",
+      "tags": ["shorts", "gemini 3.7", "thinking budget", "ai reasoning", "coding agent", "software engineering", "tech news", "google ai"]
+    },
+    {
+      "id": "03",
+      "hook_text": "Gemini 3.7 Flash Benchmark Massacre",
+      "start": 97.6,
+      "end": 141.2,
+      "loop": true,
+      "title": "Gemini 3.7 Flash vs 3.6: The Benchmark Shock 📊🔥",
+      "description": "Google DeepMind's official benchmarks for Gemini 3.7 Flash show massive jumps: 65.3% on DeepSWE, 1588 Elo on WebDev Arena, and 30.4% on AutomationBench.\n\n👉 WATCH THE FULL UNBIASED BREAKDOWN: Check our channel or the pinned link!\n\n🔔 Subscribe for daily verified AI performance benchmarks and code tests.\n\n#Shorts #Gemini37 #Benchmarks #DeepSWE #WebDevArena #CodingAI #AITesting",
+      "tags": ["shorts", "gemini 3.7 benchmarks", "deepswe", "coding benchmarks", "google deepmind", "ai comparison", "webdev arena"]
+    }
+  ]
+}

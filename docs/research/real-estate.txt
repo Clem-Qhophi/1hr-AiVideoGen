@@ -1,0 +1,50 @@
+
+=== 24h — 2 videos ===
+  runtime: median 48 min  (p25 34 / p75 62)
+  titles: 0% use ALL-CAPS · 50% a number · 0% a parenthetical
+  recurring words: home, costly, mistakes, inspectors, see, buyers, miss, avoid, before, buy, land, could
+  top by views/day:
+           8/d   62m  What Home Inspectors see that Buyers miss!  Avoid Costly Mistakes
+              LetsUunderstand                    2 views, 0.2d old
+           6/d   34m  Before You Buy Land: 6 Costly Mistakes That Could Ruin Your Dream 
+              Brick & Brain                      3 views, 0.5d old
+
+=== 30d — 34 videos ===
+  runtime: median 33 min  (p25 25 / p75 53)
+  titles: 17% use ALL-CAPS · 44% a number · 14% a parenthetical
+  recurring words: explained, home, real, mistakes, first, estate, time, buying, mortgage, know, buyers, avoid
+  top by views/day:
+         331/d   25m  Mortgage Expert: 5 Quiet Mistakes First Time Buyers MUST Avoid
+              Nathan Udomsri                     7,007 views, 21.2d old
+          57/d   25m  5 of the Biggest Mistakes People Make When Relocating to El Paso, 
+              Living in El Paso Texas            799 views, 14.1d old
+          57/d   27m  New Construction Homes: 7 Mistakes That Cost Buyers $50,000 | Livi
+              Living in El Paso Texas            450 views, 7.9d old
+          28/d   52m  Podcast 65 | Newcomers Ki Sabse Mehengi Home Buying Mistakes 🇨🇦 | 
+              Chander Shekhar Arya               229 views, 8.2d old
+          25/d   48m  Portugal Property Costs Explained: New IMT Rules, Taxes, FX Transf
+              Expats Portugal                    351 views, 14.0d old
+          18/d   31m  How to Buy Land: Financing, Down Payments, Loans, and Mistakes to 
+              Kevin Jefferson - The People's Len 92 views, 5.2d old
+
+=== 365d — 60 videos ===
+  runtime: median 33 min  (p25 25 / p75 49)
+  titles: 31% use ALL-CAPS · 46% a number · 13% a parenthetical
+  recurring words: explained, mortgage, real, mistakes, buying, 2026, home, buyers, estate, rates, first, time
+  top by views/day:
+       2,629/d   30m  2026 Tesla Buyers Have Huge Regrets | Don't Make a Mistake
+              Ryan Shaw                          481,280 views, 183.1d old
+         623/d   86m  100 Questions with Answers to Pass the REAL ESTATE EXAM in 2026. T
+              Jonathan Goforth Show              122,244 views, 196.1d old
+         405/d   52m  The Fed's last ditch effort to save the housing market (Mortgage R
+              Reventure Consulting               129,043 views, 318.9d old
+         331/d   25m  Mortgage Expert: 5 Quiet Mistakes First Time Buyers MUST Avoid
+              Nathan Udomsri                     7,007 views, 21.2d old
+         238/d   20m  What I'd Tell My Sister If She Was Buying Her First Home
+              Javier Vidana                      13,954 views, 58.7d old
+         188/d   85m  2026 National Real Estate Exam Prep | 111 Most Missed Questions Ex
+              Exam Prep - by Birdsy              21,974 views, 116.9d old
+
+  -> docs/research/real-estate.json
+
+Read these as PATTERNS to learn from, not titles to copy. Duplicating a title verbatim is how a channel gets flagged as derivative.

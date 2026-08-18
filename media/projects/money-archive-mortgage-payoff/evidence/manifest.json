@@ -1,0 +1,18 @@
+[
+ {
+  "name": "freddiemac-30yr-rate",
+  "file": "freddiemac-30yr-rate.png",
+  "url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+  "source": "Freddie Mac PMMS via FRED, week of 2026-07-30",
+  "selector": null,
+  "captured_at": "2026-08-04T19:25:28"
+ },
+ {
+  "name": "payoff-300-per-month",
+  "file": "payoff-300-per-month.png",
+  "url": "https://www.calculator.net/mortgage-payoff-calculator.html?cloanamount=400%2C000&cloanterm=30&cinterestrate=6.66&cremainingyear=30&cremainingmonth=0&cpayoffoption=extra&cadditionalmonth=300&cadditionalyear=0&cadditionalonetime=0&type=1&x=Calculate",
+  "source": "Calculator.net Mortgage Payoff Calculator, 00k/30yr/6.66%, +00/mo",
+  "selector": null,
+  "captured_at": "2026-08-04T19:25:41"
+ }
+]

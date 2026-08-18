@@ -1,0 +1,56 @@
+{
+  "_note": "REBUILD 2026-08-03 for the 14-min cut — all cue times re-derived from the NEW work/edited-transcript.json word timings, never carried over from the 32-min version (stale cue times are silently wrong, not obviously wrong). Density LOW per niches/real-estate.json sound.sfx_density: this channel earns trust by being heard rarely and felt on the numbers that matter. Library-first: all 3 clips already in media/library/sfx/catalog.json, nothing generated.",
+  "master": "videos/re-closing-costs/output/re-closing-costs-visuals.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/re-closing-costs/output/re-closing-costs-visuals-cap.mp4",
+    "out": "videos/re-closing-costs/output/re-closing-costs-sfx.mp4",
+    "duck": true,
+    "end_s": 840.5
+  },
+  "events": [
+    {
+      "at_s": 4.1,
+      "sfx_id": "impact-soft",
+      "gain_db": -10,
+      "cue": "cold open: '$4,661' — the number the whole video hangs on",
+      "note": "hero 1 of 6"
+    },
+    {
+      "at_s": 283.1,
+      "sfx_id": "impact-soft",
+      "gain_db": -10,
+      "cue": "national closing costs fell 2.9%",
+      "note": "hero 2 of 6"
+    },
+    {
+      "at_s": 309.6,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -9,
+      "cue": "Delaware rose 4.5% — the video's main turn",
+      "note": "hero 3 of 6, warmer cue marks the pivot rather than another hit"
+    },
+    {
+      "at_s": 344.2,
+      "sfx_id": "impact-soft",
+      "gain_db": -10,
+      "cue": "D.C. fell 21% and is still the priciest — the promised twist",
+      "note": "hero 4 of 6, pays off the cold-open retention loop"
+    },
+    {
+      "at_s": 371.5,
+      "sfx_id": "page-flip",
+      "gain_db": -11,
+      "cue": "the 16 no-transfer-tax states list begins",
+      "note": "hero 5 of 6, a list-turn cue not a number hit"
+    },
+    {
+      "at_s": 462.7,
+      "sfx_id": "impact-soft",
+      "gain_db": -10,
+      "cue": "worked example: $0 in Texas vs $10,000 in Delaware",
+      "note": "hero 6 of 6 — the concrete payoff, the single most important beat"
+    }
+  ]
+}

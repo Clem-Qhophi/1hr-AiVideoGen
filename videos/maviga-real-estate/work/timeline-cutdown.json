@@ -1,0 +1,50 @@
+{
+  "master": "videos/maviga-real-estate/reference/master-cutdown-silent.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "MVHook",
+      "type": "cutaway",
+      "master_in_s": 0.0,
+      "master_out_s": 3.3,
+      "cue": "GHC five thousand down, the land is yours"
+    },
+    {
+      "id": "MVLand",
+      "type": "cutaway",
+      "master_in_s": 3.3,
+      "master_out_s": 9.0,
+      "cue": "Full plots at Dawhenya, eighty by eighty feet, roads cleared"
+    },
+    {
+      "id": "MVCash",
+      "type": "cutaway",
+      "master_in_s": 9.0,
+      "master_out_s": 12.3,
+      "cue": "Cash at thirty thousand, or spread it"
+    },
+    {
+      "id": "MVCTA",
+      "type": "cutaway",
+      "master_in_s": 12.3,
+      "master_out_s": 15.0,
+      "cue": "Message Maviga Real Estate on WhatsApp"
+    },
+    {
+      "id": "EmphasisCaptions-maviga-real-estate-cutdown",
+      "type": "overlay",
+      "master_in_s": 0.0,
+      "master_out_s": 15.0,
+      "cue": "cutdown key-line captions (whole video)"
+    }
+  ],
+  "reframes": [],
+  "preview": {
+    "end_s": 15.0,
+    "out": "videos/maviga-real-estate/output/maviga-real-estate-cutdown-preview.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

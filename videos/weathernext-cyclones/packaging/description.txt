@@ -1,0 +1,40 @@
+A Google DeepMind AI just gave hurricane forecasters a full extra day of warning - and it was proven inside real emergency operations, not in a lab. Hurricane Melissa: Jamaica, Category 5, called with 80% confidence five days out. The model behind it is open source, and the free mini version runs in a Colab notebook.
+
+Here is what actually changed, the receipts from the NHC's own verification report, and the honest gap: what this model still cannot do.
+
+TIMESTAMPS
+0:00 The warning you almost didn't get
+0:29 Why early warning is so hard
+1:05 The claim, straight from the Nature paper
+1:28 Melissa: the real-season test
+2:06 The scale: 15 days, 1,000 futures
+2:37 The receipts: the NHC's own report
+4:00 How it works
+4:45 Open data, real partners
+5:12 The honest gap
+6:00 Bottom line
+
+THE NUMBERS
+- +24 hours of lead time: WeatherNext's 3-day forecasts are as accurate as the best 2-day forecasts - about a decade of progress in one model
+- Hurricane Melissa (2025): Jamaica landfall as a Category 5 - 80% confidence five days out, near-certain three days out; first-ever NHC Category-5 call from a Category-1 start
+- NHC 2025 Verification Report: the top-performing individual model on track AND intensity; outperformed the NHC's official forecasts at 12-72h; beat every model and consensus in the eastern Pacific at 48-120h
+- 3-day track error about 100 km - better than the European model; intensity error about 11 knots - beats the US Navy's hurricane model
+- Forecasts out to 15 days; 1,000-member ensembles per storm (last year it was 50); a full 15-day run in under a minute on a single TPU
+- Inputs are just 28 x 28 km - about 100x coarser than traditional models, and it still performs
+- The stakes: 700,000+ deaths and $1.4 trillion in damage from cyclones over the last 50 years
+- Open source: code + weights on GitHub, with a mini model that runs free in a Colab notebook
+
+SOURCES
+- Google DeepMind announcement (Aug 6, 2026): deepmind.google
+- The Nature paper, "Operational Tropical Cyclone Forecasting with AI": nature.com/articles/s41586-026-10953-2
+- NHC 2025 Verification Report, NOAA (Mar 30, 2026): nhc.noaa.gov
+- developers.google.com/weathernext | github.com/google-deepmind/weathernext
+- Every number in this video is sourced. Where a claim is still an open question, we say so on screen.
+
+WHY THIS CHANNEL
+AI Under 3 Min covers AI releases the day they land - verdict in the first three minutes, no hype, and always the honest gap: what the release does NOT do.
+
+Subscribe so you catch the next one the day it drops.
+Would you trust an AI forecast over the official warning? Drop it in the comments.
+
+#AI #Weather #Hurricane #DeepMind #AInews #Climate #MachineLearning #Google

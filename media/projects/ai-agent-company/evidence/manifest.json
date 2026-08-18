@@ -1,0 +1,82 @@
+[
+ {
+  "name": "levels-blog",
+  "file": "levels-blog.png",
+  "url": "https://www.levels.io/blog",
+  "source": "Pieter Levels blog - /mo solo founder",
+  "selector": null,
+  "captured_at": "2026-08-08T04:37:57"
+ },
+ {
+  "name": "crewai-docs",
+  "file": "crewai-docs.png",
+  "url": "https://docs.crewai.com/introduction",
+  "source": "CrewAI documentation - multi-agent orchestration framework",
+  "selector": null,
+  "captured_at": "2026-08-08T04:38:28"
+ },
+ {
+  "name": "autogen",
+  "file": "autogen.png",
+  "url": "https://autogen.microsoft.com",
+  "source": "Microsoft AutoGen - multi-agent framework",
+  "selector": null,
+  "captured_at": "2026-08-08T04:39:19"
+ },
+ {
+  "name": "crewai-funding",
+  "file": "crewai-funding.png",
+  "url": "https://news.crunchbase.com/ai/crewai-agents-automation-funding/",
+  "source": "Crunchbase - CrewAI  Series A funding",
+  "selector": null,
+  "captured_at": "2026-08-08T04:41:50"
+ },
+ {
+  "name": "wired-solo",
+  "file": "wired-solo.png",
+  "url": "https://www.wired.com/story/openai-solo-entrepreneurs-ai-agents/",
+  "source": "Wired - Solo Entrepreneurs and AI Agents",
+  "selector": null,
+  "captured_at": "2026-08-08T04:43:07"
+ },
+ {
+  "name": "forbes-solo",
+  "file": "forbes-solo.png",
+  "url": "https://www.forbes.com/sites/joannechen/2025/08/28/from-prompt-to-profit-how-ai-agents-are-reshaping-the-solopreneur-economy/",
+  "source": "Forbes - AI Agents Reshaping Solopreneur Economy",
+  "selector": null,
+  "captured_at": "2026-08-08T04:44:10"
+ },
+ {
+  "name": "acm-multiagent",
+  "file": "acm-multiagent.png",
+  "url": "https://www.acm.org/articles/do/10.1145/3718559/full",
+  "source": "ACM - Multi-Agent Systems Survey",
+  "selector": null,
+  "captured_at": "2026-08-08T04:44:52"
+ },
+ {
+  "name": "swarms-rise",
+  "file": "swarms-rise.png",
+  "url": "https://www.marktechpost.com/2026/01/22/the-rise-of-ai-agent-swarms-how-multi-agent-systems-are-revolutionizing-problem-solving-and-automation/",
+  "source": "MarkTechPost - AI Agent Swarms Revolution",
+  "selector": null,
+  "captured_at": "2026-08-08T04:45:42"
+ },
+ {
+  "name": "crewai-arch",
+  "file": "crewai-arch.png",
+  "url": "https://docs.crewai.com/concepts/architecture",
+  "source": "CrewAI Architecture Docs",
+  "selector": null,
+  "captured_at": "2026-08-08T04:46:32"
+ },
+ {
+  "name": "base44",
+  "file": "base44.png",
+  "url": "https://www.joelonsoftware.com/2026/06/29/how-base44-was-built-without-engineers/",
+  "source": "Base44 - built without engineers, sold to Wix for ",
+  "selector": null,
+  "captured_at": "2026-08-08T04:47:19"
+ }
+]

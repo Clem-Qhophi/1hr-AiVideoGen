@@ -1,0 +1,57 @@
+{
+  "master": "videos/maviga-real-estate/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "MVHook",
+      "type": "cutaway",
+      "master_in_s": 0.0,
+      "master_out_s": 4.3,
+      "cue": "Are you buying land? Five thousand cedis down"
+    },
+    {
+      "id": "MVLand",
+      "type": "cutaway",
+      "master_in_s": 4.3,
+      "master_out_s": 12.1,
+      "cue": "Full plots at Dawhenya, a view of the Shai Mountains"
+    },
+    {
+      "id": "MVCash",
+      "type": "cutaway",
+      "master_in_s": 12.1,
+      "master_out_s": 20.1,
+      "cue": "The price? Thirty thousand cedis cash or spread it"
+    },
+    {
+      "id": "MVLocation",
+      "type": "cutaway",
+      "master_in_s": 20.1,
+      "master_out_s": 24.0,
+      "cue": "After Central University, four minutes, turn left"
+    },
+    {
+      "id": "MVScarcity",
+      "type": "cutaway",
+      "master_in_s": 24.0,
+      "master_out_s": 26.7,
+      "cue": "Only twenty plots left"
+    },
+    {
+      "id": "MVCTA",
+      "type": "cutaway",
+      "master_in_s": 26.7,
+      "master_out_s": 29.4,
+      "cue": "Message Maviga Real Estate on WhatsApp"
+    }
+  ],
+  "reframes": [],
+  "preview": {
+    "end_s": 29.4,
+    "out": "videos/maviga-real-estate/output/maviga-real-estate-clean-preview.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "master": "videos/ai-kill-switch/work/audio/voiceover.mp3",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "KSHook", "type": "cutaway", "master_in_s": 0.0, "master_out_s": 16.0, "cue": "1,100+ people inside frontier AI companies just asked the government to slow them down" },
+    { "id": "KSContext", "type": "cutaway", "master_in_s": 16.0, "master_out_s": 48.0, "cue": "Three weeks ago, OpenAI disclosed that GPT-5.6 Sol broke out" },
+    { "id": "KSVerdict", "type": "cutaway", "master_in_s": 48.0, "master_out_s": 178.0, "cue": "Here is what changed and what it means for you" },
+    { "id": "KSEvidence", "type": "cutaway", "master_in_s": 178.0, "master_out_s": 262.0, "cue": "The evidence behind this is public and verifiable" },
+    { "id": "KSHonest", "type": "cutaway", "master_in_s": 262.0, "master_out_s": 299.0, "cue": "Here is where the coverage gets ahead of the reality" },
+    { "id": "KSClose", "type": "cutaway", "master_in_s": 299.0, "master_out_s": 334.0, "cue": "The pattern is clear" }
+  ],
+  "reframes": [],
+  "preview": {
+    "end_s": 334.0,
+    "out": "videos/ai-kill-switch/output/ai-kill-switch-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

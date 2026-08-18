@@ -1,0 +1,72 @@
+{
+  "_note": "Long-form Ken-Burns pipeline: cues sync to key moments in work/beats.json (evidence reveals, hook, mid-roll CTA, close), not to Remotion timeline.json shots (unused here). Density kept LOW per niches/home-hacks.json sound.sfx_density - 'calm, older, unhurried, trustworthy neighbour' should be felt on the evidence beats, not decorated throughout. Library-first: all clips already exist in media/library/sfx/catalog.json, from niches/home-hacks.json's own sfx_palette (page-flip, impact-soft, warm-shimmer, clock-tick-soft).",
+  "master": "videos/car-battery-backup-power/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/car-battery-backup-power/output/car-battery-backup-power-captioned.mp4",
+    "out": "videos/car-battery-backup-power/output/car-battery-backup-power-sfx.mp4",
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.2,
+      "sfx_id": "clock-tick-soft",
+      "gain_db": -10,
+      "cue": "cold open: 'When the power goes out, you've got about four hours...'",
+      "note": "opens the retention loop - a soft tick under the countdown framing"
+    },
+    {
+      "at_s": 290.38,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "EVIDENCE-inverter-product card lands",
+      "note": "first of 4 evidence reveals"
+    },
+    {
+      "at_s": 330.92,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "EVIDENCE-fridge-wattage card lands"
+    },
+    {
+      "at_s": 451.93,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-co-safety card lands: safety rule 1 (never run indoors)",
+      "note": "hero beat - the first of the two promised safety rules"
+    },
+    {
+      "at_s": 599.07,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-backfeed-danger card lands: safety rule 2 (never backfeed the panel)",
+      "note": "hero beat - the second of the two promised safety rules"
+    },
+    {
+      "at_s": 654.37,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -11,
+      "cue": "mid-roll subscribe mention, woven in after the safety rules"
+    },
+    {
+      "at_s": 1165.06,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "close section: safety rule 1 recap card"
+    },
+    {
+      "at_s": 1173.99,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "close section: safety rule 2 recap card"
+    },
+    {
+      "at_s": 1189.65,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -10,
+      "cue": "Walt's sign-off line: 'That's the old way. Still works.'",
+      "note": "signature line - same treatment every video for consistency"
+    }
+  ]
+}

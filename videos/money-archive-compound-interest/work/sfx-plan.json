@@ -1,0 +1,117 @@
+{
+  "_note": "Long-form Ken-Burns pipeline: cues sync to card-reveal moments in work/beats.json (is_card beats), cued ~0.6s before the nominal beat start to land in the pre-word pause rather than on continuous-speech onset (per EVOLUTION.md 2026-07-31 SFX lesson from money-archive-401k-fee). Density kept LOW per niches/finance.json sound.sfx_density. Library-first: all 4 clips already exist in media/library/sfx/catalog.json, no generation needed.",
+  "master": "videos/money-archive-compound-interest/output/money-archive-compound-interest-visuals-cap.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/money-archive-compound-interest/output/money-archive-compound-interest-visuals-cap.mp4",
+    "out": "videos/money-archive-compound-interest/output/money-archive-compound-interest-sfx.mp4",
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 80.329,
+      "sfx_id": "impact-soft",
+      "gain_db": -10,
+      "cue": "literacy-gap card: 35/50 states",
+      "note": "hero beat - the stakes reveal"
+    },
+    {
+      "at_s": 159.489,
+      "sfx_id": "page-flip",
+      "gain_db": -8,
+      "cue": "definition card: compound interest, plain"
+    },
+    {
+      "at_s": 233.19,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -8,
+      "cue": "rule-of-72 card"
+    },
+    {
+      "at_s": 273.832,
+      "sfx_id": "page-flip",
+      "gain_db": -8,
+      "cue": "sp500-rate card: 10.87%/yr"
+    },
+    {
+      "at_s": 336.877,
+      "sfx_id": "impact-soft",
+      "gain_db": -10,
+      "cue": "full-run card: $1,652,065 over 40 years",
+      "note": "hero beat"
+    },
+    {
+      "at_s": 373.991,
+      "sfx_id": "impact-soft",
+      "gain_db": -10,
+      "cue": "curve-bend card: $123 vs $171,703 growth",
+      "note": "hero beat"
+    },
+    {
+      "at_s": 427.786,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -8,
+      "cue": "head-start card: Person A, $24,000 in"
+    },
+    {
+      "at_s": 460.251,
+      "sfx_id": "impact-soft",
+      "gain_db": -11,
+      "cue": "waited card: $1,106,809 vs $545,257",
+      "note": "the central payoff of the whole video - loudest hero cue"
+    },
+    {
+      "at_s": 525.973,
+      "sfx_id": "page-flip",
+      "gain_db": -8,
+      "cue": "person-c card: started at 45"
+    },
+    {
+      "at_s": 593.078,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -7,
+      "cue": "why-it-works quote card",
+      "note": "reflective beat, softer cue"
+    },
+    {
+      "at_s": 613.771,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -8,
+      "cue": "scales card: $50/mo and $25/mo"
+    },
+    {
+      "at_s": 743.073,
+      "sfx_id": "page-flip",
+      "gain_db": -8,
+      "cue": "real-vs-nominal card: nominal vs inflation-adjusted"
+    },
+    {
+      "at_s": 777.43,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -7,
+      "cue": "honest-limits quote card first appearance",
+      "note": "trust beat"
+    },
+    {
+      "at_s": 917.315,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -8,
+      "cue": "how-to-checklist card: 6 things to check"
+    },
+    {
+      "at_s": 1052.293,
+      "sfx_id": "impact-soft",
+      "gain_db": -10,
+      "cue": "close section: crossover-headline card recap",
+      "note": "final recap of the core number"
+    },
+    {
+      "at_s": 1148.225,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -6,
+      "cue": "close-recap card: Go run your own numbers",
+      "note": "final beat of the video"
+    }
+  ]
+}

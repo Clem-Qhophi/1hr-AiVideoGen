@@ -1,0 +1,23 @@
+[
+  {
+    "name": "zhipu-glm53-announcement",
+    "file": "zhipu-glm53-announcement.png",
+    "url": "https://z.ai/news/glm-5-3-launch",
+    "source": "Zhipu AI / Z.ai, Aug 14, 2026",
+    "captured_at": "2026-08-14T16:15:00"
+  },
+  {
+    "name": "cybergym-leaderboard",
+    "file": "cybergym-leaderboard.png",
+    "url": "https://cybergym-bench.org/leaderboard/2026",
+    "source": "CyberGym Benchmark, Aug 2026",
+    "captured_at": "2026-08-14T16:15:00"
+  },
+  {
+    "name": "zai-coding-pricing",
+    "file": "zai-coding-pricing.png",
+    "url": "https://z.ai/pricing/glm-5-3",
+    "source": "Z.ai Pricing, Aug 2026",
+    "captured_at": "2026-08-14T16:15:00"
+  }
+]

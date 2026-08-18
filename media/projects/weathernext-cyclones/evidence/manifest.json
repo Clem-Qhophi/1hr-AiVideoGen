@@ -1,0 +1,42 @@
+[
+ {
+  "name": "nature-paper",
+  "file": "nature-paper.png",
+  "url": "https://www.nature.com/articles/s41586-026-10953-2",
+  "source": "Nature, Aug 6 2026",
+  "selector": null,
+  "captured_at": "2026-08-06T18:23:57"
+ },
+ {
+  "name": "github-repo",
+  "file": "github-repo.png",
+  "url": "https://github.com/google-deepmind/weathernext",
+  "source": "GitHub google-deepmind/weathernext, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-06T18:23:58"
+ },
+ {
+  "name": "coverage-news",
+  "file": "coverage-news.png",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
+  "source": "blog.google, Aug 6 2026",
+  "selector": null,
+  "captured_at": "2026-08-06T18:23:58"
+ },
+ {
+  "name": "deepmind-blog",
+  "file": "deepmind-blog.png",
+  "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+  "source": "Google DeepMind blog, Aug 6 2026",
+  "selector": null,
+  "captured_at": "2026-08-06T18:23:59"
+ },
+ {
+  "name": "nhc-verification-2025",
+  "file": "nhc-verification-2025.png",
+  "url": "https://www.nhc.noaa.gov/verification/pdfs/Verification_2025.pdf",
+  "source": "NHC 2025 Verification Report, NOAA",
+  "selector": null,
+  "captured_at": "2026-08-06T18:25:36"
+ }
+]

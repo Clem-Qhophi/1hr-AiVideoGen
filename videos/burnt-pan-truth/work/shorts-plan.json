@@ -1,0 +1,55 @@
+{
+  "clips": [
+    {
+      "id": "01",
+      "segments": [
+        {"start": 0.00, "end": 36.18},
+        {"start": 59.66, "end": 84.20}
+      ],
+      "loop": true,
+      "hook_text": "Your burnt pan isn't broken.",
+      "title": "You Threw Away a $150 Pan For Nothing",
+      "description": "That black crust is cooked oil, not a broken pan. Full breakdown — every pan type, the whole fix — is linked above. #Shorts #homehacks #lifehacks",
+      "tags": ["shorts", "burnt pan", "life hacks", "kitchen hacks", "cleaning hacks", "save money"]
+    },
+    {
+      "id": "02",
+      "start": 167.83,
+      "end": 237.09,
+      "hook_text": "Steel. Cast iron. $0 fix.",
+      "title": "The 3-Step Fix For Any Burnt Pan (Costs Pennies)",
+      "description": "Cool it, soak it, simmer it — the whole method in under a minute. Full video (every pan type + the myths that don't work) linked above. #Shorts #homehacks #cleaninghacks",
+      "tags": ["shorts", "burnt pan", "cleaning hack", "how to clean pans", "kitchen tips"]
+    },
+    {
+      "id": "03",
+      "segments": [
+        {"start": 263.83, "end": 298.04},
+        {"start": 687.37, "end": 718.14}
+      ],
+      "loop": true,
+      "hook_text": "A line cook's trick. No water. No soap.",
+      "title": "The Restaurant Trick For Burnt Cast Iron",
+      "description": "What line cooks actually do to a scorched cast iron pan at the end of service. Full video linked above. #Shorts #castiron #homehacks",
+      "tags": ["shorts", "cast iron", "restaurant trick", "kitchen hacks", "cast iron cleaning"]
+    },
+    {
+      "id": "04",
+      "start": 484.60,
+      "end": 546.96,
+      "hook_text": "Do NOT do this to a nonstick pan.",
+      "title": "The One Pan You Should NEVER Try This On",
+      "description": "Everything else in this video works on this one pan — and makes it worse. Full breakdown linked above. #Shorts #nonstick #kitchensafety",
+      "tags": ["shorts", "nonstick pan", "kitchen safety", "cookware", "teflon"]
+    },
+    {
+      "id": "05",
+      "start": 389.03,
+      "end": 449.37,
+      "hook_text": "Your grandma was wrong about this.",
+      "title": "Everyone's Wrong About Cast Iron and Soap",
+      "description": "The soap-on-cast-iron rule everyone still repeats — and why it stopped being true decades ago. Full video linked above. #Shorts #castiron #homehacks",
+      "tags": ["shorts", "cast iron", "cast iron myths", "kitchen hacks", "cleaning cast iron"]
+    }
+  ]
+}

@@ -1,0 +1,1198 @@
+{
+ "queries": [
+  "401k explained",
+  "credit score explained",
+  "compound interest explained",
+  "hidden bank fees",
+  "tax bracket explained",
+  "debt payoff strategy",
+  "social security explained",
+  "index fund explained for beginners",
+  "mortgage points explained",
+  "life insurance explained",
+  "emergency fund how much",
+  "budgeting method that works"
+ ],
+ "window": "30d",
+ "rows": [
+  {
+   "title": "What is Life Insurance? Simple Explanation",
+   "channel": "irza Life",
+   "subs": 2580,
+   "views": 1593474,
+   "age_days": 215.2,
+   "vpd": 7404,
+   "multiplier": 617.63,
+   "like_per_1k": 0.6,
+   "comment_per_1k": 0.03,
+   "dur_min": 30,
+   "levers": [
+    "question-hook"
+   ],
+   "url": "https://youtu.be/BHxR1D7-VLY"
+  },
+  {
+   "title": "Compound Interest Explained So Simply Anyone Can Understand It | Warren Buffet",
+   "channel": "Wealth Unlocked",
+   "subs": 1040,
+   "views": 35209,
+   "age_days": 10.9,
+   "vpd": 3244,
+   "multiplier": 33.85,
+   "like_per_1k": 20.0,
+   "comment_per_1k": 2.16,
+   "dur_min": 42,
+   "levers": [],
+   "url": "https://youtu.be/v3k3Z3Or-gM"
+  },
+  {
+   "title": "I Built a 6 Month Emergency Fund Without Making More Money (Here's How)",
+   "channel": "Hannah Invests",
+   "subs": 703,
+   "views": 10507,
+   "age_days": 6.1,
+   "vpd": 1720,
+   "multiplier": 14.95,
+   "like_per_1k": 37.3,
+   "comment_per_1k": 1.71,
+   "dur_min": 20,
+   "levers": [
+    "personal-frame"
+   ],
+   "url": "https://youtu.be/_9ZU2Pz0wSw"
+  },
+  {
+   "title": "How to Pay Off Your 30-Year Mortgage in 12 Years (EXACTLY What to Pay)",
+   "channel": "Home Loan Education",
+   "subs": 13600,
+   "views": 71919,
+   "age_days": 26.7,
+   "vpd": 2689,
+   "multiplier": 5.29,
+   "like_per_1k": 52.8,
+   "comment_per_1k": 4.3,
+   "dur_min": 23,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/EbJAgIuORTg"
+  },
+  {
+   "title": "Investing Explained From Zero to Your First Portfolio - Complete Beginner's Guide",
+   "channel": "Hannah Invests",
+   "subs": 703,
+   "views": 3702,
+   "age_days": 8.1,
+   "vpd": 456,
+   "multiplier": 5.27,
+   "like_per_1k": 37.3,
+   "comment_per_1k": 2.43,
+   "dur_min": 32,
+   "levers": [],
+   "url": "https://youtu.be/C7FZ6ggbpUg"
+  },
+  {
+   "title": "WENN IHRE RENTE AUF SPARKASSE, DEUTSCHE BANK ODER VOLKSBANK GEHT — SCHAUEN SIE DAS!",
+   "channel": "Wirtschaft von Morgen",
+   "subs": 3620,
+   "views": 14007,
+   "age_days": 16.3,
+   "vpd": 861,
+   "multiplier": 3.87,
+   "like_per_1k": 27.3,
+   "comment_per_1k": 2.5,
+   "dur_min": 20,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/FEkGVTdPLH4"
+  },
+  {
+   "title": "Melbourne Indian Community: Credit Score Ka Real Sach | Home Loan Tips",
+   "channel": "Property Charcha",
+   "subs": 1720,
+   "views": 3125,
+   "age_days": 26.1,
+   "vpd": 120,
+   "multiplier": 1.82,
+   "like_per_1k": 3.8,
+   "comment_per_1k": 0.96,
+   "dur_min": 28,
+   "levers": [],
+   "url": "https://youtu.be/nlEVTRmwLr0"
+  },
+  {
+   "title": "August 2026 Budget Reset | Income, Expenses & Debt Payoff Strategy",
+   "channel": "Dollars N2 Dreams",
+   "subs": 1330,
+   "views": 2164,
+   "age_days": 14.6,
+   "vpd": 148,
+   "multiplier": 1.63,
+   "like_per_1k": 62.8,
+   "comment_per_1k": 6.47,
+   "dur_min": 50,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/sInR8PTvRag"
+  },
+  {
+   "title": "Pakistan Stock Exchange for Beginners: PSX, KSE-100 Index & Account Opening | Full Guide 2026",
+   "channel": "Zain Ul Abedieen",
+   "subs": 10400,
+   "views": 13002,
+   "age_days": 27.9,
+   "vpd": 466,
+   "multiplier": 1.25,
+   "like_per_1k": 42.5,
+   "comment_per_1k": 6.08,
+   "dur_min": 21,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/crYTZWm0WaE"
+  },
+  {
+   "title": "Do Insurers Actually WANT to Pay Your Claim? | Underwriting Explained | Ep 25",
+   "channel": "Blueprint Finance ",
+   "subs": 9740,
+   "views": 12060,
+   "age_days": 22.4,
+   "vpd": 538,
+   "multiplier": 1.24,
+   "like_per_1k": 1.1,
+   "comment_per_1k": 0.0,
+   "dur_min": 63,
+   "levers": [
+    "contrarian",
+    "question-hook",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/PNSBpyy_6NU"
+  },
+  {
+   "title": "NEW What EVERY Woman Should Know 2026 UPDATES | Social Security",
+   "channel": "Dr. Ed Weir, PhD, Former Social Security Manager",
+   "subs": 772000,
+   "views": 908504,
+   "age_days": 195.0,
+   "vpd": 4658,
+   "multiplier": 1.18,
+   "like_per_1k": 27.2,
+   "comment_per_1k": 3.19,
+   "dur_min": 29,
+   "levers": [
+    "time-anchor",
+    "superlative",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/hYyUKecY8TQ"
+  },
+  {
+   "title": "Real emergency funds revealed",
+   "channel": "Personal Finance with Leila - Debt Over It",
+   "subs": 63000,
+   "views": 68979,
+   "age_days": 46.8,
+   "vpd": 1473,
+   "multiplier": 1.09,
+   "like_per_1k": 29.7,
+   "comment_per_1k": 5.03,
+   "dur_min": 47,
+   "levers": [],
+   "url": "https://youtu.be/DExL8nj_z0A"
+  },
+  {
+   "title": "America Had No Social Security Number Until 1936 — How Did the Government Track You?",
+   "channel": "Secret State Files",
+   "subs": 20300,
+   "views": 20084,
+   "age_days": 22.5,
+   "vpd": 892,
+   "multiplier": 0.99,
+   "like_per_1k": 26.1,
+   "comment_per_1k": 4.58,
+   "dur_min": 27,
+   "levers": [
+    "curiosity-gap",
+    "question-hook"
+   ],
+   "url": "https://youtu.be/5Sx1OAqg-AM"
+  },
+  {
+   "title": "Wealth Creation & Systematic Withdrawal Plan (SWP) Explained for ₹1 Crore After 35 or 40",
+   "channel": "Canara HSBC Life Insurance",
+   "subs": 310000,
+   "views": 246297,
+   "age_days": 26.2,
+   "vpd": 9401,
+   "multiplier": 0.79,
+   "like_per_1k": 1.4,
+   "comment_per_1k": 0.04,
+   "dur_min": 35,
+   "levers": [],
+   "url": "https://youtu.be/F89Zu0BZjNU"
+  },
+  {
+   "title": "Bilt Is Hiding Fees, Chase Cracks Down on Abusers & BofA's SEXY New Retention Avenue!",
+   "channel": "Miles to Memories Travel",
+   "subs": 6220,
+   "views": 4811,
+   "age_days": 11.7,
+   "vpd": 410,
+   "multiplier": 0.77,
+   "like_per_1k": 32.8,
+   "comment_per_1k": 8.31,
+   "dur_min": 25,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/0BslRn8TI6M"
+  },
+  {
+   "title": "The Mains Explainer: EPFO 3.0 proposes Pension cover for all, social security for gig workers.",
+   "channel": "UPSC Manzil by Unacademy",
+   "subs": 23600,
+   "views": 13577,
+   "age_days": 14.0,
+   "vpd": 971,
+   "multiplier": 0.58,
+   "like_per_1k": 18.8,
+   "comment_per_1k": 2.43,
+   "dur_min": 26,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/WYs6eJyjjsY"
+  },
+  {
+   "title": "What If You Invest $200k in the BEST 5 Fidelity Index Funds",
+   "channel": "John's Money Adventures",
+   "subs": 286000,
+   "views": 158514,
+   "age_days": 28.9,
+   "vpd": 5493,
+   "multiplier": 0.55,
+   "like_per_1k": 24.7,
+   "comment_per_1k": 2.76,
+   "dur_min": 27,
+   "levers": [
+    "dollar-anchor",
+    "superlative",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/UMs9SnHSZdA"
+  },
+  {
+   "title": "Why Credit Card Points Are a Scam",
+   "channel": "Business Monitor",
+   "subs": 6470,
+   "views": 2974,
+   "age_days": 9.9,
+   "vpd": 300,
+   "multiplier": 0.46,
+   "like_per_1k": 19.2,
+   "comment_per_1k": 14.46,
+   "dur_min": 28,
+   "levers": [
+    "loss-threat"
+   ],
+   "url": "https://youtu.be/Wa9nEemWf4g"
+  },
+  {
+   "title": "5 Langkah Receh yang Bisa Menyelamatkan Keluarga dari Krisis Keuangan",
+   "channel": "NERACA SENYAP",
+   "subs": 10900,
+   "views": 4854,
+   "age_days": 10.3,
+   "vpd": 473,
+   "multiplier": 0.45,
+   "like_per_1k": 22.2,
+   "comment_per_1k": 1.44,
+   "dur_min": 33,
+   "levers": [],
+   "url": "https://youtu.be/eGgaBxJq3Zw"
+  },
+  {
+   "title": "Loan Settlement Process Explained in Hindi under 22 Mins| Expert Tips, Myths, Legal Process | FREED",
+   "channel": "FREED",
+   "subs": 5450,
+   "views": 1832,
+   "age_days": 3.9,
+   "vpd": 467,
+   "multiplier": 0.34,
+   "like_per_1k": 36.0,
+   "comment_per_1k": 6.0,
+   "dur_min": 22,
+   "levers": [
+    "authority-borrow",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/wnV0f43LpeI"
+  },
+  {
+   "title": "Watching people pay off debt",
+   "channel": "Personal Finance with Leila - Debt Over It",
+   "subs": 63000,
+   "views": 20121,
+   "age_days": 18.6,
+   "vpd": 1082,
+   "multiplier": 0.32,
+   "like_per_1k": 41.1,
+   "comment_per_1k": 4.82,
+   "dur_min": 46,
+   "levers": [],
+   "url": "https://youtu.be/HhO25Sed1D8"
+  },
+  {
+   "title": "Mutual Fund Strategy Explained 🔥 Beginners Ki Sabse Badi Galti! | Jitender Singh",
+   "channel": "Wealth With Jitender ",
+   "subs": 3940,
+   "views": 1079,
+   "age_days": 26.1,
+   "vpd": 41,
+   "multiplier": 0.27,
+   "like_per_1k": 91.8,
+   "comment_per_1k": 23.17,
+   "dur_min": 82,
+   "levers": [],
+   "url": "https://youtu.be/UgsOxtH1J5o"
+  },
+  {
+   "title": "L-4 /67 I NOV'26 I DT FINAL I CA SUNETA I SURCHARGE I 87A I ICAI question",
+   "channel": "CA Suneta - Direct Tax",
+   "subs": 7190,
+   "views": 1874,
+   "age_days": 21.9,
+   "vpd": 85,
+   "multiplier": 0.26,
+   "like_per_1k": 32.0,
+   "comment_per_1k": 19.21,
+   "dur_min": 122,
+   "levers": [
+    "personal-frame",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/p2PJuYNlSTI"
+  },
+  {
+   "title": "I Built a Full Year of Emergency Savings on LOW Income (You Need to Try This!)",
+   "channel": "Alicia Invests",
+   "subs": 97100,
+   "views": 25690,
+   "age_days": 20.1,
+   "vpd": 1278,
+   "multiplier": 0.26,
+   "like_per_1k": 35.1,
+   "comment_per_1k": 3.19,
+   "dur_min": 36,
+   "levers": [
+    "personal-frame"
+   ],
+   "url": "https://youtu.be/L9P8a70ZV5c"
+  },
+  {
+   "title": "The August Social Security Surprise Nobody Is Explaining Correctly",
+   "channel": "Kevin Explains",
+   "subs": 13400,
+   "views": 3129,
+   "age_days": 1.9,
+   "vpd": 1610,
+   "multiplier": 0.23,
+   "like_per_1k": 48.6,
+   "comment_per_1k": 2.24,
+   "dur_min": 26,
+   "levers": [
+    "curiosity-gap"
+   ],
+   "url": "https://youtu.be/zrRfh1mUnxg"
+  },
+  {
+   "title": "Cara Membalikkan Keadaan Finansial Strategi 30 Hari Melunasi Utang Rp1,6 Miliar! Teh Febby",
+   "channel": "Abundance Revolution 369",
+   "subs": 22500,
+   "views": 5020,
+   "age_days": 14.2,
+   "vpd": 354,
+   "multiplier": 0.22,
+   "like_per_1k": 32.3,
+   "comment_per_1k": 7.37,
+   "dur_min": 34,
+   "levers": [],
+   "url": "https://youtu.be/jZosD1OsIt0"
+  },
+  {
+   "title": "Cash Stuffing Our Savings for July 2026 | £685 | Cash Budgeting Method | Managing Our Money ",
+   "channel": "Rainbow Budgets & Plans",
+   "subs": 8100,
+   "views": 1715,
+   "age_days": 24.8,
+   "vpd": 69,
+   "multiplier": 0.21,
+   "like_per_1k": 105.5,
+   "comment_per_1k": 7.58,
+   "dur_min": 22,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/Bxi51tjEm7M"
+  },
+  {
+   "title": "Return Of Capital (ROC) Explained Tax-Smart Income or Retirement Yield Trap? Retiree Needs to Know",
+   "channel": "Doug The Retirement Guy Monthly ETFS ",
+   "subs": 17100,
+   "views": 2825,
+   "age_days": 27.1,
+   "vpd": 104,
+   "multiplier": 0.17,
+   "like_per_1k": 60.9,
+   "comment_per_1k": 8.5,
+   "dur_min": 27,
+   "levers": [
+    "loss-threat",
+    "question-hook"
+   ],
+   "url": "https://youtu.be/J_sLgi1Ot7c"
+  },
+  {
+   "title": "If the Market Drops 40%... Here's Exactly What You Should Do | Neeraj Arora",
+   "channel": "The Money Podcast with Neeraj & Vrinda",
+   "subs": 111000,
+   "views": 17245,
+   "age_days": 12.0,
+   "vpd": 1439,
+   "multiplier": 0.16,
+   "like_per_1k": 32.7,
+   "comment_per_1k": 5.1,
+   "dur_min": 34,
+   "levers": [],
+   "url": "https://youtu.be/TIfTGa5Q4O8"
+  },
+  {
+   "title": "24. Compound Interest Formula & Tricks | Lecture 1 | 50 Days Maths Mission",
+   "channel": "Maths with Avtar Brar ",
+   "subs": 11800,
+   "views": 1803,
+   "age_days": 26.9,
+   "vpd": 67,
+   "multiplier": 0.15,
+   "like_per_1k": 118.1,
+   "comment_per_1k": 17.75,
+   "dur_min": 68,
+   "levers": [],
+   "url": "https://youtu.be/0lyvqJsk9ik"
+  },
+  {
+   "title": "I Finally Stopped Overspending | Cash Stuffing Actually Changed My Finances",
+   "channel": "Nomazdiary | Financial Coach",
+   "subs": 13200,
+   "views": 1949,
+   "age_days": 16.1,
+   "vpd": 121,
+   "multiplier": 0.15,
+   "like_per_1k": 69.3,
+   "comment_per_1k": 5.13,
+   "dur_min": 26,
+   "levers": [
+    "contrarian",
+    "personal-frame"
+   ],
+   "url": "https://youtu.be/i1xVpO2bdHA"
+  },
+  {
+   "title": "Compound Interest (CI) Trick | सभी Types एक ही Method से | RRB Group D 2026 | DP Sir Maths Tricks",
+   "channel": "DP Sir Maths Tricks",
+   "subs": 99000,
+   "views": 10828,
+   "age_days": 5.1,
+   "vpd": 2118,
+   "multiplier": 0.11,
+   "like_per_1k": 53.1,
+   "comment_per_1k": 1.2,
+   "dur_min": 29,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/IZaInDOJ3w0"
+  },
+  {
+   "title": "Installment Complete One Shot | Simple and Compound Interest All Types + PYQs Covered | SSC CGL 2026",
+   "channel": "Maths Mania Concepts",
+   "subs": 44700,
+   "views": 4445,
+   "age_days": 28.0,
+   "vpd": 159,
+   "multiplier": 0.1,
+   "like_per_1k": 39.8,
+   "comment_per_1k": 3.82,
+   "dur_min": 104,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/2LNjZMyp6MI"
+  },
+  {
+   "title": "The Exact Savings Amount Where Compound Interest Finally Explodes",
+   "channel": "Andy Explains Money",
+   "subs": 19500,
+   "views": 1871,
+   "age_days": 24.1,
+   "vpd": 78,
+   "multiplier": 0.1,
+   "like_per_1k": 44.9,
+   "comment_per_1k": 1.07,
+   "dur_min": 23,
+   "levers": [],
+   "url": "https://youtu.be/KlkEVvOvUwk"
+  },
+  {
+   "title": "RAP Strategies 2.0 | Repayment Assistance Plan",
+   "channel": "Student Loan Planner",
+   "subs": 23000,
+   "views": 2318,
+   "age_days": 28.1,
+   "vpd": 83,
+   "multiplier": 0.1,
+   "like_per_1k": 32.8,
+   "comment_per_1k": 4.75,
+   "dur_min": 38,
+   "levers": [],
+   "url": "https://youtu.be/60mK8HF-YKU"
+  },
+  {
+   "title": "ALERT! CONGRESS Social Security Bill! NEED to KNOW!",
+   "channel": "Dr. Ed Weir, PhD, Former Social Security Manager",
+   "subs": 772000,
+   "views": 78670,
+   "age_days": 22.6,
+   "vpd": 3481,
+   "multiplier": 0.1,
+   "like_per_1k": 47.0,
+   "comment_per_1k": 5.99,
+   "dur_min": 60,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/xXVDkredJOM"
+  },
+  {
+   "title": "Emergency Fund vs Paying Off Debt: You Don't Have to Choose",
+   "channel": "Financial Bunny",
+   "subs": 237000,
+   "views": 23627,
+   "age_days": 15.0,
+   "vpd": 1572,
+   "multiplier": 0.1,
+   "like_per_1k": 41.5,
+   "comment_per_1k": 4.49,
+   "dur_min": 21,
+   "levers": [
+    "contrarian"
+   ],
+   "url": "https://youtu.be/UFt_Xk5G_LM"
+  },
+  {
+   "title": "🔥 RRB Group D 2026 | Most Expected 100 Maths Questions | Complete Revision Marathon മലയാളത്തില്‍ ",
+   "channel": "Magnamentor Malayalam ssc,rrb,bank",
+   "subs": 18400,
+   "views": 1368,
+   "age_days": 1.9,
+   "vpd": 720,
+   "multiplier": 0.07,
+   "like_per_1k": 52.6,
+   "comment_per_1k": 10.23,
+   "dur_min": 128,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/JtUM7ka1Un0"
+  },
+  {
+   "title": "Social Security 62 vs 70: Everyone Is Wrong About the Math",
+   "channel": "Tom - Lazy Investor",
+   "subs": 85500,
+   "views": 6081,
+   "age_days": 9.0,
+   "vpd": 679,
+   "multiplier": 0.07,
+   "like_per_1k": 30.1,
+   "comment_per_1k": 4.44,
+   "dur_min": 36,
+   "levers": [
+    "contrarian"
+   ],
+   "url": "https://youtu.be/W-iq-4kEyNc"
+  },
+  {
+   "title": "Social Security Garnishment Starts This Month 450,000 Checks Cut By 15%",
+   "channel": "Dr. Ed Weir, PhD, Former Social Security Manager",
+   "subs": 772000,
+   "views": 48972,
+   "age_days": 15.6,
+   "vpd": 3139,
+   "multiplier": 0.06,
+   "like_per_1k": 40.5,
+   "comment_per_1k": 3.27,
+   "dur_min": 63,
+   "levers": [],
+   "url": "https://youtu.be/JwyPjeliVPI"
+  },
+  {
+   "title": "Borrow Until You Die? The Loan Strategy That Changes Everything",
+   "channel": "Doug Andrew - 3 Dimensional Wealth",
+   "subs": 219000,
+   "views": 13005,
+   "age_days": 6.4,
+   "vpd": 2029,
+   "multiplier": 0.06,
+   "like_per_1k": 32.1,
+   "comment_per_1k": 1.61,
+   "dur_min": 32,
+   "levers": [
+    "curiosity-gap",
+    "question-hook"
+   ],
+   "url": "https://youtu.be/nnHvAyi1odc"
+  },
+  {
+   "title": "DEBT — Pay It Off Vs Invest (Which Is Better?)!",
+   "channel": "Wealth Logic ",
+   "subs": 78100,
+   "views": 3940,
+   "age_days": 15.8,
+   "vpd": 249,
+   "multiplier": 0.05,
+   "like_per_1k": 33.2,
+   "comment_per_1k": 3.3,
+   "dur_min": 22,
+   "levers": [
+    "question-hook",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/eZgjbNycHGE"
+  },
+  {
+   "title": "The Ultimate Guide to Paying Off Debt",
+   "channel": "Her First 100K",
+   "subs": 40100,
+   "views": 1591,
+   "age_days": 16.1,
+   "vpd": 99,
+   "multiplier": 0.04,
+   "like_per_1k": 62.9,
+   "comment_per_1k": 3.14,
+   "dur_min": 39,
+   "levers": [],
+   "url": "https://youtu.be/NJuyz7o75tw"
+  },
+  {
+   "title": "Capital Gains Tax for Individuals | LTCG, STCG, Tax Rates & Exemptions Explained",
+   "channel": "CA Sansaar",
+   "subs": 107000,
+   "views": 4377,
+   "age_days": 29.3,
+   "vpd": 149,
+   "multiplier": 0.04,
+   "like_per_1k": 21.0,
+   "comment_per_1k": 6.17,
+   "dur_min": 30,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/CwW6M8KdNIs"
+  },
+  {
+   "title": "Is Social Security Broke? | The David Frum Show",
+   "channel": "The Atlantic",
+   "subs": 948000,
+   "views": 41259,
+   "age_days": 19.9,
+   "vpd": 2069,
+   "multiplier": 0.04,
+   "like_per_1k": 37.2,
+   "comment_per_1k": 7.25,
+   "dur_min": 54,
+   "levers": [
+    "question-hook"
+   ],
+   "url": "https://youtu.be/ICc8UZc2Re8"
+  },
+  {
+   "title": "The problem with Index Funds | ETFs (Nobody tells you)",
+   "channel": "J U M O K E   M I  |  Finance Nerd",
+   "subs": 94400,
+   "views": 3450,
+   "age_days": 2.1,
+   "vpd": 1672,
+   "multiplier": 0.04,
+   "like_per_1k": 45.2,
+   "comment_per_1k": 6.96,
+   "dur_min": 20,
+   "levers": [
+    "curiosity-gap"
+   ],
+   "url": "https://youtu.be/IUPlOJB2cPA"
+  },
+  {
+   "title": "The $100K Funding Masterclass: 0% Credit Stacking, CDFIs, and Funding Businesses Explained",
+   "channel": "Marvin Francois",
+   "subs": 131000,
+   "views": 3364,
+   "age_days": 9.9,
+   "vpd": 340,
+   "multiplier": 0.03,
+   "like_per_1k": 49.0,
+   "comment_per_1k": 1.78,
+   "dur_min": 86,
+   "levers": [
+    "dollar-anchor"
+   ],
+   "url": "https://youtu.be/Ksec0I8vpLQ"
+  },
+  {
+   "title": "What Everyone Gets Wrong About Medicare Advantage!",
+   "channel": "Dr. Ed Weir, PhD, Former Social Security Manager",
+   "subs": 772000,
+   "views": 26702,
+   "age_days": 24.6,
+   "vpd": 1086,
+   "multiplier": 0.03,
+   "like_per_1k": 40.0,
+   "comment_per_1k": 4.72,
+   "dur_min": 66,
+   "levers": [
+    "contrarian"
+   ],
+   "url": "https://youtu.be/5gZDOuDRMKM"
+  },
+  {
+   "title": "Social Security Checks July 2026 — Every Payment Date + 3 Updates You Need This Month",
+   "channel": "Benefits Insider - Social Security & Food Stamps",
+   "subs": 220000,
+   "views": 7341,
+   "age_days": 29.6,
+   "vpd": 248,
+   "multiplier": 0.03,
+   "like_per_1k": 43.3,
+   "comment_per_1k": 5.86,
+   "dur_min": 26,
+   "levers": [
+    "time-anchor",
+    "superlative"
+   ],
+   "url": "https://youtu.be/KrTrDrxTYRc"
+  },
+  {
+   "title": "If I Started Investing in 2026, This is What I Would Do",
+   "channel": "Mark Tilbury",
+   "subs": 8750000,
+   "views": 261418,
+   "age_days": 17.1,
+   "vpd": 15315,
+   "multiplier": 0.03,
+   "like_per_1k": 34.8,
+   "comment_per_1k": 4.1,
+   "dur_min": 26,
+   "levers": [
+    "time-anchor",
+    "personal-frame"
+   ],
+   "url": "https://youtu.be/kg8EKQd0NWQ"
+  },
+  {
+   "title": "THE TRUTH ABOUT LIFE INSURANCE, 401(k)s & THE $120 TRILLION WEALTH TRANSFER 💰",
+   "channel": "Earn Your Leisure",
+   "subs": 1680000,
+   "views": 53112,
+   "age_days": 4.9,
+   "vpd": 10837,
+   "multiplier": 0.03,
+   "like_per_1k": 37.9,
+   "comment_per_1k": 4.14,
+   "dur_min": 65,
+   "levers": [
+    "dollar-anchor",
+    "contrarian",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/ki0uwR_Gamg"
+  },
+  {
+   "title": "POV: How Much Emergency Savings You Really Need (Most People Get It Wrong)",
+   "channel": "Finance With Ryan ",
+   "subs": 188000,
+   "views": 5422,
+   "age_days": 17.9,
+   "vpd": 303,
+   "multiplier": 0.03,
+   "like_per_1k": 32.3,
+   "comment_per_1k": 7.38,
+   "dur_min": 28,
+   "levers": [
+    "contrarian"
+   ],
+   "url": "https://youtu.be/bc3VoGExZgA"
+  },
+  {
+   "title": "2026 में पैसे बचाने की नई रणनीति | Arbitrage & Layering Secret 🔓",
+   "channel": "ProBuffet HQ ‣",
+   "subs": 31800,
+   "views": 1046,
+   "age_days": 2.2,
+   "vpd": 465,
+   "multiplier": 0.03,
+   "like_per_1k": 24.9,
+   "comment_per_1k": 0.0,
+   "dur_min": 30,
+   "levers": [
+    "curiosity-gap",
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/cLJQPRwTrVc"
+  },
+  {
+   "title": "Your Roth IRA Isn't Locked: The Rule Most People Get Completely Wrong",
+   "channel": "Toby Mathis Esq | Tax Planning & Asset Protection ",
+   "subs": 649000,
+   "views": 11947,
+   "age_days": 10.7,
+   "vpd": 1116,
+   "multiplier": 0.02,
+   "like_per_1k": 30.3,
+   "comment_per_1k": 2.68,
+   "dur_min": 29,
+   "levers": [
+    "contrarian"
+   ],
+   "url": "https://youtu.be/7EV6z2mtjZg"
+  },
+  {
+   "title": "SIP Kaise Kare | SIP Investment In Hindi | SIP Kaise Start Kare #sip",
+   "channel": "XY- Axis Education",
+   "subs": 2150000,
+   "views": 50430,
+   "age_days": 5.1,
+   "vpd": 9893,
+   "multiplier": 0.02,
+   "like_per_1k": 49.2,
+   "comment_per_1k": 2.18,
+   "dur_min": 23,
+   "levers": [],
+   "url": "https://youtu.be/cCY-8s7wF30"
+  },
+  {
+   "title": "Mutual Funds Strategy 2026 SIMPLIFIED | Abhishek Kar",
+   "channel": "Abhishek Kar",
+   "subs": 2090000,
+   "views": 33894,
+   "age_days": 18.1,
+   "vpd": 1873,
+   "multiplier": 0.02,
+   "like_per_1k": 34.9,
+   "comment_per_1k": 2.21,
+   "dur_min": 32,
+   "levers": [
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/hY2oJTpDDMI"
+  },
+  {
+   "title": "7 Cara Mudah Membangun Dana Darurat Mulai Rp2.000 (Kamu Wajib Tahu)",
+   "channel": "Jejolok",
+   "subs": 92100,
+   "views": 2205,
+   "age_days": 13.5,
+   "vpd": 164,
+   "multiplier": 0.02,
+   "like_per_1k": 19.0,
+   "comment_per_1k": 1.36,
+   "dur_min": 24,
+   "levers": [],
+   "url": "https://youtu.be/VIhggDh6OEE"
+  },
+  {
+   "title": "Financial System Explained in 60 Minutes Like You're 5",
+   "channel": "Evan Carmichael",
+   "subs": 4610000,
+   "views": 60810,
+   "age_days": 25.3,
+   "vpd": 2407,
+   "multiplier": 0.01,
+   "like_per_1k": 17.6,
+   "comment_per_1k": 1.56,
+   "dur_min": 60,
+   "levers": [],
+   "url": "https://youtu.be/N0eDE0unaRM"
+  },
+  {
+   "title": "Compound Interest 🔥 Formula & Trick🔥 इस Level का Content कहीं नहीं 💯 By Gagan Pratap Sir #ssc #maths",
+   "channel": "SelectionWay Maths",
+   "subs": 3390000,
+   "views": 18501,
+   "age_days": 11.3,
+   "vpd": 1637,
+   "multiplier": 0.01,
+   "like_per_1k": 43.9,
+   "comment_per_1k": 1.08,
+   "dur_min": 76,
+   "levers": [],
+   "url": "https://youtu.be/JyTO-T1HcW8"
+  },
+  {
+   "title": "Compound Interest Tricks 2026 | Code Method for SBI PO & IBPS PO | Quant Live",
+   "channel": "Banking Wallah",
+   "subs": 1010000,
+   "views": 5148,
+   "age_days": 17.3,
+   "vpd": 297,
+   "multiplier": 0.01,
+   "like_per_1k": 58.1,
+   "comment_per_1k": 15.73,
+   "dur_min": 61,
+   "levers": [
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/xDD0lJc3Ar0"
+  },
+  {
+   "title": "Frais bancaires : l’enquête qui dérange les Banques",
+   "channel": "Documentaire Société",
+   "subs": 1900000,
+   "views": 12602,
+   "age_days": 16.0,
+   "vpd": 787,
+   "multiplier": 0.01,
+   "like_per_1k": 15.7,
+   "comment_per_1k": 2.94,
+   "dur_min": 99,
+   "levers": [],
+   "url": "https://youtu.be/jsarS1ttt5k"
+  },
+  {
+   "title": "AIIMS CRE 5 SSO Social Security Code 2020 || AIIMS CRE 5 SSO Social Security Code 2020 | ESIC SSO",
+   "channel": "Rojgar Live ",
+   "subs": 284000,
+   "views": 2509,
+   "age_days": 15.3,
+   "vpd": 164,
+   "multiplier": 0.01,
+   "like_per_1k": 31.9,
+   "comment_per_1k": 3.59,
+   "dur_min": 48,
+   "levers": [
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/XlWRROMF21c"
+  },
+  {
+   "title": "🔥4th Stimulus Check of $2,000 💰Expected Dates, For Social Security, SSDI, SSI & SSA Raise Money News",
+   "channel": "How To Guys",
+   "subs": 154000,
+   "views": 2036,
+   "age_days": 24.3,
+   "vpd": 84,
+   "multiplier": 0.01,
+   "like_per_1k": 12.8,
+   "comment_per_1k": 1.47,
+   "dur_min": 715,
+   "levers": [
+    "dollar-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/cHvMrBQ03lg"
+  },
+  {
+   "title": "✅CONFIRMED STIMULUS ! 📅 Money Arriving💰Social Security,SSA,SSI,VA,SSDI Payment July Direct Deposit!🏦",
+   "channel": "How To Guys",
+   "subs": 154000,
+   "views": 1430,
+   "age_days": 21.5,
+   "vpd": 67,
+   "multiplier": 0.01,
+   "like_per_1k": 19.6,
+   "comment_per_1k": 0.0,
+   "dur_min": 715,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/wsSo66ezO1E"
+  },
+  {
+   "title": "📈STIMULUS CONFIRMED! 📅 Money Arriving💰Social Security,SSA,SSI,VA,SSDI Payment JULY Direct Deposit!🏦",
+   "channel": "How To Guys",
+   "subs": 154000,
+   "views": 1425,
+   "age_days": 15.4,
+   "vpd": 92,
+   "multiplier": 0.01,
+   "like_per_1k": 12.6,
+   "comment_per_1k": 0.0,
+   "dur_min": 577,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/nrSaBBFdNcU"
+  },
+  {
+   "title": "💰CONFIRMED STIMULUS ! ✅Money Arriving💰Social Security,SSA,SSI,VA,SSDI Payment July Direct Deposit!🏦",
+   "channel": "How To Guys",
+   "subs": 154000,
+   "views": 1009,
+   "age_days": 21.1,
+   "vpd": 48,
+   "multiplier": 0.01,
+   "like_per_1k": 14.9,
+   "comment_per_1k": 0.99,
+   "dur_min": 715,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/1vMe5VCDJV0"
+  },
+  {
+   "title": "SIP Master Class | Mutual Funds for Beginners in Telugu | Srinivas Chikati | Top MFD",
+   "channel": "Telugu Assets",
+   "subs": 444000,
+   "views": 4768,
+   "age_days": 25.0,
+   "vpd": 190,
+   "multiplier": 0.01,
+   "like_per_1k": 53.9,
+   "comment_per_1k": 3.57,
+   "dur_min": 34,
+   "levers": [],
+   "url": "https://youtu.be/PvC44we2eAw"
+  },
+  {
+   "title": "The Truth About IUL Critics Never Explain",
+   "channel": "Doug Andrew - 3 Dimensional Wealth",
+   "subs": 219000,
+   "views": 2675,
+   "age_days": 28.4,
+   "vpd": 94,
+   "multiplier": 0.01,
+   "like_per_1k": 38.9,
+   "comment_per_1k": 2.24,
+   "dur_min": 39,
+   "levers": [
+    "contrarian"
+   ],
+   "url": "https://youtu.be/cEIUKkNwxn8"
+  },
+  {
+   "title": "HDFC ERGO Optima Secure Plus Explained | ₹10 Lakhs to ₹1.2 Crore Cover? | Telugu",
+   "channel": "Telugu Assets",
+   "subs": 444000,
+   "views": 3391,
+   "age_days": 3.1,
+   "vpd": 1109,
+   "multiplier": 0.01,
+   "like_per_1k": 56.6,
+   "comment_per_1k": 4.13,
+   "dur_min": 24,
+   "levers": [
+    "question-hook",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/pn8Q69Hp98Q"
+  },
+  {
+   "title": "Risikolebensversicherung EINFACH erklärt: Wer sie 2026 wirklich braucht",
+   "channel": "Versicherungen mit Kopf",
+   "subs": 136000,
+   "views": 1182,
+   "age_days": 21.9,
+   "vpd": 54,
+   "multiplier": 0.01,
+   "like_per_1k": 58.4,
+   "comment_per_1k": 2.54,
+   "dur_min": 23,
+   "levers": [
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/yAHy9s_F_b8"
+  },
+  {
+   "title": "Maths Foundation 📚 | Compound Interest | Brahmastra Foundation Batch | Rahul Methi Sir",
+   "channel": "Utkarsh Classes",
+   "subs": 15100000,
+   "views": 21076,
+   "age_days": 27.2,
+   "vpd": 774,
+   "multiplier": 0.0,
+   "like_per_1k": 60.1,
+   "comment_per_1k": 2.61,
+   "dur_min": 84,
+   "levers": [],
+   "url": "https://youtu.be/qaCZDqrH8U0"
+  },
+  {
+   "title": "Maths Compound Interest Part 02 || RRB Group D Maths 2026 || Maths Tricks For SSC GD, CGL, MTS ALP",
+   "channel": "SSC MAKER",
+   "subs": 15200000,
+   "views": 11713,
+   "age_days": 14.9,
+   "vpd": 785,
+   "multiplier": 0.0,
+   "like_per_1k": 86.5,
+   "comment_per_1k": 3.67,
+   "dur_min": 45,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/zJZqk5JzG20"
+  },
+  {
+   "title": "Simple Interest Navodaya Vidyalaya 6th | Jawahar Navodaya Vidyalaya (JNV) Entrance Exam 2027",
+   "channel": "ALL ROUNDER BSS",
+   "subs": 1410000,
+   "views": 3305,
+   "age_days": 27.9,
+   "vpd": 119,
+   "multiplier": 0.0,
+   "like_per_1k": 85.9,
+   "comment_per_1k": 7.87,
+   "dur_min": 92,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/YmUafgmBAck"
+  },
+  {
+   "title": "Mutual Funds Explained Like You’re 15 Years of Age!! 📈",
+   "channel": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "subs": 15200000,
+   "views": 66803,
+   "age_days": 13.1,
+   "vpd": 5096,
+   "multiplier": 0.0,
+   "like_per_1k": 39.6,
+   "comment_per_1k": 1.53,
+   "dur_min": 35,
+   "levers": [],
+   "url": "https://youtu.be/uGAqTR5WBwE"
+  },
+  {
+   "title": "Vanguard Index Funds For Beginners In 2026 | ULTIMATE Guide",
+   "channel": "Ryan Scribner",
+   "subs": 878000,
+   "views": 2286,
+   "age_days": 18.7,
+   "vpd": 122,
+   "multiplier": 0.0,
+   "like_per_1k": 45.1,
+   "comment_per_1k": 5.69,
+   "dur_min": 27,
+   "levers": [
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/NrMo4QdjgIk"
+  }
+ ]
+}

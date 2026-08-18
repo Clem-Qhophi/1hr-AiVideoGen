@@ -1,0 +1,41 @@
+{
+  "_note": "Channel persona — the remembered 'how this channel sounds / who it's for', read and written by the /make-video Director (Stage 0). Asked once, confirmed thereafter, overridable per video. This is the ai-news niche's persona file, per the multi-channel convention (channel-persona.<niche-id>.json). brand.md stays the VISUAL/sound contract; this is the per-channel default choices layered on top.",
+
+  "channel_name": "AI Enthusiast",
+  "channel_handle": "@AIEnthusiast",
+  "_name_resolved": "UPDATED 2026-08-14 (user's explicit directive): Channel rebranded to 'AI Enthusiast'. All legacy 'under 3 minutes' constraints and verdict caps are removed. Focus is in-depth, hands-on, benchmark-verified AI breakdowns, agent workflows, tool reviews, and developer insights.",
+  "channel_tagline": "In-depth breakdowns, hands-on tests, benchmarks, and honest analysis of the latest AI models, tools, and breakthroughs.",
+
+  "delivery_mode": "breaking-news",
+  "_delivery_mode_options": ["breaking-news", "calm-explainer", "sarcastic-review", "authoritative"],
+  "_delivery_mode_note": "News beats (model drops) use breaking-news 1.15x. Deep dives / explainers can use calm-explainer.",
+
+  "tone_flavor": "enthusiastic, deeply technical yet accessible, honest, evidence-first; never hype-filler; always explores the real architecture and benchmarks",
+
+  "voice_id": "en-US-AndrewNeural",
+  "voice_name": "Andrew (edge-tts, free)",
+  "tts_speed": 1.15,
+  "_tts_speed_note": "Breaking news / model drops use 1.15x for energy; explainers use 1.05x-1.10x.",
+  "_voice_note": "The voice IS the channel identity — personality tag: Warm/Confident/Authentic/Honest.",
+
+  "audience": "mixed",
+  "_audience_options": ["beginners", "practitioners", "mixed"],
+
+  "default_goal": "authority",
+  "_default_goal_options": ["followers", "watch-time", "authority", "views-ctr"],
+
+  "default_conversion": "nothing",
+  "_default_conversion_note": "course | tool | repo | newsletter | nothing — used by /packaging for the description CTA",
+
+  "default_target_seconds": 360,
+  "_target_seconds_note": "Scaled naturally to the topic's depth — typically 4 to 12 minutes based on the release.",
+
+  "content_pillars": [
+    "Model drops — deep-dive coverage of new LLM/AI model releases (architectures, benchmarks, token pricing, what actually changed)",
+    "Hands-on tests & tool reviews — AI agents, IDE tools, coding workflows, with live screen recordings and evidence",
+    "Explainers & architecture breakdowns — token budgets, speculative decoding, agentic tool loops, and research papers demystified",
+    "Robotics & frontier AI roundups — multi-story compilations tracking the frontier of autonomous systems"
+  ],
+
+  "notes": "Every video maintains an evidence-first standard (live terminal runs, screen recordings, spec cards citing exact sources). Honest gap analysis is always included so engineers and builders get real value."
+}

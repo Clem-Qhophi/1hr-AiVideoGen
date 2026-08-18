@@ -1,0 +1,34 @@
+[
+ {
+  "name": "va-zero-down",
+  "file": "va-zero-down.png",
+  "url": "https://www.va.gov/housing-assistance/home-loans/loan-types/",
+  "source": "VA.gov, home loan types",
+  "selector": null,
+  "captured_at": "2026-08-04T09:01:42"
+ },
+ {
+  "name": "nar-first-time-buyers",
+  "file": "nar-first-time-buyers.png",
+  "url": "https://www.nar.realtor/blogs/economists-outlook/top-10-takeaways-from-nars-2025-profile-of-home-buyers-and-sellers",
+  "source": "NAR, 2025 Profile of Home Buyers and Sellers",
+  "selector": null,
+  "captured_at": "2026-08-04T09:01:51"
+ },
+ {
+  "name": "sec-reit-bulletin",
+  "file": "sec-reit-bulletin.png",
+  "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-65",
+  "source": "SEC Investor.gov, REIT bulletin",
+  "selector": null,
+  "captured_at": "2026-08-04T09:01:59"
+ },
+ {
+  "name": "reit-one-share",
+  "file": "reit-one-share.png",
+  "url": "https://www.nerdwallet.com/investing/learn/reit-investing",
+  "source": "NerdWallet, REIT investing guide",
+  "selector": null,
+  "captured_at": "2026-08-04T09:02:25"
+ }
+]

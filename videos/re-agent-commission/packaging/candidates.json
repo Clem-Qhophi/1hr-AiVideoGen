@@ -1,0 +1,302 @@
+[
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "This AI is So Fast It Feels Like Cheating (Re Agent Commission)",
+    "thumb_text": "INSANE SPEED",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Re Agent Commission logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 98,
+      "breakdown": {
+        "curiosity_gap": 23,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": true
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "RIP Claude? Google's New Model Just Destroyed Coding Benchmarks",
+    "thumb_text": "IT'S OVER",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Re Agent Commission with 65.3% badge",
+    "evaluation": {
+      "total_score": 90,
+      "breakdown": {
+        "curiosity_gap": 15,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": true
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "This AI is So Fast It Feels Like Cheating (Re Agent Commission)",
+    "thumb_text": "TOO FAST",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Re Agent Commission logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 88,
+      "breakdown": {
+        "curiosity_gap": 23,
+        "emotional_stakes": 10,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "Google Just Ended Claude 3.5 Sonnet (Re Agent Commission)",
+    "thumb_text": "65% CODING",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Re Agent Commission with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "OpenAI Did Not Expect This... (Re Agent Commission Coding Test)",
+    "thumb_text": "OPENAI PANICS",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Re Agent Commission with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "OpenAI Did Not Expect This... (Re Agent Commission Coding Test)",
+    "thumb_text": "CLAUDE DESTROYED",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Re Agent Commission with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "RIP Claude? Google's New Model Just Destroyed Coding Benchmarks",
+    "thumb_text": "OPENAI PANICS",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Re Agent Commission with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "RIP Claude? Google's New Model Just Destroyed Coding Benchmarks",
+    "thumb_text": "65% CODING",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Re Agent Commission with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "RIP Claude? Google's New Model Just Destroyed Coding Benchmarks",
+    "thumb_text": "CLAUDE DESTROYED",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Re Agent Commission with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "benchmark-destruction",
+    "archetype_name": "David vs Goliath Benchmark Destruction",
+    "title": "This 65% SWE-Bench Score Makes Zero Sense (Re Agent Commission)",
+    "thumb_text": "NEW #1 CODING",
+    "accent": "green",
+    "visual_concept": "Exploding benchmark bar chart where Re Agent Commission blows past Sonnet and GPT-4o with glowing green numbers",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "benchmark-destruction",
+    "archetype_name": "David vs Goliath Benchmark Destruction",
+    "title": "The New Coding King is Here: Re Agent Commission Benchmark Deep Dive",
+    "thumb_text": "RECORD BROKEN",
+    "accent": "green",
+    "visual_concept": "Exploding benchmark bar chart where Re Agent Commission blows past Sonnet and GPT-4o with glowing green numbers",
+    "evaluation": {
+      "total_score": 86,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 19,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "The Fastest AI on Earth Just Changed Everything (Re Agent Commission)",
+    "thumb_text": "TOO FAST",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Re Agent Commission logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 85,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 18,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "The Fastest AI on Earth Just Changed Everything (Re Agent Commission)",
+    "thumb_text": "0.1s LATENCY",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Re Agent Commission logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 85,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 18,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "The Fastest AI on Earth Just Changed Everything (Re Agent Commission)",
+    "thumb_text": "INSANE SPEED",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Re Agent Commission logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 85,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 18,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "The Fastest AI on Earth Just Changed Everything (Re Agent Commission)",
+    "thumb_text": "THE FLASH AI",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Re Agent Commission logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 85,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 18,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  }
+]

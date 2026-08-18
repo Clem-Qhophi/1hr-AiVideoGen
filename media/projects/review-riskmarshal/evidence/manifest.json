@@ -1,0 +1,82 @@
+[
+ {
+  "name": "hero",
+  "file": "hero.png",
+  "url": "https://www.riskmarshal.com/",
+  "source": "riskmarshal.com, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-23T09:16:35"
+ },
+ {
+  "name": "features",
+  "file": "features.png",
+  "url": "https://www.riskmarshal.com/",
+  "source": "riskmarshal.com, Jul 2026",
+  "selector": "#everything-you-need-to-know",
+  "captured_at": "2026-07-23T09:18:24"
+ },
+ {
+  "name": "pricing-cards",
+  "file": "pricing-cards.png",
+  "url": "https://www.riskmarshal.com/pricing",
+  "source": "riskmarshal.com/pricing, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-23T09:18:34"
+ },
+ {
+  "name": "pricing-page",
+  "file": "pricing-page.png",
+  "url": "https://riskmarshal.com/pricing",
+  "source": "riskmarshal.com, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-07T08:53:03"
+ },
+ {
+  "name": "hero-landing",
+  "file": "hero-landing.png",
+  "url": "https://riskmarshal.com",
+  "source": "riskmarshal.com, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-07T08:53:05"
+ },
+ {
+  "name": "features-enforcement",
+  "file": "features-enforcement.png",
+  "url": "https://riskmarshal.com/#everything-you-need-to-know",
+  "source": "riskmarshal.com, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-07T08:53:06"
+ },
+ {
+  "name": "enforcement-log",
+  "file": "enforcement-log.png",
+  "url": "https://riskmarshal.com",
+  "source": "riskmarshal.com, Aug 2026",
+  "selector": "pre, code, .enforcement, .log",
+  "captured_at": "2026-08-07T08:53:25"
+ },
+ {
+  "name": "features-full",
+  "file": "features-full.png",
+  "url": "https://riskmarshal.com/features",
+  "source": "riskmarshal.com, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-07T08:53:27"
+ },
+ {
+  "name": "how-it-works",
+  "file": "how-it-works.png",
+  "url": "https://riskmarshal.com/#how-it-works",
+  "source": "riskmarshal.com, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-07T08:53:33"
+ },
+ {
+  "name": "testimonials-section",
+  "file": "testimonials-section.png",
+  "url": "https://riskmarshal.com",
+  "source": "riskmarshal.com, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-07T08:53:52"
+ }
+]

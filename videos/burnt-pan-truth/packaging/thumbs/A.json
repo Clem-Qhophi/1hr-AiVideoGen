@@ -1,0 +1,36 @@
+{
+  "engine": "remotion-still",
+  "composition": "BurntPanTruth",
+  "props": {
+    "headline": "NOT BROKEN",
+    "emphasis": "JUST BURNT FOOD",
+    "kicker": "YOUR BURNT PAN",
+    "sub": null,
+    "badge": null,
+    "accent": "hot",
+    "variant": "photo",
+    "image": "thumbs/000-burnt-pan-blackened-skillet-kitchen-0.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "left",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": "persona/walt-combs-cutout.png",
+    "faceAt": [
+      88.0,
+      42.0,
+      34.0
+    ],
+    "faceFocus": null,
+    "faceCutout": true
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\BurntPanTruth.tsx"
+}

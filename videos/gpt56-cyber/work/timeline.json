@@ -1,0 +1,13 @@
+{
+  "master": "videos\\gpt56-cyber/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [],
+  "preview": {
+    "end_s": 385.73,
+    "out": "videos\\gpt56-cyber/output/gpt56-cyber-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

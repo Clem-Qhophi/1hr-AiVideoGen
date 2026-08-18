@@ -1,0 +1,24 @@
+{
+  "video": "videos/glm-5-3-release/output/glm-5-3-release-MASTER.mp4",
+  "title": "GLM-5.3 Released: 84.5% Cybersecurity Benchmark Beats OpenAI (With a Catch)",
+  "description_file": "videos/glm-5-3-release/packaging/description.txt",
+  "thumbnail": "videos/glm-5-3-release/packaging/thumbs/A.jpg",
+  "tags": [
+    "GLM-5.3",
+    "GLM 5",
+    "Zhipu AI",
+    "Z.ai",
+    "CyberGym",
+    "AI cybersecurity",
+    "DeepSWE",
+    "Terminal-Bench",
+    "Huawei Ascend",
+    "AI Coding",
+    "LLM benchmarks",
+    "AI News",
+    "Open Weights AI"
+  ],
+  "categoryId": 28,
+  "privacy": "private",
+  "madeForKids": false
+}

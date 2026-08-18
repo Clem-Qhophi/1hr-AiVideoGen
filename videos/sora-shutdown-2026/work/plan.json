@@ -1,0 +1,17 @@
+{
+  "project": "sora-shutdown-2026",
+  "niche": "ai-news",
+  "format": "single-story",
+  "source": "topic",
+  "topic": "Sora shutdown / API sunset Sept 24 2026 / why OpenAI killed Sora",
+  "persona": "channel-persona.ai-news.json",
+  "delivery_mode": "breaking-news",
+  "target_s": 420,
+  "goal": "authority",
+  "audience": "mixed",
+  "conversion": "nothing",
+  "voice": "en-US-AndrewNeural",
+  "tts_speed": 1.15,
+  "stage": "mastered",
+  "_intake_notes": "Audited via ai-release-intake 2026-08-11: original 'Sora leaked clips' premise NO-GO (leak does not exist, premise contradicts reality). User approved reframe: Sora death + Sept 24 deadline + $1M/day autopsy + market handoff. validate_topic: 'Sora 2 shutdown' GO-NARROW 8/12. All numbers verified against primary sources read start-to-finish on 2026-08-11."
+}

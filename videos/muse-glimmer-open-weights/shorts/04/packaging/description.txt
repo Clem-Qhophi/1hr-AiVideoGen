@@ -1,0 +1,3 @@
+Full breakdown: https://youtu.be/MD1ZO_lDnHM
+
+131K context, ~1% quant loss, Apache 2.0 — the model card nobody reads, and you can download it tonight. #Shorts #MetaAI #HuggingFace #OpenWeights

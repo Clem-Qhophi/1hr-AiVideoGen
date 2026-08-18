@@ -1,0 +1,10 @@
+{
+  "_note": "measured words-per-minute per TTS voice; written by `plan_runtime.py measure`",
+  "_style_warning": "A voice's wpm is NOT a constant \u2014 it depends on the WRITING STYLE as much as the voice. en-US-JennyNeural measured 180.3 on a dense script (29-word average sentences) and 150.3 on a plain-language rewrite of the SAME video (8-word average sentences), at identical speed settings: a 17% swing, because every full stop is a pause and short sentences have far more of them. The rates here now reflect the short-sentence style that CLAUDE.md GROWTH RULE 6 mandates, so they are the right predictor going forward. But RE-MEASURE after any real change in writing style, not just when switching voice \u2014 budgeting a punchy script at a dense script's rate over-writes it by ~17%, which is what happened on re-closing-costs 2026-08-03 (2,320 words budgeted for 13 min actually ran 15.4).",
+  "en-US-GuyNeural": 177.3,
+  "en-US-AndrewNeural": 187.6,
+  "en-US-JennyNeural": 150.3,
+  "en-NG-AbeoNeural": 136.7,
+  "en-US-BrianNeural": 159.1,
+  "en-US-ChristopherNeural": 153.3
+}

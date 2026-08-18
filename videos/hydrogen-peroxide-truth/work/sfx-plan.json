@@ -1,0 +1,60 @@
+{
+  "_note": "Long-form Ken-Burns pipeline: cues sync to key moments in work/beats.json (evidence reveals, hook, mid-roll CTA, close), not to Remotion timeline.json shots (unused here). Density kept LOW per niches/home-hacks.json sound.sfx_density - same 7-cue pattern validated on videos 1-3.",
+  "master": "videos/hydrogen-peroxide-truth/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/hydrogen-peroxide-truth/output/hydrogen-peroxide-truth-captioned.mp4",
+    "out": "videos/hydrogen-peroxide-truth/output/hydrogen-peroxide-truth-sfx.mp4",
+    "end_s": 1304.6,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.2,
+      "sfx_id": "clock-tick-soft",
+      "gain_db": -10,
+      "cue": "cold open: 'There's a brown bottle sitting in almost every bathroom cabinet in America.'",
+      "note": "opens the retention loop around the wound-care myth correction"
+    },
+    {
+      "at_s": 303.6,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-wayne-state-disinfectant card lands: the disinfectant recognition payoff",
+      "note": "first hero beat - the real, sourced use"
+    },
+    {
+      "at_s": 518.22,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-healogics-wound-care card lands: the wound-care myth-correction, the honesty payoff promised at the start",
+      "note": "second hero beat - the main differentiator"
+    },
+    {
+      "at_s": 570.15,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -11,
+      "cue": "mid-roll subscribe mention"
+    },
+    {
+      "at_s": 1231.74,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "close section: recap begins, both facts restated"
+    },
+    {
+      "at_s": 1263.69,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "pre-use checklist card"
+    },
+    {
+      "at_s": 1284.63,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -10,
+      "cue": "Walt's sign-off line: 'That's the old way. Still works.'",
+      "note": "signature line - identical treatment to videos 1-3 for consistency"
+    }
+  ]
+}

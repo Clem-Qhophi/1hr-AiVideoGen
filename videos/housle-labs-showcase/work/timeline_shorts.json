@@ -1,0 +1,48 @@
+{
+  "master": "videos/housle-labs-showcase/output/preview-tight.mp4",
+  "preview": {
+    "out": "videos/housle-labs-showcase/output/final-master-commercial-9x16-shorts.mp4",
+    "end_s": 30.0,
+    "fps": 30,
+    "width": 1080,
+    "height": 1920
+  },
+  "shots": [
+    {
+      "id": "housle-labs-showcase-Scene1Hook",
+      "type": "cutaway",
+      "master_in_s": 0.0,
+      "master_out_s": 3.0
+    },
+    {
+      "id": "housle-labs-showcase-Scene2Product",
+      "type": "cutaway",
+      "master_in_s": 3.0,
+      "master_out_s": 7.0
+    },
+    {
+      "id": "housle-labs-showcase-Scene3Human",
+      "type": "cutaway",
+      "master_in_s": 7.0,
+      "master_out_s": 14.0
+    },
+    {
+      "id": "housle-labs-showcase-Scene4Benefits",
+      "type": "cutaway",
+      "master_in_s": 14.0,
+      "master_out_s": 20.0
+    },
+    {
+      "id": "housle-labs-showcase-Scene5Lifestyle",
+      "type": "cutaway",
+      "master_in_s": 20.0,
+      "master_out_s": 26.0
+    },
+    {
+      "id": "housle-labs-showcase-Scene6BrandEnd",
+      "type": "cutaway",
+      "master_in_s": 26.0,
+      "master_out_s": 30.0
+    }
+  ]
+}

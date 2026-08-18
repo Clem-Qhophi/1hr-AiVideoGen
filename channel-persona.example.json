@@ -1,0 +1,25 @@
+{
+  "_note": "Channel persona — the remembered 'how this channel sounds / who it's for', read and written by the /make-video Director (Stage 0). Asked once, confirmed thereafter, overridable per video. Copy to channel-persona.json (gitignore if you like) and let /make-video fill it. brand.md stays the VISUAL/sound contract; this is the per-channel default choices layered on top.",
+
+  "delivery_mode": "authoritative",
+  "_delivery_mode_options": ["breaking-news", "calm-explainer", "sarcastic-review", "authoritative"],
+
+  "tone_flavor": "confident, honest, a little dry; never hype-filler",
+
+  "voice_id": "onwK4e9ZLuTAKqWW03F9",
+  "voice_name": "Daniel",
+  "_voice_note": "The voice IS the channel identity — pick one and keep it. List with: venv/Scripts/python tools/tts.py --list-voices. Voice library + per-mode picks live in EVOLUTION.md.",
+
+  "audience": "practitioners",
+  "_audience_options": ["beginners", "practitioners", "mixed"],
+
+  "default_goal": "authority",
+  "_default_goal_options": ["followers", "watch-time", "authority", "views-ctr"],
+
+  "default_conversion": "nothing",
+  "_default_conversion_note": "course | tool | repo | newsletter | nothing — used by /packaging for the description CTA",
+
+  "default_target_seconds": 75,
+
+  "notes": "Free-text: recurring do/don'ts the user has stated, catchphrases to keep or avoid, etc."
+}

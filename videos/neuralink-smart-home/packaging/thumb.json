@@ -1,0 +1,32 @@
+{
+  "engine": "remotion-still",
+  "composition": "NeuralinkThumb",
+  "props": {
+    "headline": "The End of Smart Home Hubs?",
+    "emphasis": "50ms",
+    "kicker": null,
+    "sub": "Neuralink N3 · 2026",
+    "badge": "BRAIN AI",
+    "accent": "#00FF88",
+    "variant": "photo",
+    "image": "thumbs/000-brain-chip-neural-interface-futuristic-0.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "left",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": null,
+    "faceAt": null,
+    "faceFocus": null,
+    "faceCutout": false
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\NeuralinkThumb.tsx"
+}

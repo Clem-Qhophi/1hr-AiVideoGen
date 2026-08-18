@@ -1,0 +1,47 @@
+{
+  "source": "videos/uchimizu-cooling-truth/output/uchimizu-cooling-truth-MASTER.mp4",
+  "clips": [
+    {
+      "id": "01",
+      "hook_text": "The $0 Japanese Cooling Trick Myth Busted",
+      "segments": [
+        {"start": 0.0, "end": 26.2},
+        {"start": 202.4, "end": 245.7}
+      ],
+      "loop": true,
+      "title": "The $0 Japanese Cooling Trick Myth Busted 🌡️ (Real Science)",
+      "description": "Viral videos claim this Japanese trick drops any room 15 degrees. We checked the actual peer-reviewed study (Solcerova et al., TU Delft). Here is what it REALLY does.\n\n👉 WATCH THE FULL 14-MIN BREAKDOWN: Search 'The Viral Japanese Trick Is Wrong' on our channel or click the pinned comment!\n\n🔔 Subscribe to The Forgotten Fix for honest home hacks, energy savings, and real science!\n\n#Shorts #HomeHacks #SummerCooling #EnergySaving #ScienceBusted #Uchimizu",
+      "tags": ["shorts", "japanese cooling trick", "uchimizu", "home hacks", "summer cooling", "evaporative cooling", "myth busted"]
+    },
+    {
+      "id": "02",
+      "hook_text": "How Japan Cooled Homes Before AC Existed",
+      "start": 115.1,
+      "end": 178.9,
+      "loop": true,
+      "title": "How Japan Cooled Homes Before Air Conditioning 🇯🇵💧",
+      "description": "Centuries before AC, Edo-period Japan used Uchimizu to beat summer heat for zero dollars. But timing is EVERYTHING.\n\n👉 WATCH THE FULL VIDEO for exact instructions & science: Check our channel or pinned comment!\n\n🔔 Subscribe to The Forgotten Fix for more real, budget-friendly home solutions!\n\n#Shorts #JapaneseCulture #HistoryHacks #CoolingHacks #ZeroDollarHack #Uchimizu",
+      "tags": ["shorts", "uchimizu", "japanese history", "no ac cooling", "edo period", "home hacks", "free cooling"]
+    },
+    {
+      "id": "03",
+      "hook_text": "How to Drop Room Temp 11°F Without AC",
+      "start": 308.1,
+      "end": 377.1,
+      "loop": true,
+      "title": "How to ACTUALLY Cool a Room Without AC 🧊 (Step-by-Step)",
+      "description": "Don't mop your living room floor! Here is the proven step-by-step way to use evaporative ground cooling outside your window with a box fan.\n\n👉 WATCH THE FULL 14-MINUTE GUIDE on our channel (link in pinned comment/bio)!\n\n🔔 Subscribe to The Forgotten Fix for real, evidence-based home fixes!\n\n#Shorts #RoomCooling #NoAC #SummerHacks #DIYCooling #EnergyBills",
+      "tags": ["shorts", "how to cool room", "no ac", "diy cooling", "evaporative cooling", "home hacks", "summer hacks"]
+    },
+    {
+      "id": "04",
+      "hook_text": "Balcony & Concrete Cooling Hack for Apartment Renters",
+      "start": 449.2,
+      "end": 511.8,
+      "loop": true,
+      "title": "Apartment Cooling Hack for Concrete & Balconies 🏢☀️",
+      "description": "Concrete & asphalt hold massive heat radiating into your apartment. Here is how to cool your balcony and draw chilled air inside.\n\n👉 WATCH THE FULL VIDEO breakdown on our channel for all renter cooling tips!\n\n🔔 Subscribe to The Forgotten Fix for practical renter & home hacks!\n\n#Shorts #ApartmentHacks #RenterHacks #BalconyCooling #BeatTheHeat #HomeTips",
+      "tags": ["shorts", "apartment hacks", "renter tips", "balcony cooling", "concrete heat island", "no ac"]
+    }
+  ]
+}

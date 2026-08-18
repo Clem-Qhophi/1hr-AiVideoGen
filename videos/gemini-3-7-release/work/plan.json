@@ -1,0 +1,15 @@
+{
+  "project": "gemini-3-7-release",
+  "niche": "ai-news",
+  "source": "Google DeepMind Announcement, Aug 13, 2026",
+  "persona": "AI Under 3 Min",
+  "delivery_mode": "breaking-news",
+  "voice_id": "en-US-AndrewNeural",
+  "tts_speed": 1.15,
+  "target_s": 240,
+  "target_minutes": 4.0,
+  "goal": "authority",
+  "audience": "practitioners",
+  "conversion": "nothing",
+  "stage": "intake"
+}

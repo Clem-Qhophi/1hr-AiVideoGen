@@ -1,0 +1,109 @@
+{
+  "project": "youtube-views-ai-playbook",
+  "title": "YouTube Just Overhauled View Counts — The Top 1% AI Playbook",
+  "target_channel": "AI Enthusiast",
+  "token_file": ".youtube/token-ai-news.json",
+  "total_beats": 10,
+  "beats": [
+    {
+      "index": 1,
+      "id": "youtube-views-Beat01AugustReset",
+      "shot_component": "Beat01AugustReset",
+      "title": "The August 24 Reset",
+      "description": "3D Calendar flip to August 24, 2026, YouTube view counter surge, glowing first-frame ticker.",
+      "duration_seconds": 60.0,
+      "frames": 1800,
+      "key_visuals": ["August 24 2026 Banner", "0.00s First-Frame Active Badge", "Live View Counter Ticker: 12.4K to 58.9K", "Pulsing Glow Grid"]
+    },
+    {
+      "index": 2,
+      "id": "youtube-views-Beat02RoadmapFOMO",
+      "shot_component": "Beat02RoadmapFOMO",
+      "title": "The Upfront Value Roadmap",
+      "description": "High-stakes 4-part HUD matrix laying out the complete video roadmap and psychological retention stakes.",
+      "duration_seconds": 55.0,
+      "frames": 1650,
+      "key_visuals": ["4-Pillar HUD Matrix", "Algorithm Decoupling", "AdSense & Sponsor Truth", "Vision Hook AI", "Agentic Code-to-Video Stack"]
+    },
+    {
+      "index": 3,
+      "id": "youtube-views-Beat03MetricEngineMatrix",
+      "shot_component": "Beat03MetricEngineMatrix",
+      "title": "Legacy 30s vs New First-Frame",
+      "description": "Comparative matrix breaking down Long-Form, Shorts, and Live Streams across Legacy vs Unified standards.",
+      "duration_seconds": 60.0,
+      "frames": 1800,
+      "key_visuals": ["3-Row Comparison Grid", "30s Rule Deprecated", "0s Unified Standard", "Format Convergence Diagram"]
+    },
+    {
+      "index": 4,
+      "id": "youtube-views-Beat04EngagedViewsStudio",
+      "shot_component": "Beat04EngagedViewsStudio",
+      "title": "YouTube Studio Engaged Views",
+      "description": "Studio Advanced Analytics clone demonstrating Public Views vs Engaged Views decoupling and algorithmic weight.",
+      "duration_seconds": 65.0,
+      "frames": 1950,
+      "key_visuals": ["Studio Advanced Analytics Clone", "Public Views vs Engaged Views Toggle", "Retention Decay Curve", "Algorithm Promotion Gauge"]
+    },
+    {
+      "index": 5,
+      "id": "youtube-views-Beat05MonetizationFlow",
+      "shot_component": "Beat05MonetizationFlow",
+      "title": "The AdSense RPM Reality",
+      "description": "Financial flow diagram revealing why AdSense payouts depend on Engaged Watch Time, not raw first-frame impressions.",
+      "duration_seconds": 60.0,
+      "frames": 1800,
+      "key_visuals": ["AdSense Financial Flowchart", "Advertiser Bid Engine", "RPM Calculation Matrix", "Zero-Second Bounce Penalty"]
+    },
+    {
+      "index": 6,
+      "id": "youtube-views-Beat06PlatformWarParity",
+      "shot_component": "Beat06PlatformWarParity",
+      "title": "The Multi-Platform War",
+      "description": "Multi-platform comparison chart: YouTube (0s) vs TikTok (1s) vs Meta Reels (3s) vs X, showing media agency parity.",
+      "duration_seconds": 55.0,
+      "frames": 1650,
+      "key_visuals": ["Platform Parity Radar", "Media Agency Scorecard", "CPV vs CPM Index", "Cross-Platform Attention Bar Chart"]
+    },
+    {
+      "index": 7,
+      "id": "youtube-views-Beat07VisionLLMHookScorer",
+      "shot_component": "Beat07VisionLLMHookScorer",
+      "title": "Vision LLM Hook Auditing",
+      "description": "Live IDE/Terminal split screen with Claude 3.5 Sonnet / GPT-4o Vision scoring the first 90 frames for retention saliency.",
+      "duration_seconds": 72.0,
+      "frames": 2160,
+      "key_visuals": ["Cursor / VS Code Terminal", "Vision API 90-Frame Scanner", "4 Saliency Radar Vectors", "Score Meter: 94/100 Passed"]
+    },
+    {
+      "index": 8,
+      "id": "youtube-views-Beat08AgenticVideoStack",
+      "shot_component": "Beat08AgenticVideoStack",
+      "title": "Autonomous Code-to-Video Engine",
+      "description": "Declarative Remotion code-to-video workflow diagram showing 18 hours manual timeline vs 45 min agentic pipeline.",
+      "duration_seconds": 65.0,
+      "frames": 1950,
+      "key_visuals": ["Remotion React Code Animator", "Multi-Agent Production Loop", "Velocity Comparison: 18h vs 45min", "Automated Motion Asset Grid"]
+    },
+    {
+      "index": 9,
+      "id": "youtube-views-Beat09SponsorshipMultiplier",
+      "shot_component": "Beat09SponsorshipMultiplier",
+      "title": "Brand Sponsorship Arbitrage",
+      "description": "Creator Media Kit calculator showing first-frame CPV leverage yielding 2.8x higher sponsorship deal valuation.",
+      "duration_seconds": 55.0,
+      "frames": 1650,
+      "key_visuals": ["Sponsorship Rate Card Calculator", "Old CPM vs New CPV Yield", "+180% Deal Valuation Badge", "Brand Pitch Deck Simulator"]
+    },
+    {
+      "index": 10,
+      "id": "youtube-views-Beat10ExecutionBlueprint",
+      "shot_component": "Beat10ExecutionBlueprint",
+      "title": "Master Action Plan & Strategic Verdict",
+      "description": "Interactive 4-step checklist for August 24 readiness, strategic verdict summary, and animated subscribe callout.",
+      "duration_seconds": 57.8,
+      "frames": 1734,
+      "key_visuals": ["4-Step Animated Checklist", "Subscribe Callout Modal", "Ringing Bell Animation", "Top 1% Strategic Moat Badge"]
+    }
+  ]
+}

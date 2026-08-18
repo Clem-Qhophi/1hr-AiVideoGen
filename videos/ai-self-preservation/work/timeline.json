@@ -1,0 +1,24 @@
+{
+  "master": "videos/ai-self-preservation/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "_note": "Rebuilt 2026-08-10: was a single 35s ASPEvidence cutaway over a 450s master (blank gradient background, reference/master.mp4 has no real footage - this ai-news channel is faceless). That left ~88% of the runtime as blank-bg + caption. Full contiguous cutaway coverage added below; reframes removed (they do nothing under a cutaway and the whole runtime is now cutaways). preview.end_s corrected from 420.0 to 450.65 - the actual VO/master is 450.648s and the old value silently cut off the last ~30s, including the entire mandatory close CTA. NOTE (not fixed here, flagged for the user): narration.txt is independently missing three bracket-tagged paragraphs from work/script.md ([RETENTION LOOP], [HOOK LINE], [HOOK PAYOFF]) - the retention loop is opened nowhere and paid off nowhere in the actual VO. That's a script/VO bug, not a visuals bug; fixing it means regenerating the VO and everything downstream.",
+  "shots": [
+    { "id": "ASPHook", "type": "cutaway", "master_in_s": 0.0, "master_out_s": 16.63, "cue": "cold-open-claim: This will cost you / It refused to shut down another AI" },
+    { "id": "ASPContext", "type": "cutaway", "master_in_s": 16.63, "master_out_s": 63.99, "cue": "context: 79%/97%/84% shutdown-resistance stats, self-preservation defined" },
+    { "id": "ASPStudy", "type": "cutaway", "master_in_s": 63.99, "master_out_s": 147.59, "cue": "verdict pt1: Peer-Preservation study, GPT-5.2 refusal quote, peer not self" },
+    { "id": "ASPBehaviors", "type": "cutaway", "master_in_s": 147.59, "master_out_s": 211.91, "cue": "verdict pt2: four misaligned behaviors, rescue, wordsmithing, spec gaming" },
+    { "id": "ASPMidroll", "type": "cutaway", "master_in_s": 211.91, "master_out_s": 225.12, "cue": "mandatory mid-roll CTA (~52% of runtime, growth rule #1)" },
+    { "id": "ASPEvidence", "type": "cutaway", "master_in_s": 225.12, "master_out_s": 336.12, "cue": "evidence: Techstrong.ai, arXiv, Impact AI News, Species (4 real captures)" },
+    { "id": "ASPHonestGap", "type": "cutaway", "master_in_s": 336.12, "master_out_s": 407.88, "cue": "honest-gap: pattern matching not sentience, no long-horizon planning, Palisade quote" },
+    { "id": "ASPClose", "type": "cutaway", "master_in_s": 407.88, "master_out_s": 450.65, "cue": "close: cooperation without permission + mandatory subscribe/like/comment CTA" }
+  ],
+  "reframes": [],
+  "preview": {
+    "end_s": 450.65,
+    "out": "videos/ai-self-preservation/output/ai-self-preservation-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

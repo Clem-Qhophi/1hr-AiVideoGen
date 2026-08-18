@@ -1,0 +1,15 @@
+{
+  "_note": "Ready to run once YouTube OAuth is set up for the finance channel (no .youtube/token-finance.json exists yet - same blocker money-archive-401k-fee and money-archive-compound-interest both hit). Setup: tools/yt_upload_SETUP.md, then `python tools/yt_upload.py auth --channel finance`. Once authed: python tools/yt_upload.py upload \"C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/money-archive-mortgage-payoff/packaging/publish.json\" --channel finance --dry-run, then without --dry-run for the real private-draft upload.",
+  "video": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/money-archive-mortgage-payoff/output/money-archive-mortgage-payoff-music-MASTER.mp4",
+  "title": "$300 a Month Saves $155,461 in Mortgage Interest (Real Math)",
+  "description_file": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/money-archive-mortgage-payoff/packaging/description.txt",
+  "thumbnail": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/money-archive-mortgage-payoff/packaging/thumbs/A.jpg",
+  "tags": [
+    "mortgage payoff", "pay off mortgage early", "mortgage amortization explained", "personal finance",
+    "how to pay off your mortgage early", "financial literacy", "money explainer", "extra mortgage payment",
+    "amortization schedule", "the money archive", "mortgage interest calculator", "home loan payoff"
+  ],
+  "categoryId": 27,
+  "privacy": "private",
+  "madeForKids": false
+}

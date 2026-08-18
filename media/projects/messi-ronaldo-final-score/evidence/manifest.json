@@ -1,0 +1,20 @@
+[
+ {
+  "name": "evidence-r1-goals",
+  "file": "evidence-r1-goals.png",
+  "url": "https://www.fifa.com/en/organisation/records",
+  "source": "FIFA official records",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-17T14:24:46"
+ },
+ {
+  "name": "evidence-r5-money",
+  "file": "evidence-r5-money.png",
+  "url": "https://www.forbes.com/profile/cristiano-ronaldo/",
+  "source": "Forbes, estimated",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-17T14:25:10"
+ }
+]

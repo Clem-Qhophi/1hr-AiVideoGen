@@ -1,0 +1,58 @@
+{
+  "_note": "Every sourced number in script.md traces to one of these. All three were read/verified live on 2026-08-04 (not from a search summary), per CLAUDE.md GROWTH RULES 3. The crossover-math facts were computed live on the SEC's own investor.gov calculator, not invented or estimated.",
+  "facts": [
+    {
+      "id": "sp500-return-32yr",
+      "claim": "The S&P 500's nominal annualized return from 1994 to 2026 (32 years), with dividends reinvested, is 10.87% per year (8.13% per year after inflation). $100 invested in 1994 grew to $2,857.42 nominal by 2026.",
+      "source": "OfficialData.org, S&P 500 historical returns calculator (Shiller-methodology index data, BLS CPI for inflation adjustment)",
+      "status": "[VERIFIED - live page read + screenshot captured]",
+      "url": "https://www.officialdata.org/us/stocks/s-p-500/1994",
+      "evidence_image": "media/projects/money-archive-compound-interest/evidence/sp500-32yr-return.png",
+      "note": "Used as the illustrative growth rate for the compound-interest worked example below. Script must state this is a HISTORICAL average over one specific 32-year window, not a promised or guaranteed future return - see honest-limits beat."
+    },
+    {
+      "id": "cee-financial-literacy-2024",
+      "claim": "As of the 2024 Survey of the States, 35 of 50 states require students to take a personal finance course to graduate high school - up 12 states since 2022 (roughly an extra 21% of U.S. high schoolers now required to take it).",
+      "source": "Council for Economic Education, '2024 Survey of the States'",
+      "status": "[VERIFIED - live page read + screenshot captured]",
+      "url": "https://www.councilforeconed.org/survey-of-the-states-2024/",
+      "evidence_image": "media/projects/money-archive-compound-interest/evidence/financial-literacy-states.png",
+      "note": "Used for the stakes beat ('why nobody explained this to you'). Script must NOT claim most current adults had this requirement - the +12-states jump is recent (since 2022), so most people who already graduated did not have it. That inference is directionally supported by the data (a majority of the requirement growth is very recent) but is not itself a number CEE published, so it is phrased as a reasonable inference, not quoted as their statistic."
+    },
+    {
+      "id": "fed-credit-card-rate",
+      "claim": "The Federal Reserve's G.19 Consumer Credit report puts the average interest rate on all commercial bank credit card accounts at 20.94% (most recent reported figure, May 2026); the rate on accounts actually assessed interest is higher, 22.15%.",
+      "source": "Federal Reserve, G.19 Consumer Credit release",
+      "status": "[VERIFIED - live page read]",
+      "url": "https://www.federalreserve.gov/releases/g19/current/",
+      "note": "Used in the 'compounds against you too' beat to make the debt-side warning concrete instead of vague, without giving personalized debt advice. Rounded down to 'around 21 percent' in narration to stay safely inside the sourced range rather than quoting the higher assessed-interest figure."
+    },
+    {
+      "id": "sec-calculator-person-c",
+      "claim": "Same SEC investor.gov calculator, same 10.87%/yr rate, compounded monthly: $200/month contributed continuously for 20 years (age 45 to 65, $48,000 total contributed) reaches $170,180.16 - matching the calculator's own year-20 row already captured for the 40-year run.",
+      "source": "U.S. Securities and Exchange Commission, investor.gov Compound Interest Calculator",
+      "status": "[VERIFIED - reused from the already-captured 40-year table, not a new unverified figure]",
+      "note": "This is the Year 20 row of the same table used for sec-calculator-crossover, reused as 'Person C' (starts at 45) for a three-way comparison. No new calculator run was needed since this exact figure was already in the captured table."
+    },
+    {
+      "id": "sec-calculator-scaled-amounts",
+      "claim": "Compound-interest math on a fixed rate and fixed number of years scales linearly with the monthly contribution amount. At the same 10.87%/yr over 40 years used for the $200/month example ($1,652,065.31): $50/month scales to $413,016.33 (one quarter); $25/month scales to $206,508.16 (one eighth).",
+      "status": "illustrative:true - derived by linear scaling from the verified sec-calculator-crossover figure below, not independently re-run on the calculator, since future-value-of-annuity is linear in payment size for a fixed rate/term",
+      "computed_check": "$1,652,065.31 / 4 = $413,016.33; $1,652,065.31 / 8 = $206,508.16"
+    },
+    {
+      "id": "sec-calculator-crossover",
+      "claim": "Using the SEC's own investor.gov Compound Interest Calculator at 10.87%/yr (compounded monthly, the sp500-return-32yr rate above): $200/month invested for 10 years only (age 25-35, $24,000 total contributed), then left untouched and growing for 30 more years, reaches $1,106,808.83 by age 65. $200/month invested continuously for 30 years (age 35-65, $72,000 total contributed - three times as much money put in) reaches $545,256.59 by age 65. The 10-year head start produces roughly double the final balance despite one-third the total contributions.",
+      "source": "U.S. Securities and Exchange Commission, investor.gov Compound Interest Calculator (official government tool)",
+      "status": "[VERIFIED - computed live on the primary tool itself, 2026-08-04, not estimated]",
+      "url": "https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator",
+      "computed_check": "Sub-results reproduced and internally consistent: Year 10 value at $200/mo, 10.87%, monthly compounding = $43,073.90 (matches the calculator's own year-by-year table); that amount grown untouched 30 more years at the same rate = $1,106,808.83; $200/mo continuously for 30 years from $0 = $545,256.59; $200/mo continuously for 40 years from $0 = $1,652,065.31.",
+      "note": "This is the spine of the whole script (cold-open-claim + mechanism). Screenshot capture of the calculator's rendered output was attempted but the tool used (Claude Browser) could not composite a screenshot in this session; the numbers were instead extracted via a live DOM text read of the calculator's own results table immediately after submitting the real inputs, which is the same primary-source page, just captured as text instead of pixels. On-screen presentation should be a code-rendered comparison card citing investor.gov directly, styled to look like the calculator's own output (labeled 'SEC investor.gov calculator, 10.87%/yr, $200/mo'), not implied to be a live screenshot."
+    }
+  ],
+  "dropped_or_softened": [
+    "Did not claim 10.87% as a guaranteed or expected future return - script frames it explicitly as 'what the S&P 500 actually averaged over the last 32 years,' with an honest-limits beat stating markets can and do return far less (or lose money) over any specific decade, this is not personalized advice, and past performance does not guarantee future results.",
+    "Did not claim most/all current adults lacked personal finance education as a CEE-sourced statistic - only the 35-state 2024 figure and the +12-states-since-2022 recency are directly attributed to CEE; the 'you probably weren't taught this' framing is presented as the video's own reasonable inference from the recency of the requirement growth, not as their data point.",
+    "No specific fund, brokerage, or account type recommended - the worked example uses a generic monthly-contribution scenario, not a real product."
+  ]
+}

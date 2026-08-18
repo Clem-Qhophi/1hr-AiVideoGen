@@ -1,0 +1,44 @@
+[
+  {
+    "id": "southbend-math",
+    "type": "stat",
+    "kicker": "SOUTH BEND, INDIANA",
+    "stat": "20%",
+    "unit": "of purchase price, forgivable",
+    "label": "Second mortgage, forgiven over 5 years of living there. Home price capped at $175,000.",
+    "foot": "Community Homebuyers Corporation (ahomeallmyown.org)",
+    "accent": "signal",
+    "match": ["card-southbend-math"]
+  },
+  {
+    "id": "baltimore-math",
+    "type": "stat",
+    "kicker": "BALTIMORE, MARYLAND",
+    "stat": "$5,000",
+    "unit": "down payment + closing costs",
+    "label": "5-year forgivable loan. Only 20 winners per year, selected by lottery.",
+    "foot": "Live Baltimore, \"Buying Into Baltimore\" program page",
+    "accent": "danger",
+    "match": ["card-baltimore-math"]
+  },
+  {
+    "id": "newark-math",
+    "type": "stat",
+    "kicker": "NEWARK, NEW JERSEY",
+    "stat": "$20,000",
+    "unit": "at 0% interest",
+    "label": "Forgiven 20% per year over 5 years. First-time buyers, avg. household income $54,000.",
+    "foot": "City of Newark, Live Newark Program",
+    "accent": "accent",
+    "match": ["card-newark-math"]
+  },
+  {
+    "id": "close-recap",
+    "type": "compare",
+    "kicker": "THE REAL VERSION, NOT THE VIRAL ONE",
+    "left": { "value": "3 cities", "label": "real, forgivable down payment help", "accent": "signal" },
+    "right": { "value": "0", "label": "programs that skip a real mortgage", "accent": "danger" },
+    "foot": "South Bend + Baltimore + Newark, official program pages",
+    "match": ["card-close-recap"]
+  }
+]

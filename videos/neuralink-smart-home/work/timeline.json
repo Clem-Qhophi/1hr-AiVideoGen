@@ -1,0 +1,23 @@
+{
+  "master": "videos/neuralink-smart-home/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "Hook-neuralink-smart-home", "type": "cutaway", "master_in_s": 0, "master_out_s": 21 },
+    { "id": "BrainChart", "type": "cutaway", "master_in_s": 21, "master_out_s": 52 },
+    { "id": "QuoteNaveen", "type": "cutaway", "master_in_s": 52, "master_out_s": 78 },
+    { "id": "TechSpecs", "type": "cutaway", "master_in_s": 78, "master_out_s": 116 },
+    { "id": "ElevenLabsChart", "type": "cutaway", "master_in_s": 116, "master_out_s": 148 },
+    { "id": "VoiceChart", "type": "cutaway", "master_in_s": 148, "master_out_s": 178 },
+    { "id": "StatCard-neuralink-smart-home", "type": "cutaway", "master_in_s": 178, "master_out_s": 208 },
+    { "id": "CloseCTA-neuralink-smart-home", "type": "cutaway", "master_in_s": 208, "master_out_s": 258 },
+    { "id": "BrainChart", "type": "cutaway", "master_in_s": 258, "master_out_s": 456 }
+  ],
+  "preview": {
+    "end_s": 456.24,
+    "out": "videos/neuralink-smart-home/output/neuralink-smart-home-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

@@ -1,0 +1,29 @@
+[
+ {
+  "name": "deepmind-gemini-announcement",
+  "file": "deepmind-gemini-announcement.png",
+  "url": "https://deepmind.google/technologies/gemini/",
+  "source": "Google DeepMind, Aug 2026",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-14T14:05:52"
+ },
+ {
+  "name": "google-ai-pricing",
+  "file": "google-ai-pricing.png",
+  "url": "https://ai.google.dev/pricing",
+  "source": "Google AI Studio Pricing, Aug 2026",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-14T14:06:05"
+ },
+ {
+  "name": "github-copilot-gemini",
+  "file": "github-copilot-gemini.png",
+  "url": "https://github.com/features/copilot",
+  "source": "GitHub Copilot, Aug 2026",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-14T14:06:17"
+ }
+]

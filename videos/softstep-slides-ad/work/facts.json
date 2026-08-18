@@ -1,0 +1,77 @@
+{
+  "_note": "claims register for the Softstep ad. Every claim used in VO or on screen must trace to a row here. Rows are locked to what was VERIFIED on 2026-08-10; nothing may be added without a real source (client text, captured image, or client-confirmed statement).",
+  "claims": [
+    {
+      "id": "brand-name",
+      "claim": "Softstep Slides and Sneakers",
+      "source": "IG bio (user-pasted, 2026-08-10)",
+      "verified": true,
+      "used_as": "brand block, end card",
+      "evidence_file": null
+    },
+    {
+      "id": "tagline",
+      "claim": "Step into comfort & style",
+      "source": "IG bio (user-pasted, 2026-08-10)",
+      "verified": true,
+      "used_as": "hook-adjacent brand line, sting",
+      "evidence_file": null
+    },
+    {
+      "id": "range",
+      "claim": "Trendy slides for men & women",
+      "source": "IG bio (user-pasted, 2026-08-10)",
+      "verified": true,
+      "used_as": "flip beat copy",
+      "evidence_file": null
+    },
+    {
+      "id": "delivery",
+      "claim": "Nationwide delivery (at a fee)",
+      "source": "IG bio (user-pasted, 2026-08-10)",
+      "verified": true,
+      "used_as": "proof card; VO says 'nationwide delivery' -- NEVER 'free'",
+      "evidence_file": null
+    },
+    {
+      "id": "pay-on-delivery",
+      "claim": "Pay on delivery within Accra",
+      "source": "IG bio (user-pasted, 2026-08-10)",
+      "verified": true,
+      "used_as": "proof card + CTA centerpiece",
+      "evidence_file": null
+    },
+    {
+      "id": "dm-to-order",
+      "claim": "DM to order",
+      "source": "IG bio (user-pasted, 2026-08-10)",
+      "verified": true,
+      "used_as": "CTA",
+      "evidence_file": null
+    },
+    {
+      "id": "usp-comfort",
+      "claim": "Cushioned foam, cloud-step comfort, keeps its shape",
+      "source": "client-confirmed USP via agency intake (user, 2026-08-10); 'keeps its shape' kept mild as comfort-adjacent",
+      "verified": true,
+      "used_as": "flip/how beats",
+      "evidence_file": null
+    },
+    {
+      "id": "prices",
+      "claim": "(no prices stated anywhere)",
+      "source": "no price list provided or verifiable",
+      "verified": false,
+      "used_as": "price slot renders 'DM for price'",
+      "evidence_file": null
+    },
+    {
+      "id": "reviews",
+      "claim": "(no reviews/testimonials shown)",
+      "source": "none provided",
+      "verified": false,
+      "used_as": "none -- proof beats use product photos + bio facts only",
+      "evidence_file": null
+    }
+  ]
+}

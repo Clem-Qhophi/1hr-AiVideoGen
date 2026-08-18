@@ -1,0 +1,50 @@
+{
+  "slug": "weathernext-cyclones",
+  "channel": "AI Under 3 Min",
+  "channel_persona_file": "channel-persona.ai-news.json",
+  "niche": "ai-news",
+  "format": "single-story",
+  "source": {
+    "type": "release-email",
+    "route": "/ai-release-intake",
+    "topic": "Google DeepMind open-sources WeatherNext Cyclones, an AI model that forecasts tropical cyclones 15 days out with +24h average extra lead time, published in Nature (s41586-026-10953-2, Aug 6 2026)",
+    "angle": "warning story: what a real +24h of hurricane warning means for people, with the model details in the evidence section. Spark's '97.2%/99.8%' numbers dropped - absent from primary sources. Spark's '50-100+ scenarios' corrected to 1,000-member ensembles.",
+    "research_note": "validate_topic 'weathernext' -> NO-DEMAND; 'deepmind weather next' -> WEAK 5/12 (demand 2/3, performance 2/3, freshness 0/3). OVERRULED with justification: day-zero Nature paper is this channel's lane (see intake audit); angle must be the STORY (what +24h means), not the bare model name, so the on-screen/title keyword is the human story while the model name still appears."
+  },
+  "persona": {
+    "delivery_mode": "breaking-news",
+    "tone_flavor": "confident, honest, a little dry; never hype-filler; always names the catch",
+    "voice_id": "en-US-AndrewNeural",
+    "tts_provider": "edge-tts (free)"
+  },
+  "target_seconds": 420,
+  "target_minutes": 7,
+  "aspect": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "goal": "authority",
+  "audience": "mixed",
+  "conversion": "nothing",
+  "honesty_guard": "see niches/ai-news.json script.honesty_guard + recency_guard - every number needs a real captured source. Distinguish 'announced' (paper/model) from 'operational' (NHC used it in production 2025) from 'projected'.",
+  "brand_promise_note": "phase 1 (cold-open-claim + context + verdict) hard-capped ~170s (~485 words at Andrew's measured rate) regardless of total length - see niches/ai-news.json script.structure",
+  "visual_pipeline": "make-tsx (shortform-explainer) + suggest-sfx + packaging, per this niche's established convention",
+  "stage": "uploaded-private-draft",
+  "stages": {
+    "intake": { "status": "done", "note": "ai-release-intake audit: primary sources read in full - DeepMind blog, Nature paper s41586-026-10953-2, developers.google.com/weathernext, blog.google coverage, DeepMind Melissa post, NHC 2025 Verification Report PDF (85pp, text-read). Spark's 97.2%/99.8% NOT in any primary source - dropped. Angle + runtime confirmed by user: warning story, 7 min." },
+    "asset_manifest": { "status": "done", "note": "5 evidence captures, all verified healthy: deepmind-blog, nature-paper, github-repo, coverage-news (blog.google), nhc-verification-2025 (cover page rendered via pymupdf after the browser PDF capture came back blank)." },
+    "research_facts": { "status": "done", "note": "work/facts.json - 17 claims, all attributed to primary sources read start-to-finish. GDMI's exact NHC report record verified in the PDF text (outperformed NHC official track 12-72h; best individual intensity model; beat everything 48-120h in eastern Pacific)." },
+    "script": { "status": "done", "note": "work/script.md - 1,276 words final (extended phase 2 to hit runtime). lint_script CLARITY GATE PASSED. plan_runtime check -5% PASS. User approved at script gate." },
+    "voiceover": { "status": "done", "note": "edge-tts Andrew 1.15x -3Hz, 399.5s (final VO after phase-2 extension)." },
+    "word_timing": { "status": "done", "note": "align_asr (AssemblyAI) -> edited-transcript.json, 1,255 words." },
+    "master": { "status": "done", "note": "reference/master.mp4 399.5s." },
+    "make_tsx": { "status": "done", "note": "11 shots authored + composited; preview baked; texture-checked." },
+    "sfx": { "status": "done", "note": "41 cues, library-first (zero new clips), gpt56 gains transferred; all 41 RMS-verified (>=+4 critical / >=+1 texture)." },
+    "captions": { "status": "done", "note": "burned ASS, 199/1255 stressed (15.9%), weathernext-cyclones-captioned.mp4." },
+    "music": { "status": "done", "note": "tech-pulse @ -6 (niche value validated: TTS gaps are true silence, bed lifts gaps to ~-30 dB, <=+0.5 under speech)." },
+    "packaging": { "status": "done", "note": "1 title + 1 thumbnail (standing rule). Title: 'AI Just Gave Hurricane Forecasts +24 Hours - Proven in Real Use'. Thumb: ONE EXTRA DAY / NHC CONFIRMED, satellite photo. Description + publish.json written. Format tagged (cost-callout/screenshots/number/own-term)." },
+    "final_mix": { "status": "done", "note": "-14.21 LUFS / -1.27 dBTP." },
+    "deliverable_check": { "status": "done", "note": "SHIPPABLE, all PASS, 0 warnings after manifest statuses fixed." },
+    "upload": { "status": "done", "note": "PRIVATE draft: studio.youtube.com/video/M_K4Fd0liys/edit - user flips public per 1-per-day cadence. Needed venv python (googleapiclient missing in system python)." }
+  },
+  "cost_usd": 0.0
+}

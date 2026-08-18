@@ -1,0 +1,29 @@
+[
+ {
+  "name": "epa-brief-guide-mold",
+  "file": "epa-brief-guide-mold.png",
+  "url": "https://www.epa.gov/mold/a-brief-guide-mold-moisture-and-your-home",
+  "source": "EPA: A Brief Guide to Mold, Moisture and Your Home",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-17T06:36:15"
+ },
+ {
+  "name": "epa-mold-and-health",
+  "file": "epa-mold-and-health.png",
+  "url": "https://www.epa.gov/mold/mold-and-health",
+  "source": "EPA: Mold and Health",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-17T06:38:56"
+ },
+ {
+  "name": "epa-basic-mold-cleanup",
+  "file": "epa-basic-mold-cleanup.png",
+  "url": "https://www.epa.gov/mold/basic-mold-cleanup",
+  "source": "EPA: Basic Mold Cleanup",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-17T06:39:04"
+ }
+]

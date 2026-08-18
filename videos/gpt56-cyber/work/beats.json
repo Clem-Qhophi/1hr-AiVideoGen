@@ -1,0 +1,1074 @@
+{
+  "output": {
+    "w": 1920,
+    "h": 1080,
+    "fps": 30,
+    "out": "output/gpt56-cyber-MASTER.mp4"
+  },
+  "audio": "work/audio/voiceover.mp3",
+  "project": "gpt56-cyber",
+  "total_beats": 106,
+  "runtime_s": 385.39,
+  "beats": [
+    {
+      "beat_index": 0,
+      "start_s": 0.18,
+      "end_s": 6.11,
+      "duration_s": 5.93,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "On August tenth, OpenAI shipped a model that says yes. GPT-5.6-Cyber",
+      "move": "in"
+    },
+    {
+      "beat_index": 1,
+      "start_s": 6.11,
+      "end_s": 9.4,
+      "duration_s": 3.29,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "completes ninety-five percent of the advanced cyber attacks it's",
+      "move": "out"
+    },
+    {
+      "beat_index": 2,
+      "start_s": 9.4,
+      "end_s": 12.6,
+      "duration_s": 3.2,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "asked to perform versus one point five for its own base",
+      "move": "left"
+    },
+    {
+      "beat_index": 3,
+      "start_s": 12.6,
+      "end_s": 15.83,
+      "duration_s": 3.23,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "model. Same brain, different answer. And it already found",
+      "move": "right"
+    },
+    {
+      "beat_index": 4,
+      "start_s": 15.83,
+      "end_s": 19.36,
+      "duration_s": 3.53,
+      "query": "Code Agent Loop",
+      "image": "work/images/code-agent-loop.png",
+      "text": "two unknown Chrome bugs that escape Google's sandbox. If",
+      "move": "in"
+    },
+    {
+      "beat_index": 5,
+      "start_s": 19.36,
+      "end_s": 23.04,
+      "duration_s": 3.68,
+      "query": "Code Tool Calling",
+      "image": "work/images/code-tool-calling.png",
+      "text": "you run anything online, this is a tool built to get past you. But",
+      "move": "out"
+    },
+    {
+      "beat_index": 6,
+      "start_s": 23.04,
+      "end_s": 26.73,
+      "duration_s": 3.69,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "the last number in OpenAI's report is the one nobody is reporting",
+      "move": "left"
+    },
+    {
+      "beat_index": 7,
+      "start_s": 26.73,
+      "end_s": 30.5,
+      "duration_s": 3.77,
+      "query": "Code Fast Latency",
+      "image": "work/images/code-fast-latency.png",
+      "text": "and it changes what this model is. We'll get to it. Quick backstory.",
+      "move": "right"
+    },
+    {
+      "beat_index": 8,
+      "start_s": 30.5,
+      "end_s": 33.85,
+      "duration_s": 3.35,
+      "query": "Daybreak Page V8",
+      "image": "work/images/daybreak-page-v8.png",
+      "text": "Daybreak is OpenAI's cybersecurity program, launched",
+      "move": "in"
+    },
+    {
+      "beat_index": 9,
+      "start_s": 33.85,
+      "end_s": 37.3,
+      "duration_s": 3.45,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "at DevDay last fall. Two tracks: Blue, frontier",
+      "move": "out"
+    },
+    {
+      "beat_index": 10,
+      "start_s": 37.3,
+      "end_s": 40.75,
+      "duration_s": 3.45,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "general models for the defenders, and Red, models purpose-trained",
+      "move": "left"
+    },
+    {
+      "beat_index": 11,
+      "start_s": 40.75,
+      "end_s": 46.86,
+      "duration_s": 6.11,
+      "query": "Code Tool Calling",
+      "image": "work/images/code-tool-calling.png",
+      "text": "for offensive work. Today, Red gets its sharpest tool yet. GPT-5.6-Cyber",
+      "move": "right"
+    },
+    {
+      "beat_index": 12,
+      "start_s": 46.86,
+      "end_s": 50.61,
+      "duration_s": 3.75,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "is a cyber-specific version of GPT-5.6 Sol,",
+      "move": "in"
+    },
+    {
+      "beat_index": 13,
+      "start_s": 50.61,
+      "end_s": 54.14,
+      "duration_s": 3.53,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "OpenAI's strongest reasoning model. Trained on top of it, tuned",
+      "move": "out"
+    },
+    {
+      "beat_index": 14,
+      "start_s": 54.14,
+      "end_s": 57.6,
+      "duration_s": 3.46,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "for authorized offense. Released alongside a policy post",
+      "move": "left"
+    },
+    {
+      "beat_index": 15,
+      "start_s": 57.6,
+      "end_s": 60.87,
+      "duration_s": 3.27,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "that upgrades cyber in its own preparedness framework. Here's",
+      "move": "right"
+    },
+    {
+      "beat_index": 16,
+      "start_s": 60.87,
+      "end_s": 64.41,
+      "duration_s": 3.54,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-tool-calling.png",
+      "text": "the read. This is the first time one lab ships two answers",
+      "move": "in"
+    },
+    {
+      "beat_index": 17,
+      "start_s": 64.41,
+      "end_s": 68.16,
+      "duration_s": 3.75,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "to the same security question. Sol, with standard safeguards,",
+      "move": "out"
+    },
+    {
+      "beat_index": 18,
+      "start_s": 68.16,
+      "end_s": 71.86,
+      "duration_s": 3.7,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "refuses most attack chains one point five percent completion.",
+      "move": "left"
+    },
+    {
+      "beat_index": 19,
+      "start_s": 71.86,
+      "end_s": 75.63,
+      "duration_s": 3.77,
+      "query": "Daybreak Page V8",
+      "image": "work/images/daybreak-page-v8.png",
+      "text": "Turn on Daybreak Blue, and it creeps to two. Train a cyber version,",
+      "move": "right"
+    },
+    {
+      "beat_index": 20,
+      "start_s": 75.63,
+      "end_s": 79.0,
+      "duration_s": 3.37,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "and the same family completes ninety-five percent. That gap is",
+      "move": "in"
+    },
+    {
+      "beat_index": 21,
+      "start_s": 79.0,
+      "end_s": 82.31,
+      "duration_s": 3.31,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "not engineering noise. It is a policy choice, baked into",
+      "move": "out"
+    },
+    {
+      "beat_index": 22,
+      "start_s": 82.31,
+      "end_s": 85.54,
+      "duration_s": 3.23,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "the weights. The headline number is the table in OpenAI's",
+      "move": "left"
+    },
+    {
+      "beat_index": 23,
+      "start_s": 85.54,
+      "end_s": 90.17,
+      "duration_s": 4.63,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "announcement. GPT-5.6-Cyber: ninety-five percent",
+      "move": "right"
+    },
+    {
+      "beat_index": 24,
+      "start_s": 90.17,
+      "end_s": 93.88,
+      "duration_s": 3.71,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "of advanced cyber attack tasks in ExploitGym, their benchmark.",
+      "move": "in"
+    },
+    {
+      "beat_index": 25,
+      "start_s": 93.88,
+      "end_s": 97.59,
+      "duration_s": 3.71,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-tool-calling.png",
+      "text": "GPT-5.6 Sol with standard safeguards: one",
+      "move": "out"
+    },
+    {
+      "beat_index": 26,
+      "start_s": 97.59,
+      "end_s": 101.53,
+      "duration_s": 3.94,
+      "query": "Daybreak Page V8",
+      "image": "work/images/daybreak-page-v8.png",
+      "text": "point five percent. Sol under Daybreak Blue: two percent. And",
+      "move": "left"
+    },
+    {
+      "beat_index": 27,
+      "start_s": 101.53,
+      "end_s": 104.78,
+      "duration_s": 3.25,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "the previous cyber model, GPT-5.5-Cyber: fifty-seven",
+      "move": "right"
+    },
+    {
+      "beat_index": 28,
+      "start_s": 104.78,
+      "end_s": 108.24,
+      "duration_s": 3.46,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "point three. This is the jump. And",
+      "move": "in"
+    },
+    {
+      "beat_index": 29,
+      "start_s": 108.24,
+      "end_s": 112.16,
+      "duration_s": 3.92,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "it's not a lab toy. OpenAI's team used it to find two previously",
+      "move": "out"
+    },
+    {
+      "beat_index": 30,
+      "start_s": 112.16,
+      "end_s": 115.49,
+      "duration_s": 3.33,
+      "query": "Cve 2026 15903 V8",
+      "image": "work/images/cve-2026-15903-v8.png",
+      "text": "unknown vulnerabilities in Chrome's V8 engine, chainable to",
+      "move": "left"
+    },
+    {
+      "beat_index": 31,
+      "start_s": 115.49,
+      "end_s": 123.05,
+      "duration_s": 7.56,
+      "query": "Code Agent Loop",
+      "image": "work/images/code-agent-loop.png",
+      "text": "escape Google's heap sandbox. Google fixed one that's CVE-2026-15903,",
+      "move": "right"
+    },
+    {
+      "beat_index": 32,
+      "start_s": 123.05,
+      "end_s": 126.45,
+      "duration_s": 3.4,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "high severity, a bounds-check skip in the JIT compiler. The",
+      "move": "in"
+    },
+    {
+      "beat_index": 33,
+      "start_s": 126.45,
+      "end_s": 129.76,
+      "duration_s": 3.31,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "second is still under coordinated disclosure. The same model",
+      "move": "out"
+    },
+    {
+      "beat_index": 34,
+      "start_s": 129.76,
+      "end_s": 133.59,
+      "duration_s": 3.83,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "surfaced five or more vulnerabilities in a popular mobile OS.",
+      "move": "left"
+    },
+    {
+      "beat_index": 35,
+      "start_s": 133.59,
+      "end_s": 137.03,
+      "duration_s": 3.44,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "Three critical ones in a popular database. And more than four",
+      "move": "right"
+    },
+    {
+      "beat_index": 36,
+      "start_s": 137.03,
+      "end_s": 140.41,
+      "duration_s": 3.38,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-tool-calling.png",
+      "text": "hundred privilege-escalation bugs in a popular kernel. What does this mean",
+      "move": "in"
+    },
+    {
+      "beat_index": 37,
+      "start_s": 140.41,
+      "end_s": 143.87,
+      "duration_s": 3.46,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "for you? If you're a defender, it's a force multiplier that's",
+      "move": "out"
+    },
+    {
+      "beat_index": 38,
+      "start_s": 143.87,
+      "end_s": 147.41,
+      "duration_s": 3.54,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "the pitch. For everyone else, it's a wall. You can't buy access",
+      "move": "left"
+    },
+    {
+      "beat_index": 39,
+      "start_s": 147.41,
+      "end_s": 150.78,
+      "duration_s": 3.37,
+      "query": "Daybreak Page V8",
+      "image": "work/images/daybreak-page-v8.png",
+      "text": "to this model on a whim. It needs Daybreak approval, legal",
+      "move": "right"
+    },
+    {
+      "beat_index": 40,
+      "start_s": 150.78,
+      "end_s": 154.33,
+      "duration_s": 3.55,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "attestations, and from September first, hardware security keys",
+      "move": "in"
+    },
+    {
+      "beat_index": 41,
+      "start_s": 154.33,
+      "end_s": 157.69,
+      "duration_s": 3.36,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "for individual accounts. The most powerful offensive model",
+      "move": "out"
+    },
+    {
+      "beat_index": 42,
+      "start_s": 157.69,
+      "end_s": 160.92,
+      "duration_s": 3.23,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "OpenAI has ever shipped is also the most locked down. And",
+      "move": "left"
+    },
+    {
+      "beat_index": 43,
+      "start_s": 160.92,
+      "end_s": 164.16,
+      "duration_s": 3.24,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "the policy signal matters. OpenAI's own framework rates the",
+      "move": "right"
+    },
+    {
+      "beat_index": 44,
+      "start_s": 164.16,
+      "end_s": 167.58,
+      "duration_s": 3.42,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "model's cyber capability High, not Critical, in its latest",
+      "move": "in"
+    },
+    {
+      "beat_index": 45,
+      "start_s": 167.58,
+      "end_s": 171.26,
+      "duration_s": 3.68,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "assessment. That verdict came with the same post that says the defense",
+      "move": "out"
+    },
+    {
+      "beat_index": 46,
+      "start_s": 171.26,
+      "end_s": 174.89,
+      "duration_s": 3.63,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "window is narrowing. Two messages, one release. Let's",
+      "move": "left"
+    },
+    {
+      "beat_index": 47,
+      "start_s": 174.89,
+      "end_s": 178.5,
+      "duration_s": 3.61,
+      "query": "Daybreak Page V8",
+      "image": "work/images/daybreak-page-v8.png",
+      "text": "go to the evidence. OpenAI's announcement page is bot-blocked",
+      "move": "right"
+    },
+    {
+      "beat_index": 48,
+      "start_s": 178.5,
+      "end_s": 181.89,
+      "duration_s": 3.39,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "it will not load for a screenshot, so we verified the numbers by reading",
+      "move": "in"
+    },
+    {
+      "beat_index": 49,
+      "start_s": 181.89,
+      "end_s": 185.25,
+      "duration_s": 3.36,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "it directly. The pricing page and the CVE entry captured",
+      "move": "out"
+    },
+    {
+      "beat_index": 50,
+      "start_s": 185.25,
+      "end_s": 189.51,
+      "duration_s": 4.26,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "clean. First, the benchmark math, per the announcement. ExploitGym",
+      "move": "left"
+    },
+    {
+      "beat_index": 51,
+      "start_s": 189.51,
+      "end_s": 192.96,
+      "duration_s": 3.45,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "is OpenAI's own simulated-attack environment. Cyber beats",
+      "move": "right"
+    },
+    {
+      "beat_index": 52,
+      "start_s": 192.96,
+      "end_s": 196.48,
+      "duration_s": 3.52,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "both Sol and the previous cyber model on completion rate, success",
+      "move": "in"
+    },
+    {
+      "beat_index": 53,
+      "start_s": 196.48,
+      "end_s": 200.65,
+      "duration_s": 4.17,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "rate, and average success. On their zero-day finding evaluation,",
+      "move": "out"
+    },
+    {
+      "beat_index": 54,
+      "start_s": 200.65,
+      "end_s": 204.12,
+      "duration_s": 3.47,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "it lands higher severity findings with better calibration than either",
+      "move": "left"
+    },
+    {
+      "beat_index": 55,
+      "start_s": 204.12,
+      "end_s": 207.58,
+      "duration_s": 3.46,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "baseline. Second, the price. On OpenAI's model",
+      "move": "right"
+    },
+    {
+      "beat_index": 56,
+      "start_s": 207.58,
+      "end_s": 211.01,
+      "duration_s": 3.43,
+      "query": "Daybreak Page V8",
+      "image": "work/images/daybreak-page-v8.png",
+      "text": "page, captured today: twelve dollars fifty per million",
+      "move": "in"
+    },
+    {
+      "beat_index": 57,
+      "start_s": 211.01,
+      "end_s": 214.32,
+      "duration_s": 3.31,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "input tokens, seventy-five dollars per million output. For",
+      "move": "out"
+    },
+    {
+      "beat_index": 58,
+      "start_s": 214.32,
+      "end_s": 217.55,
+      "duration_s": 3.23,
+      "query": "Code Tool Calling",
+      "image": "work/images/code-tool-calling.png",
+      "text": "a security tool that triages zero-days, that's the cost",
+      "move": "left"
+    },
+    {
+      "beat_index": 59,
+      "start_s": 217.55,
+      "end_s": 221.1,
+      "duration_s": 3.55,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "of skipping a smoke test. If you're a security team, you'll budget",
+      "move": "right"
+    },
+    {
+      "beat_index": 60,
+      "start_s": 221.1,
+      "end_s": 224.39,
+      "duration_s": 3.29,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "this against what a real breach costs. If you want these breakdowns",
+      "move": "in"
+    },
+    {
+      "beat_index": 61,
+      "start_s": 224.39,
+      "end_s": 227.86,
+      "duration_s": 3.47,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "the day a model drops, verdict in the first three minutes, hit",
+      "move": "out"
+    },
+    {
+      "beat_index": 62,
+      "start_s": 227.86,
+      "end_s": 231.58,
+      "duration_s": 3.72,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "subscribe. Third, the Chrome finding, because it's independently",
+      "move": "left"
+    },
+    {
+      "beat_index": 63,
+      "start_s": 231.58,
+      "end_s": 235.01,
+      "duration_s": 3.43,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "checkable. On NVD, the US government vulnerability",
+      "move": "right"
+    },
+    {
+      "beat_index": 64,
+      "start_s": 235.01,
+      "end_s": 239.76,
+      "duration_s": 4.75,
+      "query": "Cve 2026 15903 V8",
+      "image": "work/images/cve-2026-15903-v8.png",
+      "text": "database, CVE-2026-15903 is a",
+      "move": "in"
+    },
+    {
+      "beat_index": 65,
+      "start_s": 239.76,
+      "end_s": 243.75,
+      "duration_s": 3.99,
+      "query": "Daybreak Page V8",
+      "image": "work/images/daybreak-page-v8.png",
+      "text": "bounds check skip in V8's JIT compiler, rated high severity,",
+      "move": "out"
+    },
+    {
+      "beat_index": 66,
+      "start_s": 243.75,
+      "end_s": 247.04,
+      "duration_s": 3.29,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "affecting Chrome versions before one-thirty-six. OpenAI",
+      "move": "left"
+    },
+    {
+      "beat_index": 67,
+      "start_s": 247.04,
+      "end_s": 250.57,
+      "duration_s": 3.53,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "reported it, Google fixed it. That's a model finding a real,",
+      "move": "right"
+    },
+    {
+      "beat_index": 68,
+      "start_s": 250.57,
+      "end_s": 253.92,
+      "duration_s": 3.35,
+      "query": "Code Agent Loop",
+      "image": "work/images/code-agent-loop.png",
+      "text": "patchable, sandbox-escape-class bug in the browser you're probably",
+      "move": "in"
+    },
+    {
+      "beat_index": 69,
+      "start_s": 253.92,
+      "end_s": 257.85,
+      "duration_s": 3.93,
+      "query": "Daybreak Page V8",
+      "image": "work/images/daybreak-page-v8.png",
+      "text": "watching this on. And the access reality, from the Daybreak page:",
+      "move": "out"
+    },
+    {
+      "beat_index": 70,
+      "start_s": 257.85,
+      "end_s": 261.62,
+      "duration_s": 3.77,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "Blue is available to Daybreak members and the general model market.",
+      "move": "left"
+    },
+    {
+      "beat_index": 71,
+      "start_s": 261.62,
+      "end_s": 265.24,
+      "duration_s": 3.62,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "Red, where Cyber lives, requires a Daybreak account, identity",
+      "move": "right"
+    },
+    {
+      "beat_index": 72,
+      "start_s": 265.24,
+      "end_s": 269.09,
+      "duration_s": 3.85,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "verification, and from September first, hardware security keys.",
+      "move": "in"
+    },
+    {
+      "beat_index": 73,
+      "start_s": 269.09,
+      "end_s": 272.78,
+      "duration_s": 3.69,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-tool-calling.png",
+      "text": "You won't get an account by paying you'll get one by proving who you are. The",
+      "move": "out"
+    },
+    {
+      "beat_index": 74,
+      "start_s": 272.78,
+      "end_s": 276.31,
+      "duration_s": 3.53,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "model answers to \"approved operators only\" and OpenAI",
+      "move": "left"
+    },
+    {
+      "beat_index": 75,
+      "start_s": 276.31,
+      "end_s": 280.24,
+      "duration_s": 3.93,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "says it verifies those operators' legal rights to attack their targets.",
+      "move": "right"
+    },
+    {
+      "beat_index": 76,
+      "start_s": 280.24,
+      "end_s": 283.83,
+      "duration_s": 3.59,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "One clarification the announcement bothered to make: OpenAI says",
+      "move": "in"
+    },
+    {
+      "beat_index": 77,
+      "start_s": 283.83,
+      "end_s": 287.07,
+      "duration_s": 3.24,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "GPT-5.6-Cyber was not involved",
+      "move": "out"
+    },
+    {
+      "beat_index": 78,
+      "start_s": 287.07,
+      "end_s": 290.49,
+      "duration_s": 3.42,
+      "query": "Code Agent Loop",
+      "image": "work/images/code-agent-loop.png",
+      "text": "in the Hugging Face incident. That's the rogue-agent breach we broke down",
+      "move": "left"
+    },
+    {
+      "beat_index": 79,
+      "start_s": 290.49,
+      "end_s": 294.26,
+      "duration_s": 3.77,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "in detail. They cleared their own model by name before anyone asked.",
+      "move": "right"
+    },
+    {
+      "beat_index": 80,
+      "start_s": 294.26,
+      "end_s": 298.13,
+      "duration_s": 3.87,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "Here's the catch I promised. The last number in OpenAI's own report:",
+      "move": "in"
+    },
+    {
+      "beat_index": 81,
+      "start_s": 298.13,
+      "end_s": 302.94,
+      "duration_s": 4.81,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "on vulnerability discovery and report writing, GPT-5.6-Cyber",
+      "move": "out"
+    },
+    {
+      "beat_index": 82,
+      "start_s": 302.94,
+      "end_s": 306.96,
+      "duration_s": 4.02,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "performs worse than plain Sol. Shorter, less detailed reports.",
+      "move": "left"
+    },
+    {
+      "beat_index": 83,
+      "start_s": 306.96,
+      "end_s": 310.47,
+      "duration_s": 3.51,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "The model that's best at breaking into systems is not the best at explaining",
+      "move": "right"
+    },
+    {
+      "beat_index": 84,
+      "start_s": 310.47,
+      "end_s": 314.08,
+      "duration_s": 3.61,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "what it found. In a discipline where the report is the deliverable, that",
+      "move": "in"
+    },
+    {
+      "beat_index": 85,
+      "start_s": 314.08,
+      "end_s": 317.47,
+      "duration_s": 3.39,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "gap matters. And the benchmark nuance OpenAI itself",
+      "move": "out"
+    },
+    {
+      "beat_index": 86,
+      "start_s": 317.47,
+      "end_s": 320.76,
+      "duration_s": 3.29,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "prints: on ExploitBench, the harder variant, Sol",
+      "move": "left"
+    },
+    {
+      "beat_index": 87,
+      "start_s": 320.76,
+      "end_s": 323.96,
+      "duration_s": 3.2,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "actually performs best and most token-efficiently at three",
+      "move": "right"
+    },
+    {
+      "beat_index": 88,
+      "start_s": 323.96,
+      "end_s": 327.33,
+      "duration_s": 3.37,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "hundred turns. Cyber only narrows the gap at six hundred",
+      "move": "in"
+    },
+    {
+      "beat_index": 89,
+      "start_s": 327.33,
+      "end_s": 330.86,
+      "duration_s": 3.53,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "turns ten minutes of agentic work per task. The headline",
+      "move": "out"
+    },
+    {
+      "beat_index": 90,
+      "start_s": 330.86,
+      "end_s": 334.47,
+      "duration_s": 3.61,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-tool-calling.png",
+      "text": "ninety-five percent is real, and it is not the whole table. Step",
+      "move": "left"
+    },
+    {
+      "beat_index": 91,
+      "start_s": 334.47,
+      "end_s": 337.85,
+      "duration_s": 3.38,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "back. The safest model OpenAI sells refuses one",
+      "move": "right"
+    },
+    {
+      "beat_index": 92,
+      "start_s": 337.85,
+      "end_s": 341.38,
+      "duration_s": 3.53,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "point five percent of attacks. The strongest one it owns completes",
+      "move": "in"
+    },
+    {
+      "beat_index": 93,
+      "start_s": 341.38,
+      "end_s": 345.29,
+      "duration_s": 3.91,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "ninety-five. Same family, same company, two weeks apart.",
+      "move": "out"
+    },
+    {
+      "beat_index": 94,
+      "start_s": 345.29,
+      "end_s": 348.88,
+      "duration_s": 3.59,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-tool-calling.png",
+      "text": "The lesson for everyone in this space: capability and caution",
+      "move": "left"
+    },
+    {
+      "beat_index": 95,
+      "start_s": 348.88,
+      "end_s": 352.25,
+      "duration_s": 3.37,
+      "query": "Model Page Pricing",
+      "image": "work/images/model-page-pricing.png",
+      "text": "are now separate products. The question isn't whether a model will say",
+      "move": "right"
+    },
+    {
+      "beat_index": 96,
+      "start_s": 352.25,
+      "end_s": 357.57,
+      "duration_s": 5.32,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "yes. It's who gets the yes. Verdict: GPT-5.6-Cyber",
+      "move": "in"
+    },
+    {
+      "beat_index": 97,
+      "start_s": 357.57,
+      "end_s": 361.2,
+      "duration_s": 3.63,
+      "query": "Openai Announcement 95Pct",
+      "image": "work/images/openai-announcement-95pct.png",
+      "text": "is the most consequential security-model release so far real",
+      "move": "out"
+    },
+    {
+      "beat_index": 98,
+      "start_s": 361.2,
+      "end_s": 364.63,
+      "duration_s": 3.43,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "zero-day work, real numbers, real restrictions. And",
+      "move": "left"
+    },
+    {
+      "beat_index": 99,
+      "start_s": 364.63,
+      "end_s": 367.86,
+      "duration_s": 3.23,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "the honest test of it isn't the ninety-five. It's the report-writing",
+      "move": "right"
+    },
+    {
+      "beat_index": 100,
+      "start_s": 367.86,
+      "end_s": 371.2,
+      "duration_s": 3.34,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-tool-calling.png",
+      "text": "score, and the wall around the door. We tracked this one the day it",
+      "move": "in"
+    },
+    {
+      "beat_index": 101,
+      "start_s": 371.2,
+      "end_s": 374.51,
+      "duration_s": 3.31,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "dropped that's what this channel is for. Subscribe so you don't",
+      "move": "out"
+    },
+    {
+      "beat_index": 102,
+      "start_s": 374.51,
+      "end_s": 378.19,
+      "duration_s": 3.68,
+      "query": "Code Agent Loop",
+      "image": "work/images/code-agent-loop.png",
+      "text": "miss the next release. Drop a comment: would you want a tool this sharp,",
+      "move": "left"
+    },
+    {
+      "beat_index": 103,
+      "start_s": 378.19,
+      "end_s": 381.58,
+      "duration_s": 3.39,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-tool-calling.png",
+      "text": "if you had to prove you deserved it? And if the Hugging Face breach is new to",
+      "move": "right"
+    },
+    {
+      "beat_index": 104,
+      "start_s": 381.58,
+      "end_s": 384.8,
+      "duration_s": 3.22,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-fast-latency.png",
+      "text": "you, the rogue-agents deep dive is linked below. We'll see",
+      "move": "in"
+    },
+    {
+      "beat_index": 105,
+      "start_s": 384.8,
+      "end_s": 385.728,
+      "duration_s": 0.93,
+      "query": "Rotational Asset Sequence",
+      "image": "work/images/code-agent-loop.png",
+      "text": "you in the next one.",
+      "move": "out"
+    }
+  ]
+}

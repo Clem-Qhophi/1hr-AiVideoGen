@@ -1,0 +1,62 @@
+[
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Frontier Competitor Shock",
+    "title": "China's New AI Just Beat OpenAI and Anthropic on Cyber (GLM-5.3)",
+    "thumb_text": "84.5% CYBER #1",
+    "accent": "red",
+    "visual_concept": "CyberGym leaderboard with GLM-5.3 in #1 place above Mythos 5 and GPT-5.6 Sol with 2-week catch badge",
+    "evaluation": {
+      "total_score": 96,
+      "breakdown": {
+        "curiosity_gap": 22,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 9
+      },
+      "pass_90": true
+    }
+  },
+  {
+    "archetype": "david-vs-goliath",
+    "archetype_name": "Hardware Sovereignty / Huawei Ascend Leap",
+    "title": "Zero NVIDIA Chips: China Just Dropped a 743B Coding Giant",
+    "thumb_text": "NO NVIDIA",
+    "accent": "green",
+    "visual_concept": "66.9% DeepSWE coding score badge with Huawei Ascend NPU cluster backdrop and 1M context label",
+    "evaluation": {
+      "total_score": 92,
+      "breakdown": {
+        "curiosity_gap": 20,
+        "emotional_stakes": 18,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 9
+      },
+      "pass_90": true
+    }
+  },
+  {
+    "archetype": "fine-print-catch",
+    "archetype_name": "The Uncomfortable Truth / The Honest Catch",
+    "title": "GLM-5.3 is Here... But There is a 2-Week Trap You Must Know",
+    "thumb_text": "THE 2-WEEK CATCH",
+    "accent": "amber",
+    "visual_concept": "Official Z.ai model card with glowing warning pill and 54.4% exploit synthesis caveat",
+    "evaluation": {
+      "total_score": 90,
+      "breakdown": {
+        "curiosity_gap": 24,
+        "emotional_stakes": 17,
+        "glanceability": 19,
+        "visual_metaphor": 12,
+        "title_thumb_synergy": 9,
+        "entity_velocity": 9
+      },
+      "pass_90": true
+    }
+  }
+]

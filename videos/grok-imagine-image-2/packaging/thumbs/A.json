@@ -1,0 +1,32 @@
+{
+  "engine": "remotion-still",
+  "composition": "GIIThumbA",
+  "props": {
+    "headline": "#2 IN THE WORLD",
+    "emphasis": "PROVISIONAL",
+    "kicker": "GROK IMAGINE 2.0",
+    "sub": null,
+    "badge": "LMArena",
+    "accent": "pop",
+    "variant": "photo",
+    "image": "thumbs/001-artificial-intelligence-digital-art-scre-1.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "left",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": null,
+    "faceAt": null,
+    "faceFocus": null,
+    "faceCutout": false
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\GIIThumbA.tsx"
+}

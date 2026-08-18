@@ -1,0 +1,42 @@
+[
+ {
+  "name": "wapo-headline",
+  "file": "wapo-headline.png",
+  "url": "https://www.washingtonpost.com/technology/2026/07/21/openais-latest-ai-agent-escaped-security-controls-hacked-tech-company/",
+  "source": "Washington Post, Jul 21 2026",
+  "selector": null,
+  "captured_at": "2026-07-30T17:06:05"
+ },
+ {
+  "name": "cbs-headline",
+  "file": "cbs-headline.png",
+  "url": "https://www.cbsnews.com/news/openai-technology-on-its-own-unprecedented-hack-another-ai-company-hugging-face/",
+  "source": "CBS News, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-30T17:06:35"
+ },
+ {
+  "name": "hackernews-technical",
+  "file": "hackernews-technical.png",
+  "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+  "source": "The Hacker News, Jul 22 2026",
+  "selector": null,
+  "captured_at": "2026-07-30T17:06:47"
+ },
+ {
+  "name": "willison-analysis",
+  "file": "willison-analysis.png",
+  "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+  "source": "Simon Willison, Jul 22 2026",
+  "selector": null,
+  "captured_at": "2026-07-30T17:06:57"
+ },
+ {
+  "name": "npr-headline",
+  "file": "npr-headline.png",
+  "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
+  "source": "NPR, Jul 23 2026",
+  "selector": null,
+  "captured_at": "2026-07-30T17:07:11"
+ }
+]

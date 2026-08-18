@@ -1,0 +1,26 @@
+[
+ {
+  "name": "pacing-frontier-letter",
+  "file": "pacing-frontier-letter.png",
+  "url": "https://www.pacingthefrontier.com/",
+  "source": "pacingthefrontier.com, Jul 28 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T06:37:31"
+ },
+ {
+  "name": "kill-switch-act-ars",
+  "file": "kill-switch-act-ars.png",
+  "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+  "source": "Ars Technica, Jul 23 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T06:38:08"
+ },
+ {
+  "name": "white-house-meeting-nbc",
+  "file": "white-house-meeting-nbc.png",
+  "url": "https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727",
+  "source": "NBC News, Jul 28 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T06:38:09"
+ }
+]

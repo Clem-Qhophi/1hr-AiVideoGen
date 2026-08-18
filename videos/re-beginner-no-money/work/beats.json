@@ -1,0 +1,946 @@
+{
+ "niche": "real-estate",
+ "output": {
+  "w": 1920,
+  "h": 1080,
+  "fps": 30,
+  "out": "output/re-beginner-no-money-visuals.mp4"
+ },
+ "audio": "work/audio/voiceover.mp3",
+ "beats": [
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-0.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 0.0,
+   "end_s": 6.23,
+   "move": "auto",
+   "cue": "Zero dollars.  That is what some people put down to start in real estate. Not five percent. Not three. Zero.  "
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 6.23,
+   "end_s": 10.36,
+   "move": "auto",
+   "cue": "Zero dollars.  That is what some people put down to start in real estate. Not five percent. Not three. Zero.  "
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-1.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 10.36,
+   "end_s": 14.48,
+   "move": "auto",
+   "cue": "Zero dollars.  That is what some people put down to start in real estate. Not five percent. Not three. Zero.  "
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 14.48,
+   "end_s": 19.68,
+   "move": "auto",
+   "cue": "Zero dollars.  That is what some people put down to start in real estate. Not five percent. Not three. Zero.  "
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 19.68,
+   "end_s": 23.72,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "work\\images\\003-open-house-0.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 23.72,
+   "end_s": 27.76,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 27.76,
+   "end_s": 31.8,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "work\\images\\003-open-house-1.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 31.8,
+   "end_s": 35.84,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 35.84,
+   "end_s": 39.88,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "work\\images\\003-open-house-0.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 39.88,
+   "end_s": 43.92,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 43.92,
+   "end_s": 47.96,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "work\\images\\003-open-house-1.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 47.96,
+   "end_s": 52.0,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 52.0,
+   "end_s": 56.04,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "work\\images\\003-open-house-0.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 56.04,
+   "end_s": 61.24,
+   "move": "auto",
+   "cue": "There are five real ways to start. I am going to show you all five.  Some need a small check. Some need almost"
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\nar-first-time-buyers.png",
+   "image_query": "EVIDENCE-nar-first-time-buyers",
+   "image_prompt": "EVIDENCE-nar-first-time-buyers, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 61.24,
+   "end_s": 69.69,
+   "move": "none",
+   "cue": "Here is why this actually matters right now.  First-time buyers just fell to twenty one percent of the market.",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\nar-first-time-buyers.png",
+   "image_query": "EVIDENCE-nar-first-time-buyers",
+   "image_prompt": "EVIDENCE-nar-first-time-buyers, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 69.69,
+   "end_s": 79.23,
+   "move": "none",
+   "cue": "Here is why this actually matters right now.  First-time buyers just fell to twenty one percent of the market.",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\005-moving-boxes-living-room-0.jpg",
+   "image_query": "moving boxes living room",
+   "image_prompt": "moving boxes living room, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 79.23,
+   "end_s": 86.11,
+   "move": "auto",
+   "cue": "Most beginners freeze at the same spot. They hear \"twenty percent down\" and assume the whole thing is out of r"
+  },
+  {
+   "image": "work\\images\\006-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 86.11,
+   "end_s": 93.99,
+   "move": "auto",
+   "cue": "Most beginners freeze at the same spot. They hear \"twenty percent down\" and assume the whole thing is out of r"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 93.99,
+   "end_s": 101.03,
+   "move": "auto",
+   "cue": "Here is what should bother you. That twenty percent number is mostly a myth.  It is the down payment for one k"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-0.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 101.03,
+   "end_s": 108.08,
+   "move": "auto",
+   "cue": "Here is what should bother you. That twenty percent number is mostly a myth.  It is the down payment for one k"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 108.08,
+   "end_s": 115.12,
+   "move": "auto",
+   "cue": "Here is what should bother you. That twenty percent number is mostly a myth.  It is the down payment for one k"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-1.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 115.12,
+   "end_s": 123.24,
+   "move": "auto",
+   "cue": "Here is what should bother you. That twenty percent number is mostly a myth.  It is the down payment for one k"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 123.24,
+   "end_s": 131.18,
+   "move": "auto",
+   "cue": "So let's go through the five real paths in. How each one actually works, starting with the one that needs the "
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\va-zero-down.png",
+   "image_query": "EVIDENCE-va-zero-down",
+   "image_prompt": "EVIDENCE-va-zero-down, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 131.18,
+   "end_s": 138.68,
+   "move": "none",
+   "cue": "Path one. A government-backed loan.  The FHA will back a loan at three and a half percent down, per the Consum",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\va-zero-down.png",
+   "image_query": "EVIDENCE-va-zero-down",
+   "image_prompt": "EVIDENCE-va-zero-down, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 138.68,
+   "end_s": 146.19,
+   "move": "none",
+   "cue": "Path one. A government-backed loan.  The FHA will back a loan at three and a half percent down, per the Consum",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\va-zero-down.png",
+   "image_query": "EVIDENCE-va-zero-down",
+   "image_prompt": "EVIDENCE-va-zero-down, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 146.19,
+   "end_s": 153.7,
+   "move": "none",
+   "cue": "Path one. A government-backed loan.  The FHA will back a loan at three and a half percent down, per the Consum",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\va-zero-down.png",
+   "image_query": "EVIDENCE-va-zero-down",
+   "image_prompt": "EVIDENCE-va-zero-down, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 153.7,
+   "end_s": 161.2,
+   "move": "none",
+   "cue": "Path one. A government-backed loan.  The FHA will back a loan at three and a half percent down, per the Consum",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\va-zero-down.png",
+   "image_query": "EVIDENCE-va-zero-down",
+   "image_prompt": "EVIDENCE-va-zero-down, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 161.2,
+   "end_s": 169.81,
+   "move": "none",
+   "cue": "Path one. A government-backed loan.  The FHA will back a loan at three and a half percent down, per the Consum",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/loan-downpayments.png",
+   "image_query": "card-loan-downpayments",
+   "image_prompt": "card-loan-downpayments, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 169.81,
+   "end_s": 175.25,
+   "move": "none",
+   "cue": "Same house. Three completely different price tags to walk in the door.",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 175.25,
+   "end_s": 182.78,
+   "move": "auto",
+   "cue": "Path two. House hacking.  Here is the trick almost nobody explains. Those same low-down-payment loans do not o"
+  },
+  {
+   "image": "work\\images\\005-moving-boxes-living-room-1.jpg",
+   "image_query": "moving boxes living room",
+   "image_prompt": "moving boxes living room, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 182.78,
+   "end_s": 190.3,
+   "move": "auto",
+   "cue": "Path two. House hacking.  Here is the trick almost nobody explains. Those same low-down-payment loans do not o"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 190.3,
+   "end_s": 197.83,
+   "move": "auto",
+   "cue": "Path two. House hacking.  Here is the trick almost nobody explains. Those same low-down-payment loans do not o"
+  },
+  {
+   "image": "work\\images\\005-moving-boxes-living-room-0.jpg",
+   "image_query": "moving boxes living room",
+   "image_prompt": "moving boxes living room, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 197.83,
+   "end_s": 205.36,
+   "move": "auto",
+   "cue": "Path two. House hacking.  Here is the trick almost nobody explains. Those same low-down-payment loans do not o"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 205.36,
+   "end_s": 212.89,
+   "move": "auto",
+   "cue": "Path two. House hacking.  Here is the trick almost nobody explains. Those same low-down-payment loans do not o"
+  },
+  {
+   "image": "work\\images\\005-moving-boxes-living-room-1.jpg",
+   "image_query": "moving boxes living room",
+   "image_prompt": "moving boxes living room, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 212.89,
+   "end_s": 221.47,
+   "move": "auto",
+   "cue": "Path two. House hacking.  Here is the trick almost nobody explains. Those same low-down-payment loans do not o"
+  },
+  {
+   "image": "work\\images\\009-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 221.47,
+   "end_s": 228.78,
+   "move": "auto",
+   "cue": "Path three. Seller financing.  This one skips the bank completely. The seller becomes the lender. You pay them"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 228.78,
+   "end_s": 236.08,
+   "move": "auto",
+   "cue": "Path three. Seller financing.  This one skips the bank completely. The seller becomes the lender. You pay them"
+  },
+  {
+   "image": "work\\images\\009-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 236.08,
+   "end_s": 243.38,
+   "move": "auto",
+   "cue": "Path three. Seller financing.  This one skips the bank completely. The seller becomes the lender. You pay them"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 243.38,
+   "end_s": 250.68,
+   "move": "auto",
+   "cue": "Path three. Seller financing.  This one skips the bank completely. The seller becomes the lender. You pay them"
+  },
+  {
+   "image": "work\\images\\010-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 250.68,
+   "end_s": 257.99,
+   "move": "auto",
+   "cue": "Path three. Seller financing.  This one skips the bank completely. The seller becomes the lender. You pay them"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 257.99,
+   "end_s": 266.2,
+   "move": "auto",
+   "cue": "Path three. Seller financing.  This one skips the bank completely. The seller becomes the lender. You pay them"
+  },
+  {
+   "image": "work\\images\\010-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 266.2,
+   "end_s": 272.82,
+   "move": "auto",
+   "cue": "Path four. Wholesaling. This is the one that does not even require you to buy a house.  You put a property und"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 272.82,
+   "end_s": 279.43,
+   "move": "auto",
+   "cue": "Path four. Wholesaling. This is the one that does not even require you to buy a house.  You put a property und"
+  },
+  {
+   "image": "work\\images\\009-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 279.43,
+   "end_s": 286.04,
+   "move": "auto",
+   "cue": "Path four. Wholesaling. This is the one that does not even require you to buy a house.  You put a property und"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 286.04,
+   "end_s": 292.65,
+   "move": "auto",
+   "cue": "Path four. Wholesaling. This is the one that does not even require you to buy a house.  You put a property und"
+  },
+  {
+   "image": "work\\images\\009-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 292.65,
+   "end_s": 300.32,
+   "move": "auto",
+   "cue": "Path four. Wholesaling. This is the one that does not even require you to buy a house.  You put a property und"
+  },
+  {
+   "image": "work/cards/wholesale-fee.png",
+   "image_query": "card-wholesale-fee",
+   "image_prompt": "card-wholesale-fee, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 300.32,
+   "end_s": 306.89,
+   "move": "none",
+   "cue": "Per a survey of over a thousand wholesalers cited by RealEstateSkills, the average fee runs around thirteen th",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/wholesale-fee.png",
+   "image_query": "card-wholesale-fee",
+   "image_prompt": "card-wholesale-fee, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 306.89,
+   "end_s": 313.45,
+   "move": "none",
+   "cue": "Per a survey of over a thousand wholesalers cited by RealEstateSkills, the average fee runs around thirteen th",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/wholesale-fee.png",
+   "image_query": "card-wholesale-fee",
+   "image_prompt": "card-wholesale-fee, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 313.45,
+   "end_s": 320.02,
+   "move": "none",
+   "cue": "Per a survey of over a thousand wholesalers cited by RealEstateSkills, the average fee runs around thirteen th",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/wholesale-fee.png",
+   "image_query": "card-wholesale-fee",
+   "image_prompt": "card-wholesale-fee, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 320.02,
+   "end_s": 327.78,
+   "move": "none",
+   "cue": "Per a survey of over a thousand wholesalers cited by RealEstateSkills, the average fee runs around thirteen th",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\reit-one-share.png",
+   "image_query": "EVIDENCE-reit-one-share",
+   "image_prompt": "EVIDENCE-reit-one-share, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 327.78,
+   "end_s": 334.71,
+   "move": "none",
+   "cue": "And path five, the smallest door of all.  You do not have to buy property to invest in property. A REIT is a c",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\reit-one-share.png",
+   "image_query": "EVIDENCE-reit-one-share",
+   "image_prompt": "EVIDENCE-reit-one-share, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 334.71,
+   "end_s": 341.64,
+   "move": "none",
+   "cue": "And path five, the smallest door of all.  You do not have to buy property to invest in property. A REIT is a c",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\reit-one-share.png",
+   "image_query": "EVIDENCE-reit-one-share",
+   "image_prompt": "EVIDENCE-reit-one-share, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 341.64,
+   "end_s": 348.57,
+   "move": "none",
+   "cue": "And path five, the smallest door of all.  You do not have to buy property to invest in property. A REIT is a c",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\reit-one-share.png",
+   "image_query": "EVIDENCE-reit-one-share",
+   "image_prompt": "EVIDENCE-reit-one-share, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 348.57,
+   "end_s": 355.5,
+   "move": "none",
+   "cue": "And path five, the smallest door of all.  You do not have to buy property to invest in property. A REIT is a c",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\reit-one-share.png",
+   "image_query": "EVIDENCE-reit-one-share",
+   "image_prompt": "EVIDENCE-reit-one-share, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 355.5,
+   "end_s": 362.43,
+   "move": "none",
+   "cue": "And path five, the smallest door of all.  You do not have to buy property to invest in property. A REIT is a c",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\reit-one-share.png",
+   "image_query": "EVIDENCE-reit-one-share",
+   "image_prompt": "EVIDENCE-reit-one-share, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 362.43,
+   "end_s": 370.44,
+   "move": "none",
+   "cue": "And path five, the smallest door of all.  You do not have to buy property to invest in property. A REIT is a c",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\010-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 370.44,
+   "end_s": 377.09,
+   "move": "auto",
+   "cue": "Now the catch. Because two of those five paths deserve a serious warning.  Wholesaling's legal rules are not t"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 377.09,
+   "end_s": 383.73,
+   "move": "auto",
+   "cue": "Now the catch. Because two of those five paths deserve a serious warning.  Wholesaling's legal rules are not t"
+  },
+  {
+   "image": "work\\images\\010-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 383.73,
+   "end_s": 390.37,
+   "move": "auto",
+   "cue": "Now the catch. Because two of those five paths deserve a serious warning.  Wholesaling's legal rules are not t"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 390.37,
+   "end_s": 397.01,
+   "move": "auto",
+   "cue": "Now the catch. Because two of those five paths deserve a serious warning.  Wholesaling's legal rules are not t"
+  },
+  {
+   "image": "work\\images\\009-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 397.01,
+   "end_s": 403.65,
+   "move": "auto",
+   "cue": "Now the catch. Because two of those five paths deserve a serious warning.  Wholesaling's legal rules are not t"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 403.65,
+   "end_s": 411.35,
+   "move": "auto",
+   "cue": "Now the catch. Because two of those five paths deserve a serious warning.  Wholesaling's legal rules are not t"
+  },
+  {
+   "image": "work\\images\\006-residential-street-1.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 411.35,
+   "end_s": 417.89,
+   "move": "auto",
+   "cue": "Second warning. This is the catch I promised you, and it applies to every no-money-down path, not just wholesa"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 417.89,
+   "end_s": 424.43,
+   "move": "auto",
+   "cue": "Second warning. This is the catch I promised you, and it applies to every no-money-down path, not just wholesa"
+  },
+  {
+   "image": "work\\images\\006-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 424.43,
+   "end_s": 430.98,
+   "move": "auto",
+   "cue": "Second warning. This is the catch I promised you, and it applies to every no-money-down path, not just wholesa"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 430.98,
+   "end_s": 437.52,
+   "move": "auto",
+   "cue": "Second warning. This is the catch I promised you, and it applies to every no-money-down path, not just wholesa"
+  },
+  {
+   "image": "work\\images\\006-residential-street-1.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 437.52,
+   "end_s": 445.2,
+   "move": "auto",
+   "cue": "Second warning. This is the catch I promised you, and it applies to every no-money-down path, not just wholesa"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 445.2,
+   "end_s": 450.6,
+   "move": "auto",
+   "cue": "Third. Buying a home is not automatically a win, even done right."
+  },
+  {
+   "image": "work/cards/homeowner-regret.png",
+   "image_query": "card-homeowner-regret",
+   "image_prompt": "card-homeowner-regret, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 450.6,
+   "end_s": 457.07,
+   "move": "none",
+   "cue": "Per a Bankrate survey, forty five percent of homeowners report at least one regret about their purchase. Almos",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/homeowner-regret.png",
+   "image_query": "card-homeowner-regret",
+   "image_prompt": "card-homeowner-regret, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 457.07,
+   "end_s": 463.55,
+   "move": "none",
+   "cue": "Per a Bankrate survey, forty five percent of homeowners report at least one regret about their purchase. Almos",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/homeowner-regret.png",
+   "image_query": "card-homeowner-regret",
+   "image_prompt": "card-homeowner-regret, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 463.55,
+   "end_s": 470.03,
+   "move": "none",
+   "cue": "Per a Bankrate survey, forty five percent of homeowners report at least one regret about their purchase. Almos",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/homeowner-regret.png",
+   "image_query": "card-homeowner-regret",
+   "image_prompt": "card-homeowner-regret, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 470.03,
+   "end_s": 477.66,
+   "move": "none",
+   "cue": "Per a Bankrate survey, forty five percent of homeowners report at least one regret about their purchase. Almos",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\009-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 477.66,
+   "end_s": 485.36,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how these paths work. It is"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 485.36,
+   "end_s": 493.06,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how these paths work. It is"
+  },
+  {
+   "image": "work\\images\\010-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 493.06,
+   "end_s": 501.84,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how these paths work. It is"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 501.84,
+   "end_s": 508.83,
+   "move": "auto",
+   "cue": "So here is exactly what to do this week. Five things. None of them require a big check.  One. Check your own c"
+  },
+  {
+   "image": "work\\images\\010-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 508.83,
+   "end_s": 515.81,
+   "move": "auto",
+   "cue": "So here is exactly what to do this week. Five things. None of them require a big check.  One. Check your own c"
+  },
+  {
+   "image": "work\\images\\007-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 515.81,
+   "end_s": 523.89,
+   "move": "auto",
+   "cue": "So here is exactly what to do this week. Five things. None of them require a big check.  One. Check your own c"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 523.89,
+   "end_s": 530.85,
+   "move": "auto",
+   "cue": "Two. Get pre-approved by one lender, even if you are months away.  It is free. It turns \"twenty percent down\" "
+  },
+  {
+   "image": "work\\images\\003-open-house-1.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 530.85,
+   "end_s": 538.81,
+   "move": "auto",
+   "cue": "Two. Get pre-approved by one lender, even if you are months away.  It is free. It turns \"twenty percent down\" "
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 538.81,
+   "end_s": 546.81,
+   "move": "auto",
+   "cue": "Three. If house hacking interests you, ask a lender specifically about owner-occupant loans on two-to-four-uni"
+  },
+  {
+   "image": "work\\images\\006-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 546.81,
+   "end_s": 554.8,
+   "move": "auto",
+   "cue": "Three. If house hacking interests you, ask a lender specifically about owner-occupant loans on two-to-four-uni"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 554.8,
+   "end_s": 563.86,
+   "move": "auto",
+   "cue": "Three. If house hacking interests you, ask a lender specifically about owner-occupant loans on two-to-four-uni"
+  },
+  {
+   "image": "work\\images\\011-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 563.86,
+   "end_s": 569.39,
+   "move": "auto",
+   "cue": "Four. Before you count on rental income from anyone, build in a gap."
+  },
+  {
+   "image": "work/cards/vacancy-rate.png",
+   "image_query": "card-vacancy-rate",
+   "image_prompt": "card-vacancy-rate, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 569.39,
+   "end_s": 575.73,
+   "move": "none",
+   "cue": "The national rental vacancy rate runs about seven percent, per Census Bureau data. That is roughly one month a",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/vacancy-rate.png",
+   "image_query": "card-vacancy-rate",
+   "image_prompt": "card-vacancy-rate, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 575.73,
+   "end_s": 583.2,
+   "move": "none",
+   "cue": "The national rental vacancy rate runs about seven percent, per Census Bureau data. That is roughly one month a",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/repair-reserve.png",
+   "image_query": "card-repair-reserve",
+   "image_prompt": "card-repair-reserve, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 583.2,
+   "end_s": 590.77,
+   "move": "none",
+   "cue": "Five. Keep a real repair reserve, separate from your down payment.  Redfin recommends new landlords keep at le",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/repair-reserve.png",
+   "image_query": "card-repair-reserve",
+   "image_prompt": "card-repair-reserve, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 590.77,
+   "end_s": 599.5,
+   "move": "none",
+   "cue": "Five. Keep a real repair reserve, separate from your down payment.  Redfin recommends new landlords keep at le",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\reit-one-share.png",
+   "image_query": "EVIDENCE-reit-one-share",
+   "image_prompt": "EVIDENCE-reit-one-share, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 599.5,
+   "end_s": 606.23,
+   "move": "none",
+   "cue": "And if none of the first four feel ready yet, open a brokerage account and buy exactly one REIT share this wee",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\reit-one-share.png",
+   "image_query": "EVIDENCE-reit-one-share",
+   "image_prompt": "EVIDENCE-reit-one-share, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 606.23,
+   "end_s": 612.95,
+   "move": "none",
+   "cue": "And if none of the first four feel ready yet, open a brokerage account and buy exactly one REIT share this wee",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\reit-one-share.png",
+   "image_query": "EVIDENCE-reit-one-share",
+   "image_prompt": "EVIDENCE-reit-one-share, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 612.95,
+   "end_s": 620.78,
+   "move": "none",
+   "cue": "And if none of the first four feel ready yet, open a brokerage account and buy exactly one REIT share this wee",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\va-zero-down.png",
+   "image_query": "EVIDENCE-va-zero-down",
+   "image_prompt": "EVIDENCE-va-zero-down, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 620.78,
+   "end_s": 628.18,
+   "move": "none",
+   "cue": "So, quickly, the five doors in.  A government-backed loan, as low as zero to three and a half percent down. Ho",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\va-zero-down.png",
+   "image_query": "EVIDENCE-va-zero-down",
+   "image_prompt": "EVIDENCE-va-zero-down, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 628.18,
+   "end_s": 635.59,
+   "move": "none",
+   "cue": "So, quickly, the five doors in.  A government-backed loan, as low as zero to three and a half percent down. Ho",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\va-zero-down.png",
+   "image_query": "EVIDENCE-va-zero-down",
+   "image_prompt": "EVIDENCE-va-zero-down, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 635.59,
+   "end_s": 644.23,
+   "move": "none",
+   "cue": "So, quickly, the five doors in.  A government-backed loan, as low as zero to three and a half percent down. Ho",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-beginner-no-money\\evidence\\nar-first-time-buyers.png",
+   "image_query": "EVIDENCE-nar-first-time-buyers",
+   "image_prompt": "EVIDENCE-nar-first-time-buyers, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 644.23,
+   "end_s": 652.43,
+   "move": "none",
+   "cue": "Five very different amounts of cash to start. All of them real. None of them a shortcut around the actual risk",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 652.43,
+   "end_s": 659.1,
+   "move": "auto",
+   "cue": "Knowing every real door in helps more than knowing just the one your uncle used. That is useful before you mak"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-0.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 659.1,
+   "end_s": 665.77,
+   "move": "auto",
+   "cue": "Knowing every real door in helps more than knowing just the one your uncle used. That is useful before you mak"
+  },
+  {
+   "image": "work\\images\\002-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 665.77,
+   "end_s": 672.43,
+   "move": "auto",
+   "cue": "Knowing every real door in helps more than knowing just the one your uncle used. That is useful before you mak"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-1.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 672.43,
+   "end_s": 680.2,
+   "move": "auto",
+   "cue": "Knowing every real door in helps more than knowing just the one your uncle used. That is useful before you mak"
+  },
+  {
+   "image": "work/cards/close-recap.png",
+   "image_query": "card-close-recap",
+   "image_prompt": "card-close-recap, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 680.2,
+   "end_s": 682.48,
+   "move": "none",
+   "cue": "See you in the next one.",
+   "is_card": true
+  }
+ ]
+}

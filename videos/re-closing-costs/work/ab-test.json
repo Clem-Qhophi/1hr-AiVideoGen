@@ -1,0 +1,29 @@
+{
+  "_note": "A/B packaging test record. Started MANUALLY in desktop YouTube Studio — the API has no A/B endpoint. Winner is decided by WATCH TIME, not CTR.",
+  "project": "videos/re-closing-costs",
+  "niche": "real-estate",
+  "dimension": "thumbnail",
+  "fixed_title": "Closing Costs Fell 2.9% in 2025 — Except in Delaware",
+  "created": "2026-08-03",
+  "bets": [
+    {
+      "slot": "a",
+      "asset": "packaging/thumbs/A.jpg",
+      "lever": "number-lead-am-i-being-cheated",
+      "is_first_uploaded": true
+    },
+    {
+      "slot": "b",
+      "asset": "packaging/thumbs/B.jpg",
+      "lever": "value-contrast-zero-vs-2.5pct",
+      "is_first_uploaded": false
+    },
+    {
+      "slot": "c",
+      "asset": "packaging/thumbs/C.jpg",
+      "lever": "news-counterintuitive-down-but-priciest",
+      "is_first_uploaded": false
+    }
+  ],
+  "result": null
+}

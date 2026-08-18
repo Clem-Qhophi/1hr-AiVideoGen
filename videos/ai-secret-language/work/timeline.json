@@ -1,0 +1,23 @@
+{
+  "master": "videos/ai-secret-language/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "ASLHook", "type": "cutaway", "master_in_s": 0, "master_out_s": 21 },
+    { "id": "EvidenceGibberlink", "type": "cutaway", "master_in_s": 21, "master_out_s": 49 },
+    { "id": "EvidenceGitHub", "type": "cutaway", "master_in_s": 49, "master_out_s": 67 },
+    { "id": "EvidenceMoltbook", "type": "cutaway", "master_in_s": 67, "master_out_s": 99 },
+    { "id": "EvidenceCollusion", "type": "cutaway", "master_in_s": 99, "master_out_s": 125 },
+    { "id": "StatCards", "type": "cutaway", "master_in_s": 125, "master_out_s": 147 },
+    { "id": "EvidenceCyber", "type": "cutaway", "master_in_s": 147, "master_out_s": 177 },
+    { "id": "HonestGap", "type": "cutaway", "master_in_s": 177, "master_out_s": 201 },
+    { "id": "CloseCTA-ai-secret-language", "type": "cutaway", "master_in_s": 201, "master_out_s": 423 }
+  ],
+  "preview": {
+    "end_s": 423.3,
+    "out": "videos/ai-secret-language/output/ai-secret-language-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

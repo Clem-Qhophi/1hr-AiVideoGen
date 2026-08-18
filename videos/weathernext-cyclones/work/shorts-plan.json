@@ -1,0 +1,56 @@
+{
+  "clips": [
+    {
+      "id": "01",
+      "start": 0.128,
+      "end": 64.251,
+      "hook_text": "5 days warning. It was right.",
+      "title": "Hurricane Melissa Was Predicted 5 Days Early By AI",
+      "description": "An AI model saw Category 5 Melissa coming 5 days out. Full verdict + the receipts, linked above. #Shorts #AInews #hurricane",
+      "tags": ["shorts", "ai news", "hurricane melissa", "weather ai", "google deepmind"]
+    },
+    {
+      "id": "02",
+      "segments": [
+        {"start": 0.128, "end": 29.0},
+        {"start": 312.464, "end": 348.094}
+      ],
+      "loop": true,
+      "hook_text": "Nobody knows why this works.",
+      "title": "The AI Weather Model Even Its Creators Don't Understand",
+      "description": "The paper's own authors say they don't know why it works at this resolution. Full verdict linked above. #Shorts #AInews #artificialintelligence",
+      "tags": ["shorts", "ai news", "google deepmind", "machine learning", "weathernext"]
+    },
+    {
+      "id": "03",
+      "start": 64.636,
+      "end": 128.4,
+      "hook_text": "A weak storm. A Cat 5 call. Right.",
+      "title": "The Forecast That Shouldn't Have Been Possible",
+      "description": "The National Hurricane Center's own report names this AI the top-performing model on Hurricane Melissa. Full verdict linked above. #Shorts #hurricane #AInews",
+      "tags": ["shorts", "hurricane forecast", "ai news", "nhc", "google deepmind"]
+    },
+    {
+      "id": "04",
+      "start": 157.034,
+      "end": 223.155,
+      "hook_text": "Independently verified. It beat the pros.",
+      "title": "Official Forecasters Got Beat By This AI",
+      "description": "Not a lab benchmark — the NHC's own independent report. Full verdict linked above. #Shorts #AInews #hurricane",
+      "tags": ["shorts", "ai news", "nhc", "hurricane forecast", "weather ai"]
+    },
+    {
+      "id": "05",
+      "segments": [
+        {"start": 128.462, "end": 153.934},
+        {"start": 302.896, "end": 305.449},
+        {"start": 360.351, "end": 399.214}
+      ],
+      "loop": true,
+      "hook_text": "It's free. Any country can use it.",
+      "title": "This AI Weather Model Is Free For Any Country",
+      "description": "Code, weights, and a free Colab notebook version. Full verdict linked above. #Shorts #AInews #opensource",
+      "tags": ["shorts", "ai news", "open source ai", "weather ai", "google deepmind"]
+    }
+  ]
+}

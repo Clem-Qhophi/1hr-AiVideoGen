@@ -1,0 +1,50 @@
+{
+  "source": "videos/muse-glimmer-open-weights/output/muse-glimmer-open-weights-music-MASTER.mp4",
+  "clips": [
+    {
+      "id": "01",
+      "segments": [
+        {"start": 15.585, "end": 37.181},
+        {"start": 250.924, "end": 278.027},
+        {"start": 278.574, "end": 300.919}
+      ],
+      "hook_text": "META WINS MOST. QWEN WINS THE REAL ONES.",
+      "title": "Meta's Free AI Loses to Qwen on These Benchmarks",
+      "description": "Full breakdown: https://youtu.be/MD1ZO_lDnHM\n\nMeta's new open model wins most agent benchmarks — but Qwen still takes GDPVal, OSWorld and SWE-Bench Verified. The honest read, in 60 seconds. #Shorts #MetaAI #Qwen #OpenSource",
+      "tags": ["shorts", "ai news", "meta ai", "muse glimmer", "qwen", "benchmarks", "open source ai", "ai agent"]
+    },
+    {
+      "id": "02",
+      "segments": [
+        {"start": 37.631, "end": 82.022},
+        {"start": 194.338, "end": 204.945},
+        {"start": 316.234, "end": 333.149}
+      ],
+      "hook_text": "META BROKE ITS PROMISE TO OPEN SOURCE",
+      "title": "Meta Broke Its Open-Source Promise. Then It Delivered",
+      "description": "Full breakdown: https://youtu.be/MD1ZO_lDnHM\n\nWhen Meta closed Spark's weights, the community said \"show us the weights.\" Four months later, Muse Glimmer shipped under Apache 2.0. #Shorts #MetaAI #OpenSource #MuseGlimmer",
+      "tags": ["shorts", "ai news", "meta ai", "open source", "muse spark", "muse glimmer", "apache 2.0"]
+    },
+    {
+      "id": "03",
+      "start": 82.504,
+      "end": 144.924,
+      "hook_text": "ONE GPU. 233 TOKENS/SEC. ZERO FEES.",
+      "title": "Meta's Free AI Agent Runs on One GPU — 233 Tokens Per Second",
+      "description": "Full breakdown: https://youtu.be/MD1ZO_lDnHM\n\n30B model. One consumer GPU. 233 tokens per second. Free, open, and your data never leaves your machine. #Shorts #MetaAI #LocalAI #MuseGlimmer",
+      "tags": ["shorts", "ai news", "meta ai", "muse glimmer", "local ai", "gpu", "open weights", "hugging face"]
+    },
+    {
+      "id": "04",
+      "segments": [
+        {"start": 163.346, "end": 204.945},
+        {"start": 205.411, "end": 211.059},
+        {"start": 211.508, "end": 226.859}
+      ],
+      "hook_text": "THE FINE PRINT ON META'S FREE MODEL",
+      "title": "The Fine Print on Meta's Free AI Agent",
+      "description": "Full breakdown: https://youtu.be/MD1ZO_lDnHM\n\n131K context, ~1% quant loss, Apache 2.0 — the model card nobody reads, and you can download it tonight. #Shorts #MetaAI #HuggingFace #OpenWeights",
+      "tags": ["shorts", "ai news", "meta ai", "muse glimmer", "hugging face", "context window", "quantization", "apache 2.0"]
+    }
+  ]
+}

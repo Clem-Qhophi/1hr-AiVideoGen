@@ -1,0 +1,32 @@
+{
+  "render": {
+    "preview": "videos/muse-glimmer-open-weights/output/muse-glimmer-open-weights-captioned.mp4",
+    "out": "videos/muse-glimmer-open-weights/output/muse-glimmer-open-weights-sfx.mp4",
+    "end_s": 388,
+    "duck": true
+  },
+  "events": [
+    { "at_s": 0.3, "sfx_id": "impact-soft", "gain_db": -3, "label": "hook open" },
+    { "at_s": 1.2, "sfx_id": "impact-deep-soft", "gain_db": -2, "label": "MUSE GLIMMER slam" },
+    { "at_s": 14.3, "sfx_id": "riser-soft", "gain_db": -6, "label": "one table tease" },
+    { "at_s": 23.4, "sfx_id": "glitch-zap", "gain_db": -4, "label": "$0 slam" },
+    { "at_s": 52.2, "sfx_id": "trap-snap", "gain_db": -5, "label": "show us the weights" },
+    { "at_s": 53.7, "sfx_id": "impact-deep-soft", "gain_db": -3, "label": "AUG 10 here they are" },
+    { "at_s": 70.4, "sfx_id": "launch-thump", "gain_db": -4, "label": "30B slam" },
+    { "at_s": 88.2, "sfx_id": "launch-thump", "gain_db": -4, "label": "55GB" },
+    { "at_s": 90.3, "sfx_id": "glitch-zap", "gain_db": -4, "label": "under 20GB" },
+    { "at_s": 104.4, "sfx_id": "warm-shimmer", "gain_db": -6, "label": "DFlash speed" },
+    { "at_s": 117.5, "sfx_id": "scan-hum", "gain_db": -6, "label": "benchmarks evidence" },
+    { "at_s": 137.5, "sfx_id": "chime-magic", "gain_db": -5, "label": "free open local" },
+    { "at_s": 165.5, "sfx_id": "scan-hum", "gain_db": -6, "label": "context window evidence" },
+    { "at_s": 183.9, "sfx_id": "pop-reveal", "gain_db": -4, "label": "~1% fine print" },
+    { "at_s": 196.8, "sfx_id": "impact-deep-soft", "gain_db": -3, "label": "APACHE 2.0" },
+    { "at_s": 208.8, "sfx_id": "impact-soft", "gain_db": -3, "label": "hit subscribe mid-roll" },
+    { "at_s": 218.5, "sfx_id": "warm-shimmer", "gain_db": -6, "label": "live on HF today" },
+    { "at_s": 240.5, "sfx_id": "trap-snap", "gain_db": -4, "label": "rogue-agent breach" },
+    { "at_s": 251.5, "sfx_id": "riser-soft", "gain_db": -6, "label": "the catch" },
+    { "at_s": 258.9, "sfx_id": "trap-snap", "gain_db": -4, "label": "Qwen wins GDPVal" },
+    { "at_s": 318.0, "sfx_id": "launch-thump", "gain_db": -3, "label": "THE WAIT ENDED" },
+    { "at_s": 340.5, "sfx_id": "impact-soft", "gain_db": -3, "label": "close" }
+  ]
+}

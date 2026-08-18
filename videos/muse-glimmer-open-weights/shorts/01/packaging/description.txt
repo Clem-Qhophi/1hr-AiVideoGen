@@ -1,0 +1,3 @@
+Full breakdown: https://youtu.be/MD1ZO_lDnHM
+
+Meta's new open model wins most agent benchmarks — but Qwen still takes GDPVal, OSWorld and SWE-Bench Verified. The honest read, in 60 seconds. #Shorts #MetaAI #Qwen #OpenSource

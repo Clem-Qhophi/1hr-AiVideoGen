@@ -1,0 +1,5 @@
+{
+  "id": "robotics-news",
+  "name": "Robotics / AI hardware news compilation (multi-story, chronological)",
+  "_deprecated": "RETIRED 2026-08-01 (user's call): merged into niches/ai-news.json as that file's formats.compilation profile - one channel (@AIUnder3Min), two formats. Use --niche ai-news and pick the compilation format at intake. This stub exists so stale references fail obviously instead of silently using an outdated profile (same convention as the unsuffixed channel-persona.json). The full profile now lives at niches/ai-news.json -> formats.compilation; the rationale for keeping the two formats' registers separate lives in its _origin note. Archived project videos/robotics-2026-updates-1 still references niche id 'robotics-news' in its work files - historical artifact, do not 'fix' it."
+}

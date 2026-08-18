@@ -1,0 +1,91 @@
+{
+  "master": "videos/messi-ronaldo-final-score/reference/master.mp4",
+  "fps": 30,
+  "shots": [
+    {
+      "id": "DLColdOpen",
+      "type": "cutaway",
+      "master_in_s": 0.0,
+      "master_out_s": 15.89
+    },
+    {
+      "id": "DLRules",
+      "type": "cutaway",
+      "master_in_s": 15.89,
+      "master_out_s": 36.0
+    },
+    {
+      "id": "DLR1Goals",
+      "type": "cutaway",
+      "master_in_s": 36.0,
+      "master_out_s": 67.81
+    },
+    {
+      "id": "DLR2Assists",
+      "type": "cutaway",
+      "master_in_s": 67.81,
+      "master_out_s": 103.72
+    },
+    {
+      "id": "DLR3Ballon",
+      "type": "cutaway",
+      "master_in_s": 103.72,
+      "master_out_s": 130.13
+    },
+    {
+      "id": "DLR4WorldCup",
+      "type": "cutaway",
+      "master_in_s": 130.13,
+      "master_out_s": 160.89
+    },
+    {
+      "id": "DLR5Money",
+      "type": "cutaway",
+      "master_in_s": 160.89,
+      "master_out_s": 194.22
+    },
+    {
+      "id": "DLR6Crowd",
+      "type": "cutaway",
+      "master_in_s": 194.22,
+      "master_out_s": 232.32
+    },
+    {
+      "id": "DLR7Ratio",
+      "type": "cutaway",
+      "master_in_s": 232.32,
+      "master_out_s": 263.32
+    },
+    {
+      "id": "DLR8Hattrick",
+      "type": "cutaway",
+      "master_in_s": 263.32,
+      "master_out_s": 306.91
+    },
+    {
+      "id": "DLVerdict",
+      "type": "cutaway",
+      "master_in_s": 306.91,
+      "master_out_s": 345.31
+    },
+    {
+      "id": "DLEvidenceR1",
+      "type": "overlay",
+      "master_in_s": 61.2,
+      "master_out_s": 63.0
+    },
+    {
+      "id": "DLEvidenceR5",
+      "type": "overlay",
+      "master_in_s": 174.6,
+      "master_out_s": 176.9
+    }
+  ],
+  "preview": {
+    "end_s": 345.31,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "out": "videos/messi-ronaldo-final-score/output/messi-ronaldo-final-score-preview.mp4"
+  }
+}

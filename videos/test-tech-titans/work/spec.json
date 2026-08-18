@@ -1,0 +1,20 @@
+{
+  "project": "test-tech-titans",
+  "niche": "comparisons-showdown",
+  "format": "ladder",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "voice": {
+    "name": "Christopher (Edge-TTS)",
+    "voice_id": "en-US-ChristopherNeural",
+    "speed": 1.25,
+    "pitch": "+6Hz"
+  },
+  "audio": {
+    "music_bed": "arena-pulse",
+    "bed_gain_db": -7,
+    "sfx_density": "high"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "topic": "Google DeepMind open-sources WeatherNext Cyclones after a Nature paper shows +24h average extra cyclone warning lead time",
+  "primary_source_note": "All claims verified against primary sources read in full: (1) DeepMind blog 'WeatherNext: AI model achieves breakthrough in forecasting cyclones' (Aug 6 2026), (2) Nature paper s41586-026-10953-2 'Operational Tropical Cyclone Forecasting with AI' (published Aug 6 2026), (3) DeepMind Melissa post (May 19 2026), (4) NHC 2025 Verification Report PDF (Mar 30 2026, 85pp - downloaded and text-read), (5) blog.google coverage (Aug 6 2026), (6) developers.google.com/weathernext. Gemini Spark's '97.2%/99.8% accuracy' and '50-100+ scenarios' figures were NOT found in any primary source and are DROPPED - the real ensemble count is 1,000 (was 50 in 2025).",
+  "source": {
+    "outlet": "Google DeepMind / Nature / NHC",
+    "published": "Aug 6 2026 (blog + Nature paper); NHC report Mar 30 2026",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "evidence_files": [
+      "media/projects/weathernext-cyclones/evidence/deepmind-blog.png",
+      "media/projects/weathernext-cyclones/evidence/nature-paper.png",
+      "media/projects/weathernext-cyclones/evidence/github-repo.png",
+      "media/projects/weathernext-cyclones/evidence/coverage-news.png",
+      "media/projects/weathernext-cyclones/evidence/nhc-verification-2025.png"
+    ]
+  },
+  "claims": [
+    { "claim": "WeatherNext gives forecasters an extra day of predictive accuracy on average: its 3-day forecasts match what prior models gave at 2 days", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "Average lead-time advantage is more than a full day (24 hours) for track, intensity and wind structure, benchmarked on historical cyclones 2023-2024", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "Improvement is roughly a decade of meteorological progress - 3-day accuracy equivalent to 20-year trend lines for ECMWF-ENS track and HWRF intensity", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "Model predicts global weather + cyclone tracks up to 15 days ahead, as a 1,000-member ensemble, producing localized probability maps of tropical-storm to hurricane-force winds", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "A single 15-day forecast generates in under a minute on a TPU; ensemble scaled from 50 (2025) to 1,000 members to capture rare rapid-intensification scenarios", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "Trains on ~20 TB of global atmospheric data plus the IBTrACS historical storm database (~5,000 storms)", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "Only needs 28x28 km inputs - roughly 100x coarser than traditional high-res models; a 111x111 km mini version (WeatherNext 2-mini) also performs well; scientists call why-it-works an open research question", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "Tropical cyclones caused more than 700,000 deaths and $1.4 trillion in economic losses globally over the past 50 years", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "Paper 'Operational Tropical Cyclone Forecasting with AI' published in Nature Aug 6 2026 (s41586-026-10953-2)", "attribution": "Nature" },
+    { "claim": "During the 2025 hurricane season WeatherNext ran operationally alongside the NHC and helped with Hurricane Melissa's historic forecast", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "Hurricane Melissa (Oct 2025) was the strongest hurricane on record to land in Jamaica and tied for the strongest ever in the Atlantic", "attribution": "DeepMind blog (Melissa post), May 19 2026" },
+    { "claim": "NHC predicted Melissa would reach Category 5 starting from Category 1 wind speed - a first - and WeatherNext flagged Cat-5 landfall in Jamaica 5 days out at 80% confidence, near 100% 3 days out", "attribution": "DeepMind blog (Melissa post), May 19 2026" },
+    { "claim": "NHC's own 2025 Verification Report (Mar 30 2026): the Google DeepMind ensemble mean (GDMI) slightly outperformed NHC official track forecasts at 12-72h and was best-of-class at 96-120h; best individual intensity model; in the eastern Pacific it beat the official forecast and all consensus aids at 48-120h", "attribution": "NHC 2025 Verification Report, pp.1, 9, 10, 14" },
+    { "claim": "Open-sourced Aug 6 2026: WeatherNext 2, WeatherNext Cyclones and WeatherNext 2-mini (single TPU, free public Colab); forecast data queryable via BigQuery and Earth Engine", "attribution": "DeepMind blog + developers.google.com/weathernext" },
+    { "claim": "Honest gap: official warnings still come from human forecasters at national agencies - the blog states 'For official weather forecasts and warnings, refer to your local meteorological agency' - WeatherNext is decision support, and 1,000-member runs need a TPU-class machine", "attribution": "DeepMind blog, Aug 6 2026" },
+    { "claim": "NHC serves ~30 countries as WMO Regional Specialized Meteorological Center; DeepMind is partnering with agencies in the Philippines (PAGASA), Taiwan (CWA), Indonesia (BMKG), Vietnam (VNMHA)", "attribution": "DeepMind blog (Melissa post), May 19 2026" }
+  ]
+}

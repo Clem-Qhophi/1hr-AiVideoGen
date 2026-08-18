@@ -1,0 +1,45 @@
+# WeatherNext Cyclones — script (narration)
+
+Target: 7:00 at Andrew 171.4 wpm (~1,200 words). Phase 1 (cold-open + context + verdict) hard-capped ~170s. Angle: the warning story.
+
+## cold-open-claim (phase 1, ~21s)
+If you live near any coast, this is about your life, and your money. Cyclones have cost the world one point four trillion dollars in damage over the last fifty years. Hurricane Melissa hit Jamaica as a Category 5, the strongest storm on record to land there. Forecasters had five days of warning, because an AI model saw it coming. This week, that model was published in Nature. Google DeepMind's WeatherNext buys forecasters one full extra day of warning, on average. And the strangest part of the paper has nothing to do with hurricanes.
+
+## context (phase 1, ~40s)
+For fifty years, tropical cyclones have killed more than seven hundred thousand people, and caused one point four trillion dollars in damage. Every hour of warning matters. But forecasting has a built-in trade-off. A storm's track is steered by huge global winds, which coarse global models handle best. Its power is decided by tiny storms inside the eye wall, which high resolution local models handle best. No single model was great at both. The scariest failure is rapid intensification. Winds jumping thirty five miles an hour in a single day. That is how a weak storm becomes a monster overnight, with almost no warning. Melissa did exactly that.
+
+## verdict (phase 1, ~90-110s)
+Here is the claim, straight from the Nature paper. WeatherNext's three day forecasts are as accurate as the best models' two day forecasts. A full day more. Across track, intensity, and wind structure, that averages out to an extra twenty four hours of lead time. In forecasting, a year of progress is a few kilometers of error. This is about a decade of progress, in one model. The paper even has the trend lines to back it.
+
+And this is not a lab demo. The National Hurricane Center ran it for real, during the 2025 season. When Melissa was a weak depression, the physics models wavered between Haiti and Jamaica. WeatherNext said Jamaica, Category 5, five days out, with eighty percent confidence. That climbed to near certainty three days before landfall. It was right. Melissa also tied for the strongest hurricane ever recorded in the Atlantic. And that forecast was a first: never before had the NHC predicted a Category 5 jump from such a weak start. The NHC's own verification report, published in March, names the Google DeepMind model as the top performing individual model, on both track and intensity.
+
+The model forecasts fifteen days out. For every storm, it runs a thousand possible futures. A thousand. Last year it was fifty. And a full forecast takes under a minute, on a single TPU. That is how you catch rare events like Melissa's sudden jump: by simulating them a thousand times, then looking at the worst cases.
+
+The whole thing just went open source. Code, model weights, and a mini version that runs free in a Colab notebook. Any research lab, any weather agency, anywhere, can run it. I will show you the repos and the receipts in a second.
+
+## evidence (phase 2, ~150s) [MID-ROLL CTA at the turn after the NHC report beat]
+First, the numbers that make the claim real. On historical storms from 2023 to 2024, WeatherNext's three day position error sits around one hundred kilometers. The European model it is compared against is worse. On intensity, its error is around eleven knots, versus the US Navy's dedicated hurricane model. Those are the two plots the paper leads with.
+
+The NHC's verification report matters more, because it is independent. It says the Google DeepMind ensemble slightly outperformed the NHC's own official forecasts at twelve to seventy two hours. In the eastern Pacific, it beat the official forecast and every consensus model from forty eight to a hundred twenty hours. That is the difference between trust and hype. This model is the one the forecasters actually use, and it was already in their toolbox last season. And the field was not weak. The report says official track forecasts in 2025 hit near all time highs in skill. The AI beat that bar anyway.
+
+And the report is not shy about the season. 2025 had thirteen tropical storms and five hurricanes, including three Category 5s. That is the second highest number of Category 5 storms on record, behind only 2005.
+
+Here is what this channel never misses. A release like this one lands at 2 AM. By the time you see it, we have already read the paper, pulled the receipts, and got the verdict to you in the first three minutes of the video. If that is the kind of coverage you want, subscribe now. It costs nothing, and it is what keeps us doing this.
+
+How does it work? This is where it gets weird, and honest. The model was trained on twenty terabytes of global weather data, plus the IBTrACS database of nearly five thousand historical storms. It learns the physics from examples, instead of solving the equations. It generates its ensemble with something called Functional Generative Networks. Fancy name, simple job: it produces a spread of possible futures, not one guess.
+
+But the input resolution is the real surprise. WeatherNext only needs data at twenty eight by twenty eight kilometers. That is roughly a hundred times coarser than what traditional high resolution models chew on. The mini version runs at a hundred eleven kilometers, coarser still, and it still performs. The paper itself says the scientists were surprised. Nobody fully understands why it works this well at this resolution.
+
+The data side is open too. Forecasts are queryable through BigQuery and Earth Engine, and Weather Lab, the free visualization site, shows live cyclone tracks. It now covers temperature, precipitation, and wind speed alongside the tracks, in a single view. The National Hurricane Center serves about thirty countries. DeepMind is now working with agencies in the Philippines, Taiwan, Indonesia, and Vietnam. This is the model spreading from the Atlantic into the Pacific, with real partners.
+
+## honest-gap (phase 2, ~50s)
+Now the catch, and it is a real one. The mystery I teased at the start: the hundred times coarser input is not a bug the team is hiding. It is an open research question, stated in the paper, that nobody can answer yet. The model works, and the field does not fully know why.
+
+Also, this is decision support, not the decision. Official warnings still come from national agencies, run by human forecasters. The NHC report notes that intensity forecasts in 2025 were genuinely hard, with errors above the five year average. And the thousand member runs need TPU class hardware, which is not free. Open source is real access, not zero cost.
+
+One more honest caveat. The benchmark window is short. Two years of historical storms for the headline numbers, and one real season in production. Weather is a long game, and no model has seen a decade of storms yet.
+
+## close (phase 2, ~55s)
+So where does this leave you? If you live anywhere a hurricane, cyclone, or typhoon can reach, this matters to you directly. It is the first AI weather model that has proven itself inside a real emergency operation, not just on historical data. And it is free to use, study, and improve.
+
+The verdict: this is the day AI weather forecasting stopped being a research story and became an operational one. That is a first. We cover releases the day they land, and the full verdict is always in the first three minutes. Subscribe so you do not miss the next one. Like the video if this earned the watch, and comment what you think AI forecasting gets wrong next. We read every one, and we will be back before the next storm season.

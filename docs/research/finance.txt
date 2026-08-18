@@ -1,0 +1,43 @@
+
+=== 24h — 0 videos ===
+  nothing found
+
+=== 30d — 7 videos ===
+  runtime: median 26 min  (p25 21 / p75 28)
+  titles: 0% use ALL-CAPS · 71% a number · 28% a parenthetical
+  recurring words: explained, 401k, retirement, strategies, 401, hidden, planning, annuities, rollovers, much, man, who
+  top by views/day:
+           8/d   28m  Retirement Planning Strategies Explained: Annuities, 401(k) Rollov
+              Retirement Reality On Demand       83 views, 10.2d old
+           3/d   20m  The Man Who Invented the 401k Called It a Monster — Here's Why He 
+              Eric Invests                       66 views, 19.0d old
+           3/d   28m  Hidden Fees, Fiduciary Advice & Distribution Strategies Explained
+              Retirement Reality On Demand       26 views, 10.2d old
+           3/d   20m  Everything you need to know about a 401k
+              Grit Finance                       12 views, 3.9d old
+           1/d   25m  401(k) Explained Simply for Beginners: How Your Paycheck Becomes R
+              Bella Invests                      8 views, 13.0d old
+           0/d   26m  What To Do With An Old 401K?
+              Becoming A Financially Confident W 2 views, 16.2d old
+
+=== 365d — 39 videos ===
+  runtime: median 26 min  (p25 22 / p75 39)
+  titles: 23% use ALL-CAPS · 71% a number · 35% a parenthetical
+  recurring words: explained, credit, 401k, 2026, bank, hidden, retirement, 401, loan, account, real, home
+  top by views/day:
+       6,402/d   24m  TrumpIRA - Trump Just Quietly Replaced The 401k
+              Minority Mindset                   577,991 views, 90.3d old
+         971/d   20m  NEW FHA Loan Requirements 2026 - First Time Home Buyer - FHA Loan 
+              Jeb Smith                          231,159 views, 238.0d old
+         546/d   33m  Home Loan | Home Loan Kaise Le | Home Loan Interest Rates 2026
+              XY- Axis Education                 54,869 views, 100.5d old
+         426/d   29m  How to Use Credit Card & Get Benefits - Credit Card in Kannada | G
+              Boss Wallah (Kannada)              147,626 views, 346.2d old
+         117/d   25m  How To Remove Collections From Credit Report FAST!! 2026 (Updated 
+              Stephen Smith                      10,307 views, 88.1d old
+          94/d   37m  Every Retirement Account Explained In 37 Minutes (Beginners Guide)
+              Tom - Lazy Investor                10,020 views, 106.3d old
+
+  -> docs/research/finance.json
+
+Read these as PATTERNS to learn from, not titles to copy. Duplicating a title verbatim is how a channel gets flagged as derivative.

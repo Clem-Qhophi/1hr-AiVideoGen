@@ -1,0 +1,58 @@
+
+=== 24h — 40 videos ===
+  runtime: median 4 min  (p25 1 / p75 9)
+  titles: 32% use ALL-CAPS · 65% a number · 12% a parenthetical
+  recurring words: claude, opus, review, explained, 2026, shorts, tool, mcp, chatgpt, aitools, models, trading
+  top by views/day:
+       5,245/d    5m  Claude Trade Bot Worth It? (Real Review)
+              KakPIPIkakPIPIPO                   5,009 views, 1.0d old
+       3,888/d   11m  Paperpal: One AI Tool to replace Turnitin, Grammarly, ChatGPT, & C
+              WiseUp Communications              972 views, 0.2d old
+       3,809/d    3m  Grok AI Trading Bot Unlocked: Master Day Trading and Crypto Tradin
+              nejashmen                          3,727 views, 1.0d old
+       3,360/d    1m  What Is Claude Opus 4.8? | Opus 4.8 Explained | #Shorts #Simplilea
+              Simplilearn                        840 views, 0.2d old
+       3,287/d    0m  #foryou #shorts #ai
+              Aion                               1,018 views, 0.3d old
+       2,619/d    0m  ASMR mini unboxing video  #aitools #shorts #alltools
+              Tushar Jethva                      866 views, 0.3d old
+
+=== 30d — 57 videos ===
+  runtime: median 15 min  (p25 10 / p75 29)
+  titles: 40% use ALL-CAPS · 70% a number · 33% a parenthetical
+  recurring words: claude, gpt, opus, 2026, fable, just, kimi, model, video, free, use, chatgpt
+  top by views/day:
+      93,521/d   32m  Claude Opus 5 is a freak
+              AI Search                          619,448 views, 6.6d old
+      87,470/d    5m  Open-weight AI just hit 2.8 trillion parameters…
+              Fireship                           964,759 views, 11.0d old
+      73,778/d   30m  China Is About To Pop The AI Bubble
+              Andrei Jikh                        1,903,921 views, 25.8d old
+      49,252/d   17m  Forget NVIDIA. This Is The New King of AI.
+              Ticker Symbol: YOU                 346,974 views, 7.0d old
+      37,641/d   17m  Apple Just Won AI (and It's Not Even Close)
+              Andru Edwards                      448,192 views, 11.9d old
+      36,858/d    8m  10 Times AI Said Things That Scientists Still Can't Explain
+              MostAmazingTop10                   218,741 views, 5.9d old
+
+=== 365d — 58 videos ===
+  runtime: median 13 min  (p25 2 / p75 29)
+  titles: 36% use ALL-CAPS · 63% a number · 18% a parenthetical
+  recurring words: claude, chatgpt, 2026, code, tools, learn, gpt, shorts, free, fable, use, course
+  top by views/day:
+     152,257/d   76m  Apple WWDC 2026 June 8: Introducing Siri AI and more
+              Apple                              8,374,462 views, 55.0d old
+     133,082/d    1m  How Does An AI Like ChatGPT Learn 😮
+              Zack D. Films                      15,420,568 views, 115.9d old
+      93,519/d   32m  Claude Opus 5 is a freak
+              AI Search                          619,448 views, 6.6d old
+      92,307/d    1m  PewDiePie's New AI | Professor Of AI
+              Professor Of AI                    4,939,058 views, 53.5d old
+      52,115/d    0m  India's Finance Minister is VERY SCARED Due to AI Claude MYTHOS - 
+              FactTechz                          4,625,039 views, 88.7d old
+      49,271/d   14m  WWDC 2026 - Siri AI Impressions!
+              Mrwhosetheboss                     2,694,061 views, 54.7d old
+
+  -> docs/research/ai-news.json
+
+Read these as PATTERNS to learn from, not titles to copy. Duplicating a title verbatim is how a channel gets flagged as derivative.

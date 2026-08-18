@@ -1,0 +1,34 @@
+[
+ {
+  "name": "berkeley-study-article",
+  "file": "berkeley-study-article.png",
+  "url": "https://techstrong.ai/agentic-ai/new-research-reveals-ai-models-refuse-to-kill-each-other/",
+  "source": "Techstrong.ai, Apr 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T06:50:34"
+ },
+ {
+  "name": "self-preservation-evidence",
+  "file": "self-preservation-evidence.png",
+  "url": "https://impactainews.com/ai-is-showing-strong-evidence-of-self-preservation",
+  "source": "Impact AI News, Jan 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T06:50:35"
+ },
+ {
+  "name": "self-preservation-arxiv",
+  "file": "self-preservation-arxiv.png",
+  "url": "https://arxiv.org/html/2604.02174v1",
+  "source": "arXiv:2604.02174, Apr 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T06:50:51"
+ },
+ {
+  "name": "species-video-coverage",
+  "file": "species-video-coverage.png",
+  "url": "https://www.youtube.com/watch?v=species-ai-murder",
+  "source": "Species | Documenting AGI, 11M views",
+  "selector": "#owner #upload-info",
+  "captured_at": "2026-08-08T06:51:19"
+ }
+]

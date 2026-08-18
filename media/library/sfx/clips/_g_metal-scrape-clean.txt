@@ -1,0 +1,1 @@
+aevalsrc=0.3*exp(-5.5*t)*sin(2*PI*t*(900-420*t)):d=1.0:s=44100,highpass=f=1400,afade=t=in:d=0.05,afade=t=out:d=0.35,volume=0.8

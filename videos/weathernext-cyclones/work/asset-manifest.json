@@ -1,0 +1,55 @@
+{
+  "project": "weathernext-cyclones",
+  "assets": [
+    {
+      "id": "deepmind-blog",
+      "kind": "screenshot",
+      "purpose": "primary source: the model announcement - +24h lead time, 15-day forecasts, 1,000-member ensembles, 28x28 km inputs",
+      "source_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source_label": "Google DeepMind blog, Aug 6 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/weathernext-cyclones/evidence/deepmind-blog.png"
+    },
+    {
+      "id": "nature-paper",
+      "kind": "screenshot",
+      "purpose": "primary source: the peer-reviewed Nature paper page - 'Operational Tropical Cyclone Forecasting with AI'",
+      "source_url": "https://www.nature.com/articles/s41586-026-10953-2",
+      "source_label": "Nature, Aug 6 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/weathernext-cyclones/evidence/nature-paper.png"
+    },
+    {
+      "id": "github-repo",
+      "kind": "screenshot",
+      "purpose": "primary source: open-source release proof - code + weights on GitHub, Colab notebooks",
+      "source_url": "https://github.com/google-deepmind/weathernext",
+      "source_label": "GitHub, google-deepmind/weathernext, Aug 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/weathernext-cyclones/evidence/github-repo.png"
+    },
+    {
+      "id": "coverage-news",
+      "kind": "screenshot",
+      "purpose": "secondary source: independent coverage proving it's real-world news (blog.google)",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/",
+      "source_label": "blog.google, Aug 6 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/weathernext-cyclones/evidence/coverage-news.png"
+    },
+    {
+      "id": "nhc-verification-2025",
+      "kind": "screenshot",
+      "purpose": "primary source: NHC 2025 Verification Report cover - GDMI (WeatherNext) top model on track and intensity, official-season proof",
+      "source_url": "https://www.nhc.noaa.gov/verification/pdfs/Verification_2025.pdf",
+      "source_label": "NHC 2025 Verification Report, NOAA · Mar 30 2026",
+      "capture": "manual-pdf-render",
+      "status": "captured",
+      "path": "media/projects/weathernext-cyclones/evidence/nhc-verification-2025.png"
+    }
+  ]
+}

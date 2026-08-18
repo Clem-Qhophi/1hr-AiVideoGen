@@ -1,0 +1,459 @@
+{
+ "queries": [
+  "closing costs explained first time buyer",
+  "what to expect at closing",
+  "escrow explained",
+  "title insurance explained"
+ ],
+ "window": "365d",
+ "rows": [
+  {
+   "title": "Ask the Attorneys: Title Insurance 101 with SKM Title & Closing Services | Mortgage Daddies",
+   "channel": "Mortgage Daddies",
+   "subs": 1510,
+   "views": 9309,
+   "age_days": 250.3,
+   "vpd": 37,
+   "multiplier": 6.16,
+   "like_per_1k": 0.8,
+   "comment_per_1k": 0.21,
+   "dur_min": 38,
+   "levers": [],
+   "url": "https://youtu.be/oi4vBZZifvk"
+  },
+  {
+   "title": "Do You Qualify for a USDA Loan? Income Limits & Requirements 2026",
+   "channel": "Mortgages By Channing ",
+   "subs": 2440,
+   "views": 13404,
+   "age_days": 351.9,
+   "vpd": 38,
+   "multiplier": 5.49,
+   "like_per_1k": 34.3,
+   "comment_per_1k": 3.58,
+   "dur_min": 34,
+   "levers": [
+    "time-anchor",
+    "question-hook",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/WkhOIK2h6cE"
+  },
+  {
+   "title": "They Sold a House That Wasn't Theirs | The Shocking Truth About Title Fraud",
+   "channel": "Beyond Scaling Podcast",
+   "subs": 550,
+   "views": 1990,
+   "age_days": 108.3,
+   "vpd": 18,
+   "multiplier": 3.62,
+   "like_per_1k": 86.4,
+   "comment_per_1k": 0.0,
+   "dur_min": 45,
+   "levers": [
+    "contrarian"
+   ],
+   "url": "https://youtu.be/-BHeGWw57jE"
+  },
+  {
+   "title": "Real Talk: Mortgage Questions You’re Too Afraid to Ask",
+   "channel": "Kalita Sells Luxury",
+   "subs": 1090,
+   "views": 2654,
+   "age_days": 319.8,
+   "vpd": 8,
+   "multiplier": 2.43,
+   "like_per_1k": 24.1,
+   "comment_per_1k": 0.0,
+   "dur_min": 23,
+   "levers": [],
+   "url": "https://youtu.be/XbSuQEWfLz4"
+  },
+  {
+   "title": "The Only First Time Home Buying Guide You'll Ever Need",
+   "channel": "Living In America",
+   "subs": 781,
+   "views": 1697,
+   "age_days": 132.4,
+   "vpd": 13,
+   "multiplier": 2.17,
+   "like_per_1k": 48.9,
+   "comment_per_1k": 0.59,
+   "dur_min": 84,
+   "levers": [
+    "superlative"
+   ],
+   "url": "https://youtu.be/CWYH2wySjBI"
+  },
+  {
+   "title": "The Truth About Buying a Home in 2026 - Brick by Brick Podcast Episode 2",
+   "channel": "American Financing",
+   "subs": 2890,
+   "views": 5640,
+   "age_days": 55.3,
+   "vpd": 102,
+   "multiplier": 1.95,
+   "like_per_1k": 20.4,
+   "comment_per_1k": 0.0,
+   "dur_min": 21,
+   "levers": [
+    "contrarian",
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/S2av7k7lrf0"
+  },
+  {
+   "title": "NEW FHA Loan Requirements 2026 - First Time Home Buyer - FHA Loan 2026",
+   "channel": "Jeb Smith",
+   "subs": 131000,
+   "views": 231162,
+   "age_days": 238.0,
+   "vpd": 971,
+   "multiplier": 1.76,
+   "like_per_1k": 27.6,
+   "comment_per_1k": 1.78,
+   "dur_min": 21,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/aOfhgnHjiAo"
+  },
+  {
+   "title": "5 Mistakes First-Time NYC Buyers Make (And How to Avoid Them)",
+   "channel": "Dewey Moss | Manhattan Real Estate",
+   "subs": 1650,
+   "views": 2808,
+   "age_days": 277.1,
+   "vpd": 10,
+   "multiplier": 1.7,
+   "like_per_1k": 28.1,
+   "comment_per_1k": 6.05,
+   "dur_min": 27,
+   "levers": [
+    "listicle-count",
+    "loss-threat"
+   ],
+   "url": "https://youtu.be/e5c1do6r0M0"
+  },
+  {
+   "title": "TOP 6 Down Payment Assistance Programs 2026  | How Buyers Can Afford a Home #downpaymentassistance",
+   "channel": "Dominique Higgins - LA Realtor",
+   "subs": 4420,
+   "views": 7069,
+   "age_days": 270.6,
+   "vpd": 26,
+   "multiplier": 1.6,
+   "like_per_1k": 36.1,
+   "comment_per_1k": 5.23,
+   "dur_min": 22,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/Dy5DKNE9Xyo"
+  },
+  {
+   "title": "Title Insurance in Vancouver – Is It Worth It for Home Buyers? | Marty Pospischil's Podcast",
+   "channel": "Pospischil Realty Group",
+   "subs": 1620,
+   "views": 2191,
+   "age_days": 152.9,
+   "vpd": 14,
+   "multiplier": 1.35,
+   "like_per_1k": 0.9,
+   "comment_per_1k": 0.0,
+   "dur_min": 28,
+   "levers": [
+    "question-hook"
+   ],
+   "url": "https://youtu.be/7DlAJKITq7Y"
+  },
+  {
+   "title": "Land Closing Day | What Happened Right After We Bought the Land",
+   "channel": "The Womack Way",
+   "subs": 1440,
+   "views": 1506,
+   "age_days": 196.3,
+   "vpd": 8,
+   "multiplier": 1.05,
+   "like_per_1k": 68.4,
+   "comment_per_1k": 15.27,
+   "dur_min": 33,
+   "levers": [
+    "curiosity-gap",
+    "personal-frame"
+   ],
+   "url": "https://youtu.be/Yh8BJxrlpkY"
+  },
+  {
+   "title": "Title Problems Explained: Liens, Inheritance & Divorce in Home Sales",
+   "channel": "Meckey Estates",
+   "subs": 3390,
+   "views": 3375,
+   "age_days": 201.2,
+   "vpd": 17,
+   "multiplier": 1.0,
+   "like_per_1k": 5.6,
+   "comment_per_1k": 0.3,
+   "dur_min": 42,
+   "levers": [],
+   "url": "https://youtu.be/dO9LDH22tLM"
+  },
+  {
+   "title": "Chhattisgarh NEET Round 1 Closing Rank | Medical & Dental Colleges Analysis + Round 2 Expectations",
+   "channel": "Pathway Medical Counselling",
+   "subs": 1210,
+   "views": 1028,
+   "age_days": 332.5,
+   "vpd": 3,
+   "multiplier": 0.85,
+   "like_per_1k": 12.6,
+   "comment_per_1k": 13.62,
+   "dur_min": 23,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/F2Ay6U5_KIA"
+  },
+  {
+   "title": "Most DFW New Construction Buyers Skip This Step Before Closing and Regret It Every Time",
+   "channel": "Zak Schmidt- Dallas Texas New Construction Homes",
+   "subs": 9060,
+   "views": 6071,
+   "age_days": 270.8,
+   "vpd": 22,
+   "multiplier": 0.67,
+   "like_per_1k": 28.7,
+   "comment_per_1k": 2.31,
+   "dur_min": 27,
+   "levers": [
+    "loss-threat",
+    "superlative"
+   ],
+   "url": "https://youtu.be/M3K-Yds42MQ"
+  },
+  {
+   "title": "“The Real Cost of Pre-Construction Homes in Ontario (Complete Buyer Guide)”  |  EPISODE 2",
+   "channel": "Rising Sun TV",
+   "subs": 26600,
+   "views": 14875,
+   "age_days": 240.9,
+   "vpd": 62,
+   "multiplier": 0.56,
+   "like_per_1k": 1.0,
+   "comment_per_1k": 0.47,
+   "dur_min": 32,
+   "levers": [
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/NyJR148rW98"
+  },
+  {
+   "title": "Solana Developer Bootcamp 2026: Learn Blockchain and Full-Stack Crypto Development [Full Course]",
+   "channel": "Solana",
+   "subs": 95200,
+   "views": 31355,
+   "age_days": 117.2,
+   "vpd": 268,
+   "multiplier": 0.33,
+   "like_per_1k": 42.8,
+   "comment_per_1k": 3.48,
+   "dur_min": 312,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/2pcm7ICRJKU"
+  },
+  {
+   "title": "Wait... Their Mortgage Went Up HOW MUCH?!",
+   "channel": "Social Symone ♡",
+   "subs": 334000,
+   "views": 108031,
+   "age_days": 32.2,
+   "vpd": 3350,
+   "multiplier": 0.32,
+   "like_per_1k": 37.2,
+   "comment_per_1k": 11.55,
+   "dur_min": 29,
+   "levers": [
+    "question-hook",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/h2LMn5hVtrw"
+  },
+  {
+   "title": "EXPECT EVANG EBUKA OBI IN RIVERS STATE RALLY FOR  CLOSING OF 100DAYS || 1ST AUGUST 2026",
+   "channel": "Zion Boy TV 📺 ",
+   "subs": 9380,
+   "views": 2285,
+   "age_days": 1.4,
+   "vpd": 1625,
+   "multiplier": 0.24,
+   "like_per_1k": 20.1,
+   "comment_per_1k": 3.5,
+   "dur_min": 36,
+   "levers": [
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/8D_ayC3urbo"
+  },
+  {
+   "title": "Missed Our First-Time Home Buyer Seminar? Watch It Here 🎥",
+   "channel": "Norman Xu - Normy's home-Toronto Real Estate",
+   "subs": 9910,
+   "views": 1928,
+   "age_days": 114.1,
+   "vpd": 17,
+   "multiplier": 0.19,
+   "like_per_1k": 2.6,
+   "comment_per_1k": 0.0,
+   "dur_min": 33,
+   "levers": [
+    "question-hook"
+   ],
+   "url": "https://youtu.be/a-MiDWF8dk0"
+  },
+  {
+   "title": "Buying a Home? Real Estate Scams, Title Insurance & Costly Mistakes Explained.",
+   "channel": "The Haitian Kings Podcast",
+   "subs": 31800,
+   "views": 4521,
+   "age_days": 184.7,
+   "vpd": 24,
+   "multiplier": 0.14,
+   "like_per_1k": 1.3,
+   "comment_per_1k": 1.11,
+   "dur_min": 108,
+   "levers": [
+    "question-hook"
+   ],
+   "url": "https://youtu.be/zQfgcjif41Q"
+  },
+  {
+   "title": "||  CLOSING & AWARD CEREMONY || ABRCT-20 CHENNAI { AKHIL BHARTIYA RAJPUROHIT CRICKET TOURNAMENT 2026",
+   "channel": "AB9 Sports ",
+   "subs": 36500,
+   "views": 4688,
+   "age_days": 196.0,
+   "vpd": 24,
+   "multiplier": 0.13,
+   "like_per_1k": 13.2,
+   "comment_per_1k": 0.0,
+   "dur_min": 330,
+   "levers": [
+    "time-anchor",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/e4E2zB6G_N0"
+  },
+  {
+   "title": "🔑 Title and Escrow Explained for the Real Estate Exam",
+   "channel": "Exam Prep - by Birdsy",
+   "subs": 19600,
+   "views": 1946,
+   "age_days": 321.2,
+   "vpd": 6,
+   "multiplier": 0.1,
+   "like_per_1k": 33.9,
+   "comment_per_1k": 0.51,
+   "dur_min": 47,
+   "levers": [],
+   "url": "https://youtu.be/i5noRg1J724"
+  },
+  {
+   "title": "What 2 expect closing out 2025 #tarot #spirituality #closing #2025 #truth #clarity #creativity #free",
+   "channel": "Tasha’s Divine Guidance",
+   "subs": 81500,
+   "views": 5453,
+   "age_days": 214.4,
+   "vpd": 25,
+   "multiplier": 0.07,
+   "like_per_1k": 106.4,
+   "comment_per_1k": 11.19,
+   "dur_min": 22,
+   "levers": [
+    "time-anchor"
+   ],
+   "url": "https://youtu.be/4dtYuRu-9QE"
+  },
+  {
+   "title": "Get Down Payment Assistance to Buy a Home in Your State!",
+   "channel": "Shaheedah Hill ",
+   "subs": 236000,
+   "views": 13308,
+   "age_days": 282.3,
+   "vpd": 47,
+   "multiplier": 0.06,
+   "like_per_1k": 52.8,
+   "comment_per_1k": 7.97,
+   "dur_min": 58,
+   "levers": [],
+   "url": "https://youtu.be/ff6YY_R3Mxc"
+  },
+  {
+   "title": "7 Must-Know Programs for First-Time Home Buyers in Canada | Save Thousands on Your First Home",
+   "channel": "RealEstateTaxTips",
+   "subs": 56600,
+   "views": 3224,
+   "age_days": 235.1,
+   "vpd": 14,
+   "multiplier": 0.06,
+   "like_per_1k": 28.8,
+   "comment_per_1k": 2.79,
+   "dur_min": 26,
+   "levers": [],
+   "url": "https://youtu.be/vfBFpFwxiyc"
+  },
+  {
+   "title": "Most Homebuyers Get This Loan Estimate Detail Wrong",
+   "channel": "LEND2USA",
+   "subs": 20600,
+   "views": 1287,
+   "age_days": 25.1,
+   "vpd": 51,
+   "multiplier": 0.06,
+   "like_per_1k": 51.3,
+   "comment_per_1k": 13.21,
+   "dur_min": 23,
+   "levers": [
+    "contrarian"
+   ],
+   "url": "https://youtu.be/w-8VToguNTQ"
+  },
+  {
+   "title": "2026 FHA Loan Requirements (What's ACTUALLY Required?)",
+   "channel": "Win The House You Love",
+   "subs": 199000,
+   "views": 10673,
+   "age_days": 87.0,
+   "vpd": 123,
+   "multiplier": 0.05,
+   "like_per_1k": 27.8,
+   "comment_per_1k": 2.72,
+   "dur_min": 35,
+   "levers": [
+    "contrarian",
+    "time-anchor",
+    "question-hook",
+    "caps-shout"
+   ],
+   "url": "https://youtu.be/4RV0B0FSKEA"
+  },
+  {
+   "title": "I Found Out Ripple’s Escrow Isn’t So Locked After All",
+   "channel": "Cheeky Crypto",
+   "subs": 227000,
+   "views": 5884,
+   "age_days": 275.9,
+   "vpd": 21,
+   "multiplier": 0.03,
+   "like_per_1k": 33.8,
+   "comment_per_1k": 2.72,
+   "dur_min": 23,
+   "levers": [
+    "personal-frame"
+   ],
+   "url": "https://youtu.be/3erPO1w8-Qc"
+  }
+ ]
+}

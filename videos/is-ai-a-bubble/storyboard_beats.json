@@ -1,0 +1,164 @@
+[
+  {
+    "beat_id": "beat_01_hook_capex_gap",
+    "timestamp_offset_sec": 0,
+    "duration_sec": 45,
+    "type": "chart",
+    "title": "The $600B Question",
+    "description": "Dynamic line chart showing Hyperscaler CapEx ($350B+) skyrocketing exponentially while Direct Generative AI Software ARR (~$25B) stays comparatively flat. Glowing delta highlight.",
+    "sfx": "sub_bass_pulse"
+  },
+  {
+    "beat_id": "beat_02_macro_acemoglu",
+    "timestamp_offset_sec": 45,
+    "duration_sec": 45,
+    "type": "fullscreen_statement",
+    "title": "The Macroeconomic Limit",
+    "description": "Acemoglu's Task-Based Model callout: AI cost-effectively automates <5% of economic tasks over 10 years, yielding +0.5-1% TFP. Citation: Daron Acemoglu, NBER / Economic Policy.",
+    "sfx": "crisp_click"
+  },
+  {
+    "beat_id": "beat_03_core_question",
+    "timestamp_offset_sec": 90,
+    "duration_sec": 45,
+    "type": "fullscreen_statement",
+    "title": "Bubble or Transition?",
+    "description": "Display headline in Space Grotesk: 'Is this the greatest bubble since 2000, or are we measuring the wrong thing entirely?'",
+    "sfx": "smooth_whoosh"
+  },
+  {
+    "beat_id": "beat_04_the_three_walls",
+    "timestamp_offset_sec": 135,
+    "duration_sec": 60,
+    "type": "diagram",
+    "title": "The Three Physical Ceilings",
+    "description": "Tri-node architectural diagram showing the 3 physical bottlenecks: 1. Human Data Depletion, 2. Model Autophagy (MAD), 3. The 1-GW Grid Wall.",
+    "sfx": "mechanical_latch"
+  },
+  {
+    "beat_id": "beat_05_epoch_data_wall",
+    "timestamp_offset_sec": 195,
+    "duration_sec": 45,
+    "type": "chart",
+    "title": "The 2026-2028 Data Wall",
+    "description": "Stock of high-quality human text (10^14 tokens) depleted against frontier pre-training compute runs. Source: Epoch AI.",
+    "sfx": "alert_ping"
+  },
+  {
+    "beat_id": "beat_06_model_autophagy",
+    "timestamp_offset_sec": 240,
+    "duration_sec": 45,
+    "type": "diagram",
+    "title": "Model Autophagy Disorder (MAD)",
+    "description": "Recursive feedback loop illustration showing distribution tail loss and entropy collapse when models train on synthetic data. Citation: Shumailov et al., Nature (2024).",
+    "sfx": "glitch_decay"
+  },
+  {
+    "beat_id": "beat_07_energy_nuclear_deals",
+    "timestamp_offset_sec": 285,
+    "duration_sec": 45,
+    "type": "diagram",
+    "title": "The 1-Gigawatt Energy Wall",
+    "description": "Power grid map with 1-2 GW data center clusters and nuclear PPAs: Three Mile Island Crane Center (835 MW), Kairos SMRs (500 MW), Talen Energy.",
+    "sfx": "transformer_hum"
+  },
+  {
+    "beat_id": "beat_08_test_time_compute_shift",
+    "timestamp_offset_sec": 330,
+    "duration_sec": 60,
+    "type": "fullscreen_statement",
+    "title": "The Paradigm Pivot",
+    "description": "Contrast card: 'Pre-Training Scaling (Brute Force Token Prediction)' vs 'Test-Time Compute (Reasoning Trees & Verification)'.",
+    "sfx": "digital_shutter"
+  },
+  {
+    "beat_id": "beat_09_reasoning_search_tree",
+    "timestamp_offset_sec": 390,
+    "duration_sec": 60,
+    "type": "diagram",
+    "title": "Test-Time Search & PRMs",
+    "description": "Monte Carlo Tree Search visualization with Process Reward Models (PRMs) scoring reasoning steps and pruning invalid paths. Citation: Brown et al., 'Large Language Monkeys'.",
+    "sfx": "data_clicks"
+  },
+  {
+    "beat_id": "beat_10_agentic_swebench",
+    "timestamp_offset_sec": 450,
+    "duration_sec": 60,
+    "type": "code_snippet",
+    "title": "The Agentic Shift (SWE-bench)",
+    "description": "Interactive terminal mockup showing autonomous agent diagnosing an issue, editing codebase, running unit tests, and committing verified fix. SWE-bench leap from 4% to 70%.",
+    "sfx": "mechanical_keyboard"
+  },
+  {
+    "beat_id": "beat_11_jevons_paradox",
+    "timestamp_offset_sec": 510,
+    "duration_sec": 45,
+    "type": "fullscreen_statement",
+    "title": "The Jevons Paradox of Intelligence",
+    "description": "Visual balance showing falling marginal cost per line of code triggering exponential explosion in total software production and aggregate compute demand.",
+    "sfx": "gear_shift"
+  },
+  {
+    "beat_id": "beat_12_precision_scaling",
+    "timestamp_offset_sec": 555,
+    "duration_sec": 45,
+    "type": "chart",
+    "title": "Precision Scaling Laws",
+    "description": "Graph of FP32 / FP16 down to FP8 / FP4 quantization curves and effective parameter preservation. Citation: Kumar et al., ICLR 2025.",
+    "sfx": "frequency_sweep"
+  },
+  {
+    "beat_id": "beat_13_post_transformer_ssm",
+    "timestamp_offset_sec": 600,
+    "duration_sec": 45,
+    "type": "diagram",
+    "title": "Post-Transformer Architectures",
+    "description": "Comparison of Quadratic Attention O(N^2) memory explosion vs Linear State Space Models (Mamba-2, Recurrent Hybrids) enabling 10M+ context windows.",
+    "sfx": "digital_align"
+  },
+  {
+    "beat_id": "beat_14_enterprise_verifiers",
+    "timestamp_offset_sec": 645,
+    "duration_sec": 45,
+    "type": "diagram",
+    "title": "Local Deterministic Verifiers",
+    "description": "Enterprise architecture diagram: Domain SLM + Local Rule Engine behind firewall delivering zero-hallucination execution.",
+    "sfx": "secure_confirm"
+  },
+  {
+    "beat_id": "beat_15_multipolar_trap",
+    "timestamp_offset_sec": 690,
+    "duration_sec": 60,
+    "type": "diagram",
+    "title": "The Multipolar Game Theory Trap",
+    "description": "Game theory payoff matrix demonstrating why geopolitical competitors cannot unilaterally pause AI adoption.",
+    "sfx": "muffled_drone"
+  },
+  {
+    "beat_id": "beat_16_epistemic_atrophy",
+    "timestamp_offset_sec": 750,
+    "duration_sec": 60,
+    "type": "fullscreen_statement",
+    "title": "The Real Risk: Epistemic Atrophy",
+    "description": "Warning on human loss of foundational first-principles knowledge as deep cognitive infrastructure becomes fully automated.",
+    "sfx": "deep_reverb"
+  },
+  {
+    "beat_id": "beat_17_bubble_vs_revolution",
+    "timestamp_offset_sec": 810,
+    "duration_sec": 60,
+    "type": "fullscreen_statement",
+    "title": "The Final Verdict",
+    "description": "Financial Wrapper Bubble (will burst) vs Electrification of Cognition (irreversible historical shift).",
+    "sfx": "inspiring_crescendo"
+  },
+  {
+    "beat_id": "beat_18_end_card",
+    "timestamp_offset_sec": 870,
+    "duration_sec": 30,
+    "type": "title_card",
+    "title": "Thank You For Watching",
+    "description": "Clean modern brand end card with Space Grotesk wordmark, subscribe CTA, and links to the full research dossier.",
+    "sfx": "brand_outro"
+  }
+]

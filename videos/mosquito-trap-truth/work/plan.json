@@ -1,0 +1,53 @@
+{
+  "slug": "mosquito-trap-truth",
+  "channel": "The Forgotten Fix",
+  "channel_persona_file": "channel-persona.home-hacks.json",
+  "niche": "home-hacks",
+  "format": "single-story",
+  "source": {
+    "type": "topic-only",
+    "topic": "why the viral 'kill every mosquito' bucket trap doesn't actually work, and what UF entomologists say genuinely reduces yard mosquitoes",
+    "angle": "the HONEST version of the niche's biggest format (KILL EVERY Mosquito The [old] Way - Elias Yoder's original did 25,764 views/day, 1.99M views). Instead of cloning the overclaim, Walt tells the truth UF's own extension publishes: no single trap is a magic bullet ('like trying to capture all the grains of sand on the beach' - Jonathan Day, UF entomologist), and the actually-effective old-fashioned method is source reduction (eliminating standing water), which UF/IFAS calls 'the most important technique that homeowners can employ.'",
+    "route": "/prompt-to-video",
+    "research_note": "tools/yt_research.py --niche home-hacks: 'KILL EVERY [pest] The AMISH Way' dominates all 3 windows (24h/30d/365d); Elias Yoder original 25,764 v/d, Arrow Pest Service 24,518 v/d, and clones are STILL gaining fresh traction this month (36/d, 20/d, 9/d on videos <30 days old) - demand hasn't cooled. tools/validate_topic.py run twice: broad phrase 'natural mosquito trap that actually works without chemicals' -> NO-DEMAND (wrong phrasing, doesn't self-suggest); narrower 'natural ways to get rid of mosquitoes' -> GO-NARROW (8/12, LOW confidence due to query drift, freshness reads as cooling 0.1x on the drift-affected sample but real comps in the exact matching format run 17-25min and are still fresh). User confirmed proceeding despite the mixed/low-confidence signal, citing the strong historical winnability (21x-312x small-channel breakouts exist in this search space) as the stronger prior. Full evidence in conversation transcript 2026-08-04."
+  },
+  "persona": {
+    "narrator": "Walt Combs",
+    "delivery_mode": "calm-explainer",
+    "tone_flavor": "calm, older, unhurried, trustworthy neighbour - per channel-persona.home-hacks.json narrator_persona",
+    "voice_id": "en-US-AndrewNeural",
+    "voice_rate": "-4%",
+    "tts_provider": "edge-tts (free)"
+  },
+  "target_seconds": 1200,
+  "target_minutes": 20,
+  "aspect": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "goal": "watch-time",
+  "audience": "mixed",
+  "conversion": "nothing",
+  "honesty_guard": "see niches/home-hacks.json script.honesty_guard - every number defensible. Central claims sourced to UF/IFAS Extension (ask.ifas.ufl.edu/publication/IN1045) and UF News (archive.news.ufl.edu, Jonathan Day quote), both read start-to-finish via WebFetch, not from a search summary. Never claim ANY method 'kills every mosquito' - that is exactly the overclaim this video corrects. State the real UF flight-distance nuance (some species 500ft, others miles) honestly rather than implying source reduction alone solves everything.",
+  "growth_rules_note": "mid-roll CTA ~40-60% runtime, close CTA, retention loop opened in first 30s (must be genuinely true - the payoff is that the viral trap trick itself is the thing debunked, sourced to UF's own entomologists), real captured evidence (UF/IFAS + UF News pages) for the central claim, lint_script.py gate before VO",
+  "visual_pipeline": "build_longform.py (Ken Burns) + plan_beats.py + gen_captions_ass.py (burned ASS) + sfx-plan.json (beats.json-keyed, no timeline.json) + packaging with the single-thumbnail template (2026-08-04 standing preference, positioned per-video not fixed)",
+  "thumbnail_note": "SINGLE thumbnail only per 2026-08-04 standing preference (see .claude/skills/packaging/SKILL.md). Position Walt on whichever side of the chosen photo is emptiest; do not default to a fixed --face-at.",
+  "stage": "script-drafted-awaiting-approval",
+  "stages": {
+    "intake": { "status": "done", "note": "topic/angle/runtime confirmed by user 2026-08-04 via AskUserQuestion (2 rounds: topic choice among 3 research-backed options, then angle+runtime confirmation)" },
+    "asset_manifest": { "status": "done", "note": "uf-ifas-ipm-mosquitoes.png + uf-news-co2-traps-no-magic-bullet.png captured and verified (opened both, confirmed real pages not bot-blocks) in media/projects/mosquito-trap-truth/evidence/" },
+    "research_facts": { "status": "done", "note": "UF/IFAS IN1045 (flight distance 500ft-miles by species, source reduction 'most important technique', ineffective list: bug zappers/garlic/vitamin B/bracelets/ultrasonic/dragonfly mimics) and UF News 2005 (Jonathan Day 'grains of sand on the beach' quote, Dan Kline on proper trap use, Roxanne Rutledge on perceived vs guaranteed effectiveness) both read start-to-finish via WebFetch" },
+    "script": { "status": "awaiting-approval", "note": "3155 words, tools/lint_script.py CLARITY GATE PASSED (avg sentence 12.1w, grade 5.8, 5% long sentences, stakes-in-hook yes). Sign-off line 'That's the old way. Still works.' kept identical to videos 1-2 per narrator_persona consistency_rule." },
+    "voiceover": { "status": "done", "note": "edge-tts en-US-AndrewNeural -4%. Script expanded twice (2929->3155->3472 words) to land runtime in the +/-8% tolerance; en-US-AndrewNeural ran faster (178wpm) than the recorded voice-rates.json baseline (171.4) on this short-sentence script." },
+    "word_timing": { "status": "done", "note": "AssemblyAI ASR alignment (align_asr.py) - needed a manually-generated work/script_spoken.txt first (tts_edge.py doesn't write one)." },
+    "beats": { "status": "done", "note": "151 beats via plan_beats.py --niche home-hacks" },
+    "visuals": { "status": "done", "note": "build_longform.py, 151 image beats. QA pass found the 2 EVIDENCE beats (EVIDENCE-uf-ifas-ipm, EVIDENCE-uf-news-magic-bullet) were never wired to the real captured screenshots - fetch_stock.py had resolved them as literal search queries instead, returning unrelated stock photos. Fixed by copying the verified evidence PNGs into work/images/ and patching beats.json directly (22 beat entries). Also found ~10/85 auto-fetched stock images were wrong-subject or showed strangers' faces (European wine-barrel farmhouse for 'rain barrel', a foreign man's face for 'standing water yard', fishing nets for 'screen mesh', Walt Disney Concert Hall for 'walt sign off warm', a chemistry lab for 'repellent bottle', a ball pit for 'kiddie pool', etc.) - all replaced with better-queried re-fetches after a manual visual QA pass." },
+    "captions": { "status": "done", "note": "gen_captions_ass.py - first pass produced 0% stressed words because it reads work/caption-plan.json which didn't exist yet; fixed by running gen_captions_emphasis.py --plan-only first (472/3472 words, 13.6% stressed) then re-burning." },
+    "sfx": { "status": "done", "note": "7 cues (sfx-plan.json). First render silently truncated to 60s - mix_sfx.py defaults render length to render.end_s or 60 if unset. Fixed by adding end_s:1173.9 to the plan / passing --end. Also: mix_sfx.py's positional arg is the PLAN FILE path, not the project dir (differs from every other tool in this pipeline)." },
+    "music": { "status": "done", "note": "docu-pluck bed @-5dB via mix_music.py (defaults to full base length, unlike mix_sfx.py - verified 1173.9s output)." },
+    "packaging": { "status": "done", "note": "single thumbnail only (2026-08-04 standing rule) - mosquito-on-skin photo, Walt positioned small in the empty bottom-right corner (checked the image before picking --face-at, not a fixed default), title 'Why Your Mosquito Trap Doesn't Work (A University Entomologist Explains)', description.txt with real chapters from edited-transcript.json." },
+    "final_mix": { "status": "done", "note": "verified -14.01 LUFS / -0.92 dBTP" },
+    "deliverable_check": { "status": "done", "note": "SHIPPABLE - all checks PASS (9 real evidence screenshot instances counted, 13.6% word stress, runtime -2%) except the same non-blocking music-bed warning seen on video 2 (checker's detector can't find the bed signal after the intermediate -music.mp4 is deleted; the mix itself verified successfully at mix time)." },
+    "upload": { "status": "done", "note": "uploaded as private draft to The Forgotten Fix (home-hacks channel), video ID m5kB5rlEGAE" }
+  },
+  "cost_usd": 0.0
+}

@@ -1,0 +1,8 @@
+1,100+ AI employees just asked the government to slow them down. The AI Kill Switch Act would give DHS power to shut down frontier models — with $20M/day penalties for non-compliance. Here's what the bill actually says, who triggered it, and what it means if you build or rely on AI.
+
+Sources:
+- Pacing the Frontier letter: https://www.pacingthefrontier.com/
+- AI Kill Switch Act (Ars Technica): https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/
+- NBC News coverage: https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727
+
+Subscribe for the verdict in the first three minutes, the full breakdown for whoever stays. Like and drop your take in the comments — does the kill switch bill go far enough or not far enough?

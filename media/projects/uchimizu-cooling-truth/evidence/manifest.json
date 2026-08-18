@@ -1,0 +1,34 @@
+[
+ {
+  "name": "mdpi-solcerova-study",
+  "file": "mdpi-solcerova-study.png",
+  "url": "https://www.mdpi.com/2073-4441/10/6/741",
+  "source": "MDPI Water Journal - Solcerova et al. 2018, Uchimizu: A Cool(ing) Tradition to Locally Decrease Air Temperature",
+  "selector": null,
+  "captured_at": "2026-08-08T11:01:49"
+ },
+ {
+  "name": "tudelft-solcerova-study",
+  "file": "tudelft-solcerova-study.png",
+  "url": "https://research.tudelft.nl/en/publications/uchimizu-a-cooling-tradition-to-locally-decrease-air-temperature/",
+  "source": "TU Delft Research Portal - Solcerova et al. 2018, Uchimizu: A Cool(ing) Tradition to Locally Decrease Air Temperature",
+  "selector": null,
+  "captured_at": "2026-08-08T11:03:39"
+ },
+ {
+  "name": "tokyoweekender-uchimizu",
+  "file": "tokyoweekender-uchimizu.png",
+  "url": "https://www.tokyoweekender.com/art_and_culture/japanese-culture/uchimizu-the-japanese-tradition-of-sprinkling-water-to-beat-the-heat/",
+  "source": "Tokyo Weekender - Uchimizu: The Japanese Tradition of Sprinkling Water to Beat the Heat",
+  "selector": null,
+  "captured_at": "2026-08-08T11:04:42"
+ },
+ {
+  "name": "nippon-uchimizu",
+  "file": "nippon-uchimizu.png",
+  "url": "https://www.nippon.com/en/guide-to-japan/cs00016/",
+  "source": "Nippon.com - Uchimizu: Sprinkling Water for Heat Relief",
+  "selector": null,
+  "captured_at": "2026-08-08T11:06:30"
+ }
+]

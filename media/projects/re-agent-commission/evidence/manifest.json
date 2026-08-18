@@ -1,0 +1,34 @@
+[
+ {
+  "name": "nar-settlement-faq",
+  "file": "nar-settlement-faq.png",
+  "url": "https://www.nar.realtor/the-facts/nar-settlement-faqs",
+  "source": "NAR, official settlement FAQ",
+  "selector": null,
+  "captured_at": "2026-08-04T13:31:54"
+ },
+ {
+  "name": "redfin-commission-data",
+  "file": "redfin-commission-data.png",
+  "url": "https://www.redfin.com/news/commissions-q2-2025/",
+  "source": "Redfin, commission data Q2 2025",
+  "selector": null,
+  "captured_at": "2026-08-04T13:32:10"
+ },
+ {
+  "name": "bankrate-commission-rate",
+  "file": "bankrate-commission-rate.png",
+  "url": "https://www.bankrate.com/mortgages/agent-fees-commissions/",
+  "source": "Bankrate, real estate commissions",
+  "selector": null,
+  "captured_at": "2026-08-04T13:32:38"
+ },
+ {
+  "name": "clever-commission-survey",
+  "file": "clever-commission-survey.png",
+  "url": "https://listwithclever.com/real-estate-blog/6-percent-real-estate-commission-explained/",
+  "source": "ListWithClever, commission survey",
+  "selector": null,
+  "captured_at": "2026-08-04T13:33:54"
+ }
+]

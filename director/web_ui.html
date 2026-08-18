@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>AI Video OS — Director</title>
+<style>
+  :root{
+    --bg:#0d1117; --panel:#161b22; --panel2:#1c232c; --line:#30363d;
+    --text:#e6edf3; --muted:#8b949e; --accent:#6366F1; --teal:#4db8a8;
+    --amber:#f5d76e; --red:#e8879f; --green:#3fb950;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,sans-serif}
+  a{color:var(--accent)}
+  .wrap{max-width:1180px;margin:0 auto;padding:22px}
+  h1{font-size:20px;margin:0;font-weight:700;letter-spacing:.2px}
+  h1 span{color:var(--accent)}
+  .sub{color:var(--muted);font-size:13px;margin-top:2px}
+  .mono{font-family:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace}
+  .row{display:flex;gap:18px;flex-wrap:wrap}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px}
+  .section-title{font-size:12px;letter-spacing:2px;text-transform:uppercase;color:var(--muted);margin:26px 0 10px}
+  /* providers */
+  .provs{display:flex;gap:10px;flex-wrap:wrap}
+  .prov{display:flex;align-items:center;gap:8px;background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:7px 13px;font-size:13px}
+  .dot{width:9px;height:9px;border-radius:50%;flex:none}
+  .ok{background:var(--green)} .off{background:#5a6169}
+  .tier{font-size:11px;color:var(--muted)}
+  /* layout */
+  .grid{display:grid;grid-template-columns:300px 1fr;gap:18px;align-items:start}
+  @media(max-width:820px){.grid{grid-template-columns:1fr}}
+  .job{padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--panel);cursor:pointer;margin-bottom:10px}
+  .job:hover{border-color:var(--accent)}
+  .job.active{border-color:var(--accent);background:var(--panel2)}
+  .job .name{font-weight:600}
+  .bar{height:6px;background:#20262e;border-radius:4px;margin-top:9px;overflow:hidden}
+  .bar > i{display:block;height:100%;background:linear-gradient(90deg,var(--accent),var(--teal))}
+  .muted{color:var(--muted)}
+  .chips{display:flex;gap:8px;flex-wrap:wrap;margin:4px 0 2px}
+  .chip{font-size:12px;background:var(--panel2);border:1px solid var(--line);border-radius:999px;padding:4px 11px;color:var(--muted)}
+  .chip b{color:var(--text);font-weight:600}
+  /* pipeline */
+  .stage{display:flex;align-items:center;gap:12px;padding:9px 4px;border-bottom:1px solid #20262e}
+  .stage:last-child{border-bottom:0}
+  .st-ic{width:20px;text-align:center;flex:none}
+  .st-name{width:110px;font-weight:500}
+  .st-kind{font-size:11px;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:1px 7px}
+  .st-gate{font-size:11px;color:var(--amber)}
+  .st-note{font-size:12px;color:var(--muted)}
+  .done .st-name{color:var(--teal)}
+  .pending{opacity:.72}
+  button{font:inherit;border:1px solid var(--line);background:var(--panel2);color:var(--text);border-radius:9px;padding:9px 16px;cursor:pointer}
+  button.primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+  button:disabled{opacity:.5;cursor:default}
+  .gate{border:1px solid var(--amber);background:rgba(245,215,110,.06);border-radius:12px;padding:16px;margin-top:14px}
+  .gate h3{margin:0 0 4px;font-size:15px;color:var(--amber)}
+  video,img.thumb{max-width:100%;border-radius:10px;border:1px solid var(--line);background:#000}
+  .thumbs{display:flex;gap:10px;flex-wrap:wrap}
+  img.thumb{width:31%;min-width:180px}
+  pre.log{background:#0a0e13;border:1px solid var(--line);border-radius:9px;padding:11px;font-size:12.5px;max-height:220px;overflow:auto;white-space:pre-wrap;color:#c9d1d9}
+  .cost{font-family:"JetBrains Mono",monospace;color:var(--muted);font-size:13px;margin-top:8px}
+  .empty{color:var(--muted);padding:30px 6px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div style="display:flex;justify-content:space-between;align-items:flex-end;gap:12px;flex-wrap:wrap">
+    <div>
+      <h1>AI Video <span>OS</span> — Director</h1>
+      <div class="sub">Slice 2 — the web UI over the resumable job orchestrator · co-pilot with checkpoints</div>
+    </div>
+    <button onclick="loadAll()">↻ Refresh</button>
+  </div>
+
+  <div class="section-title">Providers · tiered (free floor + paid pro)</div>
+  <div class="provs" id="provs"></div>
+
+  <div class="section-title">Videos (jobs)</div>
+  <div class="grid">
+    <div id="joblist"></div>
+    <div id="detail"><div class="card empty">Select a video to see its pipeline.</div></div>
+  </div>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+let JOBS = [], CUR = null;
+
+async function api(path, opts){ const r = await fetch(path, opts); if(!r.ok) throw new Error(path+' '+r.status); return r.json(); }
+
+function provRow(p){
+  const cls = p.available ? 'ok' : 'off';
+  return `<div class="prov" title="${p.detail.replace(/"/g,'')}">
+    <span class="dot ${cls}"></span>${p.capability}
+    <span class="tier">${p.impl} · ${p.tier}</span></div>`;
+}
+
+function jobCard(j){
+  const pct = Math.round(100*j.done/j.total);
+  return `<div class="job ${CUR===j.slug?'active':''}" onclick="openJob('${j.slug}')">
+    <div class="name">${j.slug}</div>
+    <div class="muted" style="font-size:12.5px">${j.running?'<span style="color:var(--green)">● running</span> · ':''}${j.source||'—'} · ${j.persona||'—'} · next: <b>${j.next||'done'}</b></div>
+    <div class="bar"><i style="width:${pct}%"></i></div>
+    <div class="muted" style="font-size:11.5px;margin-top:6px">${j.done}/${j.total} stages · $${(j.cost_usd||0).toFixed(2)}</div>
+  </div>`;
+}
+
+function stageRow(s){
+  const ic = s.status==='done' ? '✓' : (s.gate ? '⚑' : '○');
+  const cls = s.status==='done' ? 'done' : 'pending';
+  return `<div class="stage ${cls}">
+    <div class="st-ic" style="color:${s.status==='done'?'var(--teal)':(s.gate?'var(--amber)':'var(--muted)')}">${ic}</div>
+    <div class="st-name">${s.name}</div>
+    <div class="st-kind">${s.kind}</div>
+    <div class="st-gate">${s.gate?('⇢ '+s.gate):''}</div>
+    <div class="st-note">${s.note||''}</div>
+  </div>`;
+}
+
+function artURL(p){ return '/api/artifact?path='+encodeURIComponent(p); }
+
+function renderDetail(d){
+  const plan = d.plan||{};
+  const chips = [['source',plan.source&&plan.source.type],['persona',(plan.persona&&plan.persona.delivery_mode)],
+    ['length',plan.target_s?plan.target_s+'s':null],['goal',plan.goal],['conversion',plan.conversion]]
+    .filter(x=>x[1]).map(x=>`<span class="chip">${x[0]} <b>${x[1]}</b></span>`).join('');
+  let preview='';
+  if(d.preview_path) preview += `<div style="margin-top:12px"><video src="${artURL(d.preview_path)}" controls></video></div>`;
+  let thumbs='';
+  if(d.thumbs&&d.thumbs.length) thumbs = `<div class="thumbs" style="margin-top:12px">`+d.thumbs.map(t=>`<img class="thumb" src="${artURL(t)}">`).join('')+`</div>`;
+  const nextBtn = d.running
+    ? `<button disabled>● running in background…</button>`
+    : (d.next ? `<button class="primary" id="runbtn" onclick="streamRun('${d.slug}', true)">▶ Run next: ${d.next}</button>`
+              : `<button disabled>✓ All stages complete</button>`);
+  $('#detail').innerHTML = `<div class="card">
+    <div style="display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap">
+      <div style="font-weight:700;font-size:17px">${d.slug}</div>
+      <div class="cost">cost: $${(d.cost_usd||0).toFixed(2)}</div>
+    </div>
+    <div class="chips" style="margin-top:8px">${chips||'<span class="chip muted">no plan.json (pre-Director project)</span>'}</div>
+    <div style="margin:14px 0 6px">${d.stages.map(stageRow).join('')}</div>
+    <div style="margin-top:12px">${nextBtn}</div>
+    ${(d.last_run && !d.running) ? `<div class="muted" style="font-size:12.5px;margin-top:9px">
+       last run <span class="mono">${d.last_run.run_id}</span> ·
+       <b style="color:${d.last_run.state==='interrupted'?'var(--amber)':'var(--teal)'}">${d.last_run.state}</b>
+       ${d.last_run.stage?(' · '+d.last_run.stage):''} · ${d.last_run.events} log lines
+       <button style="padding:3px 10px;font-size:12px;margin-left:8px" onclick="streamRun('${d.slug}', false)">view log</button>
+     </div>` : ''}
+    ${preview}${thumbs}
+    <div id="runout"></div>
+  </div>`;
+}
+
+function resultCard(slug, r){
+  if(r.error) return `<div class="gate"><h3>! run failed</h3><pre class="log">${r.error}</pre></div>`;
+  if(r.interrupted) return `<div class="gate"><h3>⚑ run interrupted</h3>
+    <div class="muted" style="font-size:13px">${r.note} — the log above was recovered from disk. Click Run next to retry the stage.</div></div>`;
+  if(r.done)  return `<div class="gate"><h3>✓ all stages complete</h3></div>`;
+  if(r.kind==='agent'){
+    const a=r.agent;
+    if(a){ // unavailable → show the assembled worker plan
+      return `<div class="gate"><h3>⚑ ${r.stage} — creative stage (Claude Agent SDK)</h3>
+        <div class="muted" style="font-size:13px">agent unavailable: ${a.reason}</div>
+        <pre class="log">model: ${a.plan.model}
+mode:  ${a.plan.permission_mode}   tools: ${a.plan.allowed_tools.length}
+loads: ${a.plan.loads_skills_from}
+task:  ${a.plan.prompt}</pre></div>`;
+    }
+    return `<div class="gate"><h3>${r.ok?('✓ '+r.stage+' complete'):('! '+r.stage+' did not finish')}</h3>
+      ${r.gate?`<div class="muted" style="font-size:13px">Checkpoint: <b>${r.gate}</b> — review, then Run next.</div>
+      <div style="margin-top:10px"><button class="primary" onclick="openJob('${slug}')">✓ Approve & continue</button></div>`:''}</div>`;
+  }
+  return `<div class="gate"><h3>${r.ok?('✓ '+r.stage+' complete'):('! '+r.stage+' did not finish')}</h3>
+    ${r.gate?`<div class="muted" style="font-size:13px">Checkpoint: <b>${r.gate}</b> — review below, then Run next to continue.</div>
+    <div style="margin-top:10px"><button class="primary" onclick="openJob('${slug}')">✓ Approve & continue</button></div>`:''}</div>`;
+}
+
+let ES = null;   // at most one live subscription per tab
+
+// Subscribe to the server-side background run. start=true starts one if idle (the Run-next button);
+// start=false only attaches to an already-running job (re-attach after refresh / second viewer).
+// Closing the tab does NOT stop the run — it keeps going server-side and replays on reconnect.
+function streamRun(slug, start){
+  if(ES){ ES.close(); ES=null; }
+  const btn = $('#runbtn'); if(btn && start){btn.disabled=true; btn.textContent='… streaming';}
+  $('#runout').innerHTML = `<div class="gate"><h3>▶ ${start?'running':'attached to background run'}…
+    <span class="muted" style="font-weight:400;font-size:12px">(runs server-side — safe to close this tab)</span></h3>
+    <pre class="log" id="livelog"></pre></div>`;
+  const log = $('#livelog');
+  let finished = false;
+  const es = new EventSource('/api/jobs/'+slug+'/run-stream'+(start?'?start=1':''));
+  ES = es;
+  es.onmessage = async (e)=>{
+    const ev = JSON.parse(e.data);
+    if(ev.type==='log'){ log.textContent += ev.line+'\n'; log.scrollTop = log.scrollHeight; }
+    else if(ev.type==='ping'){ /* heartbeat */ }
+    else if(ev.type==='done'){
+      finished = true; es.close(); if(ES===es) ES=null;
+      if(ev.result && ev.result.idle){ $('#runout').innerHTML=''; return; }  // nothing was running
+      await openJob(slug);                          // refresh pipeline + preview
+      $('#runout').innerHTML = resultCard(slug, ev.result);
+      window.scrollTo({top:document.body.scrollHeight, behavior:'smooth'});
+    }
+  };
+  es.onerror = async ()=>{ if(finished) return; es.close(); if(ES===es) ES=null;
+    await openJob(slug);
+    $('#runout').innerHTML = `<div class="gate"><h3>! stream dropped</h3>
+      <div class="muted">The run may still be going server-side — reopen this job to re-attach.</div></div>`; };
+}
+
+async function openJob(slug){
+  CUR = slug;
+  const d = await api('/api/jobs/'+slug);
+  $('#joblist').innerHTML = JOBS.map(jobCard).join('');
+  renderDetail(d);
+  // A background run is in flight (e.g. started before a refresh) — re-attach and replay its log.
+  if(d.running) streamRun(slug, false);
+}
+
+async function loadAll(){
+  const provs = await api('/api/providers');
+  $('#provs').innerHTML = provs.map(provRow).join('');
+  JOBS = await api('/api/jobs');
+  $('#joblist').innerHTML = JOBS.length ? JOBS.map(jobCard).join('') : '<div class="muted">No videos under videos/.</div>';
+  if(CUR) openJob(CUR);
+}
+loadAll();
+</script>
+</body>
+</html>

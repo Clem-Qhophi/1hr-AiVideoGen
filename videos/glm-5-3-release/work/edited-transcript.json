@@ -1,0 +1,2770 @@
+{
+ "words": [
+  {
+   "text": "Zhipu",
+   "start": 87,
+   "end": 438
+  },
+  {
+   "text": "AI",
+   "start": 449,
+   "end": 855
+  },
+  {
+   "text": "just",
+   "start": 921,
+   "end": 1228
+  },
+  {
+   "text": "released",
+   "start": 1239,
+   "end": 1633
+  },
+  {
+   "text": "GLM-5",
+   "start": 1644,
+   "end": 2719
+  },
+  {
+   "text": ".",
+   "start": 2730,
+   "end": 2960
+  },
+  {
+   "text": "3",
+   "start": 2971,
+   "end": 3355
+  },
+  {
+   "text": "jumping",
+   "start": 3640,
+   "end": 3903
+  },
+  {
+   "text": "to",
+   "start": 3914,
+   "end": 4046
+  },
+  {
+   "text": "eighty-four",
+   "start": 4057,
+   "end": 4495
+  },
+  {
+   "text": "point",
+   "start": 4506,
+   "end": 4758
+  },
+  {
+   "text": "five",
+   "start": 4769,
+   "end": 5021
+  },
+  {
+   "text": "percent",
+   "start": 5032,
+   "end": 5416
+  },
+  {
+   "text": "on",
+   "start": 5427,
+   "end": 5515
+  },
+  {
+   "text": "cybersecurity",
+   "start": 5526,
+   "end": 6217
+  },
+  {
+   "text": "tests",
+   "start": 6228,
+   "end": 6600
+  },
+  {
+   "text": "to",
+   "start": 6611,
+   "end": 6721
+  },
+  {
+   "text": "beat",
+   "start": 6732,
+   "end": 6973
+  },
+  {
+   "text": "both",
+   "start": 7028,
+   "end": 7258
+  },
+  {
+   "text": "Anthropic",
+   "start": 7269,
+   "end": 7861
+  },
+  {
+   "text": "and",
+   "start": 8059,
+   "end": 8190
+  },
+  {
+   "text": "OpenAI",
+   "start": 8201,
+   "end": 8793
+  },
+  {
+   "text": "But",
+   "start": 9166,
+   "end": 9254
+  },
+  {
+   "text": "there",
+   "start": 9265,
+   "end": 9396
+  },
+  {
+   "text": "is",
+   "start": 9407,
+   "end": 9495
+  },
+  {
+   "text": "a",
+   "start": 9506,
+   "end": 9572
+  },
+  {
+   "text": "two-week",
+   "start": 9583,
+   "end": 9999
+  },
+  {
+   "text": "security",
+   "start": 10010,
+   "end": 10471
+  },
+  {
+   "text": "catch",
+   "start": 10482,
+   "end": 10822
+  },
+  {
+   "text": "that",
+   "start": 10833,
+   "end": 10975
+  },
+  {
+   "text": "changes",
+   "start": 10986,
+   "end": 11392
+  },
+  {
+   "text": "what",
+   "start": 11403,
+   "end": 11524
+  },
+  {
+   "text": "you",
+   "start": 11535,
+   "end": 11633
+  },
+  {
+   "text": "pay",
+   "start": 11644,
+   "end": 11984
+  },
+  {
+   "text": "and",
+   "start": 12127,
+   "end": 12247
+  },
+  {
+   "text": "when",
+   "start": 12258,
+   "end": 12368
+  },
+  {
+   "text": "you",
+   "start": 12379,
+   "end": 12456
+  },
+  {
+   "text": "can",
+   "start": 12467,
+   "end": 12609
+  },
+  {
+   "text": "run",
+   "start": 12620,
+   "end": 12752
+  },
+  {
+   "text": "it",
+   "start": 12763,
+   "end": 12817
+  },
+  {
+   "text": "on",
+   "start": 12828,
+   "end": 12916
+  },
+  {
+   "text": "your",
+   "start": 12927,
+   "end": 13048
+  },
+  {
+   "text": "own",
+   "start": 13059,
+   "end": 13179
+  },
+  {
+   "text": "hardware",
+   "start": 13190,
+   "end": 13640
+  },
+  {
+   "text": "This",
+   "start": 14002,
+   "end": 14166
+  },
+  {
+   "text": "release",
+   "start": 14177,
+   "end": 14495
+  },
+  {
+   "text": "lands",
+   "start": 14506,
+   "end": 14857
+  },
+  {
+   "text": "as",
+   "start": 14868,
+   "end": 15032
+  },
+  {
+   "text": "Z.ai",
+   "start": 15043,
+   "end": 15833
+  },
+  {
+   "text": "scales",
+   "start": 15844,
+   "end": 16217
+  },
+  {
+   "text": "up",
+   "start": 16228,
+   "end": 16392
+  },
+  {
+   "text": "after",
+   "start": 16469,
+   "end": 16666
+  },
+  {
+   "text": "their",
+   "start": 16677,
+   "end": 16787
+  },
+  {
+   "text": "Hong",
+   "start": 16798,
+   "end": 17050
+  },
+  {
+   "text": "Kong",
+   "start": 17061,
+   "end": 17324
+  },
+  {
+   "text": "IPO",
+   "start": 17335,
+   "end": 17785
+  },
+  {
+   "text": "They",
+   "start": 18157,
+   "end": 18278
+  },
+  {
+   "text": "built",
+   "start": 18289,
+   "end": 18585
+  },
+  {
+   "text": "GLM-5",
+   "start": 18651,
+   "end": 19780
+  },
+  {
+   "text": ".",
+   "start": 19791,
+   "end": 20021
+  },
+  {
+   "text": "3",
+   "start": 20032,
+   "end": 20394
+  },
+  {
+   "text": "on",
+   "start": 20405,
+   "end": 20504
+  },
+  {
+   "text": "Huawei",
+   "start": 20515,
+   "end": 20910
+  },
+  {
+   "text": "Ascend",
+   "start": 20921,
+   "end": 21217
+  },
+  {
+   "text": "chips",
+   "start": 21228,
+   "end": 21600
+  },
+  {
+   "text": "creating",
+   "start": 21864,
+   "end": 22225
+  },
+  {
+   "text": "a",
+   "start": 22236,
+   "end": 22269
+  },
+  {
+   "text": "massive",
+   "start": 22280,
+   "end": 22774
+  },
+  {
+   "text": "seven",
+   "start": 22785,
+   "end": 23092
+  },
+  {
+   "text": "hundred",
+   "start": 23103,
+   "end": 23377
+  },
+  {
+   "text": "forty-three",
+   "start": 23388,
+   "end": 23947
+  },
+  {
+   "text": "billion",
+   "start": 23958,
+   "end": 24331
+  },
+  {
+   "text": "parameter",
+   "start": 24342,
+   "end": 24758
+  },
+  {
+   "text": "model",
+   "start": 24769,
+   "end": 25087
+  },
+  {
+   "text": "without",
+   "start": 25263,
+   "end": 25592
+  },
+  {
+   "text": "relying",
+   "start": 25603,
+   "end": 26008
+  },
+  {
+   "text": "on",
+   "start": 26019,
+   "end": 26173
+  },
+  {
+   "text": "western",
+   "start": 26184,
+   "end": 26469
+  },
+  {
+   "text": "hardware",
+   "start": 26480,
+   "end": 26951
+  },
+  {
+   "text": "It",
+   "start": 27313,
+   "end": 27379
+  },
+  {
+   "text": "is",
+   "start": 27390,
+   "end": 27510
+  },
+  {
+   "text": "built",
+   "start": 27521,
+   "end": 27752
+  },
+  {
+   "text": "for",
+   "start": 27763,
+   "end": 27916
+  },
+  {
+   "text": "coding",
+   "start": 27927,
+   "end": 28278
+  },
+  {
+   "text": "agents",
+   "start": 28289,
+   "end": 28684
+  },
+  {
+   "text": "and",
+   "start": 28760,
+   "end": 28925
+  },
+  {
+   "text": "finding",
+   "start": 28936,
+   "end": 29385
+  },
+  {
+   "text": "hidden",
+   "start": 29396,
+   "end": 29616
+  },
+  {
+   "text": "security",
+   "start": 29627,
+   "end": 30054
+  },
+  {
+   "text": "bugs",
+   "start": 30065,
+   "end": 30493
+  },
+  {
+   "text": "Here",
+   "start": 30877,
+   "end": 31074
+  },
+  {
+   "text": "is",
+   "start": 31085,
+   "end": 31173
+  },
+  {
+   "text": "the",
+   "start": 31184,
+   "end": 31282
+  },
+  {
+   "text": "under",
+   "start": 31293,
+   "end": 31557
+  },
+  {
+   "text": "3-minute",
+   "start": 31568,
+   "end": 32105
+  },
+  {
+   "text": "verdict",
+   "start": 32116,
+   "end": 32478
+  },
+  {
+   "text": "on",
+   "start": 32587,
+   "end": 32719
+  },
+  {
+   "text": "what",
+   "start": 32730,
+   "end": 32905
+  },
+  {
+   "text": "this",
+   "start": 32916,
+   "end": 33103
+  },
+  {
+   "text": "means",
+   "start": 33114,
+   "end": 33432
+  },
+  {
+   "text": "for",
+   "start": 33443,
+   "end": 33552
+  },
+  {
+   "text": "your",
+   "start": 33563,
+   "end": 33651
+  },
+  {
+   "text": "daily",
+   "start": 33662,
+   "end": 33914
+  },
+  {
+   "text": "work",
+   "start": 33925,
+   "end": 34276
+  },
+  {
+   "text": "GLM-5",
+   "start": 34638,
+   "end": 35701
+  },
+  {
+   "text": ".",
+   "start": 35712,
+   "end": 35931
+  },
+  {
+   "text": "3",
+   "start": 35943,
+   "end": 36337
+  },
+  {
+   "text": "is",
+   "start": 36425,
+   "end": 36535
+  },
+  {
+   "text": "now",
+   "start": 36546,
+   "end": 36721
+  },
+  {
+   "text": "China's",
+   "start": 36732,
+   "end": 37105
+  },
+  {
+   "text": "most",
+   "start": 37116,
+   "end": 37423
+  },
+  {
+   "text": "dangerous",
+   "start": 37434,
+   "end": 37872
+  },
+  {
+   "text": "open-weights",
+   "start": 37883,
+   "end": 38355
+  },
+  {
+   "text": "threat",
+   "start": 38366,
+   "end": 38684
+  },
+  {
+   "text": "to",
+   "start": 38771,
+   "end": 38859
+  },
+  {
+   "text": "closed",
+   "start": 38870,
+   "end": 39177
+  },
+  {
+   "text": "frontier",
+   "start": 39188,
+   "end": 39572
+  },
+  {
+   "text": "models",
+   "start": 39583,
+   "end": 40054
+  },
+  {
+   "text": "If",
+   "start": 40416,
+   "end": 40515
+  },
+  {
+   "text": "your",
+   "start": 40526,
+   "end": 40635
+  },
+  {
+   "text": "team",
+   "start": 40646,
+   "end": 40899
+  },
+  {
+   "text": "builds",
+   "start": 40910,
+   "end": 41217
+  },
+  {
+   "text": "terminal",
+   "start": 41228,
+   "end": 41622
+  },
+  {
+   "text": "agents",
+   "start": 41633,
+   "end": 42061
+  },
+  {
+   "text": "or",
+   "start": 42138,
+   "end": 42291
+  },
+  {
+   "text": "security",
+   "start": 42302,
+   "end": 42828
+  },
+  {
+   "text": "auditing",
+   "start": 42839,
+   "end": 43168
+  },
+  {
+   "text": "tools",
+   "start": 43179,
+   "end": 43552
+  },
+  {
+   "text": "it",
+   "start": 43892,
+   "end": 43958
+  },
+  {
+   "text": "delivers",
+   "start": 43969,
+   "end": 44374
+  },
+  {
+   "text": "senior",
+   "start": 44385,
+   "end": 44824
+  },
+  {
+   "text": "analyst",
+   "start": 44835,
+   "end": 45142
+  },
+  {
+   "text": "performance",
+   "start": 45153,
+   "end": 45767
+  },
+  {
+   "text": "On",
+   "start": 46129,
+   "end": 46217
+  },
+  {
+   "text": "hard",
+   "start": 46228,
+   "end": 46491
+  },
+  {
+   "text": "coding",
+   "start": 46502,
+   "end": 46754
+  },
+  {
+   "text": "tasks",
+   "start": 46765,
+   "end": 47280
+  },
+  {
+   "text": "it",
+   "start": 47478,
+   "end": 47532
+  },
+  {
+   "text": "handles",
+   "start": 47543,
+   "end": 47916
+  },
+  {
+   "text": "deep",
+   "start": 47971,
+   "end": 48135
+  },
+  {
+   "text": "software",
+   "start": 48146,
+   "end": 48596
+  },
+  {
+   "text": "work",
+   "start": 48607,
+   "end": 48848
+  },
+  {
+   "text": "without",
+   "start": 48903,
+   "end": 49298
+  },
+  {
+   "text": "losing",
+   "start": 49309,
+   "end": 49594
+  },
+  {
+   "text": "track",
+   "start": 49605,
+   "end": 49912
+  },
+  {
+   "text": "of",
+   "start": 49923,
+   "end": 49978
+  },
+  {
+   "text": "your",
+   "start": 49989,
+   "end": 50065
+  },
+  {
+   "text": "codebase",
+   "start": 50076,
+   "end": 50679
+  },
+  {
+   "text": "You",
+   "start": 51052,
+   "end": 51107
+  },
+  {
+   "text": "do",
+   "start": 51118,
+   "end": 51217
+  },
+  {
+   "text": "not",
+   "start": 51228,
+   "end": 51425
+  },
+  {
+   "text": "need",
+   "start": 51436,
+   "end": 51622
+  },
+  {
+   "text": "to",
+   "start": 51633,
+   "end": 51721
+  },
+  {
+   "text": "rebuild",
+   "start": 51732,
+   "end": 52083
+  },
+  {
+   "text": "your",
+   "start": 52094,
+   "end": 52192
+  },
+  {
+   "text": "pipeline",
+   "start": 52203,
+   "end": 52686
+  },
+  {
+   "text": "It",
+   "start": 53048,
+   "end": 53114
+  },
+  {
+   "text": "drops",
+   "start": 53125,
+   "end": 53443
+  },
+  {
+   "text": "directly",
+   "start": 53453,
+   "end": 54013
+  },
+  {
+   "text": "into",
+   "start": 54024,
+   "end": 54210
+  },
+  {
+   "text": "the",
+   "start": 54221,
+   "end": 54320
+  },
+  {
+   "text": "Z.ai",
+   "start": 54331,
+   "end": 55208
+  },
+  {
+   "text": "coding",
+   "start": 55219,
+   "end": 55624
+  },
+  {
+   "text": "API",
+   "start": 55635,
+   "end": 56173
+  },
+  {
+   "text": "with",
+   "start": 56184,
+   "end": 56315
+  },
+  {
+   "text": "a",
+   "start": 56326,
+   "end": 56403
+  },
+  {
+   "text": "one",
+   "start": 56414,
+   "end": 56732
+  },
+  {
+   "text": "million",
+   "start": 56743,
+   "end": 57171
+  },
+  {
+   "text": "token",
+   "start": 57182,
+   "end": 57478
+  },
+  {
+   "text": "context",
+   "start": 57489,
+   "end": 57938
+  },
+  {
+   "text": "window",
+   "start": 57949,
+   "end": 58289
+  },
+  {
+   "text": "which",
+   "start": 58563,
+   "end": 58684
+  },
+  {
+   "text": "is",
+   "start": 58695,
+   "end": 58771
+  },
+  {
+   "text": "massive",
+   "start": 58782,
+   "end": 59166
+  },
+  {
+   "text": "working",
+   "start": 59177,
+   "end": 59484
+  },
+  {
+   "text": "memory",
+   "start": 59495,
+   "end": 59813
+  },
+  {
+   "text": "for",
+   "start": 59824,
+   "end": 59967
+  },
+  {
+   "text": "whole",
+   "start": 59978,
+   "end": 60153
+  },
+  {
+   "text": "codebases",
+   "start": 60164,
+   "end": 60800
+  },
+  {
+   "text": "In",
+   "start": 61162,
+   "end": 61293
+  },
+  {
+   "text": "real",
+   "start": 61304,
+   "end": 61491
+  },
+  {
+   "text": "testing",
+   "start": 61502,
+   "end": 61907
+  },
+  {
+   "text": "it",
+   "start": 62160,
+   "end": 62214
+  },
+  {
+   "text": "found",
+   "start": 62225,
+   "end": 62510
+  },
+  {
+   "text": "over",
+   "start": 62521,
+   "end": 62697
+  },
+  {
+   "text": "twenty-four",
+   "start": 62708,
+   "end": 63190
+  },
+  {
+   "text": "hundred",
+   "start": 63201,
+   "end": 63497
+  },
+  {
+   "text": "critical",
+   "start": 63508,
+   "end": 63892
+  },
+  {
+   "text": "security",
+   "start": 63903,
+   "end": 64331
+  },
+  {
+   "text": "bugs",
+   "start": 64342,
+   "end": 64638
+  },
+  {
+   "text": "across",
+   "start": 64649,
+   "end": 64989
+  },
+  {
+   "text": "hundreds",
+   "start": 65000,
+   "end": 65427
+  },
+  {
+   "text": "of",
+   "start": 65438,
+   "end": 65526
+  },
+  {
+   "text": "open-source",
+   "start": 65537,
+   "end": 65975
+  },
+  {
+   "text": "projects",
+   "start": 65986,
+   "end": 66611
+  },
+  {
+   "text": "If",
+   "start": 66973,
+   "end": 67072
+  },
+  {
+   "text": "your",
+   "start": 67083,
+   "end": 67203
+  },
+  {
+   "text": "engineering",
+   "start": 67214,
+   "end": 67697
+  },
+  {
+   "text": "stack",
+   "start": 67708,
+   "end": 68059
+  },
+  {
+   "text": "needs",
+   "start": 68070,
+   "end": 68388
+  },
+  {
+   "text": "automated",
+   "start": 68497,
+   "end": 68980
+  },
+  {
+   "text": "bug",
+   "start": 68991,
+   "end": 69199
+  },
+  {
+   "text": "fixes",
+   "start": 69210,
+   "end": 69714
+  },
+  {
+   "text": "and",
+   "start": 69846,
+   "end": 69967
+  },
+  {
+   "text": "security",
+   "start": 69978,
+   "end": 70405
+  },
+  {
+   "text": "triage",
+   "start": 70416,
+   "end": 70899
+  },
+  {
+   "text": "this",
+   "start": 71239,
+   "end": 71513
+  },
+  {
+   "text": "is",
+   "start": 71633,
+   "end": 71732
+  },
+  {
+   "text": "an",
+   "start": 71743,
+   "end": 71820
+  },
+  {
+   "text": "instant",
+   "start": 71875,
+   "end": 72182
+  },
+  {
+   "text": "contender",
+   "start": 72193,
+   "end": 72675
+  },
+  {
+   "text": "That",
+   "start": 73048,
+   "end": 73146
+  },
+  {
+   "text": "is",
+   "start": 73157,
+   "end": 73234
+  },
+  {
+   "text": "the",
+   "start": 73245,
+   "end": 73322
+  },
+  {
+   "text": "verdict",
+   "start": 73333,
+   "end": 73760
+  },
+  {
+   "text": "in",
+   "start": 73848,
+   "end": 73947
+  },
+  {
+   "text": "under",
+   "start": 74002,
+   "end": 74199
+  },
+  {
+   "text": "three",
+   "start": 74210,
+   "end": 74429
+  },
+  {
+   "text": "minutes",
+   "start": 74440,
+   "end": 74912
+  },
+  {
+   "text": "Now",
+   "start": 75274,
+   "end": 75394
+  },
+  {
+   "text": "let",
+   "start": 75405,
+   "end": 75515
+  },
+  {
+   "text": "us",
+   "start": 75526,
+   "end": 75646
+  },
+  {
+   "text": "look",
+   "start": 75657,
+   "end": 75800
+  },
+  {
+   "text": "at",
+   "start": 75811,
+   "end": 75866
+  },
+  {
+   "text": "the",
+   "start": 75877,
+   "end": 75942
+  },
+  {
+   "text": "verified",
+   "start": 75953,
+   "end": 76524
+  },
+  {
+   "text": "benchmark",
+   "start": 76535,
+   "end": 76929
+  },
+  {
+   "text": "data",
+   "start": 76940,
+   "end": 77203
+  },
+  {
+   "text": "Let",
+   "start": 77565,
+   "end": 77653
+  },
+  {
+   "text": "us",
+   "start": 77664,
+   "end": 77774
+  },
+  {
+   "text": "look",
+   "start": 77785,
+   "end": 77927
+  },
+  {
+   "text": "at",
+   "start": 77938,
+   "end": 77993
+  },
+  {
+   "text": "the",
+   "start": 78004,
+   "end": 78081
+  },
+  {
+   "text": "verified",
+   "start": 78092,
+   "end": 78673
+  },
+  {
+   "text": "benchmark",
+   "start": 78684,
+   "end": 79133
+  },
+  {
+   "text": "numbers",
+   "start": 79144,
+   "end": 79462
+  },
+  {
+   "text": "from",
+   "start": 79473,
+   "end": 79605
+  },
+  {
+   "text": "the",
+   "start": 79616,
+   "end": 79692
+  },
+  {
+   "text": "official",
+   "start": 79703,
+   "end": 80131
+  },
+  {
+   "text": "release",
+   "start": 80142,
+   "end": 80438
+  },
+  {
+   "text": "data",
+   "start": 80449,
+   "end": 80723
+  },
+  {
+   "text": "On",
+   "start": 81085,
+   "end": 81184
+  },
+  {
+   "text": "CyberGym",
+   "start": 81195,
+   "end": 81732
+  },
+  {
+   "text": "bug",
+   "start": 81743,
+   "end": 81962
+  },
+  {
+   "text": "finding",
+   "start": 81973,
+   "end": 82401
+  },
+  {
+   "text": "GLM-5",
+   "start": 82587,
+   "end": 83651
+  },
+  {
+   "text": ".",
+   "start": 83662,
+   "end": 83881
+  },
+  {
+   "text": "3",
+   "start": 83892,
+   "end": 84144
+  },
+  {
+   "text": "scores",
+   "start": 84155,
+   "end": 84572
+  },
+  {
+   "text": "eighty-four",
+   "start": 84703,
+   "end": 85120
+  },
+  {
+   "text": "point",
+   "start": 85131,
+   "end": 85372
+  },
+  {
+   "text": "five",
+   "start": 85383,
+   "end": 85624
+  },
+  {
+   "text": "percent",
+   "start": 85635,
+   "end": 86063
+  },
+  {
+   "text": "That",
+   "start": 86436,
+   "end": 86589
+  },
+  {
+   "text": "tops",
+   "start": 86600,
+   "end": 86875
+  },
+  {
+   "text": "Anthropic's",
+   "start": 86885,
+   "end": 87379
+  },
+  {
+   "text": "Mythos",
+   "start": 87390,
+   "end": 87785
+  },
+  {
+   "text": "5",
+   "start": 87796,
+   "end": 88114
+  },
+  {
+   "text": "at",
+   "start": 88234,
+   "end": 88311
+  },
+  {
+   "text": "eighty-three",
+   "start": 88443,
+   "end": 88826
+  },
+  {
+   "text": "point",
+   "start": 88837,
+   "end": 89100
+  },
+  {
+   "text": "eight",
+   "start": 89111,
+   "end": 89232
+  },
+  {
+   "text": "percent",
+   "start": 89243,
+   "end": 89649
+  },
+  {
+   "text": "and",
+   "start": 89923,
+   "end": 90032
+  },
+  {
+   "text": "OpenAI's",
+   "start": 90043,
+   "end": 90603
+  },
+  {
+   "text": "GPT-5",
+   "start": 90614,
+   "end": 91710
+  },
+  {
+   "text": ".",
+   "start": 91721,
+   "end": 91929
+  },
+  {
+   "text": "6",
+   "start": 91940,
+   "end": 92192
+  },
+  {
+   "text": "Sol",
+   "start": 92203,
+   "end": 92478
+  },
+  {
+   "text": "at",
+   "start": 92686,
+   "end": 92785
+  },
+  {
+   "text": "eighty-three",
+   "start": 92861,
+   "end": 93267
+  },
+  {
+   "text": "point",
+   "start": 93278,
+   "end": 93519
+  },
+  {
+   "text": "six",
+   "start": 93530,
+   "end": 93728
+  },
+  {
+   "text": "percent",
+   "start": 93739,
+   "end": 94166
+  },
+  {
+   "text": "On",
+   "start": 94528,
+   "end": 94682
+  },
+  {
+   "text": "DeepSWE",
+   "start": 94693,
+   "end": 95471
+  },
+  {
+   "text": "version",
+   "start": 95482,
+   "end": 95877
+  },
+  {
+   "text": "one",
+   "start": 95888,
+   "end": 96074
+  },
+  {
+   "text": "point",
+   "start": 96085,
+   "end": 96348
+  },
+  {
+   "text": "one",
+   "start": 96359,
+   "end": 96611
+  },
+  {
+   "text": "measuring",
+   "start": 96973,
+   "end": 97324
+  },
+  {
+   "text": "full",
+   "start": 97335,
+   "end": 97609
+  },
+  {
+   "text": "software",
+   "start": 97620,
+   "end": 98037
+  },
+  {
+   "text": "repairs",
+   "start": 98048,
+   "end": 98541
+  },
+  {
+   "text": "it",
+   "start": 98750,
+   "end": 98826
+  },
+  {
+   "text": "scored",
+   "start": 98837,
+   "end": 99144
+  },
+  {
+   "text": "sixty-six",
+   "start": 99155,
+   "end": 99835
+  },
+  {
+   "text": "point",
+   "start": 99846,
+   "end": 100109
+  },
+  {
+   "text": "nine",
+   "start": 100120,
+   "end": 100318
+  },
+  {
+   "text": "percent",
+   "start": 100328,
+   "end": 100778
+  },
+  {
+   "text": "That",
+   "start": 101151,
+   "end": 101239
+  },
+  {
+   "text": "is",
+   "start": 101250,
+   "end": 101326
+  },
+  {
+   "text": "a",
+   "start": 101337,
+   "end": 101414
+  },
+  {
+   "text": "big",
+   "start": 101425,
+   "end": 101655
+  },
+  {
+   "text": "jump",
+   "start": 101666,
+   "end": 101918
+  },
+  {
+   "text": "from",
+   "start": 101929,
+   "end": 102072
+  },
+  {
+   "text": "forty-six",
+   "start": 102083,
+   "end": 102609
+  },
+  {
+   "text": "point",
+   "start": 102620,
+   "end": 102828
+  },
+  {
+   "text": "two",
+   "start": 102839,
+   "end": 102982
+  },
+  {
+   "text": "percent",
+   "start": 102993,
+   "end": 103399
+  },
+  {
+   "text": "on",
+   "start": 103464,
+   "end": 103552
+  },
+  {
+   "text": "GLM-5",
+   "start": 103563,
+   "end": 104594
+  },
+  {
+   "text": ".",
+   "start": 104605,
+   "end": 104835
+  },
+  {
+   "text": "2",
+   "start": 104846,
+   "end": 105131
+  },
+  {
+   "text": "On",
+   "start": 105493,
+   "end": 105581
+  },
+  {
+   "text": "Terminal-Bench",
+   "start": 105592,
+   "end": 106271
+  },
+  {
+   "text": "three",
+   "start": 106326,
+   "end": 106589
+  },
+  {
+   "text": "point",
+   "start": 106600,
+   "end": 106853
+  },
+  {
+   "text": "zero",
+   "start": 106864,
+   "end": 107236
+  },
+  {
+   "text": "measuring",
+   "start": 107489,
+   "end": 107861
+  },
+  {
+   "text": "command-line",
+   "start": 107872,
+   "end": 108431
+  },
+  {
+   "text": "agent",
+   "start": 108443,
+   "end": 108706
+  },
+  {
+   "text": "work",
+   "start": 108717,
+   "end": 108980
+  },
+  {
+   "text": "it",
+   "start": 109210,
+   "end": 109309
+  },
+  {
+   "text": "jumped",
+   "start": 109320,
+   "end": 109594
+  },
+  {
+   "text": "from",
+   "start": 109605,
+   "end": 109758
+  },
+  {
+   "text": "four",
+   "start": 109769,
+   "end": 110010
+  },
+  {
+   "text": "point",
+   "start": 110021,
+   "end": 110241
+  },
+  {
+   "text": "six",
+   "start": 110252,
+   "end": 110581
+  },
+  {
+   "text": "to",
+   "start": 110592,
+   "end": 110657
+  },
+  {
+   "text": "twenty-eight",
+   "start": 110668,
+   "end": 111008
+  },
+  {
+   "text": "point",
+   "start": 111019,
+   "end": 111239
+  },
+  {
+   "text": "three",
+   "start": 111250,
+   "end": 111546
+  },
+  {
+   "text": "Now",
+   "start": 111907,
+   "end": 112127
+  },
+  {
+   "text": "if",
+   "start": 112193,
+   "end": 112302
+  },
+  {
+   "text": "you",
+   "start": 112313,
+   "end": 112390
+  },
+  {
+   "text": "want",
+   "start": 112401,
+   "end": 112587
+  },
+  {
+   "text": "verified",
+   "start": 112598,
+   "end": 113103
+  },
+  {
+   "text": "technical",
+   "start": 113114,
+   "end": 113508
+  },
+  {
+   "text": "breakdowns",
+   "start": 113519,
+   "end": 113969
+  },
+  {
+   "text": "the",
+   "start": 113980,
+   "end": 114067
+  },
+  {
+   "text": "same",
+   "start": 114078,
+   "end": 114342
+  },
+  {
+   "text": "day",
+   "start": 114353,
+   "end": 114605
+  },
+  {
+   "text": "new",
+   "start": 114616,
+   "end": 114912
+  },
+  {
+   "text": "AI",
+   "start": 114923,
+   "end": 115252
+  },
+  {
+   "text": "models",
+   "start": 115263,
+   "end": 115614
+  },
+  {
+   "text": "drop",
+   "start": 115625,
+   "end": 115986
+  },
+  {
+   "text": "hit",
+   "start": 116239,
+   "end": 116370
+  },
+  {
+   "text": "subscribe",
+   "start": 116381,
+   "end": 116853
+  },
+  {
+   "text": "right",
+   "start": 116864,
+   "end": 117017
+  },
+  {
+   "text": "now",
+   "start": 117028,
+   "end": 117280
+  },
+  {
+   "text": "We",
+   "start": 117653,
+   "end": 117730
+  },
+  {
+   "text": "cut",
+   "start": 117741,
+   "end": 117905
+  },
+  {
+   "text": "through",
+   "start": 117916,
+   "end": 118026
+  },
+  {
+   "text": "the",
+   "start": 118037,
+   "end": 118103
+  },
+  {
+   "text": "hype",
+   "start": 118114,
+   "end": 118410
+  },
+  {
+   "text": "so",
+   "start": 118541,
+   "end": 118651
+  },
+  {
+   "text": "you",
+   "start": 118662,
+   "end": 118782
+  },
+  {
+   "text": "know",
+   "start": 118793,
+   "end": 118991
+  },
+  {
+   "text": "what",
+   "start": 119002,
+   "end": 119111
+  },
+  {
+   "text": "is",
+   "start": 119122,
+   "end": 119210
+  },
+  {
+   "text": "actually",
+   "start": 119221,
+   "end": 119539
+  },
+  {
+   "text": "worth",
+   "start": 119550,
+   "end": 119758
+  },
+  {
+   "text": "using",
+   "start": 119769,
+   "end": 120065
+  },
+  {
+   "text": "On",
+   "start": 120427,
+   "end": 120515
+  },
+  {
+   "text": "the",
+   "start": 120526,
+   "end": 120592
+  },
+  {
+   "text": "Agents",
+   "start": 120603,
+   "end": 120986
+  },
+  {
+   "text": "Last",
+   "start": 120997,
+   "end": 121381
+  },
+  {
+   "text": "Exam",
+   "start": 121392,
+   "end": 121710
+  },
+  {
+   "text": "CLI",
+   "start": 121721,
+   "end": 122061
+  },
+  {
+   "text": "test",
+   "start": 122072,
+   "end": 122467
+  },
+  {
+   "text": "it",
+   "start": 122697,
+   "end": 122807
+  },
+  {
+   "text": "reached",
+   "start": 122818,
+   "end": 123081
+  },
+  {
+   "text": "twenty-eight",
+   "start": 123092,
+   "end": 123453
+  },
+  {
+   "text": "point",
+   "start": 123464,
+   "end": 123695
+  },
+  {
+   "text": "five",
+   "start": 123706,
+   "end": 124089
+  },
+  {
+   "text": "Zhipu",
+   "start": 124451,
+   "end": 124813
+  },
+  {
+   "text": "reached",
+   "start": 124824,
+   "end": 125120
+  },
+  {
+   "text": "this",
+   "start": 125131,
+   "end": 125339
+  },
+  {
+   "text": "purely",
+   "start": 125350,
+   "end": 125833
+  },
+  {
+   "text": "through",
+   "start": 125844,
+   "end": 126041
+  },
+  {
+   "text": "fine-tuning",
+   "start": 126052,
+   "end": 126677
+  },
+  {
+   "text": "which",
+   "start": 126918,
+   "end": 127061
+  },
+  {
+   "text": "means",
+   "start": 127072,
+   "end": 127269
+  },
+  {
+   "text": "specialized",
+   "start": 127280,
+   "end": 127872
+  },
+  {
+   "text": "post-training",
+   "start": 127883,
+   "end": 128442
+  },
+  {
+   "text": "on",
+   "start": 128453,
+   "end": 128552
+  },
+  {
+   "text": "Ascend",
+   "start": 128563,
+   "end": 128837
+  },
+  {
+   "text": "chips",
+   "start": 128848,
+   "end": 129254
+  },
+  {
+   "text": "This",
+   "start": 129627,
+   "end": 129780
+  },
+  {
+   "text": "proves",
+   "start": 129791,
+   "end": 130087
+  },
+  {
+   "text": "top-tier",
+   "start": 130098,
+   "end": 130581
+  },
+  {
+   "text": "reasoning",
+   "start": 130592,
+   "end": 130953
+  },
+  {
+   "text": "no",
+   "start": 130964,
+   "end": 131140
+  },
+  {
+   "text": "longer",
+   "start": 131151,
+   "end": 131524
+  },
+  {
+   "text": "requires",
+   "start": 131535,
+   "end": 132050
+  },
+  {
+   "text": "Nvidia",
+   "start": 132061,
+   "end": 132445
+  },
+  {
+   "text": "hardware",
+   "start": 132456,
+   "end": 132960
+  },
+  {
+   "text": "Now",
+   "start": 133322,
+   "end": 133464
+  },
+  {
+   "text": "let",
+   "start": 133475,
+   "end": 133585
+  },
+  {
+   "text": "us",
+   "start": 133596,
+   "end": 133695
+  },
+  {
+   "text": "pay",
+   "start": 133706,
+   "end": 133892
+  },
+  {
+   "text": "off",
+   "start": 133903,
+   "end": 134035
+  },
+  {
+   "text": "the",
+   "start": 134046,
+   "end": 134111
+  },
+  {
+   "text": "catch",
+   "start": 134122,
+   "end": 134363
+  },
+  {
+   "text": "we",
+   "start": 134375,
+   "end": 134462
+  },
+  {
+   "text": "mentioned",
+   "start": 134473,
+   "end": 134780
+  },
+  {
+   "text": "at",
+   "start": 134791,
+   "end": 134846
+  },
+  {
+   "text": "the",
+   "start": 134857,
+   "end": 134912
+  },
+  {
+   "text": "start",
+   "start": 134923,
+   "end": 135307
+  },
+  {
+   "text": "While",
+   "start": 135668,
+   "end": 135877
+  },
+  {
+   "text": "GLM-5",
+   "start": 135888,
+   "end": 137006
+  },
+  {
+   "text": ".",
+   "start": 137017,
+   "end": 137236
+  },
+  {
+   "text": "3",
+   "start": 137247,
+   "end": 137631
+  },
+  {
+   "text": "leads",
+   "start": 137642,
+   "end": 137894
+  },
+  {
+   "text": "the",
+   "start": 137905,
+   "end": 137982
+  },
+  {
+   "text": "world",
+   "start": 137993,
+   "end": 138311
+  },
+  {
+   "text": "in",
+   "start": 138322,
+   "end": 138399
+  },
+  {
+   "text": "finding",
+   "start": 138410,
+   "end": 138793
+  },
+  {
+   "text": "bugs",
+   "start": 138804,
+   "end": 139243
+  },
+  {
+   "text": "its",
+   "start": 139473,
+   "end": 139583
+  },
+  {
+   "text": "exploit",
+   "start": 139671,
+   "end": 140054
+  },
+  {
+   "text": "creation",
+   "start": 140065,
+   "end": 140526
+  },
+  {
+   "text": "lags",
+   "start": 140537,
+   "end": 140800
+  },
+  {
+   "text": "behind",
+   "start": 140811,
+   "end": 141282
+  },
+  {
+   "text": "On",
+   "start": 141644,
+   "end": 141743
+  },
+  {
+   "text": "ExploitBench",
+   "start": 141754,
+   "end": 142467
+  },
+  {
+   "text": "it",
+   "start": 142653,
+   "end": 142741
+  },
+  {
+   "text": "scores",
+   "start": 142752,
+   "end": 143081
+  },
+  {
+   "text": "fifty-four",
+   "start": 143092,
+   "end": 143640
+  },
+  {
+   "text": "point",
+   "start": 143651,
+   "end": 143903
+  },
+  {
+   "text": "four",
+   "start": 143914,
+   "end": 144122
+  },
+  {
+   "text": "percent",
+   "start": 144133,
+   "end": 144539
+  },
+  {
+   "text": "trailing",
+   "start": 144802,
+   "end": 145153
+  },
+  {
+   "text": "top",
+   "start": 145164,
+   "end": 145372
+  },
+  {
+   "text": "frontier",
+   "start": 145383,
+   "end": 145778
+  },
+  {
+   "text": "models",
+   "start": 145789,
+   "end": 146140
+  },
+  {
+   "text": "by",
+   "start": 146151,
+   "end": 146337
+  },
+  {
+   "text": "over",
+   "start": 146348,
+   "end": 146513
+  },
+  {
+   "text": "twenty",
+   "start": 146524,
+   "end": 146765
+  },
+  {
+   "text": "points",
+   "start": 146776,
+   "end": 147225
+  },
+  {
+   "text": "It",
+   "start": 147587,
+   "end": 147653
+  },
+  {
+   "text": "is",
+   "start": 147664,
+   "end": 147796
+  },
+  {
+   "text": "tuned",
+   "start": 147807,
+   "end": 148114
+  },
+  {
+   "text": "for",
+   "start": 148125,
+   "end": 148223
+  },
+  {
+   "text": "defense",
+   "start": 148234,
+   "end": 148739
+  },
+  {
+   "text": "not",
+   "start": 148958,
+   "end": 149155
+  },
+  {
+   "text": "making",
+   "start": 149166,
+   "end": 149396
+  },
+  {
+   "text": "cyber",
+   "start": 149407,
+   "end": 149692
+  },
+  {
+   "text": "weapons",
+   "start": 149703,
+   "end": 150131
+  },
+  {
+   "text": "Second",
+   "start": 150504,
+   "end": 150866
+  },
+  {
+   "text": "although",
+   "start": 151239,
+   "end": 151447
+  },
+  {
+   "text": "Zhipu",
+   "start": 151458,
+   "end": 151864
+  },
+  {
+   "text": "calls",
+   "start": 151875,
+   "end": 152160
+  },
+  {
+   "text": "this",
+   "start": 152171,
+   "end": 152357
+  },
+  {
+   "text": "an",
+   "start": 152368,
+   "end": 152489
+  },
+  {
+   "text": "open",
+   "start": 152500,
+   "end": 152730
+  },
+  {
+   "text": "model",
+   "start": 152741,
+   "end": 153070
+  },
+  {
+   "text": "the",
+   "start": 153322,
+   "end": 153399
+  },
+  {
+   "text": "weights",
+   "start": 153410,
+   "end": 153618
+  },
+  {
+   "text": "are",
+   "start": 153629,
+   "end": 153728
+  },
+  {
+   "text": "not",
+   "start": 153739,
+   "end": 154002
+  },
+  {
+   "text": "live",
+   "start": 154013,
+   "end": 154155
+  },
+  {
+   "text": "today",
+   "start": 154166,
+   "end": 154462
+  },
+  {
+   "text": "They",
+   "start": 154835,
+   "end": 154901
+  },
+  {
+   "text": "put",
+   "start": 154912,
+   "end": 155087
+  },
+  {
+   "text": "in",
+   "start": 155098,
+   "end": 155175
+  },
+  {
+   "text": "a",
+   "start": 155186,
+   "end": 155252
+  },
+  {
+   "text": "two-week",
+   "start": 155263,
+   "end": 155690
+  },
+  {
+   "text": "security",
+   "start": 155701,
+   "end": 156206
+  },
+  {
+   "text": "delay",
+   "start": 156217,
+   "end": 156589
+  },
+  {
+   "text": "before",
+   "start": 156600,
+   "end": 156995
+  },
+  {
+   "text": "releasing",
+   "start": 157006,
+   "end": 157467
+  },
+  {
+   "text": "the",
+   "start": 157478,
+   "end": 157565
+  },
+  {
+   "text": "open",
+   "start": 157576,
+   "end": 157828
+  },
+  {
+   "text": "weights",
+   "start": 157839,
+   "end": 158267
+  },
+  {
+   "text": "Today",
+   "start": 158629,
+   "end": 158903
+  },
+  {
+   "text": "you",
+   "start": 159122,
+   "end": 159177
+  },
+  {
+   "text": "can",
+   "start": 159188,
+   "end": 159298
+  },
+  {
+   "text": "only",
+   "start": 159309,
+   "end": 159550
+  },
+  {
+   "text": "access",
+   "start": 159561,
+   "end": 159999
+  },
+  {
+   "text": "it",
+   "start": 160010,
+   "end": 160087
+  },
+  {
+   "text": "through",
+   "start": 160098,
+   "end": 160230
+  },
+  {
+   "text": "the",
+   "start": 160241,
+   "end": 160328
+  },
+  {
+   "text": "paid",
+   "start": 160339,
+   "end": 160614
+  },
+  {
+   "text": "Z.ai",
+   "start": 160625,
+   "end": 161282
+  },
+  {
+   "text": "coding",
+   "start": 161293,
+   "end": 161546
+  },
+  {
+   "text": "plan",
+   "start": 161557,
+   "end": 161864
+  },
+  {
+   "text": "We",
+   "start": 162236,
+   "end": 162335
+  },
+  {
+   "text": "track",
+   "start": 162346,
+   "end": 162653
+  },
+  {
+   "text": "every",
+   "start": 162774,
+   "end": 162971
+  },
+  {
+   "text": "major",
+   "start": 162982,
+   "end": 163289
+  },
+  {
+   "text": "frontier",
+   "start": 163300,
+   "end": 163717
+  },
+  {
+   "text": "model",
+   "start": 163728,
+   "end": 163980
+  },
+  {
+   "text": "drop",
+   "start": 163991,
+   "end": 164309
+  },
+  {
+   "text": "and",
+   "start": 164605,
+   "end": 164703
+  },
+  {
+   "text": "test",
+   "start": 164714,
+   "end": 164967
+  },
+  {
+   "text": "the",
+   "start": 164978,
+   "end": 165043
+  },
+  {
+   "text": "numbers",
+   "start": 165054,
+   "end": 165372
+  },
+  {
+   "text": "live",
+   "start": 165383,
+   "end": 165701
+  },
+  {
+   "text": "so",
+   "start": 165866,
+   "end": 165986
+  },
+  {
+   "text": "you",
+   "start": 165997,
+   "end": 166118
+  },
+  {
+   "text": "never",
+   "start": 166129,
+   "end": 166447
+  },
+  {
+   "text": "build",
+   "start": 166458,
+   "end": 166644
+  },
+  {
+   "text": "your",
+   "start": 166655,
+   "end": 166743
+  },
+  {
+   "text": "tech",
+   "start": 166754,
+   "end": 166951
+  },
+  {
+   "text": "stack",
+   "start": 166962,
+   "end": 167247
+  },
+  {
+   "text": "on",
+   "start": 167258,
+   "end": 167368
+  },
+  {
+   "text": "hype",
+   "start": 167379,
+   "end": 167664
+  },
+  {
+   "text": "If",
+   "start": 168063,
+   "end": 168173
+  },
+  {
+   "text": "this",
+   "start": 168184,
+   "end": 168337
+  },
+  {
+   "text": "breakdown",
+   "start": 168348,
+   "end": 168787
+  },
+  {
+   "text": "saved",
+   "start": 168798,
+   "end": 169138
+  },
+  {
+   "text": "you",
+   "start": 169149,
+   "end": 169269
+  },
+  {
+   "text": "research",
+   "start": 169280,
+   "end": 169708
+  },
+  {
+   "text": "time",
+   "start": 169719,
+   "end": 170015
+  },
+  {
+   "text": "hit",
+   "start": 170344,
+   "end": 170465
+  },
+  {
+   "text": "that",
+   "start": 170476,
+   "end": 170618
+  },
+  {
+   "text": "subscribe",
+   "start": 170629,
+   "end": 171057
+  },
+  {
+   "text": "button",
+   "start": 171068,
+   "end": 171298
+  },
+  {
+   "text": "right",
+   "start": 171309,
+   "end": 171473
+  },
+  {
+   "text": "now",
+   "start": 171484,
+   "end": 171736
+  },
+  {
+   "text": "Drop",
+   "start": 172098,
+   "end": 172252
+  },
+  {
+   "text": "a",
+   "start": 172263,
+   "end": 172307
+  },
+  {
+   "text": "comment",
+   "start": 172318,
+   "end": 172658
+  },
+  {
+   "text": "below",
+   "start": 172669,
+   "end": 172921
+  },
+  {
+   "text": "with",
+   "start": 172932,
+   "end": 173030
+  },
+  {
+   "text": "your",
+   "start": 173041,
+   "end": 173129
+  },
+  {
+   "text": "thoughts",
+   "start": 173140,
+   "end": 173622
+  },
+  {
+   "text": "Will",
+   "start": 173984,
+   "end": 174061
+  },
+  {
+   "text": "you",
+   "start": 174072,
+   "end": 174171
+  },
+  {
+   "text": "switch",
+   "start": 174182,
+   "end": 174412
+  },
+  {
+   "text": "your",
+   "start": 174423,
+   "end": 174533
+  },
+  {
+   "text": "coding",
+   "start": 174544,
+   "end": 174840
+  },
+  {
+   "text": "workflows",
+   "start": 174851,
+   "end": 175421
+  },
+  {
+   "text": "to",
+   "start": 175530,
+   "end": 175629
+  },
+  {
+   "text": "GLM-5",
+   "start": 175640,
+   "end": 176780
+  },
+  {
+   "text": ".",
+   "start": 176791,
+   "end": 177022
+  },
+  {
+   "text": "3",
+   "start": 177033,
+   "end": 177394
+  },
+  {
+   "text": "when",
+   "start": 177504,
+   "end": 177592
+  },
+  {
+   "text": "the",
+   "start": 177603,
+   "end": 177679
+  },
+  {
+   "text": "weights",
+   "start": 177690,
+   "end": 177899
+  },
+  {
+   "text": "drop",
+   "start": 177910,
+   "end": 178228
+  },
+  {
+   "text": "or",
+   "start": 178568,
+   "end": 178644
+  },
+  {
+   "text": "are",
+   "start": 178655,
+   "end": 178732
+  },
+  {
+   "text": "you",
+   "start": 178743,
+   "end": 178831
+  },
+  {
+   "text": "staying",
+   "start": 178842,
+   "end": 179127
+  },
+  {
+   "text": "on",
+   "start": 179138,
+   "end": 179247
+  },
+  {
+   "text": "Claude",
+   "start": 179258,
+   "end": 179598
+  },
+  {
+   "text": "and",
+   "start": 179609,
+   "end": 179697
+  },
+  {
+   "text": "OpenAI",
+   "start": 179708,
+   "end": 180300
+  },
+  {
+   "text": "Leave",
+   "start": 180662,
+   "end": 180783
+  },
+  {
+   "text": "a",
+   "start": 180794,
+   "end": 180837
+  },
+  {
+   "text": "like",
+   "start": 180848,
+   "end": 181210
+  },
+  {
+   "text": "and",
+   "start": 181484,
+   "end": 181550
+  },
+  {
+   "text": "we",
+   "start": 181561,
+   "end": 181649
+  },
+  {
+   "text": "will",
+   "start": 181660,
+   "end": 181758
+  },
+  {
+   "text": "see",
+   "start": 181769,
+   "end": 181989
+  },
+  {
+   "text": "you",
+   "start": 182000,
+   "end": 182164
+  },
+  {
+   "text": "in",
+   "start": 182175,
+   "end": 182252
+  },
+  {
+   "text": "the",
+   "start": 182263,
+   "end": 182318
+  },
+  {
+   "text": "next",
+   "start": 182329,
+   "end": 182537
+  },
+  {
+   "text": "breakdown",
+   "start": 182548,
+   "end": 182997
+  }
+ ],
+ "duration_s": 183.336
+}

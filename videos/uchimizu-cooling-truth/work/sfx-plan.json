@@ -1,0 +1,60 @@
+{
+  "_note": "Long-form Ken-Burns pipeline: cues sync to key moments in work/beats.json (evidence reveals, hook, mid-roll CTA, close), not to Remotion timeline.json shots. Density kept LOW per niches/home-hacks.json sound.sfx_density - same 7-cue pattern used on every video this session.",
+  "master": "videos/uchimizu-cooling-truth/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/uchimizu-cooling-truth/output/uchimizu-cooling-truth-captioned.mp4",
+    "out": "videos/uchimizu-cooling-truth/output/uchimizu-cooling-truth-sfx.mp4",
+    "end_s": 804.48,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.2,
+      "sfx_id": "clock-tick-soft",
+      "gain_db": -10,
+      "cue": "cold open: 'a video with millions of views... it's wrong'",
+      "note": "opens the retention loop around the real measured number"
+    },
+    {
+      "at_s": 145.13,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-nippon-uchimizu card lands: the Edo-period timing/shade tradition",
+      "note": "historical context evidence beat"
+    },
+    {
+      "at_s": 202.43,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-tudelft-solcerova-study card lands: the real measured numbers, 1.5C/6C",
+      "note": "the central myth-vs-fact hero beat"
+    },
+    {
+      "at_s": 324.86,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -11,
+      "cue": "mid-roll subscribe mention"
+    },
+    {
+      "at_s": 736.36,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "close section: recap begins, both facts restated"
+    },
+    {
+      "at_s": 747.6,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "second evidence recap card, the traditional technique restated"
+    },
+    {
+      "at_s": 779.25,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -10,
+      "cue": "Walt's sign-off line: 'That's the old way. Still works.'",
+      "note": "signature line - identical treatment to every prior video this session"
+    }
+  ]
+}

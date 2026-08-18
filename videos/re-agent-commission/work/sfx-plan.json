@@ -1,0 +1,56 @@
+{
+    "_note":  "Low density, hero-moments-only per niches/real-estate.json sound.sfx_density. 7 events over 634s (~0.66/min), matching re-beginner-no-money\u0027s cadence. All cue times pulled directly from work/edited-transcript.json word starts and work/beats.json card start_s. All 4 palette sounds reused from media/library/sfx/catalog.json, nothing generated.",
+    "master":  "videos/re-agent-commission/output/re-agent-commission-visuals.mp4",
+    "master_fps":  30,
+    "catalog":  "media/library/sfx/catalog.json",
+    "render":  {
+                   "preview":  "videos/re-agent-commission/output/re-agent-commission-FINAL.mp4",
+                   "out":  "videos/re-agent-commission/output/re-agent-commission-sfx.mp4",
+                   "duck":  true,
+                   "end_s":  633.8
+               },
+    "events":  [
+                   {
+                       "at_s":  0.5,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "cold open: \u0027$418 million\u0027 -- the number the whole video hangs on"
+                   },
+                   {
+                       "at_s":  14.6,
+                       "sfx_id":  "warm-shimmer",
+                       "gain_db":  -9,
+                       "cue":  "\u0027It did not\u0027 -- the twist, six percent did not end"
+                   },
+                   {
+                       "at_s":  225.1,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-commission-rate lands: 6% -\u003e 5.7%"
+                   },
+                   {
+                       "at_s":  239.9,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "\u0027only fourteen percent\u0027 -- the belief-vs-reality gap, paired with the evidence screenshot"
+                   },
+                   {
+                       "at_s":  306.3,
+                       "sfx_id":  "page-flip",
+                       "gain_db":  -11,
+                       "cue":  "card-cash-example lands: $11,200 cash at closing"
+                   },
+                   {
+                       "at_s":  333.0,
+                       "sfx_id":  "warm-shimmer",
+                       "gain_db":  -9,
+                       "cue":  "mid-roll CTA: \u0027digging past the headline...\u0027"
+                   },
+                   {
+                       "at_s":  631.8,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-close-recap lands: 38% vs 14% -- final beat"
+                   }
+               ]
+}

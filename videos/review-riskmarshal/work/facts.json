@@ -1,0 +1,114 @@
+[
+  {
+    "claim": "Risk Marshal enforces the trading rules you set when calm, so the emotional version of you can't break them",
+    "value": "Rule enforcement layer for MT5",
+    "source_url": "https://riskmarshal.com",
+    "source_label": "riskmarshal.com, Aug 2026",
+    "evidence": "hero-landing"
+  },
+  {
+    "claim": "Real-time rule enforcement, revenge-trade prevention, daily loss lock",
+    "value": "Core enforcement features",
+    "source_url": "https://riskmarshal.com",
+    "source_label": "riskmarshal.com, Aug 2026",
+    "evidence": "features-enforcement"
+  },
+  {
+    "claim": "Works with MT5 brokers, protects 3 account types",
+    "value": "MT5 compatible, 3 account types",
+    "source_url": "https://riskmarshal.com",
+    "source_label": "riskmarshal.com, Aug 2026",
+    "evidence": "hero-landing"
+  },
+  {
+    "claim": "The problem isn't your strategy, it's the 15 minutes of madness after a loss",
+    "value": "Behavioral problem statement",
+    "source_url": "https://riskmarshal.com",
+    "source_label": "riskmarshal.com, Aug 2026",
+    "evidence": "features-enforcement"
+  },
+  {
+    "claim": "Enforcement log shows live rule enforcement: daily loss limit blocked trades, outside-session trades closed in 0.3s, lot sizes adjusted, revenge trades blocked with cooldown",
+    "value": "Live enforcement examples",
+    "source_url": "https://riskmarshal.com",
+    "source_label": "riskmarshal.com, Aug 2026",
+    "evidence": "enforcement-log"
+  },
+  {
+    "claim": "Discipline score 0-100 across risk, emotional control, execution, and consistency",
+    "value": "Discipline scoring system",
+    "source_url": "https://riskmarshal.com/features",
+    "source_label": "riskmarshal.com/features, Aug 2026",
+    "evidence": "features-full"
+  },
+  {
+    "claim": "Daily Profit Lock, Max Daily Loss Protection, Revenge-Trade Prevention, Emotional-Trading Detection, Rule Enforcement Engine, Smart Lot Sizing",
+    "value": "Six core protection features",
+    "source_url": "https://riskmarshal.com",
+    "source_label": "riskmarshal.com, Aug 2026",
+    "evidence": "features-enforcement"
+  },
+  {
+    "claim": "Personalized behavioral tracking that learns your patterns and warns you before you repeat mistakes",
+    "value": "AI behavioral learning",
+    "source_url": "https://riskmarshal.com/features",
+    "source_label": "riskmarshal.com/features, Aug 2026",
+    "evidence": "features-full"
+  },
+  {
+    "claim": "Accountability partner sees every trade, every breach, every score",
+    "value": "Accountability partner feature",
+    "source_url": "https://riskmarshal.com/features",
+    "source_label": "riskmarshal.com/features, Aug 2026",
+    "evidence": "features-full"
+  },
+  {
+    "claim": "Three steps: Set rules when calm, enforce them live, build consistency with measurable discipline",
+    "value": "Three-step process",
+    "source_url": "https://riskmarshal.com/#how-it-works",
+    "source_label": "riskmarshal.com, Aug 2026",
+    "evidence": "how-it-works"
+  },
+  {
+    "claim": "Core plan: $24/month founding (public at $30), Pro plan: $49/month founding (public at $60), Coach plan: $120/month",
+    "value": "Founding pricing tiers",
+    "source_url": "https://riskmarshal.com/pricing",
+    "source_label": "riskmarshal.com/pricing, Aug 2026",
+    "evidence": "pricing-page"
+  },
+  {
+    "claim": "14-day free trial, cancel anytime, founding pricing locked for life",
+    "value": "Free trial and founding lock",
+    "source_url": "https://riskmarshal.com/pricing",
+    "source_label": "riskmarshal.com/pricing, Aug 2026",
+    "evidence": "pricing-page"
+  },
+  {
+    "claim": "Discipline Card: shareable certificate of score, tier, and streak with no P&L or account details",
+    "value": "Discipline Card feature",
+    "source_url": "https://riskmarshal.com/discipline-card",
+    "source_label": "riskmarshal.com/discipline-card, Aug 2026",
+    "evidence": "discipline-card"
+  },
+  {
+    "claim": "Managed hosting included, self-hosting available, EA tamper alerts if EA is removed during lock",
+    "value": "Hosting and tamper protection",
+    "source_url": "https://riskmarshal.com/features",
+    "source_label": "riskmarshal.com/features, Aug 2026",
+    "evidence": "features-full"
+  },
+  {
+    "claim": "Not a signal bot, not an auto-trader. It never places trades, never predicts markets, never touches funds.",
+    "value": "Not a bot disclaimer",
+    "source_url": "https://riskmarshal.com/features",
+    "source_label": "riskmarshal.com/features, Aug 2026",
+    "evidence": "features-full"
+  },
+  {
+    "claim": "Win rate on rule-following days vs breach days: 68% vs 29% (illustrative data)",
+    "value": "Discipline impact data",
+    "source_url": "https://riskmarshal.com",
+    "source_label": "riskmarshal.com, Aug 2026",
+    "evidence": "features-enforcement"
+  }
+]

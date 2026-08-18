@@ -1,0 +1,23 @@
+{
+  "format": "shortform-explainer",
+  "client": "quant-tekel",
+  "product": "qt-funded",
+  "campaign": "Trade with discipline. Scale with confidence.",
+  "runtime": { "target_min": 0.5, "tolerance": 0.017 },
+  "video": { "aspect": "9:16", "width": 1080, "height": 1920, "fps": 30 },
+  "source": "generated",
+  "voice": { "engine": "edge-tts", "name": "en-US-ChristopherNeural", "speed": 1.08 },
+  "captions": { "enabled": true, "style": "burned", "emphasis": true, "font_px": null },
+  "motion": { "kind": "shots", "beat_seconds": 3.0 },
+  "sfx": { "enabled": true, "density": "medium" },
+  "music": { "enabled": true, "bed": "tech-pulse", "gain_db": null },
+  "evidence": { "required": true, "min_on_screen": 3 },
+  "master": { "lufs": -14.0, "true_peak": -1.0 },
+  "notes": [
+    "Ad deliverable for QT Funded (prop evaluation). Safe script only — all numbers/claims pending written client approval.",
+    "Primary 9:16 (1080x1920) for TikTok/Reels/paid social. Adaptations: 16:9 (1920x1080), 1:1 (1080x1080).",
+    "15s cutdown uses a separately edited script (script-cutdown.md).",
+    "Captioned + clean variants per format. Landing page: https://qtfunded.quanttekel.com/evaluations/ (client-confirmed).",
+    "Simulated funded account language per client legal wording."
+  ]
+}

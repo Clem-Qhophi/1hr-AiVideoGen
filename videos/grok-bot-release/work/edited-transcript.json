@@ -1,0 +1,5446 @@
+{
+ "words": [
+  {
+   "text": "Phase",
+   "start": 0,
+   "end": 143
+  },
+  {
+   "text": "1:",
+   "start": 143,
+   "end": 286
+  },
+  {
+   "text": "The",
+   "start": 286,
+   "end": 429
+  },
+  {
+   "text": "3-Minute",
+   "start": 429,
+   "end": 572
+  },
+  {
+   "text": "Verdict",
+   "start": 572,
+   "end": 716
+  },
+  {
+   "text": "Today,",
+   "start": 716,
+   "end": 736
+  },
+  {
+   "text": "xAI",
+   "start": 736,
+   "end": 995
+  },
+  {
+   "text": "gave",
+   "start": 1059,
+   "end": 1269
+  },
+  {
+   "text": "Grok",
+   "start": 1302,
+   "end": 1544
+  },
+  {
+   "text": "its",
+   "start": 1544,
+   "end": 1657
+  },
+  {
+   "text": "own",
+   "start": 1690,
+   "end": 1787
+  },
+  {
+   "text": "computer.",
+   "start": 1787,
+   "end": 2175
+  },
+  {
+   "text": "You",
+   "start": 2595,
+   "end": 2676
+  },
+  {
+   "text": "give",
+   "start": 2676,
+   "end": 2773
+  },
+  {
+   "text": "it",
+   "start": 2773,
+   "end": 2854
+  },
+  {
+   "text": "a",
+   "start": 2854,
+   "end": 2918
+  },
+  {
+   "text": "job,",
+   "start": 2918,
+   "end": 3322
+  },
+  {
+   "text": "close",
+   "start": 3565,
+   "end": 3807
+  },
+  {
+   "text": "your",
+   "start": 3807,
+   "end": 3920
+  },
+  {
+   "text": "laptop,",
+   "start": 3920,
+   "end": 4325
+  },
+  {
+   "text": "and",
+   "start": 4616,
+   "end": 4680
+  },
+  {
+   "text": "it",
+   "start": 4696,
+   "end": 4761
+  },
+  {
+   "text": "signs",
+   "start": 4761,
+   "end": 5181
+  },
+  {
+   "text": "into",
+   "start": 5181,
+   "end": 5327
+  },
+  {
+   "text": "your",
+   "start": 5327,
+   "end": 5505
+  },
+  {
+   "text": "tools,",
+   "start": 5505,
+   "end": 5796
+  },
+  {
+   "text": "does",
+   "start": 6216,
+   "end": 6361
+  },
+  {
+   "text": "the",
+   "start": 6394,
+   "end": 6442
+  },
+  {
+   "text": "work,",
+   "start": 6475,
+   "end": 6798
+  },
+  {
+   "text": "and",
+   "start": 7040,
+   "end": 7105
+  },
+  {
+   "text": "comes",
+   "start": 7105,
+   "end": 7299
+  },
+  {
+   "text": "back",
+   "start": 7347,
+   "end": 7525
+  },
+  {
+   "text": "with",
+   "start": 7525,
+   "end": 7687
+  },
+  {
+   "text": "it",
+   "start": 7687,
+   "end": 7768
+  },
+  {
+   "text": "finished.",
+   "start": 7768,
+   "end": 8075
+  },
+  {
+   "text": "That's",
+   "start": 8460,
+   "end": 8654
+  },
+  {
+   "text": "real.",
+   "start": 8654,
+   "end": 8898
+  },
+  {
+   "text": "But",
+   "start": 9304,
+   "end": 9401
+  },
+  {
+   "text": "the",
+   "start": 9401,
+   "end": 9531
+  },
+  {
+   "text": "line",
+   "start": 9531,
+   "end": 9726
+  },
+  {
+   "text": "you'll",
+   "start": 9775,
+   "end": 9872
+  },
+  {
+   "text": "hear",
+   "start": 9872,
+   "end": 10051
+  },
+  {
+   "text": "everywhere",
+   "start": 10116,
+   "end": 10522
+  },
+  {
+   "text": "today,",
+   "start": 10522,
+   "end": 10798
+  },
+  {
+   "text": "\"no",
+   "start": 11171,
+   "end": 11301
+  },
+  {
+   "text": "agent",
+   "start": 11479,
+   "end": 11723
+  },
+  {
+   "text": "has",
+   "start": 11723,
+   "end": 11869
+  },
+  {
+   "text": "ever",
+   "start": 12064,
+   "end": 12291
+  },
+  {
+   "text": "done",
+   "start": 12291,
+   "end": 12470
+  },
+  {
+   "text": "this,\"",
+   "start": 12470,
+   "end": 12746
+  },
+  {
+   "text": "is",
+   "start": 13054,
+   "end": 13168
+  },
+  {
+   "text": "false.",
+   "start": 13184,
+   "end": 13525
+  },
+  {
+   "text": "Believe",
+   "start": 13996,
+   "end": 14223
+  },
+  {
+   "text": "the",
+   "start": 14256,
+   "end": 14337
+  },
+  {
+   "text": "hype,",
+   "start": 14337,
+   "end": 14662
+  },
+  {
+   "text": "and",
+   "start": 14905,
+   "end": 14970
+  },
+  {
+   "text": "you",
+   "start": 15052,
+   "end": 15149
+  },
+  {
+   "text": "pay",
+   "start": 15149,
+   "end": 15311
+  },
+  {
+   "text": "for",
+   "start": 15311,
+   "end": 15457
+  },
+  {
+   "text": "the",
+   "start": 15457,
+   "end": 15539
+  },
+  {
+   "text": "wrong",
+   "start": 15539,
+   "end": 15685
+  },
+  {
+   "text": "tool.",
+   "start": 15798,
+   "end": 15945
+  },
+  {
+   "text": "The",
+   "start": 16400,
+   "end": 16432
+  },
+  {
+   "text": "always-on",
+   "start": 16432,
+   "end": 16852
+  },
+  {
+   "text": "worker",
+   "start": 16916,
+   "end": 17158
+  },
+  {
+   "text": "shipped",
+   "start": 17158,
+   "end": 17481
+  },
+  {
+   "text": "months",
+   "start": 17481,
+   "end": 17659
+  },
+  {
+   "text": "ago.",
+   "start": 17659,
+   "end": 17804
+  },
+  {
+   "text": "Here's",
+   "start": 18288,
+   "end": 18466
+  },
+  {
+   "text": "what",
+   "start": 18514,
+   "end": 18611
+  },
+  {
+   "text": "actually",
+   "start": 18611,
+   "end": 18902
+  },
+  {
+   "text": "changed.",
+   "start": 18934,
+   "end": 19354
+  },
+  {
+   "text": "Because",
+   "start": 19806,
+   "end": 20032
+  },
+  {
+   "text": "the",
+   "start": 20048,
+   "end": 20145
+  },
+  {
+   "text": "always-on",
+   "start": 20290,
+   "end": 20597
+  },
+  {
+   "text": "worker",
+   "start": 20694,
+   "end": 20952
+  },
+  {
+   "text": "was",
+   "start": 20952,
+   "end": 21114
+  },
+  {
+   "text": "already",
+   "start": 21259,
+   "end": 21437
+  },
+  {
+   "text": "shipped.",
+   "start": 21437,
+   "end": 21856
+  },
+  {
+   "text": "Anthropic's",
+   "start": 22316,
+   "end": 22737
+  },
+  {
+   "text": "Claude",
+   "start": 22737,
+   "end": 22981
+  },
+  {
+   "text": "Cowork,",
+   "start": 22981,
+   "end": 23565
+  },
+  {
+   "text": "back",
+   "start": 23710,
+   "end": 23954
+  },
+  {
+   "text": "in",
+   "start": 23954,
+   "end": 24002
+  },
+  {
+   "text": "January:",
+   "start": 24035,
+   "end": 24521
+  },
+  {
+   "text": "hand",
+   "start": 24927,
+   "end": 25089
+  },
+  {
+   "text": "it",
+   "start": 25089,
+   "end": 25154
+  },
+  {
+   "text": "a",
+   "start": 25154,
+   "end": 25170
+  },
+  {
+   "text": "task,",
+   "start": 25170,
+   "end": 25657
+  },
+  {
+   "text": "it",
+   "start": 25884,
+   "end": 25932
+  },
+  {
+   "text": "works",
+   "start": 25965,
+   "end": 26143
+  },
+  {
+   "text": "while",
+   "start": 26143,
+   "end": 26289
+  },
+  {
+   "text": "you",
+   "start": 26289,
+   "end": 26386
+  },
+  {
+   "text": "don't.",
+   "start": 26386,
+   "end": 26597
+  },
+  {
+   "text": "Google's",
+   "start": 26992,
+   "end": 27361
+  },
+  {
+   "text": "Gemini",
+   "start": 27393,
+   "end": 27794
+  },
+  {
+   "text": "Spark,",
+   "start": 27794,
+   "end": 28260
+  },
+  {
+   "text": "in",
+   "start": 28436,
+   "end": 28500
+  },
+  {
+   "text": "May:",
+   "start": 28517,
+   "end": 28613
+  },
+  {
+   "text": "a",
+   "start": 29158,
+   "end": 29175
+  },
+  {
+   "text": "24/7",
+   "start": 29223,
+   "end": 29993
+  },
+  {
+   "text": "agent",
+   "start": 30025,
+   "end": 30362
+  },
+  {
+   "text": "that",
+   "start": 30362,
+   "end": 30458
+  },
+  {
+   "text": "keeps",
+   "start": 30458,
+   "end": 30779
+  },
+  {
+   "text": "working",
+   "start": 30844,
+   "end": 31133
+  },
+  {
+   "text": "even",
+   "start": 31309,
+   "end": 31470
+  },
+  {
+   "text": "with",
+   "start": 31550,
+   "end": 31662
+  },
+  {
+   "text": "your",
+   "start": 31662,
+   "end": 31758
+  },
+  {
+   "text": "phone",
+   "start": 31791,
+   "end": 31999
+  },
+  {
+   "text": "off.",
+   "start": 32031,
+   "end": 32192
+  },
+  {
+   "text": "So",
+   "start": 32689,
+   "end": 32786
+  },
+  {
+   "text": "that",
+   "start": 32786,
+   "end": 32898
+  },
+  {
+   "text": "part",
+   "start": 32930,
+   "end": 33107
+  },
+  {
+   "text": "is",
+   "start": 33107,
+   "end": 33219
+  },
+  {
+   "text": "not",
+   "start": 33235,
+   "end": 33363
+  },
+  {
+   "text": "new.",
+   "start": 33411,
+   "end": 33508
+  },
+  {
+   "text": "What's",
+   "start": 34037,
+   "end": 34214
+  },
+  {
+   "text": "new",
+   "start": 34214,
+   "end": 34310
+  },
+  {
+   "text": "is",
+   "start": 34390,
+   "end": 34503
+  },
+  {
+   "text": "how",
+   "start": 34519,
+   "end": 34695
+  },
+  {
+   "text": "xAI",
+   "start": 34695,
+   "end": 35097
+  },
+  {
+   "text": "built",
+   "start": 35097,
+   "end": 35337
+  },
+  {
+   "text": "it",
+   "start": 35337,
+   "end": 35466
+  },
+  {
+   "text": "and",
+   "start": 35819,
+   "end": 35883
+  },
+  {
+   "text": "it",
+   "start": 35899,
+   "end": 35979
+  },
+  {
+   "text": "changes",
+   "start": 35979,
+   "end": 36348
+  },
+  {
+   "text": "who",
+   "start": 36365,
+   "end": 36445
+  },
+  {
+   "text": "this",
+   "start": 36461,
+   "end": 36621
+  },
+  {
+   "text": "product",
+   "start": 36621,
+   "end": 37119
+  },
+  {
+   "text": "is",
+   "start": 37183,
+   "end": 37231
+  },
+  {
+   "text": "actually",
+   "start": 37343,
+   "end": 37632
+  },
+  {
+   "text": "for.",
+   "start": 37664,
+   "end": 37857
+  },
+  {
+   "text": "Related:",
+   "start": 38451,
+   "end": 38756
+  },
+  {
+   "text": "we",
+   "start": 39189,
+   "end": 39269
+  },
+  {
+   "text": "covered",
+   "start": 39269,
+   "end": 39590
+  },
+  {
+   "text": "Grok",
+   "start": 39590,
+   "end": 39911
+  },
+  {
+   "text": "Imagine",
+   "start": 39911,
+   "end": 40280
+  },
+  {
+   "text": "2.0's",
+   "start": 40313,
+   "end": 41147
+  },
+  {
+   "text": "number-two",
+   "start": 41195,
+   "end": 41597
+  },
+  {
+   "text": "ranking",
+   "start": 41741,
+   "end": 42030
+  },
+  {
+   "text": "on",
+   "start": 42158,
+   "end": 42206
+  },
+  {
+   "text": "this",
+   "start": 42238,
+   "end": 42351
+  },
+  {
+   "text": "channel",
+   "start": 42399,
+   "end": 42640
+  },
+  {
+   "text": "last",
+   "start": 42640,
+   "end": 42896
+  },
+  {
+   "text": "week.",
+   "start": 42961,
+   "end": 43121
+  },
+  {
+   "text": "Same",
+   "start": 43603,
+   "end": 43763
+  },
+  {
+   "text": "company.",
+   "start": 43763,
+   "end": 44084
+  },
+  {
+   "text": "Today's",
+   "start": 44485,
+   "end": 44726
+  },
+  {
+   "text": "product",
+   "start": 44726,
+   "end": 45191
+  },
+  {
+   "text": "is",
+   "start": 45224,
+   "end": 45304
+  },
+  {
+   "text": "a",
+   "start": 45304,
+   "end": 45432
+  },
+  {
+   "text": "different",
+   "start": 45432,
+   "end": 45689
+  },
+  {
+   "text": "animal.",
+   "start": 45689,
+   "end": 45946
+  },
+  {
+   "text": "Grok",
+   "start": 46475,
+   "end": 46684
+  },
+  {
+   "text": "Bot",
+   "start": 46684,
+   "end": 46893
+  },
+  {
+   "text": "is",
+   "start": 46893,
+   "end": 46941
+  },
+  {
+   "text": "a",
+   "start": 46989,
+   "end": 47053
+  },
+  {
+   "text": "small",
+   "start": 47053,
+   "end": 47326
+  },
+  {
+   "text": "team",
+   "start": 47438,
+   "end": 47663
+  },
+  {
+   "text": "of",
+   "start": 47840,
+   "end": 47904
+  },
+  {
+   "text": "always-on",
+   "start": 48080,
+   "end": 48369
+  },
+  {
+   "text": "agents.",
+   "start": 48433,
+   "end": 48706
+  },
+  {
+   "text": "Each",
+   "start": 49300,
+   "end": 49428
+  },
+  {
+   "text": "one",
+   "start": 49525,
+   "end": 49589
+  },
+  {
+   "text": "has",
+   "start": 49685,
+   "end": 49830
+  },
+  {
+   "text": "its",
+   "start": 49862,
+   "end": 49974
+  },
+  {
+   "text": "own",
+   "start": 50086,
+   "end": 50151
+  },
+  {
+   "text": "computer",
+   "start": 50183,
+   "end": 50568
+  },
+  {
+   "text": "in",
+   "start": 50584,
+   "end": 50664
+  },
+  {
+   "text": "the",
+   "start": 50664,
+   "end": 50744
+  },
+  {
+   "text": "cloud,",
+   "start": 50744,
+   "end": 51114
+  },
+  {
+   "text": "works",
+   "start": 51451,
+   "end": 51627
+  },
+  {
+   "text": "inside",
+   "start": 51627,
+   "end": 52093
+  },
+  {
+   "text": "your",
+   "start": 52093,
+   "end": 52253
+  },
+  {
+   "text": "real",
+   "start": 52253,
+   "end": 52494
+  },
+  {
+   "text": "apps",
+   "start": 52494,
+   "end": 52719
+  },
+  {
+   "text": "no",
+   "start": 53040,
+   "end": 53184
+  },
+  {
+   "text": "APIs,",
+   "start": 53232,
+   "end": 53762
+  },
+  {
+   "text": "no",
+   "start": 54035,
+   "end": 54196
+  },
+  {
+   "text": "plugins",
+   "start": 54196,
+   "end": 54565
+  },
+  {
+   "text": "and",
+   "start": 54999,
+   "end": 55063
+  },
+  {
+   "text": "ships",
+   "start": 55063,
+   "end": 55320
+  },
+  {
+   "text": "today",
+   "start": 55320,
+   "end": 55641
+  },
+  {
+   "text": "in",
+   "start": 55882,
+   "end": 55930
+  },
+  {
+   "text": "early",
+   "start": 56027,
+   "end": 56252
+  },
+  {
+   "text": "beta.",
+   "start": 56268,
+   "end": 56444
+  },
+  {
+   "text": "Here's",
+   "start": 56991,
+   "end": 57151
+  },
+  {
+   "text": "what",
+   "start": 57151,
+   "end": 57247
+  },
+  {
+   "text": "that",
+   "start": 57247,
+   "end": 57424
+  },
+  {
+   "text": "means",
+   "start": 57424,
+   "end": 57649
+  },
+  {
+   "text": "in",
+   "start": 57649,
+   "end": 57794
+  },
+  {
+   "text": "practice.",
+   "start": 57794,
+   "end": 58163
+  },
+  {
+   "text": "The",
+   "start": 58693,
+   "end": 58741
+  },
+  {
+   "text": "bot",
+   "start": 58773,
+   "end": 58998
+  },
+  {
+   "text": "signs",
+   "start": 58998,
+   "end": 59303
+  },
+  {
+   "text": "into",
+   "start": 59335,
+   "end": 59464
+  },
+  {
+   "text": "your",
+   "start": 59480,
+   "end": 59641
+  },
+  {
+   "text": "tools:",
+   "start": 59641,
+   "end": 59946
+  },
+  {
+   "text": "your",
+   "start": 60299,
+   "end": 60379
+  },
+  {
+   "text": "email,",
+   "start": 60460,
+   "end": 60733
+  },
+  {
+   "text": "your",
+   "start": 61022,
+   "end": 61086
+  },
+  {
+   "text": "customer",
+   "start": 61102,
+   "end": 61568
+  },
+  {
+   "text": "lists,",
+   "start": 61568,
+   "end": 61905
+  },
+  {
+   "text": "your",
+   "start": 62066,
+   "end": 62178
+  },
+  {
+   "text": "store",
+   "start": 62210,
+   "end": 62419
+  },
+  {
+   "text": "dashboard",
+   "start": 62467,
+   "end": 62997
+  },
+  {
+   "text": "one",
+   "start": 63351,
+   "end": 63463
+  },
+  {
+   "text": "login",
+   "start": 63576,
+   "end": 63832
+  },
+  {
+   "text": "at",
+   "start": 63832,
+   "end": 63913
+  },
+  {
+   "text": "a",
+   "start": 63913,
+   "end": 63929
+  },
+  {
+   "text": "time,",
+   "start": 63929,
+   "end": 64314
+  },
+  {
+   "text": "exactly",
+   "start": 64652,
+   "end": 65085
+  },
+  {
+   "text": "like",
+   "start": 65101,
+   "end": 65278
+  },
+  {
+   "text": "you",
+   "start": 65278,
+   "end": 65358
+  },
+  {
+   "text": "do.",
+   "start": 65358,
+   "end": 65519
+  },
+  {
+   "text": "Because",
+   "start": 65920,
+   "end": 66161
+  },
+  {
+   "text": "it",
+   "start": 66161,
+   "end": 66210
+  },
+  {
+   "text": "operates",
+   "start": 66306,
+   "end": 66723
+  },
+  {
+   "text": "through",
+   "start": 66723,
+   "end": 66884
+  },
+  {
+   "text": "the",
+   "start": 66884,
+   "end": 67029
+  },
+  {
+   "text": "interface,",
+   "start": 67045,
+   "end": 67398
+  },
+  {
+   "text": "it",
+   "start": 67783,
+   "end": 67848
+  },
+  {
+   "text": "works",
+   "start": 67848,
+   "end": 68089
+  },
+  {
+   "text": "on",
+   "start": 68089,
+   "end": 68137
+  },
+  {
+   "text": "platforms",
+   "start": 68169,
+   "end": 68699
+  },
+  {
+   "text": "that",
+   "start": 68715,
+   "end": 68811
+  },
+  {
+   "text": "have",
+   "start": 68811,
+   "end": 68972
+  },
+  {
+   "text": "no",
+   "start": 69036,
+   "end": 69197
+  },
+  {
+   "text": "API",
+   "start": 69374,
+   "end": 69807
+  },
+  {
+   "text": "and",
+   "start": 70161,
+   "end": 70241
+  },
+  {
+   "text": "no",
+   "start": 70257,
+   "end": 70450
+  },
+  {
+   "text": "MCP",
+   "start": 70498,
+   "end": 70899
+  },
+  {
+   "text": "connection.",
+   "start": 70899,
+   "end": 71269
+  },
+  {
+   "text": "xAI's",
+   "start": 71767,
+   "end": 72329
+  },
+  {
+   "text": "own",
+   "start": 72329,
+   "end": 72393
+  },
+  {
+   "text": "words:",
+   "start": 72489,
+   "end": 72795
+  },
+  {
+   "text": "\"They",
+   "start": 73132,
+   "end": 73164
+  },
+  {
+   "text": "sign",
+   "start": 73164,
+   "end": 73501
+  },
+  {
+   "text": "in",
+   "start": 73549,
+   "end": 73661
+  },
+  {
+   "text": "to",
+   "start": 73661,
+   "end": 73774
+  },
+  {
+   "text": "your",
+   "start": 73774,
+   "end": 73871
+  },
+  {
+   "text": "tools,",
+   "start": 73871,
+   "end": 74160
+  },
+  {
+   "text": "use",
+   "start": 74658,
+   "end": 74818
+  },
+  {
+   "text": "them",
+   "start": 74834,
+   "end": 74963
+  },
+  {
+   "text": "just",
+   "start": 74995,
+   "end": 75220
+  },
+  {
+   "text": "like",
+   "start": 75220,
+   "end": 75396
+  },
+  {
+   "text": "you",
+   "start": 75396,
+   "end": 75541
+  },
+  {
+   "text": "do,",
+   "start": 75541,
+   "end": 75685
+  },
+  {
+   "text": "and",
+   "start": 76039,
+   "end": 76103
+  },
+  {
+   "text": "come",
+   "start": 76119,
+   "end": 76248
+  },
+  {
+   "text": "back",
+   "start": 76360,
+   "end": 76537
+  },
+  {
+   "text": "with",
+   "start": 76585,
+   "end": 76681
+  },
+  {
+   "text": "finished",
+   "start": 76681,
+   "end": 77067
+  },
+  {
+   "text": "work.\"",
+   "start": 77067,
+   "end": 77163
+  },
+  {
+   "text": "And",
+   "start": 77806,
+   "end": 77870
+  },
+  {
+   "text": "it",
+   "start": 77886,
+   "end": 77966
+  },
+  {
+   "text": "keeps",
+   "start": 77966,
+   "end": 78207
+  },
+  {
+   "text": "working",
+   "start": 78207,
+   "end": 78448
+  },
+  {
+   "text": "when",
+   "start": 78448,
+   "end": 78593
+  },
+  {
+   "text": "you",
+   "start": 78593,
+   "end": 78657
+  },
+  {
+   "text": "walk",
+   "start": 78689,
+   "end": 78930
+  },
+  {
+   "text": "away.",
+   "start": 78930,
+   "end": 79187
+  },
+  {
+   "text": "Close",
+   "start": 79476,
+   "end": 79668
+  },
+  {
+   "text": "the",
+   "start": 79668,
+   "end": 79813
+  },
+  {
+   "text": "laptop,",
+   "start": 79813,
+   "end": 80166
+  },
+  {
+   "text": "the",
+   "start": 80455,
+   "end": 80535
+  },
+  {
+   "text": "job",
+   "start": 80535,
+   "end": 80840
+  },
+  {
+   "text": "continues.",
+   "start": 80856,
+   "end": 81242
+  },
+  {
+   "text": "The",
+   "start": 81803,
+   "end": 81884
+  },
+  {
+   "text": "bot",
+   "start": 81884,
+   "end": 82044
+  },
+  {
+   "text": "only",
+   "start": 82124,
+   "end": 82269
+  },
+  {
+   "text": "checks",
+   "start": 82301,
+   "end": 82622
+  },
+  {
+   "text": "back",
+   "start": 82622,
+   "end": 82815
+  },
+  {
+   "text": "when",
+   "start": 82943,
+   "end": 83039
+  },
+  {
+   "text": "something",
+   "start": 83088,
+   "end": 83376
+  },
+  {
+   "text": "actually",
+   "start": 83489,
+   "end": 83762
+  },
+  {
+   "text": "needs",
+   "start": 83762,
+   "end": 84035
+  },
+  {
+   "text": "you",
+   "start": 84131,
+   "end": 84324
+  },
+  {
+   "text": "an",
+   "start": 84629,
+   "end": 84677
+  },
+  {
+   "text": "approval,",
+   "start": 84709,
+   "end": 85126
+  },
+  {
+   "text": "a",
+   "start": 85511,
+   "end": 85576
+  },
+  {
+   "text": "decision.",
+   "start": 85576,
+   "end": 85945
+  },
+  {
+   "text": "You",
+   "start": 86378,
+   "end": 86410
+  },
+  {
+   "text": "message",
+   "start": 86410,
+   "end": 86796
+  },
+  {
+   "text": "it",
+   "start": 86796,
+   "end": 86860
+  },
+  {
+   "text": "from",
+   "start": 86860,
+   "end": 87036
+  },
+  {
+   "text": "anywhere,",
+   "start": 87117,
+   "end": 87518
+  },
+  {
+   "text": "like",
+   "start": 87823,
+   "end": 87935
+  },
+  {
+   "text": "texting",
+   "start": 87935,
+   "end": 88321
+  },
+  {
+   "text": "a",
+   "start": 88321,
+   "end": 88385
+  },
+  {
+   "text": "colleague.",
+   "start": 88385,
+   "end": 88722
+  },
+  {
+   "text": "Then",
+   "start": 89187,
+   "end": 89268
+  },
+  {
+   "text": "the",
+   "start": 89268,
+   "end": 89332
+  },
+  {
+   "text": "part",
+   "start": 89364,
+   "end": 89557
+  },
+  {
+   "text": "nothing",
+   "start": 89589,
+   "end": 89797
+  },
+  {
+   "text": "else",
+   "start": 89846,
+   "end": 90006
+  },
+  {
+   "text": "does.",
+   "start": 90006,
+   "end": 90215
+  },
+  {
+   "text": "Multiple",
+   "start": 90712,
+   "end": 91017
+  },
+  {
+   "text": "bots",
+   "start": 91114,
+   "end": 91435
+  },
+  {
+   "text": "run",
+   "start": 91435,
+   "end": 91627
+  },
+  {
+   "text": "as",
+   "start": 91627,
+   "end": 91756
+  },
+  {
+   "text": "a",
+   "start": 91756,
+   "end": 91788
+  },
+  {
+   "text": "team.",
+   "start": 91788,
+   "end": 92061
+  },
+  {
+   "text": "They",
+   "start": 92478,
+   "end": 92558
+  },
+  {
+   "text": "message",
+   "start": 92558,
+   "end": 92911
+  },
+  {
+   "text": "each",
+   "start": 92911,
+   "end": 93056
+  },
+  {
+   "text": "other,",
+   "start": 93120,
+   "end": 93297
+  },
+  {
+   "text": "share",
+   "start": 93521,
+   "end": 93730
+  },
+  {
+   "text": "threads,",
+   "start": 93778,
+   "end": 94180
+  },
+  {
+   "text": "and",
+   "start": 94501,
+   "end": 94565
+  },
+  {
+   "text": "hand",
+   "start": 94581,
+   "end": 94790
+  },
+  {
+   "text": "work",
+   "start": 94822,
+   "end": 95046
+  },
+  {
+   "text": "off",
+   "start": 95046,
+   "end": 95239
+  },
+  {
+   "text": "in",
+   "start": 95239,
+   "end": 95303
+  },
+  {
+   "text": "group",
+   "start": 95303,
+   "end": 95544
+  },
+  {
+   "text": "chats,",
+   "start": 95544,
+   "end": 95945
+  },
+  {
+   "text": "assigning",
+   "start": 96282,
+   "end": 96684
+  },
+  {
+   "text": "ownership",
+   "start": 96812,
+   "end": 97230
+  },
+  {
+   "text": "among",
+   "start": 97230,
+   "end": 97438
+  },
+  {
+   "text": "themselves.",
+   "start": 97454,
+   "end": 97968
+  },
+  {
+   "text": "xAI",
+   "start": 98433,
+   "end": 98771
+  },
+  {
+   "text": "frames",
+   "start": 98771,
+   "end": 99156
+  },
+  {
+   "text": "it",
+   "start": 99172,
+   "end": 99300
+  },
+  {
+   "text": "as",
+   "start": 99316,
+   "end": 99364
+  },
+  {
+   "text": "a",
+   "start": 99413,
+   "end": 99461
+  },
+  {
+   "text": "small",
+   "start": 99461,
+   "end": 99750
+  },
+  {
+   "text": "team",
+   "start": 99798,
+   "end": 99990
+  },
+  {
+   "text": "with",
+   "start": 100263,
+   "end": 100360
+  },
+  {
+   "text": "a",
+   "start": 100360,
+   "end": 100424
+  },
+  {
+   "text": "chief",
+   "start": 100424,
+   "end": 100681
+  },
+  {
+   "text": "of",
+   "start": 100681,
+   "end": 100745
+  },
+  {
+   "text": "staff",
+   "start": 100745,
+   "end": 101082
+  },
+  {
+   "text": "on",
+   "start": 101082,
+   "end": 101162
+  },
+  {
+   "text": "top.",
+   "start": 101162,
+   "end": 101467
+  },
+  {
+   "text": "Teach",
+   "start": 101869,
+   "end": 102013
+  },
+  {
+   "text": "a",
+   "start": 102061,
+   "end": 102077
+  },
+  {
+   "text": "bot",
+   "start": 102125,
+   "end": 102446
+  },
+  {
+   "text": "by",
+   "start": 102446,
+   "end": 102591
+  },
+  {
+   "text": "letting",
+   "start": 102591,
+   "end": 102816
+  },
+  {
+   "text": "it",
+   "start": 102832,
+   "end": 102880
+  },
+  {
+   "text": "watch",
+   "start": 102928,
+   "end": 103137
+  },
+  {
+   "text": "you",
+   "start": 103153,
+   "end": 103249
+  },
+  {
+   "text": "do",
+   "start": 103249,
+   "end": 103410
+  },
+  {
+   "text": "a",
+   "start": 103410,
+   "end": 103474
+  },
+  {
+   "text": "job",
+   "start": 103474,
+   "end": 103795
+  },
+  {
+   "text": "once",
+   "start": 103795,
+   "end": 104004
+  },
+  {
+   "text": "it",
+   "start": 104453,
+   "end": 104533
+  },
+  {
+   "text": "saves",
+   "start": 104533,
+   "end": 104822
+  },
+  {
+   "text": "the",
+   "start": 104838,
+   "end": 104919
+  },
+  {
+   "text": "routine",
+   "start": 104935,
+   "end": 105304
+  },
+  {
+   "text": "and",
+   "start": 105577,
+   "end": 105657
+  },
+  {
+   "text": "runs",
+   "start": 105721,
+   "end": 105914
+  },
+  {
+   "text": "it",
+   "start": 105914,
+   "end": 105994
+  },
+  {
+   "text": "solo",
+   "start": 105994,
+   "end": 106379
+  },
+  {
+   "text": "from",
+   "start": 106379,
+   "end": 106508
+  },
+  {
+   "text": "then",
+   "start": 106540,
+   "end": 106684
+  },
+  {
+   "text": "on.",
+   "start": 106684,
+   "end": 106877
+  },
+  {
+   "text": "Where",
+   "start": 107246,
+   "end": 107310
+  },
+  {
+   "text": "do",
+   "start": 107326,
+   "end": 107358
+  },
+  {
+   "text": "you",
+   "start": 107358,
+   "end": 107422
+  },
+  {
+   "text": "get",
+   "start": 107422,
+   "end": 107598
+  },
+  {
+   "text": "it?",
+   "start": 107598,
+   "end": 107743
+  },
+  {
+   "text": "Today,",
+   "start": 108127,
+   "end": 108335
+  },
+  {
+   "text": "early",
+   "start": 108720,
+   "end": 108912
+  },
+  {
+   "text": "beta,",
+   "start": 109009,
+   "end": 109377
+  },
+  {
+   "text": "in",
+   "start": 109585,
+   "end": 109634
+  },
+  {
+   "text": "three",
+   "start": 109730,
+   "end": 109938
+  },
+  {
+   "text": "paid",
+   "start": 110050,
+   "end": 110275
+  },
+  {
+   "text": "tiers.",
+   "start": 110307,
+   "end": 110595
+  },
+  {
+   "text": "SuperGrok",
+   "start": 111092,
+   "end": 111653
+  },
+  {
+   "text": "Heavy,",
+   "start": 111653,
+   "end": 111877
+  },
+  {
+   "text": "Cursor",
+   "start": 112214,
+   "end": 112534
+  },
+  {
+   "text": "Ultra",
+   "start": 112614,
+   "end": 112935
+  },
+  {
+   "text": "at",
+   "start": 113015,
+   "end": 113111
+  },
+  {
+   "text": "two",
+   "start": 113111,
+   "end": 113271
+  },
+  {
+   "text": "hundred",
+   "start": 113271,
+   "end": 113431
+  },
+  {
+   "text": "dollars",
+   "start": 113431,
+   "end": 113592
+  },
+  {
+   "text": "a",
+   "start": 113832,
+   "end": 113848
+  },
+  {
+   "text": "month,",
+   "start": 113848,
+   "end": 114201
+  },
+  {
+   "text": "and",
+   "start": 114473,
+   "end": 114537
+  },
+  {
+   "text": "Cursor",
+   "start": 114617,
+   "end": 114874
+  },
+  {
+   "text": "Teams",
+   "start": 114874,
+   "end": 115162
+  },
+  {
+   "text": "Premium",
+   "start": 115194,
+   "end": 115563
+  },
+  {
+   "text": "at",
+   "start": 115819,
+   "end": 115883
+  },
+  {
+   "text": "one",
+   "start": 115979,
+   "end": 116171
+  },
+  {
+   "text": "twenty",
+   "start": 116171,
+   "end": 116364
+  },
+  {
+   "text": "per",
+   "start": 116380,
+   "end": 116492
+  },
+  {
+   "text": "seat.",
+   "start": 116492,
+   "end": 116685
+  },
+  {
+   "text": "Desktop",
+   "start": 117197,
+   "end": 117550
+  },
+  {
+   "text": "and",
+   "start": 117678,
+   "end": 117742
+  },
+  {
+   "text": "iOS",
+   "start": 118063,
+   "end": 118239
+  },
+  {
+   "text": "now.",
+   "start": 118239,
+   "end": 118399
+  },
+  {
+   "text": "Android",
+   "start": 118880,
+   "end": 119200
+  },
+  {
+   "text": "soon.",
+   "start": 119200,
+   "end": 119489
+  },
+  {
+   "text": "Elon",
+   "start": 119906,
+   "end": 120114
+  },
+  {
+   "text": "says",
+   "start": 120162,
+   "end": 120370
+  },
+  {
+   "text": "the",
+   "start": 120402,
+   "end": 120482
+  },
+  {
+   "text": "beta",
+   "start": 120547,
+   "end": 120851
+  },
+  {
+   "text": "widens",
+   "start": 120867,
+   "end": 121172
+  },
+  {
+   "text": "once",
+   "start": 121268,
+   "end": 121508
+  },
+  {
+   "text": "they",
+   "start": 121508,
+   "end": 121604
+  },
+  {
+   "text": "fix",
+   "start": 121604,
+   "end": 121989
+  },
+  {
+   "text": "the",
+   "start": 121989,
+   "end": 122197
+  },
+  {
+   "text": "early",
+   "start": 122229,
+   "end": 122454
+  },
+  {
+   "text": "bugs",
+   "start": 122550,
+   "end": 122854
+  },
+  {
+   "text": "tied",
+   "start": 123207,
+   "end": 123447
+  },
+  {
+   "text": "to",
+   "start": 123447,
+   "end": 123495
+  },
+  {
+   "text": "Grok",
+   "start": 123527,
+   "end": 123768
+  },
+  {
+   "text": "4.6,",
+   "start": 123784,
+   "end": 124521
+  },
+  {
+   "text": "out",
+   "start": 124889,
+   "end": 125002
+  },
+  {
+   "text": "later",
+   "start": 125050,
+   "end": 125274
+  },
+  {
+   "text": "this",
+   "start": 125274,
+   "end": 125450
+  },
+  {
+   "text": "week.",
+   "start": 125450,
+   "end": 125611
+  },
+  {
+   "text": "And",
+   "start": 126171,
+   "end": 126235
+  },
+  {
+   "text": "here's",
+   "start": 126252,
+   "end": 126492
+  },
+  {
+   "text": "the",
+   "start": 126508,
+   "end": 126588
+  },
+  {
+   "text": "verdict.",
+   "start": 126588,
+   "end": 126973
+  },
+  {
+   "text": "This",
+   "start": 127373,
+   "end": 127485
+  },
+  {
+   "text": "is",
+   "start": 127550,
+   "end": 127614
+  },
+  {
+   "text": "the",
+   "start": 127678,
+   "end": 127726
+  },
+  {
+   "text": "first",
+   "start": 127758,
+   "end": 128159
+  },
+  {
+   "text": "agent",
+   "start": 128239,
+   "end": 128479
+  },
+  {
+   "text": "priced",
+   "start": 128479,
+   "end": 128816
+  },
+  {
+   "text": "like",
+   "start": 128816,
+   "end": 128976
+  },
+  {
+   "text": "a",
+   "start": 128976,
+   "end": 129040
+  },
+  {
+   "text": "junior",
+   "start": 129040,
+   "end": 129280
+  },
+  {
+   "text": "hire.",
+   "start": 129296,
+   "end": 129489
+  },
+  {
+   "text": "Two",
+   "start": 130017,
+   "end": 130150
+  },
+  {
+   "text": "hundred",
+   "start": 130150,
+   "end": 130284
+  },
+  {
+   "text": "dollars",
+   "start": 130284,
+   "end": 130418
+  },
+  {
+   "text": "a",
+   "start": 130658,
+   "end": 130674
+  },
+  {
+   "text": "month",
+   "start": 130706,
+   "end": 130947
+  },
+  {
+   "text": "for",
+   "start": 130979,
+   "end": 131139
+  },
+  {
+   "text": "a",
+   "start": 131139,
+   "end": 131203
+  },
+  {
+   "text": "worker",
+   "start": 131219,
+   "end": 131508
+  },
+  {
+   "text": "that",
+   "start": 131556,
+   "end": 131764
+  },
+  {
+   "text": "never",
+   "start": 131764,
+   "end": 131940
+  },
+  {
+   "text": "sleeps,",
+   "start": 131940,
+   "end": 132341
+  },
+  {
+   "text": "operates",
+   "start": 132646,
+   "end": 132982
+  },
+  {
+   "text": "your",
+   "start": 132982,
+   "end": 133094
+  },
+  {
+   "text": "actual",
+   "start": 133207,
+   "end": 133495
+  },
+  {
+   "text": "tools,",
+   "start": 133543,
+   "end": 133832
+  },
+  {
+   "text": "needs",
+   "start": 134184,
+   "end": 134441
+  },
+  {
+   "text": "no",
+   "start": 134441,
+   "end": 134601
+  },
+  {
+   "text": "API.",
+   "start": 134729,
+   "end": 135146
+  },
+  {
+   "text": "xAI",
+   "start": 135563,
+   "end": 135900
+  },
+  {
+   "text": "is",
+   "start": 135932,
+   "end": 135996
+  },
+  {
+   "text": "selling",
+   "start": 136028,
+   "end": 136316
+  },
+  {
+   "text": "a",
+   "start": 136333,
+   "end": 136349
+  },
+  {
+   "text": "job,",
+   "start": 136349,
+   "end": 136749
+  },
+  {
+   "text": "not",
+   "start": 136990,
+   "end": 137086
+  },
+  {
+   "text": "a",
+   "start": 137086,
+   "end": 137150
+  },
+  {
+   "text": "feature.",
+   "start": 137150,
+   "end": 137407
+  },
+  {
+   "text": "That's",
+   "start": 137871,
+   "end": 138032
+  },
+  {
+   "text": "the",
+   "start": 138032,
+   "end": 138112
+  },
+  {
+   "text": "headline.",
+   "start": 138112,
+   "end": 138449
+  },
+  {
+   "text": "Phase",
+   "start": 138449,
+   "end": 138541
+  },
+  {
+   "text": "2:",
+   "start": 138541,
+   "end": 138634
+  },
+  {
+   "text": "Evidence,",
+   "start": 138634,
+   "end": 138727
+  },
+  {
+   "text": "Limits,",
+   "start": 138727,
+   "end": 138820
+  },
+  {
+   "text": "Close",
+   "start": 138820,
+   "end": 138913
+  },
+  {
+   "text": "Let",
+   "start": 138913,
+   "end": 139010
+  },
+  {
+   "text": "me",
+   "start": 139010,
+   "end": 139090
+  },
+  {
+   "text": "show",
+   "start": 139090,
+   "end": 139298
+  },
+  {
+   "text": "you",
+   "start": 139314,
+   "end": 139410
+  },
+  {
+   "text": "the",
+   "start": 139410,
+   "end": 139491
+  },
+  {
+   "text": "launch",
+   "start": 139539,
+   "end": 139795
+  },
+  {
+   "text": "itself",
+   "start": 139795,
+   "end": 140164
+  },
+  {
+   "text": "day",
+   "start": 140581,
+   "end": 140677
+  },
+  {
+   "text": "zero,",
+   "start": 140757,
+   "end": 141222
+  },
+  {
+   "text": "numbers",
+   "start": 141478,
+   "end": 141799
+  },
+  {
+   "text": "included.",
+   "start": 141799,
+   "end": 142168
+  },
+  {
+   "text": "First,",
+   "start": 142681,
+   "end": 143049
+  },
+  {
+   "text": "the",
+   "start": 143226,
+   "end": 143290
+  },
+  {
+   "text": "announcement",
+   "start": 143322,
+   "end": 143707
+  },
+  {
+   "text": "post,",
+   "start": 143723,
+   "end": 144091
+  },
+  {
+   "text": "five",
+   "start": 144348,
+   "end": 144556
+  },
+  {
+   "text": "oh",
+   "start": 144556,
+   "end": 144764
+  },
+  {
+   "text": "nine",
+   "start": 144764,
+   "end": 144973
+  },
+  {
+   "text": "PM",
+   "start": 145005,
+   "end": 145310
+  },
+  {
+   "text": "eastern",
+   "start": 145310,
+   "end": 145598
+  },
+  {
+   "text": "today:",
+   "start": 145630,
+   "end": 145887
+  },
+  {
+   "text": "\"Introducing",
+   "start": 146207,
+   "end": 146736
+  },
+  {
+   "text": "Grok",
+   "start": 146752,
+   "end": 147040
+  },
+  {
+   "text": "Bot,",
+   "start": 147040,
+   "end": 147329
+  },
+  {
+   "text": "now",
+   "start": 147634,
+   "end": 147746
+  },
+  {
+   "text": "in",
+   "start": 147826,
+   "end": 147971
+  },
+  {
+   "text": "early",
+   "start": 147971,
+   "end": 148179
+  },
+  {
+   "text": "beta.",
+   "start": 148211,
+   "end": 148468
+  },
+  {
+   "text": "Bots",
+   "start": 148916,
+   "end": 149173
+  },
+  {
+   "text": "are",
+   "start": 149173,
+   "end": 149317
+  },
+  {
+   "text": "AI",
+   "start": 149413,
+   "end": 149654
+  },
+  {
+   "text": "teammates",
+   "start": 149654,
+   "end": 150135
+  },
+  {
+   "text": "that",
+   "start": 150135,
+   "end": 150295
+  },
+  {
+   "text": "do",
+   "start": 150295,
+   "end": 150423
+  },
+  {
+   "text": "real",
+   "start": 150519,
+   "end": 150680
+  },
+  {
+   "text": "work",
+   "start": 150696,
+   "end": 150920
+  },
+  {
+   "text": "for",
+   "start": 150936,
+   "end": 151080
+  },
+  {
+   "text": "you.\"",
+   "start": 151080,
+   "end": 151129
+  },
+  {
+   "text": "Four",
+   "start": 151642,
+   "end": 151855
+  },
+  {
+   "text": "point",
+   "start": 151855,
+   "end": 152069
+  },
+  {
+   "text": "six",
+   "start": 152069,
+   "end": 152283
+  },
+  {
+   "text": "million",
+   "start": 152283,
+   "end": 152619
+  },
+  {
+   "text": "views",
+   "start": 152684,
+   "end": 152988
+  },
+  {
+   "text": "in",
+   "start": 153100,
+   "end": 153180
+  },
+  {
+   "text": "its",
+   "start": 153180,
+   "end": 153325
+  },
+  {
+   "text": "first",
+   "start": 153325,
+   "end": 153581
+  },
+  {
+   "text": "three",
+   "start": 153581,
+   "end": 153806
+  },
+  {
+   "text": "hours.",
+   "start": 153886,
+   "end": 154110
+  },
+  {
+   "text": "This",
+   "start": 154607,
+   "end": 154719
+  },
+  {
+   "text": "is",
+   "start": 154784,
+   "end": 154832
+  },
+  {
+   "text": "not",
+   "start": 154864,
+   "end": 154976
+  },
+  {
+   "text": "a",
+   "start": 155008,
+   "end": 155088
+  },
+  {
+   "text": "quiet",
+   "start": 155088,
+   "end": 155296
+  },
+  {
+   "text": "launch.",
+   "start": 155409,
+   "end": 155633
+  },
+  {
+   "text": "And",
+   "start": 156226,
+   "end": 156290
+  },
+  {
+   "text": "the",
+   "start": 156290,
+   "end": 156387
+  },
+  {
+   "text": "account's",
+   "start": 156387,
+   "end": 156707
+  },
+  {
+   "text": "follow-up",
+   "start": 156707,
+   "end": 157172
+  },
+  {
+   "text": "the",
+   "start": 157429,
+   "end": 157557
+  },
+  {
+   "text": "whole",
+   "start": 157573,
+   "end": 157701
+  },
+  {
+   "text": "pitch",
+   "start": 157749,
+   "end": 158038
+  },
+  {
+   "text": "in",
+   "start": 158230,
+   "end": 158278
+  },
+  {
+   "text": "one",
+   "start": 158374,
+   "end": 158438
+  },
+  {
+   "text": "line.",
+   "start": 158535,
+   "end": 158679
+  },
+  {
+   "text": "\"Give",
+   "start": 159112,
+   "end": 159272
+  },
+  {
+   "text": "them",
+   "start": 159272,
+   "end": 159369
+  },
+  {
+   "text": "a",
+   "start": 159369,
+   "end": 159433
+  },
+  {
+   "text": "task,",
+   "start": 159433,
+   "end": 159850
+  },
+  {
+   "text": "shut",
+   "start": 160075,
+   "end": 160268
+  },
+  {
+   "text": "your",
+   "start": 160300,
+   "end": 160364
+  },
+  {
+   "text": "computer,",
+   "start": 160396,
+   "end": 160846
+  },
+  {
+   "text": "and",
+   "start": 161119,
+   "end": 161183
+  },
+  {
+   "text": "reach",
+   "start": 161263,
+   "end": 161392
+  },
+  {
+   "text": "them",
+   "start": 161440,
+   "end": 161600
+  },
+  {
+   "text": "from",
+   "start": 161600,
+   "end": 161825
+  },
+  {
+   "text": "anywhere.\"",
+   "start": 161841,
+   "end": 162162
+  },
+  {
+   "text": "Keep",
+   "start": 162708,
+   "end": 162869
+  },
+  {
+   "text": "the",
+   "start": 162869,
+   "end": 162933
+  },
+  {
+   "text": "date",
+   "start": 162965,
+   "end": 163206
+  },
+  {
+   "text": "in",
+   "start": 163206,
+   "end": 163254
+  },
+  {
+   "text": "your",
+   "start": 163270,
+   "end": 163350
+  },
+  {
+   "text": "head.",
+   "start": 163430,
+   "end": 163655
+  },
+  {
+   "text": "In",
+   "start": 164008,
+   "end": 164057
+  },
+  {
+   "text": "a",
+   "start": 164105,
+   "end": 164153
+  },
+  {
+   "text": "minute,",
+   "start": 164153,
+   "end": 164426
+  },
+  {
+   "text": "I'm",
+   "start": 164747,
+   "end": 164891
+  },
+  {
+   "text": "showing",
+   "start": 164891,
+   "end": 165180
+  },
+  {
+   "text": "you",
+   "start": 165212,
+   "end": 165341
+  },
+  {
+   "text": "who",
+   "start": 165357,
+   "end": 165453
+  },
+  {
+   "text": "ships",
+   "start": 165453,
+   "end": 165774
+  },
+  {
+   "text": "this",
+   "start": 165774,
+   "end": 165999
+  },
+  {
+   "text": "first.",
+   "start": 165999,
+   "end": 166272
+  },
+  {
+   "text": "Musk's",
+   "start": 166738,
+   "end": 167043
+  },
+  {
+   "text": "own",
+   "start": 167043,
+   "end": 167139
+  },
+  {
+   "text": "post,",
+   "start": 167139,
+   "end": 167588
+  },
+  {
+   "text": "five",
+   "start": 167845,
+   "end": 168091
+  },
+  {
+   "text": "forty",
+   "start": 168091,
+   "end": 168337
+  },
+  {
+   "text": "three",
+   "start": 168337,
+   "end": 168584
+  },
+  {
+   "text": "PM:",
+   "start": 168584,
+   "end": 168857
+  },
+  {
+   "text": "the",
+   "start": 169226,
+   "end": 169290
+  },
+  {
+   "text": "beta",
+   "start": 169306,
+   "end": 169547
+  },
+  {
+   "text": "widens",
+   "start": 169627,
+   "end": 169964
+  },
+  {
+   "text": "once",
+   "start": 170013,
+   "end": 170253
+  },
+  {
+   "text": "they",
+   "start": 170253,
+   "end": 170350
+  },
+  {
+   "text": "fix",
+   "start": 170350,
+   "end": 170751
+  },
+  {
+   "text": "basic",
+   "start": 170751,
+   "end": 171088
+  },
+  {
+   "text": "issues,",
+   "start": 171136,
+   "end": 171441
+  },
+  {
+   "text": "Grok",
+   "start": 171779,
+   "end": 172019
+  },
+  {
+   "text": "4.6",
+   "start": 172019,
+   "end": 172758
+  },
+  {
+   "text": "lands",
+   "start": 172758,
+   "end": 172999
+  },
+  {
+   "text": "later",
+   "start": 172999,
+   "end": 173175
+  },
+  {
+   "text": "this",
+   "start": 173175,
+   "end": 173288
+  },
+  {
+   "text": "week.",
+   "start": 173400,
+   "end": 173561
+  },
+  {
+   "text": "So",
+   "start": 174026,
+   "end": 174122
+  },
+  {
+   "text": "what's",
+   "start": 174122,
+   "end": 174347
+  },
+  {
+   "text": "live",
+   "start": 174347,
+   "end": 174540
+  },
+  {
+   "text": "today",
+   "start": 174540,
+   "end": 174797
+  },
+  {
+   "text": "is",
+   "start": 175070,
+   "end": 175118
+  },
+  {
+   "text": "version",
+   "start": 175166,
+   "end": 175439
+  },
+  {
+   "text": "zero.",
+   "start": 175487,
+   "end": 175712
+  },
+  {
+   "text": "The",
+   "start": 176209,
+   "end": 176290
+  },
+  {
+   "text": "wide",
+   "start": 176354,
+   "end": 176531
+  },
+  {
+   "text": "release",
+   "start": 176531,
+   "end": 176836
+  },
+  {
+   "text": "is",
+   "start": 176948,
+   "end": 177028
+  },
+  {
+   "text": "days",
+   "start": 177076,
+   "end": 177221
+  },
+  {
+   "text": "away.",
+   "start": 177269,
+   "end": 177494
+  },
+  {
+   "text": "What's",
+   "start": 177975,
+   "end": 178200
+  },
+  {
+   "text": "actually",
+   "start": 178200,
+   "end": 178505
+  },
+  {
+   "text": "under",
+   "start": 178537,
+   "end": 178682
+  },
+  {
+   "text": "the",
+   "start": 178682,
+   "end": 178778
+  },
+  {
+   "text": "hood,",
+   "start": 178778,
+   "end": 179067
+  },
+  {
+   "text": "from",
+   "start": 179340,
+   "end": 179501
+  },
+  {
+   "text": "today's",
+   "start": 179501,
+   "end": 179822
+  },
+  {
+   "text": "launch",
+   "start": 179886,
+   "end": 180062
+  },
+  {
+   "text": "coverage:",
+   "start": 180062,
+   "end": 180400
+  },
+  {
+   "text": "the",
+   "start": 180785,
+   "end": 180929
+  },
+  {
+   "text": "bot",
+   "start": 180929,
+   "end": 181170
+  },
+  {
+   "text": "runs",
+   "start": 181170,
+   "end": 181395
+  },
+  {
+   "text": "inside",
+   "start": 181427,
+   "end": 181893
+  },
+  {
+   "text": "apps",
+   "start": 181893,
+   "end": 182149
+  },
+  {
+   "text": "that",
+   "start": 182149,
+   "end": 182278
+  },
+  {
+   "text": "have",
+   "start": 182294,
+   "end": 182471
+  },
+  {
+   "text": "no",
+   "start": 182535,
+   "end": 182711
+  },
+  {
+   "text": "clean",
+   "start": 182711,
+   "end": 183016
+  },
+  {
+   "text": "API,",
+   "start": 183016,
+   "end": 183498
+  },
+  {
+   "text": "because",
+   "start": 183819,
+   "end": 183996
+  },
+  {
+   "text": "it",
+   "start": 184012,
+   "end": 184092
+  },
+  {
+   "text": "works",
+   "start": 184140,
+   "end": 184397
+  },
+  {
+   "text": "through",
+   "start": 184397,
+   "end": 184574
+  },
+  {
+   "text": "the",
+   "start": 184574,
+   "end": 184718
+  },
+  {
+   "text": "interface",
+   "start": 184718,
+   "end": 185119
+  },
+  {
+   "text": "itself.",
+   "start": 185119,
+   "end": 185424
+  },
+  {
+   "text": "Its",
+   "start": 185858,
+   "end": 185954
+  },
+  {
+   "text": "own",
+   "start": 186002,
+   "end": 186082
+  },
+  {
+   "text": "computer",
+   "start": 186082,
+   "end": 186483
+  },
+  {
+   "text": "in",
+   "start": 186483,
+   "end": 186531
+  },
+  {
+   "text": "the",
+   "start": 186563,
+   "end": 186643
+  },
+  {
+   "text": "cloud.",
+   "start": 186643,
+   "end": 187012
+  },
+  {
+   "text": "Jobs",
+   "start": 187364,
+   "end": 187669
+  },
+  {
+   "text": "keep",
+   "start": 187669,
+   "end": 187845
+  },
+  {
+   "text": "going",
+   "start": 187845,
+   "end": 188054
+  },
+  {
+   "text": "when",
+   "start": 188086,
+   "end": 188166
+  },
+  {
+   "text": "you",
+   "start": 188166,
+   "end": 188246
+  },
+  {
+   "text": "step",
+   "start": 188246,
+   "end": 188502
+  },
+  {
+   "text": "away.",
+   "start": 188502,
+   "end": 188727
+  },
+  {
+   "text": "And",
+   "start": 189127,
+   "end": 189192
+  },
+  {
+   "text": "the",
+   "start": 189208,
+   "end": 189288
+  },
+  {
+   "text": "team",
+   "start": 189288,
+   "end": 189496
+  },
+  {
+   "text": "mechanics",
+   "start": 189528,
+   "end": 190121
+  },
+  {
+   "text": "bots",
+   "start": 190394,
+   "end": 190586
+  },
+  {
+   "text": "coordinating",
+   "start": 190634,
+   "end": 191179
+  },
+  {
+   "text": "in",
+   "start": 191195,
+   "end": 191291
+  },
+  {
+   "text": "group",
+   "start": 191291,
+   "end": 191516
+  },
+  {
+   "text": "chats,",
+   "start": 191516,
+   "end": 191932
+  },
+  {
+   "text": "passing",
+   "start": 192173,
+   "end": 192541
+  },
+  {
+   "text": "work,",
+   "start": 192573,
+   "end": 192878
+  },
+  {
+   "text": "assigning",
+   "start": 193070,
+   "end": 193423
+  },
+  {
+   "text": "ownership.",
+   "start": 193519,
+   "end": 193888
+  },
+  {
+   "text": "xAI",
+   "start": 194417,
+   "end": 194737
+  },
+  {
+   "text": "says",
+   "start": 194737,
+   "end": 194946
+  },
+  {
+   "text": "the",
+   "start": 194978,
+   "end": 195058
+  },
+  {
+   "text": "bots",
+   "start": 195138,
+   "end": 195394
+  },
+  {
+   "text": "are",
+   "start": 195394,
+   "end": 195523
+  },
+  {
+   "text": "already",
+   "start": 195603,
+   "end": 195907
+  },
+  {
+   "text": "at",
+   "start": 195939,
+   "end": 196036
+  },
+  {
+   "text": "work",
+   "start": 196084,
+   "end": 196260
+  },
+  {
+   "text": "inside",
+   "start": 196260,
+   "end": 196645
+  },
+  {
+   "text": "their",
+   "start": 196645,
+   "end": 196709
+  },
+  {
+   "text": "own",
+   "start": 196741,
+   "end": 196901
+  },
+  {
+   "text": "company.",
+   "start": 196901,
+   "end": 197190
+  },
+  {
+   "text": "Overnight",
+   "start": 197686,
+   "end": 198039
+  },
+  {
+   "text": "sales",
+   "start": 198039,
+   "end": 198392
+  },
+  {
+   "text": "research,",
+   "start": 198424,
+   "end": 198905
+  },
+  {
+   "text": "with",
+   "start": 199129,
+   "end": 199209
+  },
+  {
+   "text": "replies",
+   "start": 199289,
+   "end": 199754
+  },
+  {
+   "text": "in",
+   "start": 199786,
+   "end": 199850
+  },
+  {
+   "text": "the",
+   "start": 199850,
+   "end": 199930
+  },
+  {
+   "text": "seller's",
+   "start": 199930,
+   "end": 200331
+  },
+  {
+   "text": "voice.",
+   "start": 200331,
+   "end": 200555
+  },
+  {
+   "text": "Invoice",
+   "start": 201132,
+   "end": 201469
+  },
+  {
+   "text": "processing",
+   "start": 201469,
+   "end": 201918
+  },
+  {
+   "text": "straight",
+   "start": 202014,
+   "end": 202479
+  },
+  {
+   "text": "from",
+   "start": 202495,
+   "end": 202575
+  },
+  {
+   "text": "Gmail.",
+   "start": 202655,
+   "end": 203072
+  },
+  {
+   "text": "Keeping",
+   "start": 203457,
+   "end": 203681
+  },
+  {
+   "text": "customer",
+   "start": 203713,
+   "end": 204098
+  },
+  {
+   "text": "records",
+   "start": 204098,
+   "end": 204386
+  },
+  {
+   "text": "clean.",
+   "start": 204434,
+   "end": 204627
+  },
+  {
+   "text": "Onboarding",
+   "start": 205156,
+   "end": 205524
+  },
+  {
+   "text": "new",
+   "start": 205556,
+   "end": 205717
+  },
+  {
+   "text": "hires.",
+   "start": 205717,
+   "end": 206085
+  },
+  {
+   "text": "Even",
+   "start": 206598,
+   "end": 206726
+  },
+  {
+   "text": "reproducing",
+   "start": 206822,
+   "end": 207287
+  },
+  {
+   "text": "bugs,",
+   "start": 207399,
+   "end": 207688
+  },
+  {
+   "text": "then",
+   "start": 208025,
+   "end": 208089
+  },
+  {
+   "text": "filing",
+   "start": 208185,
+   "end": 208457
+  },
+  {
+   "text": "the",
+   "start": 208457,
+   "end": 208537
+  },
+  {
+   "text": "ticket",
+   "start": 208537,
+   "end": 208922
+  },
+  {
+   "text": "for",
+   "start": 208986,
+   "end": 209098
+  },
+  {
+   "text": "a",
+   "start": 209098,
+   "end": 209163
+  },
+  {
+   "text": "debugging",
+   "start": 209163,
+   "end": 209611
+  },
+  {
+   "text": "bot.",
+   "start": 209643,
+   "end": 209932
+  },
+  {
+   "text": "If",
+   "start": 210445,
+   "end": 210525
+  },
+  {
+   "text": "you",
+   "start": 210525,
+   "end": 210605
+  },
+  {
+   "text": "want",
+   "start": 210605,
+   "end": 210797
+  },
+  {
+   "text": "every",
+   "start": 210990,
+   "end": 211214
+  },
+  {
+   "text": "AI",
+   "start": 211310,
+   "end": 211439
+  },
+  {
+   "text": "release",
+   "start": 211567,
+   "end": 211967
+  },
+  {
+   "text": "broken",
+   "start": 211967,
+   "end": 212272
+  },
+  {
+   "text": "down",
+   "start": 212288,
+   "end": 212496
+  },
+  {
+   "text": "the",
+   "start": 212528,
+   "end": 212609
+  },
+  {
+   "text": "day",
+   "start": 212609,
+   "end": 212753
+  },
+  {
+   "text": "it",
+   "start": 212769,
+   "end": 212817
+  },
+  {
+   "text": "lands",
+   "start": 212913,
+   "end": 213266
+  },
+  {
+   "text": "sourced,",
+   "start": 213634,
+   "end": 214067
+  },
+  {
+   "text": "catches",
+   "start": 214260,
+   "end": 214580
+  },
+  {
+   "text": "included",
+   "start": 214612,
+   "end": 215061
+  },
+  {
+   "text": "subscribe.",
+   "start": 215270,
+   "end": 215751
+  },
+  {
+   "text": "Verdict",
+   "start": 216200,
+   "end": 216456
+  },
+  {
+   "text": "in",
+   "start": 216456,
+   "end": 216505
+  },
+  {
+   "text": "the",
+   "start": 216537,
+   "end": 216617
+  },
+  {
+   "text": "first",
+   "start": 216617,
+   "end": 216937
+  },
+  {
+   "text": "three",
+   "start": 217002,
+   "end": 217178
+  },
+  {
+   "text": "minutes,",
+   "start": 217178,
+   "end": 217467
+  },
+  {
+   "text": "every",
+   "start": 217819,
+   "end": 218044
+  },
+  {
+   "text": "time.",
+   "start": 218044,
+   "end": 218252
+  },
+  {
+   "text": "The",
+   "start": 218701,
+   "end": 218782
+  },
+  {
+   "text": "pricing",
+   "start": 218782,
+   "end": 219070
+  },
+  {
+   "text": "story.",
+   "start": 219102,
+   "end": 219391
+  },
+  {
+   "text": "Cursor",
+   "start": 219824,
+   "end": 220129
+  },
+  {
+   "text": "Ultra:",
+   "start": 220209,
+   "end": 220546
+  },
+  {
+   "text": "two",
+   "start": 220866,
+   "end": 221005
+  },
+  {
+   "text": "hundred",
+   "start": 221005,
+   "end": 221144
+  },
+  {
+   "text": "dollars",
+   "start": 221144,
+   "end": 221283
+  },
+  {
+   "text": "a",
+   "start": 221524,
+   "end": 221572
+  },
+  {
+   "text": "month,",
+   "start": 221572,
+   "end": 221876
+  },
+  {
+   "text": "the",
+   "start": 222149,
+   "end": 222197
+  },
+  {
+   "text": "bot's",
+   "start": 222229,
+   "end": 222486
+  },
+  {
+   "text": "own",
+   "start": 222534,
+   "end": 222582
+  },
+  {
+   "text": "computer",
+   "start": 222630,
+   "end": 223159
+  },
+  {
+   "text": "and",
+   "start": 223272,
+   "end": 223336
+  },
+  {
+   "text": "tool",
+   "start": 223432,
+   "end": 223640
+  },
+  {
+   "text": "sign-ins",
+   "start": 223656,
+   "end": 224073
+  },
+  {
+   "text": "included.",
+   "start": 224073,
+   "end": 224490
+  },
+  {
+   "text": "Teams",
+   "start": 224875,
+   "end": 225084
+  },
+  {
+   "text": "Premium:",
+   "start": 225116,
+   "end": 225581
+  },
+  {
+   "text": "one",
+   "start": 225901,
+   "end": 226093
+  },
+  {
+   "text": "twenty",
+   "start": 226093,
+   "end": 226286
+  },
+  {
+   "text": "per",
+   "start": 226302,
+   "end": 226350
+  },
+  {
+   "text": "seat.",
+   "start": 226399,
+   "end": 226655
+  },
+  {
+   "text": "And",
+   "start": 227120,
+   "end": 227184
+  },
+  {
+   "text": "the",
+   "start": 227184,
+   "end": 227280
+  },
+  {
+   "text": "launch",
+   "start": 227280,
+   "end": 227569
+  },
+  {
+   "text": "press",
+   "start": 227585,
+   "end": 227938
+  },
+  {
+   "text": "keeps",
+   "start": 228066,
+   "end": 228403
+  },
+  {
+   "text": "landing",
+   "start": 228467,
+   "end": 228756
+  },
+  {
+   "text": "on",
+   "start": 228788,
+   "end": 228836
+  },
+  {
+   "text": "the",
+   "start": 228868,
+   "end": 228900
+  },
+  {
+   "text": "same",
+   "start": 228900,
+   "end": 229157
+  },
+  {
+   "text": "line:",
+   "start": 229205,
+   "end": 229413
+  },
+  {
+   "text": "this",
+   "start": 229910,
+   "end": 229975
+  },
+  {
+   "text": "sits",
+   "start": 230023,
+   "end": 230247
+  },
+  {
+   "text": "below",
+   "start": 230247,
+   "end": 230536
+  },
+  {
+   "text": "a",
+   "start": 230728,
+   "end": 230744
+  },
+  {
+   "text": "loaded",
+   "start": 230873,
+   "end": 231113
+  },
+  {
+   "text": "salary",
+   "start": 231113,
+   "end": 231498
+  },
+  {
+   "text": "for",
+   "start": 231594,
+   "end": 231771
+  },
+  {
+   "text": "entry-level",
+   "start": 231771,
+   "end": 232236
+  },
+  {
+   "text": "work.",
+   "start": 232252,
+   "end": 232492
+  },
+  {
+   "text": "A",
+   "start": 232893,
+   "end": 232957
+  },
+  {
+   "text": "job,",
+   "start": 232973,
+   "end": 233294
+  },
+  {
+   "text": "not",
+   "start": 233534,
+   "end": 233631
+  },
+  {
+   "text": "a",
+   "start": 233631,
+   "end": 233695
+  },
+  {
+   "text": "feature.",
+   "start": 233695,
+   "end": 233999
+  },
+  {
+   "text": "Then",
+   "start": 234497,
+   "end": 234609
+  },
+  {
+   "text": "distribution.",
+   "start": 234657,
+   "end": 235186
+  },
+  {
+   "text": "Grok",
+   "start": 235683,
+   "end": 235924
+  },
+  {
+   "text": "Bot",
+   "start": 236004,
+   "end": 236196
+  },
+  {
+   "text": "ships",
+   "start": 236196,
+   "end": 236517
+  },
+  {
+   "text": "inside",
+   "start": 236581,
+   "end": 237046
+  },
+  {
+   "text": "Cursor",
+   "start": 237046,
+   "end": 237351
+  },
+  {
+   "text": "the",
+   "start": 237688,
+   "end": 237768
+  },
+  {
+   "text": "coding",
+   "start": 237768,
+   "end": 237992
+  },
+  {
+   "text": "platform",
+   "start": 238024,
+   "end": 238441
+  },
+  {
+   "text": "SpaceX",
+   "start": 238441,
+   "end": 239067
+  },
+  {
+   "text": "is",
+   "start": 239067,
+   "end": 239115
+  },
+  {
+   "text": "acquiring",
+   "start": 239163,
+   "end": 239596
+  },
+  {
+   "text": "for",
+   "start": 239692,
+   "end": 239788
+  },
+  {
+   "text": "sixty",
+   "start": 239788,
+   "end": 240237
+  },
+  {
+   "text": "billion",
+   "start": 240269,
+   "end": 240686
+  },
+  {
+   "text": "dollars",
+   "start": 240686,
+   "end": 241232
+  },
+  {
+   "text": "and",
+   "start": 241232,
+   "end": 241296
+  },
+  {
+   "text": "on",
+   "start": 241376,
+   "end": 241424
+  },
+  {
+   "text": "X,",
+   "start": 241536,
+   "end": 241745
+  },
+  {
+   "text": "where",
+   "start": 242114,
+   "end": 242258
+  },
+  {
+   "text": "the",
+   "start": 242258,
+   "end": 242290
+  },
+  {
+   "text": "launch",
+   "start": 242355,
+   "end": 242595
+  },
+  {
+   "text": "post",
+   "start": 242595,
+   "end": 242996
+  },
+  {
+   "text": "pulled",
+   "start": 242996,
+   "end": 243253
+  },
+  {
+   "text": "millions",
+   "start": 243253,
+   "end": 243815
+  },
+  {
+   "text": "of",
+   "start": 243815,
+   "end": 243863
+  },
+  {
+   "text": "views",
+   "start": 243863,
+   "end": 244200
+  },
+  {
+   "text": "in",
+   "start": 244200,
+   "end": 244280
+  },
+  {
+   "text": "hours.",
+   "start": 244280,
+   "end": 244569
+  },
+  {
+   "text": "No",
+   "start": 245082,
+   "end": 245210
+  },
+  {
+   "text": "other",
+   "start": 245243,
+   "end": 245403
+  },
+  {
+   "text": "agent",
+   "start": 245547,
+   "end": 245740
+  },
+  {
+   "text": "in",
+   "start": 245740,
+   "end": 245804
+  },
+  {
+   "text": "the",
+   "start": 245820,
+   "end": 245900
+  },
+  {
+   "text": "world",
+   "start": 245965,
+   "end": 246285
+  },
+  {
+   "text": "has",
+   "start": 246285,
+   "end": 246494
+  },
+  {
+   "text": "that",
+   "start": 246510,
+   "end": 246622
+  },
+  {
+   "text": "reach",
+   "start": 246687,
+   "end": 246911
+  },
+  {
+   "text": "on",
+   "start": 246911,
+   "end": 247007
+  },
+  {
+   "text": "day",
+   "start": 247007,
+   "end": 247232
+  },
+  {
+   "text": "one.",
+   "start": 247248,
+   "end": 247457
+  },
+  {
+   "text": "Here's",
+   "start": 247890,
+   "end": 248050
+  },
+  {
+   "text": "where",
+   "start": 248050,
+   "end": 248130
+  },
+  {
+   "text": "I'm",
+   "start": 248130,
+   "end": 248211
+  },
+  {
+   "text": "straight",
+   "start": 248211,
+   "end": 248483
+  },
+  {
+   "text": "with",
+   "start": 248516,
+   "end": 248676
+  },
+  {
+   "text": "you.",
+   "start": 248676,
+   "end": 248708
+  },
+  {
+   "text": "The",
+   "start": 249173,
+   "end": 249221
+  },
+  {
+   "text": "phrase",
+   "start": 249237,
+   "end": 249542
+  },
+  {
+   "text": "you'll",
+   "start": 249558,
+   "end": 249655
+  },
+  {
+   "text": "hear",
+   "start": 249655,
+   "end": 249847
+  },
+  {
+   "text": "everywhere,",
+   "start": 249959,
+   "end": 250377
+  },
+  {
+   "text": "\"no",
+   "start": 250762,
+   "end": 250906
+  },
+  {
+   "text": "agent",
+   "start": 251083,
+   "end": 251339
+  },
+  {
+   "text": "has",
+   "start": 251339,
+   "end": 251468
+  },
+  {
+   "text": "ever",
+   "start": 251660,
+   "end": 251885
+  },
+  {
+   "text": "done",
+   "start": 251885,
+   "end": 252013
+  },
+  {
+   "text": "this,\"",
+   "start": 252125,
+   "end": 252254
+  },
+  {
+   "text": "is",
+   "start": 252639,
+   "end": 252751
+  },
+  {
+   "text": "wrong.",
+   "start": 252783,
+   "end": 252992
+  },
+  {
+   "text": "Gemini",
+   "start": 253489,
+   "end": 253762
+  },
+  {
+   "text": "Spark",
+   "start": 253762,
+   "end": 254067
+  },
+  {
+   "text": "shipped",
+   "start": 254067,
+   "end": 254468
+  },
+  {
+   "text": "the",
+   "start": 254468,
+   "end": 254564
+  },
+  {
+   "text": "exact",
+   "start": 254564,
+   "end": 254965
+  },
+  {
+   "text": "same",
+   "start": 254965,
+   "end": 255366
+  },
+  {
+   "text": "\"works",
+   "start": 255655,
+   "end": 255896
+  },
+  {
+   "text": "while",
+   "start": 255896,
+   "end": 256008
+  },
+  {
+   "text": "your",
+   "start": 256008,
+   "end": 256136
+  },
+  {
+   "text": "devices",
+   "start": 256136,
+   "end": 256554
+  },
+  {
+   "text": "are",
+   "start": 256554,
+   "end": 256778
+  },
+  {
+   "text": "off\"",
+   "start": 256858,
+   "end": 257115
+  },
+  {
+   "text": "promise",
+   "start": 257340,
+   "end": 257644
+  },
+  {
+   "text": "on",
+   "start": 257837,
+   "end": 257885
+  },
+  {
+   "text": "May",
+   "start": 257981,
+   "end": 258078
+  },
+  {
+   "text": "nineteenth.",
+   "start": 258078,
+   "end": 258527
+  },
+  {
+   "text": "Claude",
+   "start": 259024,
+   "end": 259281
+  },
+  {
+   "text": "Cowork",
+   "start": 259281,
+   "end": 259682
+  },
+  {
+   "text": "shipped",
+   "start": 259682,
+   "end": 260115
+  },
+  {
+   "text": "\"works",
+   "start": 260308,
+   "end": 260548
+  },
+  {
+   "text": "when",
+   "start": 260548,
+   "end": 260645
+  },
+  {
+   "text": "you",
+   "start": 260645,
+   "end": 260773
+  },
+  {
+   "text": "don't\"",
+   "start": 260789,
+   "end": 261110
+  },
+  {
+   "text": "back",
+   "start": 261206,
+   "end": 261447
+  },
+  {
+   "text": "in",
+   "start": 261447,
+   "end": 261527
+  },
+  {
+   "text": "January",
+   "start": 261527,
+   "end": 261976
+  },
+  {
+   "text": "including",
+   "start": 262329,
+   "end": 262698
+  },
+  {
+   "text": "the",
+   "start": 262730,
+   "end": 262811
+  },
+  {
+   "text": "coworker",
+   "start": 262811,
+   "end": 263292
+  },
+  {
+   "text": "framing.",
+   "start": 263292,
+   "end": 263581
+  },
+  {
+   "text": "What",
+   "start": 264094,
+   "end": 264206
+  },
+  {
+   "text": "Grok",
+   "start": 264255,
+   "end": 264527
+  },
+  {
+   "text": "Bot",
+   "start": 264527,
+   "end": 264800
+  },
+  {
+   "text": "truly",
+   "start": 264800,
+   "end": 265105
+  },
+  {
+   "text": "does",
+   "start": 265137,
+   "end": 265346
+  },
+  {
+   "text": "first",
+   "start": 265442,
+   "end": 265843
+  },
+  {
+   "text": "is",
+   "start": 265875,
+   "end": 265939
+  },
+  {
+   "text": "specific:",
+   "start": 265939,
+   "end": 266517
+  },
+  {
+   "text": "a",
+   "start": 266790,
+   "end": 266822
+  },
+  {
+   "text": "dedicated",
+   "start": 266902,
+   "end": 267368
+  },
+  {
+   "text": "cloud",
+   "start": 267368,
+   "end": 267625
+  },
+  {
+   "text": "computer,",
+   "start": 267625,
+   "end": 268010
+  },
+  {
+   "text": "tool",
+   "start": 268347,
+   "end": 268572
+  },
+  {
+   "text": "use",
+   "start": 268572,
+   "end": 268813
+  },
+  {
+   "text": "with",
+   "start": 268813,
+   "end": 268910
+  },
+  {
+   "text": "no",
+   "start": 268926,
+   "end": 269134
+  },
+  {
+   "text": "API,",
+   "start": 269311,
+   "end": 269745
+  },
+  {
+   "text": "self-coordinating",
+   "start": 270098,
+   "end": 270821
+  },
+  {
+   "text": "bot",
+   "start": 270837,
+   "end": 271062
+  },
+  {
+   "text": "teams,",
+   "start": 271078,
+   "end": 271447
+  },
+  {
+   "text": "and",
+   "start": 271801,
+   "end": 271865
+  },
+  {
+   "text": "that",
+   "start": 271865,
+   "end": 272042
+  },
+  {
+   "text": "Cursor",
+   "start": 272042,
+   "end": 272299
+  },
+  {
+   "text": "distribution.",
+   "start": 272299,
+   "end": 272813
+  },
+  {
+   "text": "Narrower",
+   "start": 273246,
+   "end": 273616
+  },
+  {
+   "text": "than",
+   "start": 273632,
+   "end": 273696
+  },
+  {
+   "text": "the",
+   "start": 273728,
+   "end": 273808
+  },
+  {
+   "text": "hype.",
+   "start": 273808,
+   "end": 274146
+  },
+  {
+   "text": "Still",
+   "start": 274531,
+   "end": 274724
+  },
+  {
+   "text": "genuinely",
+   "start": 274772,
+   "end": 275222
+  },
+  {
+   "text": "new.",
+   "start": 275254,
+   "end": 275495
+  },
+  {
+   "text": "And",
+   "start": 275896,
+   "end": 275961
+  },
+  {
+   "text": "it's",
+   "start": 275977,
+   "end": 276073
+  },
+  {
+   "text": "a",
+   "start": 276073,
+   "end": 276186
+  },
+  {
+   "text": "beta",
+   "start": 276202,
+   "end": 276442
+  },
+  {
+   "text": "with",
+   "start": 276459,
+   "end": 276555
+  },
+  {
+   "text": "known",
+   "start": 276619,
+   "end": 276748
+  },
+  {
+   "text": "problems",
+   "start": 276780,
+   "end": 277230
+  },
+  {
+   "text": "Elon",
+   "start": 277663,
+   "end": 277872
+  },
+  {
+   "text": "said",
+   "start": 277968,
+   "end": 278209
+  },
+  {
+   "text": "so",
+   "start": 278209,
+   "end": 278418
+  },
+  {
+   "text": "himself",
+   "start": 278450,
+   "end": 278852
+  },
+  {
+   "text": "hours",
+   "start": 279012,
+   "end": 279237
+  },
+  {
+   "text": "before",
+   "start": 279269,
+   "end": 279574
+  },
+  {
+   "text": "you",
+   "start": 279574,
+   "end": 279671
+  },
+  {
+   "text": "saw",
+   "start": 279671,
+   "end": 279831
+  },
+  {
+   "text": "the",
+   "start": 279831,
+   "end": 279976
+  },
+  {
+   "text": "hype.",
+   "start": 279976,
+   "end": 280153
+  },
+  {
+   "text": "The",
+   "start": 280618,
+   "end": 280683
+  },
+  {
+   "text": "big",
+   "start": 280715,
+   "end": 280940
+  },
+  {
+   "text": "one",
+   "start": 281020,
+   "end": 281084
+  },
+  {
+   "text": "nobody's",
+   "start": 281181,
+   "end": 281582
+  },
+  {
+   "text": "asking:",
+   "start": 281582,
+   "end": 281887
+  },
+  {
+   "text": "a",
+   "start": 282321,
+   "end": 282353
+  },
+  {
+   "text": "bot",
+   "start": 282401,
+   "end": 282562
+  },
+  {
+   "text": "that",
+   "start": 282562,
+   "end": 282674
+  },
+  {
+   "text": "signs",
+   "start": 282723,
+   "end": 283044
+  },
+  {
+   "text": "into",
+   "start": 283044,
+   "end": 283204
+  },
+  {
+   "text": "your",
+   "start": 283204,
+   "end": 283317
+  },
+  {
+   "text": "email",
+   "start": 283429,
+   "end": 283638
+  },
+  {
+   "text": "needs",
+   "start": 284007,
+   "end": 284168
+  },
+  {
+   "text": "you",
+   "start": 284168,
+   "end": 284248
+  },
+  {
+   "text": "to",
+   "start": 284248,
+   "end": 284329
+  },
+  {
+   "text": "trust",
+   "start": 284329,
+   "end": 284714
+  },
+  {
+   "text": "how",
+   "start": 284714,
+   "end": 284811
+  },
+  {
+   "text": "sign-in",
+   "start": 284811,
+   "end": 285180
+  },
+  {
+   "text": "works.",
+   "start": 285276,
+   "end": 285614
+  },
+  {
+   "text": "And",
+   "start": 286015,
+   "end": 286079
+  },
+  {
+   "text": "xAI",
+   "start": 286176,
+   "end": 286626
+  },
+  {
+   "text": "hasn't",
+   "start": 286642,
+   "end": 286882
+  },
+  {
+   "text": "explained",
+   "start": 286899,
+   "end": 287316
+  },
+  {
+   "text": "its",
+   "start": 287316,
+   "end": 287461
+  },
+  {
+   "text": "authentication",
+   "start": 287461,
+   "end": 288071
+  },
+  {
+   "text": "yet.",
+   "start": 288167,
+   "end": 288280
+  },
+  {
+   "text": "Regulated",
+   "start": 288730,
+   "end": 289147
+  },
+  {
+   "text": "industries,",
+   "start": 289147,
+   "end": 289597
+  },
+  {
+   "text": "take",
+   "start": 289870,
+   "end": 290047
+  },
+  {
+   "text": "note.",
+   "start": 290095,
+   "end": 290320
+  },
+  {
+   "text": "No",
+   "start": 290737,
+   "end": 290898
+  },
+  {
+   "text": "model",
+   "start": 290898,
+   "end": 291155
+  },
+  {
+   "text": "confirmed,",
+   "start": 291155,
+   "end": 291605
+  },
+  {
+   "text": "no",
+   "start": 291942,
+   "end": 292086
+  },
+  {
+   "text": "Android",
+   "start": 292199,
+   "end": 292520
+  },
+  {
+   "text": "date,",
+   "start": 292520,
+   "end": 292649
+  },
+  {
+   "text": "no",
+   "start": 292922,
+   "end": 293018
+  },
+  {
+   "text": "SuperGrok",
+   "start": 293018,
+   "end": 293411
+  },
+  {
+   "text": "Heavy",
+   "start": 293411,
+   "end": 293805
+  },
+  {
+   "text": "price.",
+   "start": 293805,
+   "end": 294094
+  },
+  {
+   "text": "Today:",
+   "start": 294672,
+   "end": 294849
+  },
+  {
+   "text": "real",
+   "start": 295251,
+   "end": 295379
+  },
+  {
+   "text": "product,",
+   "start": 295411,
+   "end": 295813
+  },
+  {
+   "text": "specific",
+   "start": 296038,
+   "end": 296520
+  },
+  {
+   "text": "firsts,",
+   "start": 296520,
+   "end": 296905
+  },
+  {
+   "text": "early",
+   "start": 297242,
+   "end": 297387
+  },
+  {
+   "text": "beta.",
+   "start": 297419,
+   "end": 297740
+  },
+  {
+   "text": "So",
+   "start": 298142,
+   "end": 298271
+  },
+  {
+   "text": "here's",
+   "start": 298287,
+   "end": 298479
+  },
+  {
+   "text": "the",
+   "start": 298479,
+   "end": 298608
+  },
+  {
+   "text": "catch,",
+   "start": 298608,
+   "end": 298833
+  },
+  {
+   "text": "in",
+   "start": 299186,
+   "end": 299234
+  },
+  {
+   "text": "one",
+   "start": 299331,
+   "end": 299459
+  },
+  {
+   "text": "line:",
+   "start": 299507,
+   "end": 299636
+  },
+  {
+   "text": "Grok",
+   "start": 300150,
+   "end": 300383
+  },
+  {
+   "text": "Bot",
+   "start": 300383,
+   "end": 300616
+  },
+  {
+   "text": "is",
+   "start": 300616,
+   "end": 300680
+  },
+  {
+   "text": "not",
+   "start": 300712,
+   "end": 300889
+  },
+  {
+   "text": "the",
+   "start": 300937,
+   "end": 300985
+  },
+  {
+   "text": "first",
+   "start": 301033,
+   "end": 301371
+  },
+  {
+   "text": "agent",
+   "start": 301419,
+   "end": 301756
+  },
+  {
+   "text": "that",
+   "start": 301756,
+   "end": 301869
+  },
+  {
+   "text": "never",
+   "start": 301917,
+   "end": 302158
+  },
+  {
+   "text": "sleeps.",
+   "start": 302158,
+   "end": 302575
+  },
+  {
+   "text": "But",
+   "start": 303025,
+   "end": 303121
+  },
+  {
+   "text": "it",
+   "start": 303121,
+   "end": 303202
+  },
+  {
+   "text": "is",
+   "start": 303202,
+   "end": 303250
+  },
+  {
+   "text": "the",
+   "start": 303282,
+   "end": 303378
+  },
+  {
+   "text": "first",
+   "start": 303427,
+   "end": 303748
+  },
+  {
+   "text": "with",
+   "start": 303748,
+   "end": 303860
+  },
+  {
+   "text": "its",
+   "start": 303860,
+   "end": 303973
+  },
+  {
+   "text": "own",
+   "start": 304069,
+   "end": 304166
+  },
+  {
+   "text": "computer,",
+   "start": 304166,
+   "end": 304696
+  },
+  {
+   "text": "your",
+   "start": 304872,
+   "end": 304953
+  },
+  {
+   "text": "apps,",
+   "start": 305113,
+   "end": 305338
+  },
+  {
+   "text": "and",
+   "start": 305691,
+   "end": 305756
+  },
+  {
+   "text": "a",
+   "start": 305788,
+   "end": 305804
+  },
+  {
+   "text": "price",
+   "start": 305852,
+   "end": 306061
+  },
+  {
+   "text": "tag",
+   "start": 306093,
+   "end": 306398
+  },
+  {
+   "text": "aimed",
+   "start": 306479,
+   "end": 306639
+  },
+  {
+   "text": "at",
+   "start": 306639,
+   "end": 306671
+  },
+  {
+   "text": "a",
+   "start": 306671,
+   "end": 306736
+  },
+  {
+   "text": "job.",
+   "start": 306736,
+   "end": 307025
+  },
+  {
+   "text": "What",
+   "start": 307458,
+   "end": 307587
+  },
+  {
+   "text": "you",
+   "start": 307603,
+   "end": 307683
+  },
+  {
+   "text": "can",
+   "start": 307683,
+   "end": 307764
+  },
+  {
+   "text": "do",
+   "start": 307780,
+   "end": 307940
+  },
+  {
+   "text": "today.",
+   "start": 307940,
+   "end": 308262
+  },
+  {
+   "text": "If",
+   "start": 308599,
+   "end": 308727
+  },
+  {
+   "text": "you",
+   "start": 308727,
+   "end": 308776
+  },
+  {
+   "text": "already",
+   "start": 308888,
+   "end": 309113
+  },
+  {
+   "text": "pay",
+   "start": 309145,
+   "end": 309322
+  },
+  {
+   "text": "for",
+   "start": 309386,
+   "end": 309530
+  },
+  {
+   "text": "Cursor",
+   "start": 309530,
+   "end": 309852
+  },
+  {
+   "text": "Ultra",
+   "start": 309932,
+   "end": 310366
+  },
+  {
+   "text": "or",
+   "start": 310366,
+   "end": 310430
+  },
+  {
+   "text": "Teams",
+   "start": 310494,
+   "end": 310767
+  },
+  {
+   "text": "Premium,",
+   "start": 310832,
+   "end": 311201
+  },
+  {
+   "text": "you're",
+   "start": 311554,
+   "end": 311699
+  },
+  {
+   "text": "in",
+   "start": 311699,
+   "end": 311779
+  },
+  {
+   "text": "the",
+   "start": 311779,
+   "end": 311827
+  },
+  {
+   "text": "beta:",
+   "start": 311876,
+   "end": 312277
+  },
+  {
+   "text": "give",
+   "start": 312518,
+   "end": 312679
+  },
+  {
+   "text": "it",
+   "start": 312679,
+   "end": 312759
+  },
+  {
+   "text": "one",
+   "start": 312823,
+   "end": 312936
+  },
+  {
+   "text": "real",
+   "start": 313000,
+   "end": 313209
+  },
+  {
+   "text": "task",
+   "start": 313305,
+   "end": 313643
+  },
+  {
+   "text": "this",
+   "start": 313643,
+   "end": 313739
+  },
+  {
+   "text": "week.",
+   "start": 313803,
+   "end": 313964
+  },
+  {
+   "text": "A",
+   "start": 314462,
+   "end": 314478
+  },
+  {
+   "text": "vendor",
+   "start": 314510,
+   "end": 314751
+  },
+  {
+   "text": "email.",
+   "start": 314767,
+   "end": 315104
+  },
+  {
+   "text": "An",
+   "start": 315490,
+   "end": 315570
+  },
+  {
+   "text": "invoice.",
+   "start": 315570,
+   "end": 315923
+  },
+  {
+   "text": "Customer",
+   "start": 316437,
+   "end": 316775
+  },
+  {
+   "text": "list",
+   "start": 316775,
+   "end": 316951
+  },
+  {
+   "text": "cleanup.",
+   "start": 317000,
+   "end": 317273
+  },
+  {
+   "text": "Twenty",
+   "start": 317722,
+   "end": 317915
+  },
+  {
+   "text": "minutes,",
+   "start": 317915,
+   "end": 318204
+  },
+  {
+   "text": "and",
+   "start": 318542,
+   "end": 318606
+  },
+  {
+   "text": "you'll",
+   "start": 318606,
+   "end": 318718
+  },
+  {
+   "text": "know",
+   "start": 318718,
+   "end": 318927
+  },
+  {
+   "text": "whether",
+   "start": 319007,
+   "end": 319168
+  },
+  {
+   "text": "two",
+   "start": 319264,
+   "end": 319446
+  },
+  {
+   "text": "hundred",
+   "start": 319446,
+   "end": 319628
+  },
+  {
+   "text": "dollars",
+   "start": 319628,
+   "end": 319811
+  },
+  {
+   "text": "buys",
+   "start": 320068,
+   "end": 320309
+  },
+  {
+   "text": "a",
+   "start": 320309,
+   "end": 320325
+  },
+  {
+   "text": "salary",
+   "start": 320325,
+   "end": 320758
+  },
+  {
+   "text": "or",
+   "start": 321048,
+   "end": 321096
+  },
+  {
+   "text": "a",
+   "start": 321176,
+   "end": 321192
+  },
+  {
+   "text": "hobby.",
+   "start": 321192,
+   "end": 321481
+  },
+  {
+   "text": "We",
+   "start": 321995,
+   "end": 322076
+  },
+  {
+   "text": "cut",
+   "start": 322076,
+   "end": 322301
+  },
+  {
+   "text": "this",
+   "start": 322301,
+   "end": 322397
+  },
+  {
+   "text": "the",
+   "start": 322397,
+   "end": 322525
+  },
+  {
+   "text": "day",
+   "start": 322542,
+   "end": 322638
+  },
+  {
+   "text": "it",
+   "start": 322702,
+   "end": 322782
+  },
+  {
+   "text": "dropped.",
+   "start": 322782,
+   "end": 323136
+  },
+  {
+   "text": "That's",
+   "start": 323521,
+   "end": 323827
+  },
+  {
+   "text": "this",
+   "start": 323827,
+   "end": 323891
+  },
+  {
+   "text": "channel's",
+   "start": 323987,
+   "end": 324389
+  },
+  {
+   "text": "promise:",
+   "start": 324389,
+   "end": 324694
+  },
+  {
+   "text": "releases",
+   "start": 325112,
+   "end": 325465
+  },
+  {
+   "text": "land,",
+   "start": 325529,
+   "end": 325738
+  },
+  {
+   "text": "the",
+   "start": 326172,
+   "end": 326268
+  },
+  {
+   "text": "verdict",
+   "start": 326268,
+   "end": 326638
+  },
+  {
+   "text": "lands",
+   "start": 326638,
+   "end": 326895
+  },
+  {
+   "text": "here",
+   "start": 326895,
+   "end": 327120
+  },
+  {
+   "text": "first,",
+   "start": 327120,
+   "end": 327634
+  },
+  {
+   "text": "catches",
+   "start": 327939,
+   "end": 328260
+  },
+  {
+   "text": "included.",
+   "start": 328260,
+   "end": 328630
+  },
+  {
+   "text": "If",
+   "start": 329079,
+   "end": 329208
+  },
+  {
+   "text": "that's",
+   "start": 329208,
+   "end": 329385
+  },
+  {
+   "text": "useful,",
+   "start": 329385,
+   "end": 329722
+  },
+  {
+   "text": "subscribe.",
+   "start": 329802,
+   "end": 330316
+  },
+  {
+   "text": "Like",
+   "start": 330734,
+   "end": 330895
+  },
+  {
+   "text": "if",
+   "start": 330911,
+   "end": 330991
+  },
+  {
+   "text": "it",
+   "start": 330991,
+   "end": 331071
+  },
+  {
+   "text": "taught",
+   "start": 331071,
+   "end": 331264
+  },
+  {
+   "text": "you",
+   "start": 331296,
+   "end": 331377
+  },
+  {
+   "text": "something,",
+   "start": 331377,
+   "end": 331698
+  },
+  {
+   "text": "and",
+   "start": 331955,
+   "end": 332099
+  },
+  {
+   "text": "comment:",
+   "start": 332099,
+   "end": 332389
+  },
+  {
+   "text": "would",
+   "start": 332838,
+   "end": 332935
+  },
+  {
+   "text": "you",
+   "start": 332935,
+   "end": 333063
+  },
+  {
+   "text": "trust",
+   "start": 333063,
+   "end": 333336
+  },
+  {
+   "text": "a",
+   "start": 333336,
+   "end": 333352
+  },
+  {
+   "text": "two-hundred-dollar",
+   "start": 333401,
+   "end": 333818
+  },
+  {
+   "text": "bot",
+   "start": 334043,
+   "end": 334236
+  },
+  {
+   "text": "with",
+   "start": 334268,
+   "end": 334364
+  },
+  {
+   "text": "your",
+   "start": 334364,
+   "end": 334509
+  },
+  {
+   "text": "inbox?",
+   "start": 334509,
+   "end": 334846
+  },
+  {
+   "text": "Watch",
+   "start": 335409,
+   "end": 335617
+  },
+  {
+   "text": "for",
+   "start": 335634,
+   "end": 335730
+  },
+  {
+   "text": "Grok",
+   "start": 335730,
+   "end": 336148
+  },
+  {
+   "text": "4.6",
+   "start": 336212,
+   "end": 336919
+  },
+  {
+   "text": "later",
+   "start": 336919,
+   "end": 337144
+  },
+  {
+   "text": "this",
+   "start": 337160,
+   "end": 337224
+  },
+  {
+   "text": "week",
+   "start": 337336,
+   "end": 337481
+  },
+  {
+   "text": "the",
+   "start": 337882,
+   "end": 337947
+  },
+  {
+   "text": "beta",
+   "start": 337979,
+   "end": 338220
+  },
+  {
+   "text": "widens",
+   "start": 338300,
+   "end": 338589
+  },
+  {
+   "text": "with",
+   "start": 338621,
+   "end": 338782
+  },
+  {
+   "text": "it.",
+   "start": 338782,
+   "end": 338878
+  },
+  {
+   "text": "We'll",
+   "start": 339007,
+   "end": 339409
+  },
+  {
+   "text": "be",
+   "start": 339409,
+   "end": 339569
+  },
+  {
+   "text": "here.",
+   "start": 339569,
+   "end": 339730
+  },
+  {
+   "text": "See",
+   "start": 340164,
+   "end": 340308
+  },
+  {
+   "text": "you",
+   "start": 340308,
+   "end": 340388
+  },
+  {
+   "text": "on",
+   "start": 340388,
+   "end": 340437
+  },
+  {
+   "text": "the",
+   "start": 340469,
+   "end": 340549
+  },
+  {
+   "text": "next",
+   "start": 340549,
+   "end": 340774
+  },
+  {
+   "text": "one.",
+   "start": 340774,
+   "end": 340902
+  }
+ ],
+ "duration_s": 341.16,
+ "_alignment": "assemblyai-asr (real word timings, aligned to script; frame-accurate)"
+}

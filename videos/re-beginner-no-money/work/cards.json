@@ -1,0 +1,64 @@
+[
+  {
+    "id": "loan-downpayments",
+    "type": "compare",
+    "kicker": "GOVERNMENT-BACKED LOANS",
+    "left": { "value": "0%", "label": "VA / USDA loans, no down payment required", "accent": "signal" },
+    "right": { "value": "3.5%", "label": "FHA, the most cash-light path if you don't qualify for the first two", "accent": "accent" },
+    "foot": "VA.gov (Mar 2025) + Consumer Financial Protection Bureau (Jun 2025)",
+    "match": ["card-loan-downpayments"]
+  },
+  {
+    "id": "wholesale-fee",
+    "type": "stat",
+    "kicker": "WHOLESALING, ZERO DOWN PAYMENT",
+    "stat": "$13,000",
+    "unit": "average fee per deal",
+    "label": "Per a survey of 1,000+ wholesalers. Individual results vary and are never guaranteed.",
+    "foot": "RealEstateSkills, citing a Real Estate Bees survey, 2026",
+    "accent": "accent",
+    "match": ["card-wholesale-fee"]
+  },
+  {
+    "id": "homeowner-regret",
+    "type": "stat",
+    "kicker": "AFTER THE PURCHASE",
+    "stat": "45%",
+    "unit": "of homeowners",
+    "label": "report at least one regret about their home purchase — most often, real costs running higher than expected.",
+    "foot": "Bankrate / YouGov survey, May 2025",
+    "accent": "danger",
+    "match": ["card-homeowner-regret"]
+  },
+  {
+    "id": "vacancy-rate",
+    "type": "stat",
+    "kicker": "PLANNING RENTAL INCOME",
+    "stat": "7.3%",
+    "unit": "national rental vacancy rate",
+    "label": "Roughly one month a year a unit sits empty. Budget for it, don't assume 12 months of rent.",
+    "foot": "US Census Bureau, Q2 2026",
+    "accent": "accent",
+    "match": ["card-vacancy-rate"]
+  },
+  {
+    "id": "repair-reserve",
+    "type": "stat",
+    "kicker": "BEFORE YOU BECOME A LANDLORD",
+    "stat": "$2,000+",
+    "unit": "recommended reserve",
+    "label": "Keep it separate from your down payment. About one broken water heater.",
+    "foot": "Redfin, Jul 2026",
+    "accent": "signal",
+    "match": ["card-repair-reserve"]
+  },
+  {
+    "id": "close-recap",
+    "type": "compare",
+    "kicker": "FIVE PATHS IN, FIVE PRICE TAGS",
+    "left": { "value": "$0", "label": "VA / USDA loans — no down payment", "accent": "signal" },
+    "right": { "value": "$13K avg", "label": "Wholesaling — no down payment, no ownership at all", "accent": "danger" },
+    "foot": "See sources throughout this video",
+    "match": ["card-close-recap"]
+  }
+]

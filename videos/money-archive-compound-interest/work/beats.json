@@ -1,0 +1,1594 @@
+{
+  "niche": "finance",
+  "output": {
+    "w": 1920,
+    "h": 1080,
+    "fps": 30,
+    "out": "output/money-archive-compound-interest-visuals.mp4"
+  },
+  "audio": "work/audio/voiceover.mp3",
+  "beats": [
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 0.0,
+      "end_s": 4.19,
+      "move": "auto",
+      "cue": "Here is what waiting is probably costing you, in real dollars. Picture two people. Both put two hundred dollar"
+    },
+    {
+      "image": "work/images/001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 4.19,
+      "end_s": 8.19,
+      "move": "auto",
+      "cue": "Here is what waiting is probably costing you, in real dollars. Picture two people. Both put two hundred dollar"
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 8.19,
+      "end_s": 12.19,
+      "move": "auto",
+      "cue": "Here is what waiting is probably costing you, in real dollars. Picture two people. Both put two hundred dollar"
+    },
+    {
+      "image": "work/images/001-calculator-desk-2.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 12.19,
+      "end_s": 16.19,
+      "move": "auto",
+      "cue": "Here is what waiting is probably costing you, in real dollars. Picture two people. Both put two hundred dollar"
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 16.19,
+      "end_s": 21.29,
+      "move": "auto",
+      "cue": "Here is what waiting is probably costing you, in real dollars. Picture two people. Both put two hundred dollar"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 21.29,
+      "end_s": 25.24,
+      "move": "auto",
+      "cue": "Here is the twist. The person with LESS money actually put in three times as much cash, over their lifetime, t"
+    },
+    {
+      "image": "work/images/003-coins-on-table-2.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 25.24,
+      "end_s": 29.2,
+      "move": "auto",
+      "cue": "Here is the twist. The person with LESS money actually put in three times as much cash, over their lifetime, t"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 29.2,
+      "end_s": 34.19,
+      "move": "auto",
+      "cue": "Here is the twist. The person with LESS money actually put in three times as much cash, over their lifetime, t"
+    },
+    {
+      "image": "work/images/004-piggy-bank-close-up-1.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 34.19,
+      "end_s": 41.06,
+      "move": "auto",
+      "cue": "I ran both scenarios myself, on the free calculator the U.S. government's own Securities and Exchange Commissi"
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 41.06,
+      "end_s": 47.92,
+      "move": "auto",
+      "cue": "I ran both scenarios myself, on the free calculator the U.S. government's own Securities and Exchange Commissi"
+    },
+    {
+      "image": "work/images/004-piggy-bank-close-up-1.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 47.92,
+      "end_s": 54.79,
+      "move": "auto",
+      "cue": "I ran both scenarios myself, on the free calculator the U.S. government's own Securities and Exchange Commissi"
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 54.79,
+      "end_s": 62.73,
+      "move": "auto",
+      "cue": "I ran both scenarios myself, on the free calculator the U.S. government's own Securities and Exchange Commissi"
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 62.73,
+      "end_s": 71.33,
+      "move": "auto",
+      "cue": "Here is the uncomfortable part first. Most people were never actually taught this. Not because it is complicat"
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 71.33,
+      "end_s": 80.99,
+      "move": "auto",
+      "cue": "Here is the uncomfortable part first. Most people were never actually taught this. Not because it is complicat"
+    },
+    {
+      "image": "work/cards/literacy-gap.png",
+      "image_query": "card-literacy-gap",
+      "image_prompt": "card-literacy-gap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 80.99,
+      "end_s": 88.68,
+      "move": "none",
+      "cue": "As of last year, thirty five of the fifty states require a personal finance course to graduate high school. Th",
+      "is_card": true
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media/projects/money-archive-compound-interest/evidence/financial-literacy-states.png",
+      "image_query": "card-literacy-gap",
+      "image_prompt": "card-literacy-gap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 88.68,
+      "end_s": 96.37,
+      "move": "none",
+      "cue": "As of last year, thirty five of the fifty states require a personal finance course to graduate high school. Th",
+      "is_card": true,
+      "_evidence": true
+    },
+    {
+      "image": "work/cards/literacy-gap.png",
+      "image_query": "card-literacy-gap",
+      "image_prompt": "card-literacy-gap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 96.37,
+      "end_s": 105.19,
+      "move": "none",
+      "cue": "As of last year, thirty five of the fifty states require a personal finance course to graduate high school. Th",
+      "is_card": true
+    },
+    {
+      "image": "work/images/003-coins-on-table-2.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 105.19,
+      "end_s": 113.17,
+      "move": "auto",
+      "cue": "So you were left to either stumble onto it, or not. That gap is not your fault. But it is expensive, in a very"
+    },
+    {
+      "image": "work/images/006-bank-statement-close-up-0.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 113.17,
+      "end_s": 121.16,
+      "move": "auto",
+      "cue": "So you were left to either stumble onto it, or not. That gap is not your fault. But it is expensive, in a very"
+    },
+    {
+      "image": "work/images/003-coins-on-table-2.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 121.16,
+      "end_s": 130.23,
+      "move": "auto",
+      "cue": "So you were left to either stumble onto it, or not. That gap is not your fault. But it is expensive, in a very"
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 130.23,
+      "end_s": 136.33,
+      "move": "auto",
+      "cue": "In a few minutes, using the same real numbers from the opening, you will see exactly what a few years of waiti"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 136.33,
+      "end_s": 143.62,
+      "move": "auto",
+      "cue": "In a few minutes, using the same real numbers from the opening, you will see exactly what a few years of waiti"
+    },
+    {
+      "image": "work/images/001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 143.62,
+      "end_s": 151.35,
+      "move": "auto",
+      "cue": "And to be clear up front, this is not a video selling you a stock, a fund, or a strategy. It is a video explai"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 151.35,
+      "end_s": 160.09,
+      "move": "auto",
+      "cue": "And to be clear up front, this is not a video selling you a stock, a fund, or a strategy. It is a video explai"
+    },
+    {
+      "image": "work/cards/definition.png",
+      "image_query": "card-definition",
+      "image_prompt": "card-definition, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 160.09,
+      "end_s": 168.11,
+      "move": "none",
+      "cue": "Compound interest, the thing in this video's title, that just means your money earns a return, and then that r",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/definition.png",
+      "image_query": "card-definition",
+      "image_prompt": "card-definition, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 168.11,
+      "end_s": 176.14,
+      "move": "none",
+      "cue": "Compound interest, the thing in this video's title, that just means your money earns a return, and then that r",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/definition.png",
+      "image_query": "card-definition",
+      "image_prompt": "card-definition, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 176.14,
+      "end_s": 185.28,
+      "move": "none",
+      "cue": "Compound interest, the thing in this video's title, that just means your money earns a return, and then that r",
+      "is_card": true
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 185.28,
+      "end_s": 192.48,
+      "move": "auto",
+      "cue": "Think of it like a snowball rolling down a hill. At the top, it picks up a little snow. But now it is bigger. "
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 192.48,
+      "end_s": 199.69,
+      "move": "auto",
+      "cue": "Think of it like a snowball rolling down a hill. At the top, it picks up a little snow. But now it is bigger. "
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 199.69,
+      "end_s": 208.0,
+      "move": "auto",
+      "cue": "Think of it like a snowball rolling down a hill. At the top, it picks up a little snow. But now it is bigger. "
+    },
+    {
+      "image": "work/cards/definition.png",
+      "image_query": "card-definition",
+      "image_prompt": "card-definition, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 208.0,
+      "end_s": 214.2,
+      "move": "none",
+      "cue": "Your money does the same thing. In year one, your return is based only on what you put in. In year two, your r",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/definition.png",
+      "image_query": "card-definition",
+      "image_prompt": "card-definition, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 214.2,
+      "end_s": 220.39,
+      "move": "none",
+      "cue": "Your money does the same thing. In year one, your return is based only on what you put in. In year two, your r",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/definition.png",
+      "image_query": "card-definition",
+      "image_prompt": "card-definition, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 220.39,
+      "end_s": 226.59,
+      "move": "none",
+      "cue": "Your money does the same thing. In year one, your return is based only on what you put in. In year two, your r",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/definition.png",
+      "image_query": "card-definition",
+      "image_prompt": "card-definition, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 226.59,
+      "end_s": 233.87,
+      "move": "none",
+      "cue": "Your money does the same thing. In year one, your return is based only on what you put in. In year two, your r",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/rule-of-72.png",
+      "image_query": "card-rule-of-72",
+      "image_prompt": "card-rule-of-72, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 233.87,
+      "end_s": 242.52,
+      "move": "none",
+      "cue": "There is a shortcut worth knowing, called the Rule of 72. Divide seventy two by your annual rate of return, an",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/rule-of-72.png",
+      "image_query": "card-rule-of-72",
+      "image_prompt": "card-rule-of-72, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 242.52,
+      "end_s": 252.25,
+      "move": "none",
+      "cue": "There is a shortcut worth knowing, called the Rule of 72. Divide seventy two by your annual rate of return, an",
+      "is_card": true
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 252.25,
+      "end_s": 259.32,
+      "move": "auto",
+      "cue": "At a four percent return, it takes about eighteen years instead. Cut the rate in half, and the doubling time r"
+    },
+    {
+      "image": "work/images/001-calculator-desk-2.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 259.32,
+      "end_s": 266.4,
+      "move": "auto",
+      "cue": "At a four percent return, it takes about eighteen years instead. Cut the rate in half, and the doubling time r"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 266.4,
+      "end_s": 274.38,
+      "move": "auto",
+      "cue": "At a four percent return, it takes about eighteen years instead. Cut the rate in half, and the doubling time r"
+    },
+    {
+      "image": "work/cards/sp500-rate.png",
+      "image_query": "card-sp500-rate",
+      "image_prompt": "card-sp500-rate, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 274.38,
+      "end_s": 281.37,
+      "move": "none",
+      "cue": "Every dollar figure coming up uses one real, sourced number as the assumed rate of return. Not a guess, and no",
+      "is_card": true
+    },
+    {
+      "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media/projects/money-archive-compound-interest/evidence/sp500-32yr-return.png",
+      "image_query": "card-sp500-rate",
+      "image_prompt": "card-sp500-rate, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 281.37,
+      "end_s": 288.36,
+      "move": "none",
+      "cue": "Every dollar figure coming up uses one real, sourced number as the assumed rate of return. Not a guess, and no",
+      "is_card": true,
+      "_evidence": true
+    },
+    {
+      "image": "work/cards/sp500-rate.png",
+      "image_query": "card-sp500-rate",
+      "image_prompt": "card-sp500-rate, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 288.36,
+      "end_s": 296.53,
+      "move": "none",
+      "cue": "Every dollar figure coming up uses one real, sourced number as the assumed rate of return. Not a guess, and no",
+      "is_card": true
+    },
+    {
+      "image": "work/images/006-bank-statement-close-up-1.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 296.53,
+      "end_s": 302.66,
+      "move": "auto",
+      "cue": "That is the nominal number, before inflation. After adjusting for inflation, the same thirty two years average"
+    },
+    {
+      "image": "work/images/007-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 302.66,
+      "end_s": 308.8,
+      "move": "auto",
+      "cue": "That is the nominal number, before inflation. After adjusting for inflation, the same thirty two years average"
+    },
+    {
+      "image": "work/images/006-bank-statement-close-up-2.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 308.8,
+      "end_s": 314.94,
+      "move": "auto",
+      "cue": "That is the nominal number, before inflation. After adjusting for inflation, the same thirty two years average"
+    },
+    {
+      "image": "work/images/007-receipt-macro-1.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 314.94,
+      "end_s": 322.13,
+      "move": "auto",
+      "cue": "That is the nominal number, before inflation. After adjusting for inflation, the same thirty two years average"
+    },
+    {
+      "image": "work/images/001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 322.13,
+      "end_s": 329.3,
+      "move": "auto",
+      "cue": "Now the actual math. Take that ten point eight seven percent rate, and the same government calculator from the"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 329.3,
+      "end_s": 337.66,
+      "move": "auto",
+      "cue": "Now the actual math. Take that ten point eight seven percent rate, and the same government calculator from the"
+    },
+    {
+      "image": "work/cards/full-run.png",
+      "image_query": "card-full-run",
+      "image_prompt": "card-full-run, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 337.66,
+      "end_s": 345.41,
+      "move": "none",
+      "cue": "Here is the part worth sitting with. Of that one point six five million dollars, only ninety six thousand doll",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/full-run.png",
+      "image_query": "card-full-run",
+      "image_prompt": "card-full-run, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 345.41,
+      "end_s": 353.16,
+      "move": "none",
+      "cue": "Here is the part worth sitting with. Of that one point six five million dollars, only ninety six thousand doll",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/full-run.png",
+      "image_query": "card-full-run",
+      "image_prompt": "card-full-run, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 353.16,
+      "end_s": 361.98,
+      "move": "none",
+      "cue": "Here is the part worth sitting with. Of that one point six five million dollars, only ninety six thousand doll",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/full-run.png",
+      "image_query": "card-full-run",
+      "image_prompt": "card-full-run, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 361.98,
+      "end_s": 367.78,
+      "move": "none",
+      "cue": "That is the entire engine of compound interest in one number. Past a certain point, your own contributions sto",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/full-run.png",
+      "image_query": "card-full-run",
+      "image_prompt": "card-full-run, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 367.78,
+      "end_s": 374.67,
+      "move": "none",
+      "cue": "That is the entire engine of compound interest in one number. Past a certain point, your own contributions sto",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/curve-bend.png",
+      "image_query": "card-curve-bend",
+      "image_prompt": "card-curve-bend, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 374.67,
+      "end_s": 380.8,
+      "move": "none",
+      "cue": "The same calculator table shows exactly when that shift happens, year by year, and it is worth seeing directly",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/curve-bend.png",
+      "image_query": "card-curve-bend",
+      "image_prompt": "card-curve-bend, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 380.8,
+      "end_s": 386.93,
+      "move": "none",
+      "cue": "The same calculator table shows exactly when that shift happens, year by year, and it is worth seeing directly",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/curve-bend.png",
+      "image_query": "card-curve-bend",
+      "image_prompt": "card-curve-bend, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 386.93,
+      "end_s": 394.16,
+      "move": "none",
+      "cue": "The same calculator table shows exactly when that shift happens, year by year, and it is worth seeing directly",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/curve-bend.png",
+      "image_query": "card-curve-bend",
+      "image_prompt": "card-curve-bend, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 394.16,
+      "end_s": 400.8,
+      "move": "none",
+      "cue": "In year forty, the final year, the exact same two thousand four hundred dollars of new contributions was in th",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/curve-bend.png",
+      "image_query": "card-curve-bend",
+      "image_prompt": "card-curve-bend, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 400.8,
+      "end_s": 407.45,
+      "move": "none",
+      "cue": "In year forty, the final year, the exact same two thousand four hundred dollars of new contributions was in th",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/curve-bend.png",
+      "image_query": "card-curve-bend",
+      "image_prompt": "card-curve-bend, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 407.45,
+      "end_s": 414.09,
+      "move": "none",
+      "cue": "In year forty, the final year, the exact same two thousand four hundred dollars of new contributions was in th",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/curve-bend.png",
+      "image_query": "card-curve-bend",
+      "image_prompt": "card-curve-bend, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 414.09,
+      "end_s": 420.74,
+      "move": "none",
+      "cue": "In year forty, the final year, the exact same two thousand four hundred dollars of new contributions was in th",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/curve-bend.png",
+      "image_query": "card-curve-bend",
+      "image_prompt": "card-curve-bend, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 420.74,
+      "end_s": 428.41,
+      "move": "none",
+      "cue": "In year forty, the final year, the exact same two thousand four hundred dollars of new contributions was in th",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/head-start.png",
+      "image_query": "card-head-start",
+      "image_prompt": "card-head-start, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 428.41,
+      "end_s": 435.39,
+      "move": "none",
+      "cue": "Here is where the two people from the opening come back in. Person A starts at twenty five. They invest two hu",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/head-start.png",
+      "image_query": "card-head-start",
+      "image_prompt": "card-head-start, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 435.39,
+      "end_s": 442.37,
+      "move": "none",
+      "cue": "Here is where the two people from the opening come back in. Person A starts at twenty five. They invest two hu",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/head-start.png",
+      "image_query": "card-head-start",
+      "image_prompt": "card-head-start, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 442.37,
+      "end_s": 450.33,
+      "move": "none",
+      "cue": "Here is where the two people from the opening come back in. Person A starts at twenty five. They invest two hu",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/head-start.png",
+      "image_query": "card-head-start",
+      "image_prompt": "card-head-start, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 450.33,
+      "end_s": 460.94,
+      "move": "none",
+      "cue": "Total cash Person A ever put in, out of their own pocket: twenty four thousand dollars. Ten years of contribut",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/waited.png",
+      "image_query": "card-waited",
+      "image_prompt": "card-waited, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 460.94,
+      "end_s": 467.09,
+      "move": "none",
+      "cue": "Person B does the opposite. They wait until thirty five to start. Then they invest two hundred dollars a month",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/waited.png",
+      "image_query": "card-waited",
+      "image_prompt": "card-waited, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 467.09,
+      "end_s": 473.23,
+      "move": "none",
+      "cue": "Person B does the opposite. They wait until thirty five to start. Then they invest two hundred dollars a month",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/waited.png",
+      "image_query": "card-waited",
+      "image_prompt": "card-waited, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 473.23,
+      "end_s": 480.36,
+      "move": "none",
+      "cue": "Person B does the opposite. They wait until thirty five to start. Then they invest two hundred dollars a month",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/waited.png",
+      "image_query": "card-waited",
+      "image_prompt": "card-waited, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 480.36,
+      "end_s": 487.8,
+      "move": "none",
+      "cue": "Total cash Person B ever put in: seventy two thousand dollars. Three times more money, out of their own pocket",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/waited.png",
+      "image_query": "card-waited",
+      "image_prompt": "card-waited, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 487.8,
+      "end_s": 495.23,
+      "move": "none",
+      "cue": "Total cash Person B ever put in: seventy two thousand dollars. Three times more money, out of their own pocket",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/waited.png",
+      "image_query": "card-waited",
+      "image_prompt": "card-waited, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 495.23,
+      "end_s": 503.91,
+      "move": "none",
+      "cue": "Total cash Person B ever put in: seventy two thousand dollars. Three times more money, out of their own pocket",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/waited.png",
+      "image_query": "card-waited",
+      "image_prompt": "card-waited, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 503.91,
+      "end_s": 511.13,
+      "move": "none",
+      "cue": "So who ends up with more money at sixty five? Person A, who contributed for ten years and then stopped, ends u",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/waited.png",
+      "image_query": "card-waited",
+      "image_prompt": "card-waited, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 511.13,
+      "end_s": 518.35,
+      "move": "none",
+      "cue": "So who ends up with more money at sixty five? Person A, who contributed for ten years and then stopped, ends u",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/waited.png",
+      "image_query": "card-waited",
+      "image_prompt": "card-waited, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 518.35,
+      "end_s": 526.63,
+      "move": "none",
+      "cue": "So who ends up with more money at sixty five? Person A, who contributed for ten years and then stopped, ends u",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/person-c.png",
+      "image_query": "card-person-c",
+      "image_prompt": "card-person-c, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 526.63,
+      "end_s": 532.94,
+      "move": "none",
+      "cue": "One more comparison, because it makes the pattern impossible to miss. Person C waits until forty five to start",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/person-c.png",
+      "image_query": "card-person-c",
+      "image_prompt": "card-person-c, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 532.94,
+      "end_s": 539.24,
+      "move": "none",
+      "cue": "One more comparison, because it makes the pattern impossible to miss. Person C waits until forty five to start",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/person-c.png",
+      "image_query": "card-person-c",
+      "image_prompt": "card-person-c, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 539.24,
+      "end_s": 546.54,
+      "move": "none",
+      "cue": "One more comparison, because it makes the pattern impossible to miss. Person C waits until forty five to start",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/person-c.png",
+      "image_query": "card-person-c",
+      "image_prompt": "card-person-c, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 546.54,
+      "end_s": 553.19,
+      "move": "none",
+      "cue": "Person C ends up with about one hundred seventy thousand dollars. Less than a sixth of what Person A ended up ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/person-c.png",
+      "image_query": "card-person-c",
+      "image_prompt": "card-person-c, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 553.19,
+      "end_s": 559.84,
+      "move": "none",
+      "cue": "Person C ends up with about one hundred seventy thousand dollars. Less than a sixth of what Person A ended up ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/person-c.png",
+      "image_query": "card-person-c",
+      "image_prompt": "card-person-c, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 559.84,
+      "end_s": 566.49,
+      "move": "none",
+      "cue": "Person C ends up with about one hundred seventy thousand dollars. Less than a sixth of what Person A ended up ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/person-c.png",
+      "image_query": "card-person-c",
+      "image_prompt": "card-person-c, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 566.49,
+      "end_s": 574.15,
+      "move": "none",
+      "cue": "Person C ends up with about one hundred seventy thousand dollars. Less than a sixth of what Person A ended up ",
+      "is_card": true
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 574.15,
+      "end_s": 580.33,
+      "move": "auto",
+      "cue": "Why does starting earlier beat contributing more? It comes back to the snowball. Person A's money got a thirty"
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 580.33,
+      "end_s": 586.5,
+      "move": "auto",
+      "cue": "Why does starting earlier beat contributing more? It comes back to the snowball. Person A's money got a thirty"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 586.5,
+      "end_s": 593.68,
+      "move": "auto",
+      "cue": "Why does starting earlier beat contributing more? It comes back to the snowball. Person A's money got a thirty"
+    },
+    {
+      "image": "work/cards/why-it-works.png",
+      "image_query": "card-why-it-works",
+      "image_prompt": "card-why-it-works, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 593.68,
+      "end_s": 600.24,
+      "move": "none",
+      "cue": "Every one of Person B's thirty years of new contributions had to compete against money that already had a runn",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/why-it-works.png",
+      "image_query": "card-why-it-works",
+      "image_prompt": "card-why-it-works, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 600.24,
+      "end_s": 606.81,
+      "move": "none",
+      "cue": "Every one of Person B's thirty years of new contributions had to compete against money that already had a runn",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/why-it-works.png",
+      "image_query": "card-why-it-works",
+      "image_prompt": "card-why-it-works, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 606.81,
+      "end_s": 614.46,
+      "move": "none",
+      "cue": "Every one of Person B's thirty years of new contributions had to compete against money that already had a runn",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/scales.png",
+      "image_query": "card-scales",
+      "image_prompt": "card-scales, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 614.46,
+      "end_s": 621.2,
+      "move": "none",
+      "cue": "One fair objection: two hundred dollars a month is not pocket change for everyone, and this video is not assum",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/scales.png",
+      "image_query": "card-scales",
+      "image_prompt": "card-scales, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 621.2,
+      "end_s": 627.94,
+      "move": "none",
+      "cue": "One fair objection: two hundred dollars a month is not pocket change for everyone, and this video is not assum",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/scales.png",
+      "image_query": "card-scales",
+      "image_prompt": "card-scales, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 627.94,
+      "end_s": 634.68,
+      "move": "none",
+      "cue": "One fair objection: two hundred dollars a month is not pocket change for everyone, and this video is not assum",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/scales.png",
+      "image_query": "card-scales",
+      "image_prompt": "card-scales, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 634.68,
+      "end_s": 642.43,
+      "move": "none",
+      "cue": "One fair objection: two hundred dollars a month is not pocket change for everyone, and this video is not assum",
+      "is_card": true
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 642.43,
+      "end_s": 648.96,
+      "move": "auto",
+      "cue": "Twenty five dollars a month follows the same curve too, at one eighth the size of the two hundred dollar versi"
+    },
+    {
+      "image": "work/images/004-piggy-bank-close-up-1.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 648.96,
+      "end_s": 655.5,
+      "move": "auto",
+      "cue": "Twenty five dollars a month follows the same curve too, at one eighth the size of the two hundred dollar versi"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 655.5,
+      "end_s": 662.03,
+      "move": "auto",
+      "cue": "Twenty five dollars a month follows the same curve too, at one eighth the size of the two hundred dollar versi"
+    },
+    {
+      "image": "work/images/004-piggy-bank-close-up-1.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 662.03,
+      "end_s": 669.66,
+      "move": "auto",
+      "cue": "Twenty five dollars a month follows the same curve too, at one eighth the size of the two hundred dollar versi"
+    },
+    {
+      "image": "work/images/007-receipt-macro-2.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 669.66,
+      "end_s": 676.91,
+      "move": "auto",
+      "cue": "One honest complication belongs here, because this channel does not skip the parts that complicate a clean sto"
+    },
+    {
+      "image": "work/images/006-bank-statement-close-up-0.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 676.91,
+      "end_s": 684.16,
+      "move": "auto",
+      "cue": "One honest complication belongs here, because this channel does not skip the parts that complicate a clean sto"
+    },
+    {
+      "image": "work/images/011-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 684.16,
+      "end_s": 692.46,
+      "move": "auto",
+      "cue": "One honest complication belongs here, because this channel does not skip the parts that complicate a clean sto"
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 692.46,
+      "end_s": 698.95,
+      "move": "auto",
+      "cue": "A balance you owe, sitting on a high interest debt, is compounding too. It uses the identical snowball logic, "
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 698.95,
+      "end_s": 705.45,
+      "move": "auto",
+      "cue": "A balance you owe, sitting on a high interest debt, is compounding too. It uses the identical snowball logic, "
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 705.45,
+      "end_s": 711.95,
+      "move": "auto",
+      "cue": "A balance you owe, sitting on a high interest debt, is compounding too. It uses the identical snowball logic, "
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 711.95,
+      "end_s": 719.42,
+      "move": "auto",
+      "cue": "A balance you owe, sitting on a high interest debt, is compounding too. It uses the identical snowball logic, "
+    },
+    {
+      "image": "work/images/007-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 719.42,
+      "end_s": 727.17,
+      "move": "auto",
+      "cue": "Run that snowball forward on a balance you are not paying down, at twice the rate this video used to build ove"
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 727.17,
+      "end_s": 734.92,
+      "move": "auto",
+      "cue": "Run that snowball forward on a balance you are not paying down, at twice the rate this video used to build ove"
+    },
+    {
+      "image": "work/images/007-receipt-macro-1.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 734.92,
+      "end_s": 743.75,
+      "move": "auto",
+      "cue": "Run that snowball forward on a balance you are not paying down, at twice the rate this video used to build ove"
+    },
+    {
+      "image": "work/cards/sp500-rate.png",
+      "image_query": "card-real-vs-nominal",
+      "image_prompt": "card-real-vs-nominal, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 743.75,
+      "end_s": 751.01,
+      "move": "none",
+      "cue": "Back to that nominal versus inflation adjusted choice from earlier. The one point six five million dollar and ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/sp500-rate.png",
+      "image_query": "card-real-vs-nominal",
+      "image_prompt": "card-real-vs-nominal, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 751.01,
+      "end_s": 759.44,
+      "move": "none",
+      "cue": "Back to that nominal versus inflation adjusted choice from earlier. The one point six five million dollar and ",
+      "is_card": true
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 759.44,
+      "end_s": 765.3,
+      "move": "auto",
+      "cue": "Using the same math at the inflation adjusted eight point one three percent rate instead, the numbers come out"
+    },
+    {
+      "image": "work/images/007-receipt-macro-2.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 765.3,
+      "end_s": 771.17,
+      "move": "auto",
+      "cue": "Using the same math at the inflation adjusted eight point one three percent rate instead, the numbers come out"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 771.17,
+      "end_s": 778.04,
+      "move": "auto",
+      "cue": "Using the same math at the inflation adjusted eight point one three percent rate instead, the numbers come out"
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 778.04,
+      "end_s": 785.82,
+      "move": "none",
+      "cue": "Now the part every finance video owes you, and most skip. Where does this math not apply the way it sounds lik",
+      "is_card": true
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 785.82,
+      "end_s": 793.38,
+      "move": "auto",
+      "cue": "First, ten point eight seven percent is a real, sourced historical average. It is not a promised or guaranteed"
+    },
+    {
+      "image": "work/images/001-calculator-desk-2.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 793.38,
+      "end_s": 800.94,
+      "move": "auto",
+      "cue": "First, ten point eight seven percent is a real, sourced historical average. It is not a promised or guaranteed"
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 800.94,
+      "end_s": 809.53,
+      "move": "auto",
+      "cue": "First, ten point eight seven percent is a real, sourced historical average. It is not a promised or guaranteed"
+    },
+    {
+      "image": "work/images/006-bank-statement-close-up-1.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 809.53,
+      "end_s": 816.46,
+      "move": "auto",
+      "cue": "Second, this is general information about how a mechanism works. It is not personalized advice about what you "
+    },
+    {
+      "image": "work/images/011-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 816.46,
+      "end_s": 823.4,
+      "move": "auto",
+      "cue": "Second, this is general information about how a mechanism works. It is not personalized advice about what you "
+    },
+    {
+      "image": "work/images/006-bank-statement-close-up-2.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 823.4,
+      "end_s": 831.44,
+      "move": "auto",
+      "cue": "Second, this is general information about how a mechanism works. It is not personalized advice about what you "
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 831.44,
+      "end_s": 838.33,
+      "move": "none",
+      "cue": "Third, both examples assume the money stays invested the entire time. Through every downturn, never withdrawn ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 838.33,
+      "end_s": 845.22,
+      "move": "none",
+      "cue": "Third, both examples assume the money stays invested the entire time. Through every downturn, never withdrawn ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 845.22,
+      "end_s": 853.11,
+      "move": "none",
+      "cue": "Third, both examples assume the money stays invested the entire time. Through every downturn, never withdrawn ",
+      "is_card": true
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 853.11,
+      "end_s": 859.62,
+      "move": "auto",
+      "cue": "Fourth, someone who needs this money soon faces a different risk entirely, sometimes called sequence of return"
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 859.62,
+      "end_s": 866.14,
+      "move": "auto",
+      "cue": "Fourth, someone who needs this money soon faces a different risk entirely, sometimes called sequence of return"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 866.14,
+      "end_s": 873.74,
+      "move": "auto",
+      "cue": "Fourth, someone who needs this money soon faces a different risk entirely, sometimes called sequence of return"
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 873.74,
+      "end_s": 879.93,
+      "move": "none",
+      "cue": "Sixth, none of these numbers account for taxes, and taxes depend heavily on which account this money sits in. ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 879.93,
+      "end_s": 886.13,
+      "move": "none",
+      "cue": "Sixth, none of these numbers account for taxes, and taxes depend heavily on which account this money sits in. ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 886.13,
+      "end_s": 892.32,
+      "move": "none",
+      "cue": "Sixth, none of these numbers account for taxes, and taxes depend heavily on which account this money sits in. ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 892.32,
+      "end_s": 899.64,
+      "move": "none",
+      "cue": "Sixth, none of these numbers account for taxes, and taxes depend heavily on which account this money sits in. ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 899.64,
+      "end_s": 908.28,
+      "move": "none",
+      "cue": "And finally, past performance does not guarantee future results. That sentence sounds like boilerplate, but it",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 908.28,
+      "end_s": 918.02,
+      "move": "none",
+      "cue": "And finally, past performance does not guarantee future results. That sentence sounds like boilerplate, but it",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 918.02,
+      "end_s": 923.49,
+      "move": "none",
+      "cue": "So what can you actually go do with this, this week? Nothing here is a specific investment instruction. It is ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 923.49,
+      "end_s": 930.04,
+      "move": "none",
+      "cue": "So what can you actually go do with this, this week? Nothing here is a specific investment instruction. It is ",
+      "is_card": true
+    },
+    {
+      "image": "work/images/001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 930.04,
+      "end_s": 936.35,
+      "move": "auto",
+      "cue": "One. Go find your own current contribution amount, and how long you have actually been contributing. Not what "
+    },
+    {
+      "image": "work/images/006-bank-statement-close-up-0.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 936.35,
+      "end_s": 943.7,
+      "move": "auto",
+      "cue": "One. Go find your own current contribution amount, and how long you have actually been contributing. Not what "
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 943.7,
+      "end_s": 950.28,
+      "move": "none",
+      "cue": "Two. Use the same free calculator this video used. It is a real tool from the Securities and Exchange Commissi",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 950.28,
+      "end_s": 956.86,
+      "move": "none",
+      "cue": "Two. Use the same free calculator this video used. It is a real tool from the Securities and Exchange Commissi",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 956.86,
+      "end_s": 963.44,
+      "move": "none",
+      "cue": "Two. Use the same free calculator this video used. It is a real tool from the Securities and Exchange Commissi",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 963.44,
+      "end_s": 971.2,
+      "move": "none",
+      "cue": "Two. Use the same free calculator this video used. It is a real tool from the Securities and Exchange Commissi",
+      "is_card": true
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 971.2,
+      "end_s": 977.32,
+      "move": "auto",
+      "cue": "Three. If you paused contributing at some point, even for a short stretch, that pause has a real cost, the sam"
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 977.32,
+      "end_s": 983.43,
+      "move": "auto",
+      "cue": "Three. If you paused contributing at some point, even for a short stretch, that pause has a real cost, the sam"
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 983.43,
+      "end_s": 990.53,
+      "move": "auto",
+      "cue": "Three. If you paused contributing at some point, even for a short stretch, that pause has a real cost, the sam"
+    },
+    {
+      "image": "work/images/007-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 990.53,
+      "end_s": 998.45,
+      "move": "auto",
+      "cue": "Four. Keep the Rule of 72 in your pocket. Any time someone quotes you a return, on an investment or a loan, di"
+    },
+    {
+      "image": "work/images/003-coins-on-table-2.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 998.45,
+      "end_s": 1007.53,
+      "move": "auto",
+      "cue": "Four. Keep the Rule of 72 in your pocket. Any time someone quotes you a return, on an investment or a loan, di"
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1007.53,
+      "end_s": 1014.37,
+      "move": "auto",
+      "cue": "Five. If you are carrying high interest debt, remember the mechanism runs both directions. A balance sitting a"
+    },
+    {
+      "image": "work/images/006-bank-statement-close-up-1.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1014.37,
+      "end_s": 1021.2,
+      "move": "auto",
+      "cue": "Five. If you are carrying high interest debt, remember the mechanism runs both directions. A balance sitting a"
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1021.2,
+      "end_s": 1029.04,
+      "move": "auto",
+      "cue": "Five. If you are carrying high interest debt, remember the mechanism runs both directions. A balance sitting a"
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1029.04,
+      "end_s": 1036.66,
+      "move": "none",
+      "cue": "Six. Not sure whether your situation calls for prioritizing debt, contributions, or something else? That is a ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1036.66,
+      "end_s": 1044.29,
+      "move": "none",
+      "cue": "Six. Not sure whether your situation calls for prioritizing debt, contributions, or something else? That is a ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1044.29,
+      "end_s": 1052.87,
+      "move": "none",
+      "cue": "Six. Not sure whether your situation calls for prioritizing debt, contributions, or something else? That is a ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/crossover-headline.png",
+      "image_query": "card-crossover-headline",
+      "image_prompt": "card-crossover-headline, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1052.87,
+      "end_s": 1059.66,
+      "move": "none",
+      "cue": "So here is the number worth remembering. Ten years, started early, beat thirty years, started late, by more th",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/crossover-headline.png",
+      "image_query": "card-crossover-headline",
+      "image_prompt": "card-crossover-headline, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1059.66,
+      "end_s": 1066.44,
+      "move": "none",
+      "cue": "So here is the number worth remembering. Ten years, started early, beat thirty years, started late, by more th",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/crossover-headline.png",
+      "image_query": "card-crossover-headline",
+      "image_prompt": "card-crossover-headline, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1066.44,
+      "end_s": 1074.21,
+      "move": "none",
+      "cue": "So here is the number worth remembering. Ten years, started early, beat thirty years, started late, by more th",
+      "is_card": true
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1074.21,
+      "end_s": 1080.99,
+      "move": "auto",
+      "cue": "That math is not a secret, and it was not hard to find. Every number in this video came from a public source. "
+    },
+    {
+      "image": "work/images/001-calculator-desk-2.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1080.99,
+      "end_s": 1087.77,
+      "move": "auto",
+      "cue": "That math is not a secret, and it was not hard to find. Every number in this video came from a public source. "
+    },
+    {
+      "image": "work/images/002-ledger-book-2.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1087.77,
+      "end_s": 1095.64,
+      "move": "auto",
+      "cue": "That math is not a secret, and it was not hard to find. Every number in this video came from a public source. "
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1095.64,
+      "end_s": 1104.14,
+      "move": "none",
+      "cue": "This video does not know your number, your timeline, or your account. What it can tell you is this. Ten minute",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1104.14,
+      "end_s": 1113.78,
+      "move": "none",
+      "cue": "This video does not know your number, your timeline, or your account. What it can tell you is this. Ten minute",
+      "is_card": true
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1113.78,
+      "end_s": 1120.05,
+      "move": "auto",
+      "cue": "It is also worth sitting with why something this consequential stays this quiet. A snowball rolling down a hil"
+    },
+    {
+      "image": "work/images/004-piggy-bank-close-up-1.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1120.05,
+      "end_s": 1126.31,
+      "move": "auto",
+      "cue": "It is also worth sitting with why something this consequential stays this quiet. A snowball rolling down a hil"
+    },
+    {
+      "image": "work/images/005-budget-notebook-2.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1126.31,
+      "end_s": 1133.64,
+      "move": "auto",
+      "cue": "It is also worth sitting with why something this consequential stays this quiet. A snowball rolling down a hil"
+    },
+    {
+      "image": "work/images/003-coins-on-table-2.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1133.64,
+      "end_s": 1140.73,
+      "move": "auto",
+      "cue": "The channel is called The Money Archive, and this is exactly what it is for. Plain mechanics, sourced numbers,"
+    },
+    {
+      "image": "work/images/000-kitchen-table-bills-2.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1140.73,
+      "end_s": 1148.87,
+      "move": "auto",
+      "cue": "The channel is called The Money Archive, and this is exactly what it is for. Plain mechanics, sourced numbers,"
+    },
+    {
+      "image": "work/cards/close-recap.png",
+      "image_query": "card-close-recap",
+      "image_prompt": "card-close-recap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1148.87,
+      "end_s": 1158.59,
+      "move": "none",
+      "cue": "And if this particular number surprised you the way it surprised us running it, say so in the comments. It gen",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/close-recap.png",
+      "image_query": "card-close-recap",
+      "image_prompt": "card-close-recap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1158.59,
+      "end_s": 1165.52,
+      "move": "none",
+      "cue": "One last thing worth repeating, because it is easy to hear a video like this and feel like you have already mi",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/close-recap.png",
+      "image_query": "card-close-recap",
+      "image_prompt": "card-close-recap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1165.52,
+      "end_s": 1172.46,
+      "move": "none",
+      "cue": "One last thing worth repeating, because it is easy to hear a video like this and feel like you have already mi",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/close-recap.png",
+      "image_query": "card-close-recap",
+      "image_prompt": "card-close-recap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1172.46,
+      "end_s": 1179.4,
+      "move": "none",
+      "cue": "One last thing worth repeating, because it is easy to hear a video like this and feel like you have already mi",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/close-recap.png",
+      "image_query": "card-close-recap",
+      "image_prompt": "card-close-recap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1179.4,
+      "end_s": 1187.56,
+      "move": "none",
+      "cue": "One last thing worth repeating, because it is easy to hear a video like this and feel like you have already mi",
+      "is_card": true
+    }
+  ]
+}

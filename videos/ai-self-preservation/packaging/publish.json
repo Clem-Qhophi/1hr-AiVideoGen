@@ -1,0 +1,16 @@
+{
+  "_note": "Paths are ABSOLUTE on purpose: yt_upload.py's rp() resolves relative plan paths against the PARENT of this repo folder, so relative paths silently miss. Upload lands PRIVATE by default (per CLAUDE.md) - flip to Public in Studio manually, at most one video public per channel per day.",
+  "video": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/ai-self-preservation/output/ai-self-preservation-music-MASTER.mp4",
+  "title": "AI REFUSED TO DIE - And Now It's Protecting Other AIs",
+  "description_file": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/ai-self-preservation/packaging/description.txt",
+  "thumbnail": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/ai-self-preservation/packaging/thumbs/A.jpg",
+  "tags": [
+    "ai", "artificial intelligence", "ai safety", "llm", "gpt-5.2",
+    "peer-preservation", "ai shutdown", "self-preservation", "uc berkeley",
+    "ai news", "machine learning", "alignment", "gemini 3 pro", "ai risk",
+    "artificial intelligence news"
+  ],
+  "categoryId": 28,
+  "privacy": "private",
+  "madeForKids": false
+}

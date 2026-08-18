@@ -1,0 +1,10616 @@
+{
+ "words": [
+  {
+   "text": "That",
+   "start": 176,
+   "end": 304
+  },
+  {
+   "text": "red",
+   "start": 417,
+   "end": 609
+  },
+  {
+   "text": "canister",
+   "start": 658,
+   "end": 1139
+  },
+  {
+   "text": "under",
+   "start": 1155,
+   "end": 1380
+  },
+  {
+   "text": "your",
+   "start": 1380,
+   "end": 1492
+  },
+  {
+   "text": "sink,",
+   "start": 1492,
+   "end": 1957
+  },
+  {
+   "text": "the",
+   "start": 2278,
+   "end": 2359
+  },
+  {
+   "text": "one",
+   "start": 2423,
+   "end": 2551
+  },
+  {
+   "text": "you",
+   "start": 2583,
+   "end": 2728
+  },
+  {
+   "text": "bought",
+   "start": 2760,
+   "end": 2969
+  },
+  {
+   "text": "once",
+   "start": 3081,
+   "end": 3434
+  },
+  {
+   "text": "and",
+   "start": 3643,
+   "end": 3707
+  },
+  {
+   "text": "never",
+   "start": 3803,
+   "end": 4028
+  },
+  {
+   "text": "touched",
+   "start": 4028,
+   "end": 4285
+  },
+  {
+   "text": "again?",
+   "start": 4285,
+   "end": 4477
+  },
+  {
+   "text": "There's",
+   "start": 4991,
+   "end": 5167
+  },
+  {
+   "text": "a",
+   "start": 5167,
+   "end": 5183
+  },
+  {
+   "text": "real",
+   "start": 5312,
+   "end": 5552
+  },
+  {
+   "text": "chance",
+   "start": 5552,
+   "end": 5841
+  },
+  {
+   "text": "it",
+   "start": 5890,
+   "end": 5970
+  },
+  {
+   "text": "won't",
+   "start": 6050,
+   "end": 6275
+  },
+  {
+   "text": "work",
+   "start": 6355,
+   "end": 6596
+  },
+  {
+   "text": "when",
+   "start": 6692,
+   "end": 6804
+  },
+  {
+   "text": "you",
+   "start": 6836,
+   "end": 6933
+  },
+  {
+   "text": "need",
+   "start": 6933,
+   "end": 7109
+  },
+  {
+   "text": "it.",
+   "start": 7109,
+   "end": 7350
+  },
+  {
+   "text": "And",
+   "start": 7815,
+   "end": 7880
+  },
+  {
+   "text": "if",
+   "start": 7912,
+   "end": 8056
+  },
+  {
+   "text": "it",
+   "start": 8056,
+   "end": 8201
+  },
+  {
+   "text": "doesn't,",
+   "start": 8201,
+   "end": 8522
+  },
+  {
+   "text": "the",
+   "start": 8923,
+   "end": 8987
+  },
+  {
+   "text": "cost",
+   "start": 9003,
+   "end": 9388
+  },
+  {
+   "text": "isn't",
+   "start": 9565,
+   "end": 9725
+  },
+  {
+   "text": "what",
+   "start": 9741,
+   "end": 9886
+  },
+  {
+   "text": "you",
+   "start": 9886,
+   "end": 9982
+  },
+  {
+   "text": "paid",
+   "start": 9982,
+   "end": 10271
+  },
+  {
+   "text": "for",
+   "start": 10287,
+   "end": 10431
+  },
+  {
+   "text": "it.",
+   "start": 10544,
+   "end": 10640
+  },
+  {
+   "text": "It's",
+   "start": 11122,
+   "end": 11266
+  },
+  {
+   "text": "whatever",
+   "start": 11266,
+   "end": 11587
+  },
+  {
+   "text": "that",
+   "start": 11587,
+   "end": 11763
+  },
+  {
+   "text": "fire",
+   "start": 11763,
+   "end": 12020
+  },
+  {
+   "text": "gets",
+   "start": 12149,
+   "end": 12357
+  },
+  {
+   "text": "to",
+   "start": 12389,
+   "end": 12534
+  },
+  {
+   "text": "before",
+   "start": 12534,
+   "end": 12823
+  },
+  {
+   "text": "you",
+   "start": 12935,
+   "end": 13031
+  },
+  {
+   "text": "find",
+   "start": 13031,
+   "end": 13336
+  },
+  {
+   "text": "something",
+   "start": 13336,
+   "end": 13625
+  },
+  {
+   "text": "else",
+   "start": 13738,
+   "end": 13898
+  },
+  {
+   "text": "to",
+   "start": 13898,
+   "end": 13994
+  },
+  {
+   "text": "stop",
+   "start": 13994,
+   "end": 14331
+  },
+  {
+   "text": "it.",
+   "start": 14331,
+   "end": 14444
+  },
+  {
+   "text": "And",
+   "start": 14957,
+   "end": 15021
+  },
+  {
+   "text": "the",
+   "start": 15037,
+   "end": 15086
+  },
+  {
+   "text": "gauge",
+   "start": 15118,
+   "end": 15407
+  },
+  {
+   "text": "on",
+   "start": 15503,
+   "end": 15551
+  },
+  {
+   "text": "the",
+   "start": 15583,
+   "end": 15663
+  },
+  {
+   "text": "front",
+   "start": 15663,
+   "end": 15952
+  },
+  {
+   "text": "will",
+   "start": 16000,
+   "end": 16113
+  },
+  {
+   "text": "read",
+   "start": 16225,
+   "end": 16530
+  },
+  {
+   "text": "perfectly",
+   "start": 16626,
+   "end": 17124
+  },
+  {
+   "text": "normal",
+   "start": 17124,
+   "end": 17702
+  },
+  {
+   "text": "the",
+   "start": 17846,
+   "end": 17926
+  },
+  {
+   "text": "whole",
+   "start": 17926,
+   "end": 18199
+  },
+  {
+   "text": "time",
+   "start": 18247,
+   "end": 18456
+  },
+  {
+   "text": "you're",
+   "start": 18472,
+   "end": 18568
+  },
+  {
+   "text": "finding",
+   "start": 18568,
+   "end": 18953
+  },
+  {
+   "text": "that",
+   "start": 19050,
+   "end": 19210
+  },
+  {
+   "text": "out.",
+   "start": 19210,
+   "end": 19467
+  },
+  {
+   "text": "Stick",
+   "start": 19916,
+   "end": 20109
+  },
+  {
+   "text": "with",
+   "start": 20109,
+   "end": 20253
+  },
+  {
+   "text": "me.",
+   "start": 20253,
+   "end": 20350
+  },
+  {
+   "text": "I'll",
+   "start": 20831,
+   "end": 20976
+  },
+  {
+   "text": "show",
+   "start": 20976,
+   "end": 21265
+  },
+  {
+   "text": "you",
+   "start": 21281,
+   "end": 21425
+  },
+  {
+   "text": "exactly",
+   "start": 21441,
+   "end": 22035
+  },
+  {
+   "text": "why",
+   "start": 22099,
+   "end": 22211
+  },
+  {
+   "text": "that",
+   "start": 22260,
+   "end": 22468
+  },
+  {
+   "text": "happens,",
+   "start": 22484,
+   "end": 22869
+  },
+  {
+   "text": "and",
+   "start": 23303,
+   "end": 23367
+  },
+  {
+   "text": "how",
+   "start": 23367,
+   "end": 23479
+  },
+  {
+   "text": "to",
+   "start": 23479,
+   "end": 23624
+  },
+  {
+   "text": "check",
+   "start": 23624,
+   "end": 23881
+  },
+  {
+   "text": "the",
+   "start": 23881,
+   "end": 23961
+  },
+  {
+   "text": "one",
+   "start": 24025,
+   "end": 24153
+  },
+  {
+   "text": "you",
+   "start": 24250,
+   "end": 24314
+  },
+  {
+   "text": "already",
+   "start": 24410,
+   "end": 24795
+  },
+  {
+   "text": "own",
+   "start": 24892,
+   "end": 25020
+  },
+  {
+   "text": "in",
+   "start": 25132,
+   "end": 25293
+  },
+  {
+   "text": "under",
+   "start": 25293,
+   "end": 25550
+  },
+  {
+   "text": "a",
+   "start": 25550,
+   "end": 25566
+  },
+  {
+   "text": "minute.",
+   "start": 25566,
+   "end": 25790
+  },
+  {
+   "text": "Here's",
+   "start": 26352,
+   "end": 26577
+  },
+  {
+   "text": "why",
+   "start": 26593,
+   "end": 26673
+  },
+  {
+   "text": "this",
+   "start": 26753,
+   "end": 26930
+  },
+  {
+   "text": "is",
+   "start": 26930,
+   "end": 27042
+  },
+  {
+   "text": "worth",
+   "start": 27074,
+   "end": 27283
+  },
+  {
+   "text": "your",
+   "start": 27315,
+   "end": 27395
+  },
+  {
+   "text": "time.",
+   "start": 27395,
+   "end": 27781
+  },
+  {
+   "text": "A",
+   "start": 28214,
+   "end": 28230
+  },
+  {
+   "text": "kitchen",
+   "start": 28278,
+   "end": 28647
+  },
+  {
+   "text": "fire",
+   "start": 28663,
+   "end": 29065
+  },
+  {
+   "text": "can",
+   "start": 29065,
+   "end": 29161
+  },
+  {
+   "text": "double",
+   "start": 29241,
+   "end": 29562
+  },
+  {
+   "text": "in",
+   "start": 29562,
+   "end": 29610
+  },
+  {
+   "text": "size",
+   "start": 29707,
+   "end": 30172
+  },
+  {
+   "text": "in",
+   "start": 30204,
+   "end": 30252
+  },
+  {
+   "text": "well",
+   "start": 30349,
+   "end": 30477
+  },
+  {
+   "text": "under",
+   "start": 30589,
+   "end": 30766
+  },
+  {
+   "text": "a",
+   "start": 30766,
+   "end": 30830
+  },
+  {
+   "text": "minute.",
+   "start": 30830,
+   "end": 31039
+  },
+  {
+   "text": "You",
+   "start": 31713,
+   "end": 31745
+  },
+  {
+   "text": "don't",
+   "start": 31745,
+   "end": 31873
+  },
+  {
+   "text": "get",
+   "start": 31873,
+   "end": 32034
+  },
+  {
+   "text": "to",
+   "start": 32034,
+   "end": 32066
+  },
+  {
+   "text": "think",
+   "start": 32114,
+   "end": 32307
+  },
+  {
+   "text": "it",
+   "start": 32355,
+   "end": 32435
+  },
+  {
+   "text": "over.",
+   "start": 32435,
+   "end": 32692
+  },
+  {
+   "text": "You",
+   "start": 33238,
+   "end": 33302
+  },
+  {
+   "text": "reach",
+   "start": 33398,
+   "end": 33607
+  },
+  {
+   "text": "for",
+   "start": 33655,
+   "end": 33815
+  },
+  {
+   "text": "what's",
+   "start": 33815,
+   "end": 34008
+  },
+  {
+   "text": "under",
+   "start": 34056,
+   "end": 34233
+  },
+  {
+   "text": "the",
+   "start": 34233,
+   "end": 34313
+  },
+  {
+   "text": "sink,",
+   "start": 34313,
+   "end": 34859
+  },
+  {
+   "text": "and",
+   "start": 35164,
+   "end": 35244
+  },
+  {
+   "text": "it",
+   "start": 35244,
+   "end": 35420
+  },
+  {
+   "text": "either",
+   "start": 35485,
+   "end": 35709
+  },
+  {
+   "text": "works",
+   "start": 35741,
+   "end": 36175
+  },
+  {
+   "text": "or",
+   "start": 36399,
+   "end": 36480
+  },
+  {
+   "text": "it",
+   "start": 36528,
+   "end": 36624
+  },
+  {
+   "text": "doesn't.",
+   "start": 36624,
+   "end": 36993
+  },
+  {
+   "text": "Most",
+   "start": 37507,
+   "end": 37699
+  },
+  {
+   "text": "people",
+   "start": 37748,
+   "end": 38036
+  },
+  {
+   "text": "buy",
+   "start": 38069,
+   "end": 38181
+  },
+  {
+   "text": "one",
+   "start": 38293,
+   "end": 38422
+  },
+  {
+   "text": "of",
+   "start": 38454,
+   "end": 38502
+  },
+  {
+   "text": "these",
+   "start": 38550,
+   "end": 38759
+  },
+  {
+   "text": "when",
+   "start": 38791,
+   "end": 38903
+  },
+  {
+   "text": "they",
+   "start": 38935,
+   "end": 39032
+  },
+  {
+   "text": "move",
+   "start": 39032,
+   "end": 39417
+  },
+  {
+   "text": "in,",
+   "start": 39417,
+   "end": 39545
+  },
+  {
+   "text": "mount",
+   "start": 40075,
+   "end": 40316
+  },
+  {
+   "text": "it,",
+   "start": 40316,
+   "end": 40444
+  },
+  {
+   "text": "and",
+   "start": 40781,
+   "end": 40861
+  },
+  {
+   "text": "never",
+   "start": 40877,
+   "end": 41198
+  },
+  {
+   "text": "touch",
+   "start": 41198,
+   "end": 41407
+  },
+  {
+   "text": "it",
+   "start": 41455,
+   "end": 41535
+  },
+  {
+   "text": "again.",
+   "start": 41535,
+   "end": 41728
+  },
+  {
+   "text": "Not",
+   "start": 42322,
+   "end": 42530
+  },
+  {
+   "text": "once.",
+   "start": 42547,
+   "end": 42787
+  },
+  {
+   "text": "Not",
+   "start": 43365,
+   "end": 43542
+  },
+  {
+   "text": "a",
+   "start": 43542,
+   "end": 43590
+  },
+  {
+   "text": "shake,",
+   "start": 43590,
+   "end": 43943
+  },
+  {
+   "text": "not",
+   "start": 44328,
+   "end": 44440
+  },
+  {
+   "text": "a",
+   "start": 44473,
+   "end": 44489
+  },
+  {
+   "text": "check,",
+   "start": 44489,
+   "end": 44890
+  },
+  {
+   "text": "nothing.",
+   "start": 45131,
+   "end": 45419
+  },
+  {
+   "text": "It",
+   "start": 45949,
+   "end": 46013
+  },
+  {
+   "text": "just",
+   "start": 46013,
+   "end": 46254
+  },
+  {
+   "text": "sits",
+   "start": 46254,
+   "end": 46575
+  },
+  {
+   "text": "there",
+   "start": 46575,
+   "end": 46687
+  },
+  {
+   "text": "for",
+   "start": 46720,
+   "end": 46864
+  },
+  {
+   "text": "years,",
+   "start": 46960,
+   "end": 47265
+  },
+  {
+   "text": "doing",
+   "start": 47683,
+   "end": 47891
+  },
+  {
+   "text": "nothing",
+   "start": 47939,
+   "end": 48292
+  },
+  {
+   "text": "but",
+   "start": 48501,
+   "end": 48613
+  },
+  {
+   "text": "looking",
+   "start": 48662,
+   "end": 48870
+  },
+  {
+   "text": "like",
+   "start": 48967,
+   "end": 49079
+  },
+  {
+   "text": "safety.",
+   "start": 49079,
+   "end": 49512
+  },
+  {
+   "text": "And",
+   "start": 50026,
+   "end": 50090
+  },
+  {
+   "text": "here's",
+   "start": 50106,
+   "end": 50363
+  },
+  {
+   "text": "the",
+   "start": 50411,
+   "end": 50507
+  },
+  {
+   "text": "part",
+   "start": 50507,
+   "end": 50764
+  },
+  {
+   "text": "that",
+   "start": 50812,
+   "end": 50909
+  },
+  {
+   "text": "should",
+   "start": 50909,
+   "end": 51037
+  },
+  {
+   "text": "bother",
+   "start": 51069,
+   "end": 51374
+  },
+  {
+   "text": "you.",
+   "start": 51454,
+   "end": 51535
+  },
+  {
+   "text": "That",
+   "start": 52016,
+   "end": 52129
+  },
+  {
+   "text": "little",
+   "start": 52177,
+   "end": 52370
+  },
+  {
+   "text": "gauge",
+   "start": 52434,
+   "end": 52723
+  },
+  {
+   "text": "on",
+   "start": 52820,
+   "end": 52884
+  },
+  {
+   "text": "the",
+   "start": 52900,
+   "end": 52980
+  },
+  {
+   "text": "front,",
+   "start": 52980,
+   "end": 53366
+  },
+  {
+   "text": "the",
+   "start": 53703,
+   "end": 53768
+  },
+  {
+   "text": "one",
+   "start": 53864,
+   "end": 53993
+  },
+  {
+   "text": "sitting",
+   "start": 54041,
+   "end": 54330
+  },
+  {
+   "text": "in",
+   "start": 54362,
+   "end": 54410
+  },
+  {
+   "text": "the",
+   "start": 54443,
+   "end": 54523
+  },
+  {
+   "text": "green",
+   "start": 54523,
+   "end": 54748
+  },
+  {
+   "text": "zone,",
+   "start": 54844,
+   "end": 55118
+  },
+  {
+   "text": "only",
+   "start": 55648,
+   "end": 55857
+  },
+  {
+   "text": "tells",
+   "start": 55889,
+   "end": 56178
+  },
+  {
+   "text": "you",
+   "start": 56210,
+   "end": 56339
+  },
+  {
+   "text": "there's",
+   "start": 56371,
+   "end": 56612
+  },
+  {
+   "text": "gas",
+   "start": 56612,
+   "end": 56998
+  },
+  {
+   "text": "pressure",
+   "start": 56998,
+   "end": 57399
+  },
+  {
+   "text": "inside",
+   "start": 57415,
+   "end": 57913
+  },
+  {
+   "text": "the",
+   "start": 57913,
+   "end": 57978
+  },
+  {
+   "text": "can.",
+   "start": 57978,
+   "end": 58171
+  },
+  {
+   "text": "It",
+   "start": 58797,
+   "end": 58862
+  },
+  {
+   "text": "does",
+   "start": 58862,
+   "end": 58990
+  },
+  {
+   "text": "not",
+   "start": 59022,
+   "end": 59199
+  },
+  {
+   "text": "tell",
+   "start": 59263,
+   "end": 59408
+  },
+  {
+   "text": "you",
+   "start": 59488,
+   "end": 59553
+  },
+  {
+   "text": "the",
+   "start": 59569,
+   "end": 59665
+  },
+  {
+   "text": "powder",
+   "start": 59665,
+   "end": 60051
+  },
+  {
+   "text": "inside",
+   "start": 60051,
+   "end": 60597
+  },
+  {
+   "text": "is",
+   "start": 60726,
+   "end": 60790
+  },
+  {
+   "text": "still",
+   "start": 60790,
+   "end": 61047
+  },
+  {
+   "text": "a",
+   "start": 61047,
+   "end": 61111
+  },
+  {
+   "text": "powder.",
+   "start": 61111,
+   "end": 61433
+  },
+  {
+   "text": "Dry",
+   "start": 61995,
+   "end": 62188
+  },
+  {
+   "text": "chemical",
+   "start": 62316,
+   "end": 62718
+  },
+  {
+   "text": "extinguishers,",
+   "start": 62718,
+   "end": 63409
+  },
+  {
+   "text": "the",
+   "start": 63843,
+   "end": 63923
+  },
+  {
+   "text": "kind",
+   "start": 63923,
+   "end": 64212
+  },
+  {
+   "text": "almost",
+   "start": 64389,
+   "end": 64791
+  },
+  {
+   "text": "every",
+   "start": 64871,
+   "end": 65096
+  },
+  {
+   "text": "kitchen",
+   "start": 65128,
+   "end": 65418
+  },
+  {
+   "text": "has,",
+   "start": 65530,
+   "end": 65787
+  },
+  {
+   "text": "work",
+   "start": 66334,
+   "end": 66639
+  },
+  {
+   "text": "by",
+   "start": 66639,
+   "end": 66816
+  },
+  {
+   "text": "pushing",
+   "start": 66816,
+   "end": 67105
+  },
+  {
+   "text": "that",
+   "start": 67201,
+   "end": 67378
+  },
+  {
+   "text": "powder",
+   "start": 67378,
+   "end": 67844
+  },
+  {
+   "text": "out",
+   "start": 67844,
+   "end": 67973
+  },
+  {
+   "text": "with",
+   "start": 68021,
+   "end": 68246
+  },
+  {
+   "text": "pressurized",
+   "start": 68262,
+   "end": 68888
+  },
+  {
+   "text": "gas.",
+   "start": 68888,
+   "end": 69210
+  },
+  {
+   "text": "If",
+   "start": 69853,
+   "end": 69901
+  },
+  {
+   "text": "the",
+   "start": 69949,
+   "end": 70029
+  },
+  {
+   "text": "powder",
+   "start": 70029,
+   "end": 70431
+  },
+  {
+   "text": "has",
+   "start": 70431,
+   "end": 70560
+  },
+  {
+   "text": "hardened",
+   "start": 70656,
+   "end": 71122
+  },
+  {
+   "text": "into",
+   "start": 71154,
+   "end": 71363
+  },
+  {
+   "text": "a",
+   "start": 71411,
+   "end": 71476
+  },
+  {
+   "text": "solid",
+   "start": 71476,
+   "end": 71925
+  },
+  {
+   "text": "block,",
+   "start": 71958,
+   "end": 72359
+  },
+  {
+   "text": "the",
+   "start": 72600,
+   "end": 72681
+  },
+  {
+   "text": "gas",
+   "start": 72745,
+   "end": 73163
+  },
+  {
+   "text": "can",
+   "start": 73163,
+   "end": 73323
+  },
+  {
+   "text": "still",
+   "start": 73323,
+   "end": 73532
+  },
+  {
+   "text": "show",
+   "start": 73629,
+   "end": 73950
+  },
+  {
+   "text": "full",
+   "start": 73966,
+   "end": 74271
+  },
+  {
+   "text": "pressure",
+   "start": 74271,
+   "end": 74657
+  },
+  {
+   "text": "on",
+   "start": 74673,
+   "end": 74737
+  },
+  {
+   "text": "the",
+   "start": 74770,
+   "end": 74914
+  },
+  {
+   "text": "gauge.",
+   "start": 74914,
+   "end": 75300
+  },
+  {
+   "text": "It",
+   "start": 75830,
+   "end": 75894
+  },
+  {
+   "text": "just",
+   "start": 75894,
+   "end": 76152
+  },
+  {
+   "text": "has",
+   "start": 76152,
+   "end": 76264
+  },
+  {
+   "text": "nothing",
+   "start": 76296,
+   "end": 76553
+  },
+  {
+   "text": "left",
+   "start": 76618,
+   "end": 76859
+  },
+  {
+   "text": "to",
+   "start": 76859,
+   "end": 76939
+  },
+  {
+   "text": "push.",
+   "start": 76939,
+   "end": 77212
+  },
+  {
+   "text": "So",
+   "start": 77742,
+   "end": 77887
+  },
+  {
+   "text": "you",
+   "start": 77887,
+   "end": 77983
+  },
+  {
+   "text": "could",
+   "start": 77983,
+   "end": 78127
+  },
+  {
+   "text": "pull",
+   "start": 78143,
+   "end": 78352
+  },
+  {
+   "text": "the",
+   "start": 78368,
+   "end": 78416
+  },
+  {
+   "text": "pin,",
+   "start": 78464,
+   "end": 78753
+  },
+  {
+   "text": "squeeze",
+   "start": 79090,
+   "end": 79556
+  },
+  {
+   "text": "the",
+   "start": 79588,
+   "end": 79700
+  },
+  {
+   "text": "handle,",
+   "start": 79732,
+   "end": 80053
+  },
+  {
+   "text": "and",
+   "start": 80470,
+   "end": 80551
+  },
+  {
+   "text": "get",
+   "start": 80551,
+   "end": 80775
+  },
+  {
+   "text": "nothing.",
+   "start": 80775,
+   "end": 81064
+  },
+  {
+   "text": "Or",
+   "start": 81578,
+   "end": 81626
+  },
+  {
+   "text": "worse,",
+   "start": 81738,
+   "end": 81947
+  },
+  {
+   "text": "a",
+   "start": 82460,
+   "end": 82476
+  },
+  {
+   "text": "weak",
+   "start": 82541,
+   "end": 82797
+  },
+  {
+   "text": "puff",
+   "start": 82797,
+   "end": 83070
+  },
+  {
+   "text": "that",
+   "start": 83183,
+   "end": 83327
+  },
+  {
+   "text": "doesn't",
+   "start": 83359,
+   "end": 83680
+  },
+  {
+   "text": "put",
+   "start": 83680,
+   "end": 83841
+  },
+  {
+   "text": "anything",
+   "start": 83841,
+   "end": 84194
+  },
+  {
+   "text": "out.",
+   "start": 84242,
+   "end": 84467
+  },
+  {
+   "text": "In",
+   "start": 85028,
+   "end": 85076
+  },
+  {
+   "text": "the",
+   "start": 85108,
+   "end": 85189
+  },
+  {
+   "text": "few",
+   "start": 85189,
+   "end": 85446
+  },
+  {
+   "text": "seconds",
+   "start": 85446,
+   "end": 85895
+  },
+  {
+   "text": "a",
+   "start": 85927,
+   "end": 85943
+  },
+  {
+   "text": "real",
+   "start": 86087,
+   "end": 86392
+  },
+  {
+   "text": "fire",
+   "start": 86392,
+   "end": 86601
+  },
+  {
+   "text": "gives",
+   "start": 86729,
+   "end": 87018
+  },
+  {
+   "text": "you,",
+   "start": 87050,
+   "end": 87211
+  },
+  {
+   "text": "that's",
+   "start": 87532,
+   "end": 87708
+  },
+  {
+   "text": "the",
+   "start": 87757,
+   "end": 87837
+  },
+  {
+   "text": "whole",
+   "start": 87837,
+   "end": 88013
+  },
+  {
+   "text": "ballgame.",
+   "start": 88013,
+   "end": 88463
+  },
+  {
+   "text": "This",
+   "start": 88960,
+   "end": 89024
+  },
+  {
+   "text": "isn't",
+   "start": 89137,
+   "end": 89361
+  },
+  {
+   "text": "rare.",
+   "start": 89361,
+   "end": 89602
+  },
+  {
+   "text": "It's",
+   "start": 90116,
+   "end": 90244
+  },
+  {
+   "text": "just",
+   "start": 90244,
+   "end": 90421
+  },
+  {
+   "text": "quiet.",
+   "start": 90421,
+   "end": 90790
+  },
+  {
+   "text": "Nobody",
+   "start": 91303,
+   "end": 91624
+  },
+  {
+   "text": "finds",
+   "start": 91624,
+   "end": 91993
+  },
+  {
+   "text": "out",
+   "start": 92090,
+   "end": 92330
+  },
+  {
+   "text": "until",
+   "start": 92346,
+   "end": 92619
+  },
+  {
+   "text": "the",
+   "start": 92651,
+   "end": 92716
+  },
+  {
+   "text": "one",
+   "start": 92812,
+   "end": 92940
+  },
+  {
+   "text": "day",
+   "start": 93069,
+   "end": 93309
+  },
+  {
+   "text": "they",
+   "start": 93309,
+   "end": 93470
+  },
+  {
+   "text": "actually",
+   "start": 93534,
+   "end": 93839
+  },
+  {
+   "text": "need",
+   "start": 93871,
+   "end": 94128
+  },
+  {
+   "text": "it.",
+   "start": 94128,
+   "end": 94288
+  },
+  {
+   "text": "So",
+   "start": 94770,
+   "end": 94914
+  },
+  {
+   "text": "let's",
+   "start": 94914,
+   "end": 95155
+  },
+  {
+   "text": "fix",
+   "start": 95155,
+   "end": 95396
+  },
+  {
+   "text": "that",
+   "start": 95396,
+   "end": 95620
+  },
+  {
+   "text": "today,",
+   "start": 95620,
+   "end": 95909
+  },
+  {
+   "text": "for",
+   "start": 96262,
+   "end": 96359
+  },
+  {
+   "text": "the",
+   "start": 96359,
+   "end": 96487
+  },
+  {
+   "text": "one",
+   "start": 96503,
+   "end": 96632
+  },
+  {
+   "text": "under",
+   "start": 96680,
+   "end": 96840
+  },
+  {
+   "text": "your",
+   "start": 96840,
+   "end": 96985
+  },
+  {
+   "text": "sink",
+   "start": 96985,
+   "end": 97306
+  },
+  {
+   "text": "right",
+   "start": 97306,
+   "end": 97466
+  },
+  {
+   "text": "now.",
+   "start": 97482,
+   "end": 97627
+  },
+  {
+   "text": "Dry",
+   "start": 98204,
+   "end": 98397
+  },
+  {
+   "text": "chemical",
+   "start": 98525,
+   "end": 98926
+  },
+  {
+   "text": "extinguishers",
+   "start": 98926,
+   "end": 99617
+  },
+  {
+   "text": "have",
+   "start": 99713,
+   "end": 99809
+  },
+  {
+   "text": "been",
+   "start": 99873,
+   "end": 100034
+  },
+  {
+   "text": "the",
+   "start": 100034,
+   "end": 100114
+  },
+  {
+   "text": "standard",
+   "start": 100114,
+   "end": 100660
+  },
+  {
+   "text": "in",
+   "start": 100772,
+   "end": 100820
+  },
+  {
+   "text": "American",
+   "start": 100868,
+   "end": 101382
+  },
+  {
+   "text": "kitchens",
+   "start": 101478,
+   "end": 101863
+  },
+  {
+   "text": "for",
+   "start": 101960,
+   "end": 102120
+  },
+  {
+   "text": "decades,",
+   "start": 102136,
+   "end": 102505
+  },
+  {
+   "text": "and",
+   "start": 103099,
+   "end": 103163
+  },
+  {
+   "text": "there's",
+   "start": 103179,
+   "end": 103404
+  },
+  {
+   "text": "a",
+   "start": 103404,
+   "end": 103420
+  },
+  {
+   "text": "good",
+   "start": 103500,
+   "end": 103805
+  },
+  {
+   "text": "reason",
+   "start": 103805,
+   "end": 104110
+  },
+  {
+   "text": "they",
+   "start": 104142,
+   "end": 104303
+  },
+  {
+   "text": "replaced",
+   "start": 104303,
+   "end": 104929
+  },
+  {
+   "text": "almost",
+   "start": 105009,
+   "end": 105394
+  },
+  {
+   "text": "everything",
+   "start": 105571,
+   "end": 105956
+  },
+  {
+   "text": "that",
+   "start": 106068,
+   "end": 106197
+  },
+  {
+   "text": "came",
+   "start": 106229,
+   "end": 106373
+  },
+  {
+   "text": "before",
+   "start": 106469,
+   "end": 106742
+  },
+  {
+   "text": "them.",
+   "start": 106790,
+   "end": 106951
+  },
+  {
+   "text": "The",
+   "start": 107352,
+   "end": 107432
+  },
+  {
+   "text": "powder",
+   "start": 107432,
+   "end": 107802
+  },
+  {
+   "text": "inside",
+   "start": 107818,
+   "end": 108267
+  },
+  {
+   "text": "most",
+   "start": 108380,
+   "end": 108701
+  },
+  {
+   "text": "home",
+   "start": 108701,
+   "end": 108942
+  },
+  {
+   "text": "units,",
+   "start": 108942,
+   "end": 109295
+  },
+  {
+   "text": "monoammonium",
+   "start": 109680,
+   "end": 110323
+  },
+  {
+   "text": "phosphate,",
+   "start": 110387,
+   "end": 111013
+  },
+  {
+   "text": "is",
+   "start": 111382,
+   "end": 111495
+  },
+  {
+   "text": "what",
+   "start": 111527,
+   "end": 111671
+  },
+  {
+   "text": "earns",
+   "start": 111671,
+   "end": 111896
+  },
+  {
+   "text": "the",
+   "start": 111928,
+   "end": 112025
+  },
+  {
+   "text": "rating",
+   "start": 112089,
+   "end": 112378
+  },
+  {
+   "text": "letters",
+   "start": 112474,
+   "end": 112699
+  },
+  {
+   "text": "A,",
+   "start": 112972,
+   "end": 113084
+  },
+  {
+   "text": "B,",
+   "start": 113534,
+   "end": 113727
+  },
+  {
+   "text": "and",
+   "start": 114096,
+   "end": 114160
+  },
+  {
+   "text": "C.",
+   "start": 114240,
+   "end": 114513
+  },
+  {
+   "text": "Ordinary",
+   "start": 115284,
+   "end": 115621
+  },
+  {
+   "text": "combustibles,",
+   "start": 115621,
+   "end": 116312
+  },
+  {
+   "text": "flammable",
+   "start": 116729,
+   "end": 117131
+  },
+  {
+   "text": "liquids,",
+   "start": 117211,
+   "end": 117596
+  },
+  {
+   "text": "and",
+   "start": 117950,
+   "end": 118014
+  },
+  {
+   "text": "electrical",
+   "start": 118094,
+   "end": 118528
+  },
+  {
+   "text": "fires.",
+   "start": 118528,
+   "end": 118881
+  },
+  {
+   "text": "One",
+   "start": 119539,
+   "end": 119684
+  },
+  {
+   "text": "canister,",
+   "start": 119716,
+   "end": 120214
+  },
+  {
+   "text": "three",
+   "start": 120519,
+   "end": 120759
+  },
+  {
+   "text": "different",
+   "start": 120759,
+   "end": 121032
+  },
+  {
+   "text": "kinds",
+   "start": 121065,
+   "end": 121337
+  },
+  {
+   "text": "of",
+   "start": 121337,
+   "end": 121402
+  },
+  {
+   "text": "fire.",
+   "start": 121402,
+   "end": 121675
+  },
+  {
+   "text": "That's",
+   "start": 122349,
+   "end": 122526
+  },
+  {
+   "text": "exactly",
+   "start": 122526,
+   "end": 123056
+  },
+  {
+   "text": "why",
+   "start": 123152,
+   "end": 123345
+  },
+  {
+   "text": "it",
+   "start": 123345,
+   "end": 123409
+  },
+  {
+   "text": "became",
+   "start": 123409,
+   "end": 123762
+  },
+  {
+   "text": "the",
+   "start": 123810,
+   "end": 123907
+  },
+  {
+   "text": "standard",
+   "start": 123907,
+   "end": 124420
+  },
+  {
+   "text": "for",
+   "start": 124452,
+   "end": 124613
+  },
+  {
+   "text": "a",
+   "start": 124613,
+   "end": 124693
+  },
+  {
+   "text": "kitchen,",
+   "start": 124693,
+   "end": 125063
+  },
+  {
+   "text": "where",
+   "start": 125480,
+   "end": 125576
+  },
+  {
+   "text": "a",
+   "start": 125576,
+   "end": 125641
+  },
+  {
+   "text": "fire",
+   "start": 125641,
+   "end": 125930
+  },
+  {
+   "text": "could",
+   "start": 126042,
+   "end": 126203
+  },
+  {
+   "text": "start",
+   "start": 126203,
+   "end": 126540
+  },
+  {
+   "text": "in",
+   "start": 126540,
+   "end": 126620
+  },
+  {
+   "text": "a",
+   "start": 126620,
+   "end": 126700
+  },
+  {
+   "text": "pan",
+   "start": 126700,
+   "end": 126973
+  },
+  {
+   "text": "of",
+   "start": 127038,
+   "end": 127118
+  },
+  {
+   "text": "oil",
+   "start": 127182,
+   "end": 127375
+  },
+  {
+   "text": "just",
+   "start": 127664,
+   "end": 127921
+  },
+  {
+   "text": "as",
+   "start": 127969,
+   "end": 128033
+  },
+  {
+   "text": "easily",
+   "start": 128210,
+   "end": 128595
+  },
+  {
+   "text": "as",
+   "start": 128948,
+   "end": 129077
+  },
+  {
+   "text": "in",
+   "start": 129109,
+   "end": 129189
+  },
+  {
+   "text": "a",
+   "start": 129189,
+   "end": 129318
+  },
+  {
+   "text": "wall",
+   "start": 129334,
+   "end": 129462
+  },
+  {
+   "text": "outlet.",
+   "start": 129575,
+   "end": 129928
+  },
+  {
+   "text": "Here's",
+   "start": 130474,
+   "end": 130682
+  },
+  {
+   "text": "the",
+   "start": 130715,
+   "end": 130795
+  },
+  {
+   "text": "plain",
+   "start": 130795,
+   "end": 131084
+  },
+  {
+   "text": "version",
+   "start": 131116,
+   "end": 131405
+  },
+  {
+   "text": "of",
+   "start": 131517,
+   "end": 131598
+  },
+  {
+   "text": "how",
+   "start": 131598,
+   "end": 131694
+  },
+  {
+   "text": "it",
+   "start": 131694,
+   "end": 131903
+  },
+  {
+   "text": "works.",
+   "start": 131903,
+   "end": 132176
+  },
+  {
+   "text": "The",
+   "start": 132690,
+   "end": 132786
+  },
+  {
+   "text": "can",
+   "start": 132786,
+   "end": 132866
+  },
+  {
+   "text": "holds",
+   "start": 132882,
+   "end": 133170
+  },
+  {
+   "text": "fine",
+   "start": 133202,
+   "end": 133475
+  },
+  {
+   "text": "powder",
+   "start": 133523,
+   "end": 133971
+  },
+  {
+   "text": "and",
+   "start": 134084,
+   "end": 134148
+  },
+  {
+   "text": "pressurized",
+   "start": 134244,
+   "end": 134933
+  },
+  {
+   "text": "gas,",
+   "start": 134965,
+   "end": 135237
+  },
+  {
+   "text": "sealed",
+   "start": 135782,
+   "end": 136087
+  },
+  {
+   "text": "together.",
+   "start": 136087,
+   "end": 136487
+  },
+  {
+   "text": "Pull",
+   "start": 137048,
+   "end": 137160
+  },
+  {
+   "text": "the",
+   "start": 137209,
+   "end": 137305
+  },
+  {
+   "text": "pin,",
+   "start": 137369,
+   "end": 137577
+  },
+  {
+   "text": "squeeze",
+   "start": 138010,
+   "end": 138458
+  },
+  {
+   "text": "the",
+   "start": 138490,
+   "end": 138619
+  },
+  {
+   "text": "handle,",
+   "start": 138635,
+   "end": 138939
+  },
+  {
+   "text": "and",
+   "start": 139372,
+   "end": 139436
+  },
+  {
+   "text": "the",
+   "start": 139452,
+   "end": 139500
+  },
+  {
+   "text": "gas",
+   "start": 139596,
+   "end": 140029
+  },
+  {
+   "text": "pushes",
+   "start": 140093,
+   "end": 140381
+  },
+  {
+   "text": "the",
+   "start": 140494,
+   "end": 140574
+  },
+  {
+   "text": "powder",
+   "start": 140574,
+   "end": 141038
+  },
+  {
+   "text": "out",
+   "start": 141038,
+   "end": 141167
+  },
+  {
+   "text": "through",
+   "start": 141215,
+   "end": 141423
+  },
+  {
+   "text": "the",
+   "start": 141455,
+   "end": 141535
+  },
+  {
+   "text": "hose",
+   "start": 141535,
+   "end": 141904
+  },
+  {
+   "text": "in",
+   "start": 141936,
+   "end": 141984
+  },
+  {
+   "text": "a",
+   "start": 142032,
+   "end": 142096
+  },
+  {
+   "text": "cloud",
+   "start": 142096,
+   "end": 142561
+  },
+  {
+   "text": "that",
+   "start": 142561,
+   "end": 142673
+  },
+  {
+   "text": "smothers",
+   "start": 142721,
+   "end": 143266
+  },
+  {
+   "text": "the",
+   "start": 143298,
+   "end": 143378
+  },
+  {
+   "text": "flame",
+   "start": 143394,
+   "end": 143891
+  },
+  {
+   "text": "and",
+   "start": 144179,
+   "end": 144243
+  },
+  {
+   "text": "interrupts",
+   "start": 144420,
+   "end": 144981
+  },
+  {
+   "text": "the",
+   "start": 144981,
+   "end": 145061
+  },
+  {
+   "text": "reaction",
+   "start": 145125,
+   "end": 145590
+  },
+  {
+   "text": "that's",
+   "start": 145862,
+   "end": 146086
+  },
+  {
+   "text": "actually",
+   "start": 146086,
+   "end": 146391
+  },
+  {
+   "text": "burning.",
+   "start": 146423,
+   "end": 146759
+  },
+  {
+   "text": "Old-timers",
+   "start": 147288,
+   "end": 147833
+  },
+  {
+   "text": "trusted",
+   "start": 147929,
+   "end": 148314
+  },
+  {
+   "text": "these",
+   "start": 148346,
+   "end": 148554
+  },
+  {
+   "text": "because",
+   "start": 148827,
+   "end": 149115
+  },
+  {
+   "text": "they",
+   "start": 149147,
+   "end": 149227
+  },
+  {
+   "text": "were",
+   "start": 149227,
+   "end": 149323
+  },
+  {
+   "text": "simple.",
+   "start": 149323,
+   "end": 149756
+  },
+  {
+   "text": "No",
+   "start": 150269,
+   "end": 150397
+  },
+  {
+   "text": "batteries,",
+   "start": 150509,
+   "end": 150958
+  },
+  {
+   "text": "no",
+   "start": 151390,
+   "end": 151631
+  },
+  {
+   "text": "plumbing,",
+   "start": 151631,
+   "end": 151983
+  },
+  {
+   "text": "no",
+   "start": 152416,
+   "end": 152528
+  },
+  {
+   "text": "maintenance",
+   "start": 152528,
+   "end": 152993
+  },
+  {
+   "text": "contract.",
+   "start": 152993,
+   "end": 153634
+  },
+  {
+   "text": "Mount",
+   "start": 154115,
+   "end": 154355
+  },
+  {
+   "text": "it,",
+   "start": 154355,
+   "end": 154403
+  },
+  {
+   "text": "and",
+   "start": 154836,
+   "end": 154916
+  },
+  {
+   "text": "it's",
+   "start": 154916,
+   "end": 155028
+  },
+  {
+   "text": "supposed",
+   "start": 155060,
+   "end": 155461
+  },
+  {
+   "text": "to",
+   "start": 155461,
+   "end": 155525
+  },
+  {
+   "text": "be",
+   "start": 155557,
+   "end": 155701
+  },
+  {
+   "text": "ready",
+   "start": 155717,
+   "end": 156006
+  },
+  {
+   "text": "whenever",
+   "start": 156102,
+   "end": 156438
+  },
+  {
+   "text": "you",
+   "start": 156438,
+   "end": 156534
+  },
+  {
+   "text": "need",
+   "start": 156534,
+   "end": 156839
+  },
+  {
+   "text": "it.",
+   "start": 156839,
+   "end": 156935
+  },
+  {
+   "text": "That",
+   "start": 157400,
+   "end": 157576
+  },
+  {
+   "text": "last",
+   "start": 157624,
+   "end": 157881
+  },
+  {
+   "text": "part,",
+   "start": 157881,
+   "end": 158265
+  },
+  {
+   "text": "mount",
+   "start": 158666,
+   "end": 158906
+  },
+  {
+   "text": "it",
+   "start": 158906,
+   "end": 159115
+  },
+  {
+   "text": "and",
+   "start": 159163,
+   "end": 159227
+  },
+  {
+   "text": "forget",
+   "start": 159307,
+   "end": 159660
+  },
+  {
+   "text": "it,",
+   "start": 159660,
+   "end": 159804
+  },
+  {
+   "text": "is",
+   "start": 160205,
+   "end": 160333
+  },
+  {
+   "text": "exactly",
+   "start": 160349,
+   "end": 160895
+  },
+  {
+   "text": "where",
+   "start": 160927,
+   "end": 161087
+  },
+  {
+   "text": "the",
+   "start": 161087,
+   "end": 161167
+  },
+  {
+   "text": "trouble",
+   "start": 161167,
+   "end": 161472
+  },
+  {
+   "text": "starts.",
+   "start": 161488,
+   "end": 161985
+  },
+  {
+   "text": "Because",
+   "start": 162530,
+   "end": 162819
+  },
+  {
+   "text": "\"forget",
+   "start": 162931,
+   "end": 163332
+  },
+  {
+   "text": "it\"",
+   "start": 163332,
+   "end": 163588
+  },
+  {
+   "text": "was",
+   "start": 163716,
+   "end": 163781
+  },
+  {
+   "text": "never",
+   "start": 163893,
+   "end": 164278
+  },
+  {
+   "text": "actually",
+   "start": 164358,
+   "end": 164743
+  },
+  {
+   "text": "part",
+   "start": 164775,
+   "end": 165031
+  },
+  {
+   "text": "of",
+   "start": 165031,
+   "end": 165095
+  },
+  {
+   "text": "the",
+   "start": 165095,
+   "end": 165176
+  },
+  {
+   "text": "design.",
+   "start": 165176,
+   "end": 165544
+  },
+  {
+   "text": "It",
+   "start": 166138,
+   "end": 166202
+  },
+  {
+   "text": "just",
+   "start": 166202,
+   "end": 166394
+  },
+  {
+   "text": "feels",
+   "start": 166458,
+   "end": 166747
+  },
+  {
+   "text": "that",
+   "start": 166779,
+   "end": 166987
+  },
+  {
+   "text": "way,",
+   "start": 167019,
+   "end": 167244
+  },
+  {
+   "text": "since",
+   "start": 167597,
+   "end": 167901
+  },
+  {
+   "text": "nothing",
+   "start": 167901,
+   "end": 168142
+  },
+  {
+   "text": "about",
+   "start": 168206,
+   "end": 168446
+  },
+  {
+   "text": "the",
+   "start": 168446,
+   "end": 168494
+  },
+  {
+   "text": "canister",
+   "start": 168543,
+   "end": 169008
+  },
+  {
+   "text": "changes",
+   "start": 169008,
+   "end": 169424
+  },
+  {
+   "text": "on",
+   "start": 169424,
+   "end": 169473
+  },
+  {
+   "text": "the",
+   "start": 169505,
+   "end": 169649
+  },
+  {
+   "text": "outside.",
+   "start": 169649,
+   "end": 170194
+  },
+  {
+   "text": "Sitting",
+   "start": 170691,
+   "end": 170996
+  },
+  {
+   "text": "for",
+   "start": 171028,
+   "end": 171140
+  },
+  {
+   "text": "years,",
+   "start": 171252,
+   "end": 171557
+  },
+  {
+   "text": "that",
+   "start": 171974,
+   "end": 172102
+  },
+  {
+   "text": "fine",
+   "start": 172150,
+   "end": 172439
+  },
+  {
+   "text": "powder",
+   "start": 172471,
+   "end": 172856
+  },
+  {
+   "text": "is",
+   "start": 172952,
+   "end": 173000
+  },
+  {
+   "text": "exposed",
+   "start": 173048,
+   "end": 173593
+  },
+  {
+   "text": "to",
+   "start": 173593,
+   "end": 173673
+  },
+  {
+   "text": "two",
+   "start": 173673,
+   "end": 173930
+  },
+  {
+   "text": "things",
+   "start": 173930,
+   "end": 174283
+  },
+  {
+   "text": "most",
+   "start": 174379,
+   "end": 174716
+  },
+  {
+   "text": "people",
+   "start": 174716,
+   "end": 175068
+  },
+  {
+   "text": "never",
+   "start": 175116,
+   "end": 175437
+  },
+  {
+   "text": "think",
+   "start": 175437,
+   "end": 175694
+  },
+  {
+   "text": "about.",
+   "start": 175694,
+   "end": 176078
+  },
+  {
+   "text": "Vibration,",
+   "start": 176624,
+   "end": 177169
+  },
+  {
+   "text": "from",
+   "start": 177602,
+   "end": 177730
+  },
+  {
+   "text": "a",
+   "start": 177778,
+   "end": 177906
+  },
+  {
+   "text": "door",
+   "start": 177922,
+   "end": 178147
+  },
+  {
+   "text": "slamming,",
+   "start": 178147,
+   "end": 178692
+  },
+  {
+   "text": "a",
+   "start": 179125,
+   "end": 179141
+  },
+  {
+   "text": "dishwasher",
+   "start": 179269,
+   "end": 179846
+  },
+  {
+   "text": "running,",
+   "start": 179846,
+   "end": 180135
+  },
+  {
+   "text": "just",
+   "start": 180488,
+   "end": 180680
+  },
+  {
+   "text": "normal",
+   "start": 180728,
+   "end": 181033
+  },
+  {
+   "text": "house",
+   "start": 181033,
+   "end": 181241
+  },
+  {
+   "text": "life.",
+   "start": 181353,
+   "end": 181562
+  },
+  {
+   "text": "And",
+   "start": 182171,
+   "end": 182235
+  },
+  {
+   "text": "moisture,",
+   "start": 182331,
+   "end": 182861
+  },
+  {
+   "text": "from",
+   "start": 183277,
+   "end": 183390
+  },
+  {
+   "text": "a",
+   "start": 183438,
+   "end": 183454
+  },
+  {
+   "text": "humid",
+   "start": 183470,
+   "end": 183823
+  },
+  {
+   "text": "kitchen",
+   "start": 183855,
+   "end": 184207
+  },
+  {
+   "text": "or",
+   "start": 184560,
+   "end": 184608
+  },
+  {
+   "text": "a",
+   "start": 184656,
+   "end": 184737
+  },
+  {
+   "text": "garage",
+   "start": 184737,
+   "end": 185234
+  },
+  {
+   "text": "that",
+   "start": 185298,
+   "end": 185410
+  },
+  {
+   "text": "swings",
+   "start": 185442,
+   "end": 185907
+  },
+  {
+   "text": "hot",
+   "start": 185923,
+   "end": 186260
+  },
+  {
+   "text": "and",
+   "start": 186340,
+   "end": 186404
+  },
+  {
+   "text": "cold.",
+   "start": 186500,
+   "end": 186869
+  },
+  {
+   "text": "Both,",
+   "start": 187286,
+   "end": 187510
+  },
+  {
+   "text": "slowly,",
+   "start": 187879,
+   "end": 188312
+  },
+  {
+   "text": "work",
+   "start": 188665,
+   "end": 188842
+  },
+  {
+   "text": "against",
+   "start": 188842,
+   "end": 189226
+  },
+  {
+   "text": "it.",
+   "start": 189226,
+   "end": 189291
+  },
+  {
+   "text": "So",
+   "start": 189804,
+   "end": 189996
+  },
+  {
+   "text": "here's",
+   "start": 190012,
+   "end": 190253
+  },
+  {
+   "text": "exactly",
+   "start": 190253,
+   "end": 190798
+  },
+  {
+   "text": "what's",
+   "start": 190830,
+   "end": 191007
+  },
+  {
+   "text": "happening",
+   "start": 191007,
+   "end": 191424
+  },
+  {
+   "text": "inside",
+   "start": 191536,
+   "end": 191953
+  },
+  {
+   "text": "that",
+   "start": 191953,
+   "end": 192081
+  },
+  {
+   "text": "can,",
+   "start": 192177,
+   "end": 192466
+  },
+  {
+   "text": "and",
+   "start": 192915,
+   "end": 192979
+  },
+  {
+   "text": "exactly",
+   "start": 193011,
+   "end": 193524
+  },
+  {
+   "text": "what",
+   "start": 193621,
+   "end": 193733
+  },
+  {
+   "text": "to",
+   "start": 193781,
+   "end": 193845
+  },
+  {
+   "text": "do",
+   "start": 193861,
+   "end": 194006
+  },
+  {
+   "text": "about",
+   "start": 194038,
+   "end": 194214
+  },
+  {
+   "text": "it.",
+   "start": 194214,
+   "end": 194358
+  },
+  {
+   "text": "Let's",
+   "start": 194920,
+   "end": 195080
+  },
+  {
+   "text": "go",
+   "start": 195080,
+   "end": 195240
+  },
+  {
+   "text": "through",
+   "start": 195240,
+   "end": 195353
+  },
+  {
+   "text": "it",
+   "start": 195401,
+   "end": 195481
+  },
+  {
+   "text": "properly.",
+   "start": 195481,
+   "end": 195930
+  },
+  {
+   "text": "Fire",
+   "start": 196523,
+   "end": 196716
+  },
+  {
+   "text": "safety",
+   "start": 196780,
+   "end": 197213
+  },
+  {
+   "text": "documentation",
+   "start": 197229,
+   "end": 198079
+  },
+  {
+   "text": "on",
+   "start": 198287,
+   "end": 198336
+  },
+  {
+   "text": "extinguisher",
+   "start": 198384,
+   "end": 199057
+  },
+  {
+   "text": "failures",
+   "start": 199089,
+   "end": 199619
+  },
+  {
+   "text": "explains",
+   "start": 199811,
+   "end": 200292
+  },
+  {
+   "text": "it",
+   "start": 200308,
+   "end": 200388
+  },
+  {
+   "text": "plainly.",
+   "start": 200452,
+   "end": 200853
+  },
+  {
+   "text": "Vibration,",
+   "start": 201399,
+   "end": 202024
+  },
+  {
+   "text": "repeated",
+   "start": 202361,
+   "end": 202794
+  },
+  {
+   "text": "movement,",
+   "start": 202842,
+   "end": 203307
+  },
+  {
+   "text": "and",
+   "start": 203644,
+   "end": 203708
+  },
+  {
+   "text": "moisture",
+   "start": 203740,
+   "end": 204285
+  },
+  {
+   "text": "cause",
+   "start": 204285,
+   "end": 204590
+  },
+  {
+   "text": "the",
+   "start": 204622,
+   "end": 204702
+  },
+  {
+   "text": "dry",
+   "start": 204766,
+   "end": 204959
+  },
+  {
+   "text": "chemical",
+   "start": 205103,
+   "end": 205488
+  },
+  {
+   "text": "powder",
+   "start": 205504,
+   "end": 205905
+  },
+  {
+   "text": "to",
+   "start": 205905,
+   "end": 206033
+  },
+  {
+   "text": "compact",
+   "start": 206066,
+   "end": 206867
+  },
+  {
+   "text": "and",
+   "start": 207012,
+   "end": 207108
+  },
+  {
+   "text": "harden",
+   "start": 207108,
+   "end": 207477
+  },
+  {
+   "text": "over",
+   "start": 207573,
+   "end": 207749
+  },
+  {
+   "text": "time.",
+   "start": 207749,
+   "end": 208134
+  },
+  {
+   "text": "Not",
+   "start": 208615,
+   "end": 208744
+  },
+  {
+   "text": "instantly.",
+   "start": 208792,
+   "end": 209193
+  },
+  {
+   "text": "Gradually,",
+   "start": 209674,
+   "end": 210203
+  },
+  {
+   "text": "the",
+   "start": 210556,
+   "end": 210636
+  },
+  {
+   "text": "same",
+   "start": 210636,
+   "end": 210909
+  },
+  {
+   "text": "way",
+   "start": 210957,
+   "end": 211085
+  },
+  {
+   "text": "flour",
+   "start": 211117,
+   "end": 211630
+  },
+  {
+   "text": "left",
+   "start": 211663,
+   "end": 211855
+  },
+  {
+   "text": "sitting",
+   "start": 211855,
+   "end": 212192
+  },
+  {
+   "text": "in",
+   "start": 212240,
+   "end": 212288
+  },
+  {
+   "text": "a",
+   "start": 212320,
+   "end": 212336
+  },
+  {
+   "text": "bag",
+   "start": 212400,
+   "end": 212737
+  },
+  {
+   "text": "for",
+   "start": 212785,
+   "end": 212897
+  },
+  {
+   "text": "years",
+   "start": 213026,
+   "end": 213250
+  },
+  {
+   "text": "can",
+   "start": 213362,
+   "end": 213491
+  },
+  {
+   "text": "turn",
+   "start": 213523,
+   "end": 213731
+  },
+  {
+   "text": "into",
+   "start": 213779,
+   "end": 214036
+  },
+  {
+   "text": "a",
+   "start": 214084,
+   "end": 214100
+  },
+  {
+   "text": "solid",
+   "start": 214100,
+   "end": 214629
+  },
+  {
+   "text": "brick",
+   "start": 214629,
+   "end": 214950
+  },
+  {
+   "text": "if",
+   "start": 214982,
+   "end": 215127
+  },
+  {
+   "text": "it",
+   "start": 215127,
+   "end": 215271
+  },
+  {
+   "text": "ever",
+   "start": 215367,
+   "end": 215608
+  },
+  {
+   "text": "picks",
+   "start": 215608,
+   "end": 215928
+  },
+  {
+   "text": "up",
+   "start": 216009,
+   "end": 216185
+  },
+  {
+   "text": "a",
+   "start": 216249,
+   "end": 216265
+  },
+  {
+   "text": "little",
+   "start": 216329,
+   "end": 216506
+  },
+  {
+   "text": "moisture.",
+   "start": 216506,
+   "end": 216971
+  },
+  {
+   "text": "That's",
+   "start": 217452,
+   "end": 217677
+  },
+  {
+   "text": "the",
+   "start": 217677,
+   "end": 217773
+  },
+  {
+   "text": "picture",
+   "start": 217773,
+   "end": 218094
+  },
+  {
+   "text": "to",
+   "start": 218094,
+   "end": 218174
+  },
+  {
+   "text": "hold",
+   "start": 218174,
+   "end": 218415
+  },
+  {
+   "text": "onto.",
+   "start": 218415,
+   "end": 218688
+  },
+  {
+   "text": "Flour",
+   "start": 219297,
+   "end": 219699
+  },
+  {
+   "text": "turning",
+   "start": 219699,
+   "end": 220068
+  },
+  {
+   "text": "into",
+   "start": 220100,
+   "end": 220308
+  },
+  {
+   "text": "a",
+   "start": 220405,
+   "end": 220501
+  },
+  {
+   "text": "brick",
+   "start": 220501,
+   "end": 220886
+  },
+  {
+   "text": "at",
+   "start": 220918,
+   "end": 220998
+  },
+  {
+   "text": "the",
+   "start": 220998,
+   "end": 221079
+  },
+  {
+   "text": "bottom",
+   "start": 221143,
+   "end": 221432
+  },
+  {
+   "text": "of",
+   "start": 221464,
+   "end": 221560
+  },
+  {
+   "text": "the",
+   "start": 221560,
+   "end": 221688
+  },
+  {
+   "text": "bag.",
+   "start": 221688,
+   "end": 221993
+  },
+  {
+   "text": "Except",
+   "start": 222491,
+   "end": 222780
+  },
+  {
+   "text": "this",
+   "start": 222892,
+   "end": 223068
+  },
+  {
+   "text": "bag",
+   "start": 223068,
+   "end": 223389
+  },
+  {
+   "text": "is",
+   "start": 223389,
+   "end": 223437
+  },
+  {
+   "text": "sealed",
+   "start": 223486,
+   "end": 223855
+  },
+  {
+   "text": "under",
+   "start": 223855,
+   "end": 224031
+  },
+  {
+   "text": "pressure,",
+   "start": 224031,
+   "end": 224480
+  },
+  {
+   "text": "you",
+   "start": 224817,
+   "end": 224914
+  },
+  {
+   "text": "can't",
+   "start": 224914,
+   "end": 225154
+  },
+  {
+   "text": "see",
+   "start": 225154,
+   "end": 225395
+  },
+  {
+   "text": "inside",
+   "start": 225395,
+   "end": 225941
+  },
+  {
+   "text": "it,",
+   "start": 225941,
+   "end": 226005
+  },
+  {
+   "text": "and",
+   "start": 226438,
+   "end": 226502
+  },
+  {
+   "text": "the",
+   "start": 226518,
+   "end": 226631
+  },
+  {
+   "text": "outside",
+   "start": 226679,
+   "end": 227289
+  },
+  {
+   "text": "gives",
+   "start": 227321,
+   "end": 227529
+  },
+  {
+   "text": "you",
+   "start": 227561,
+   "end": 227658
+  },
+  {
+   "text": "no",
+   "start": 227658,
+   "end": 227866
+  },
+  {
+   "text": "warning",
+   "start": 227946,
+   "end": 228155
+  },
+  {
+   "text": "at",
+   "start": 228203,
+   "end": 228348
+  },
+  {
+   "text": "all.",
+   "start": 228348,
+   "end": 228396
+  },
+  {
+   "text": "Here's",
+   "start": 228990,
+   "end": 229214
+  },
+  {
+   "text": "the",
+   "start": 229246,
+   "end": 229423
+  },
+  {
+   "text": "exact",
+   "start": 229423,
+   "end": 229984
+  },
+  {
+   "text": "mechanism,",
+   "start": 229984,
+   "end": 230530
+  },
+  {
+   "text": "and",
+   "start": 230931,
+   "end": 230995
+  },
+  {
+   "text": "it's",
+   "start": 231011,
+   "end": 231172
+  },
+  {
+   "text": "worth",
+   "start": 231236,
+   "end": 231461
+  },
+  {
+   "text": "understanding,",
+   "start": 231493,
+   "end": 232103
+  },
+  {
+   "text": "because",
+   "start": 232536,
+   "end": 232728
+  },
+  {
+   "text": "it",
+   "start": 232776,
+   "end": 232857
+  },
+  {
+   "text": "explains",
+   "start": 232857,
+   "end": 233466
+  },
+  {
+   "text": "why",
+   "start": 233483,
+   "end": 233579
+  },
+  {
+   "text": "the",
+   "start": 233659,
+   "end": 233803
+  },
+  {
+   "text": "gauge",
+   "start": 233803,
+   "end": 234028
+  },
+  {
+   "text": "lies",
+   "start": 234124,
+   "end": 234349
+  },
+  {
+   "text": "to",
+   "start": 234397,
+   "end": 234558
+  },
+  {
+   "text": "you.",
+   "start": 234606,
+   "end": 234654
+  },
+  {
+   "text": "When",
+   "start": 235183,
+   "end": 235296
+  },
+  {
+   "text": "the",
+   "start": 235328,
+   "end": 235424
+  },
+  {
+   "text": "powder",
+   "start": 235424,
+   "end": 235825
+  },
+  {
+   "text": "cakes",
+   "start": 235825,
+   "end": 236146
+  },
+  {
+   "text": "into",
+   "start": 236146,
+   "end": 236339
+  },
+  {
+   "text": "a",
+   "start": 236387,
+   "end": 236403
+  },
+  {
+   "text": "solid",
+   "start": 236403,
+   "end": 236916
+  },
+  {
+   "text": "mass,",
+   "start": 236949,
+   "end": 237237
+  },
+  {
+   "text": "the",
+   "start": 237671,
+   "end": 237767
+  },
+  {
+   "text": "gas",
+   "start": 237831,
+   "end": 238152
+  },
+  {
+   "text": "behind",
+   "start": 238152,
+   "end": 238569
+  },
+  {
+   "text": "it",
+   "start": 238617,
+   "end": 238698
+  },
+  {
+   "text": "can",
+   "start": 238698,
+   "end": 238778
+  },
+  {
+   "text": "still",
+   "start": 238858,
+   "end": 239147
+  },
+  {
+   "text": "read",
+   "start": 239275,
+   "end": 239564
+  },
+  {
+   "text": "full",
+   "start": 239596,
+   "end": 239901
+  },
+  {
+   "text": "pressure,",
+   "start": 239901,
+   "end": 240302
+  },
+  {
+   "text": "since",
+   "start": 240736,
+   "end": 241024
+  },
+  {
+   "text": "gas",
+   "start": 241040,
+   "end": 241345
+  },
+  {
+   "text": "compresses",
+   "start": 241345,
+   "end": 241923
+  },
+  {
+   "text": "fine,",
+   "start": 242003,
+   "end": 242292
+  },
+  {
+   "text": "it's",
+   "start": 242806,
+   "end": 242886
+  },
+  {
+   "text": "the",
+   "start": 242886,
+   "end": 243046
+  },
+  {
+   "text": "powder",
+   "start": 243046,
+   "end": 243415
+  },
+  {
+   "text": "that's",
+   "start": 243512,
+   "end": 243688
+  },
+  {
+   "text": "the",
+   "start": 243688,
+   "end": 243833
+  },
+  {
+   "text": "actual",
+   "start": 243913,
+   "end": 244153
+  },
+  {
+   "text": "problem.",
+   "start": 244250,
+   "end": 244587
+  },
+  {
+   "text": "The",
+   "start": 245036,
+   "end": 245100
+  },
+  {
+   "text": "gas",
+   "start": 245132,
+   "end": 245533
+  },
+  {
+   "text": "ends",
+   "start": 245533,
+   "end": 245661
+  },
+  {
+   "text": "up",
+   "start": 245693,
+   "end": 245854
+  },
+  {
+   "text": "pushing",
+   "start": 245918,
+   "end": 246223
+  },
+  {
+   "text": "against",
+   "start": 246319,
+   "end": 246607
+  },
+  {
+   "text": "a",
+   "start": 246656,
+   "end": 246672
+  },
+  {
+   "text": "solid",
+   "start": 246720,
+   "end": 247185
+  },
+  {
+   "text": "block",
+   "start": 247217,
+   "end": 247618
+  },
+  {
+   "text": "instead",
+   "start": 247618,
+   "end": 248099
+  },
+  {
+   "text": "of",
+   "start": 248099,
+   "end": 248179
+  },
+  {
+   "text": "a",
+   "start": 248179,
+   "end": 248259
+  },
+  {
+   "text": "free-flowing",
+   "start": 248259,
+   "end": 248869
+  },
+  {
+   "text": "powder,",
+   "start": 248981,
+   "end": 249350
+  },
+  {
+   "text": "and",
+   "start": 249703,
+   "end": 249767
+  },
+  {
+   "text": "nothing",
+   "start": 249863,
+   "end": 250087
+  },
+  {
+   "text": "comes",
+   "start": 250168,
+   "end": 250424
+  },
+  {
+   "text": "out",
+   "start": 250488,
+   "end": 250585
+  },
+  {
+   "text": "the",
+   "start": 250585,
+   "end": 250633
+  },
+  {
+   "text": "way",
+   "start": 250665,
+   "end": 250745
+  },
+  {
+   "text": "it's",
+   "start": 250889,
+   "end": 250969
+  },
+  {
+   "text": "supposed",
+   "start": 250969,
+   "end": 251402
+  },
+  {
+   "text": "to.",
+   "start": 251402,
+   "end": 251547
+  },
+  {
+   "text": "So",
+   "start": 252044,
+   "end": 252236
+  },
+  {
+   "text": "the",
+   "start": 252252,
+   "end": 252349
+  },
+  {
+   "text": "exact",
+   "start": 252349,
+   "end": 252814
+  },
+  {
+   "text": "thing",
+   "start": 252814,
+   "end": 252958
+  },
+  {
+   "text": "you're",
+   "start": 253054,
+   "end": 253150
+  },
+  {
+   "text": "trained",
+   "start": 253150,
+   "end": 253535
+  },
+  {
+   "text": "to",
+   "start": 253535,
+   "end": 253632
+  },
+  {
+   "text": "check,",
+   "start": 253632,
+   "end": 254016
+  },
+  {
+   "text": "that",
+   "start": 254353,
+   "end": 254530
+  },
+  {
+   "text": "little",
+   "start": 254594,
+   "end": 254818
+  },
+  {
+   "text": "needle",
+   "start": 254818,
+   "end": 255171
+  },
+  {
+   "text": "sitting",
+   "start": 255171,
+   "end": 255524
+  },
+  {
+   "text": "in",
+   "start": 255556,
+   "end": 255636
+  },
+  {
+   "text": "the",
+   "start": 255636,
+   "end": 255716
+  },
+  {
+   "text": "green",
+   "start": 255716,
+   "end": 255925
+  },
+  {
+   "text": "zone,",
+   "start": 256021,
+   "end": 256326
+  },
+  {
+   "text": "is",
+   "start": 256823,
+   "end": 256887
+  },
+  {
+   "text": "only",
+   "start": 257063,
+   "end": 257208
+  },
+  {
+   "text": "checking",
+   "start": 257304,
+   "end": 257657
+  },
+  {
+   "text": "half",
+   "start": 257721,
+   "end": 257913
+  },
+  {
+   "text": "the",
+   "start": 258026,
+   "end": 258122
+  },
+  {
+   "text": "problem.",
+   "start": 258122,
+   "end": 258507
+  },
+  {
+   "text": "It",
+   "start": 258988,
+   "end": 259020
+  },
+  {
+   "text": "confirms",
+   "start": 259020,
+   "end": 259485
+  },
+  {
+   "text": "there's",
+   "start": 259485,
+   "end": 259726
+  },
+  {
+   "text": "gas.",
+   "start": 259726,
+   "end": 260126
+  },
+  {
+   "text": "It",
+   "start": 260672,
+   "end": 260752
+  },
+  {
+   "text": "says",
+   "start": 260752,
+   "end": 260976
+  },
+  {
+   "text": "nothing",
+   "start": 261008,
+   "end": 261297
+  },
+  {
+   "text": "about",
+   "start": 261313,
+   "end": 261570
+  },
+  {
+   "text": "the",
+   "start": 261570,
+   "end": 261650
+  },
+  {
+   "text": "powder.",
+   "start": 261650,
+   "end": 261987
+  },
+  {
+   "text": "That's",
+   "start": 262516,
+   "end": 262692
+  },
+  {
+   "text": "the",
+   "start": 262692,
+   "end": 262772
+  },
+  {
+   "text": "myth,",
+   "start": 262772,
+   "end": 263061
+  },
+  {
+   "text": "right",
+   "start": 263398,
+   "end": 263638
+  },
+  {
+   "text": "there.",
+   "start": 263638,
+   "end": 263751
+  },
+  {
+   "text": "A",
+   "start": 264312,
+   "end": 264328
+  },
+  {
+   "text": "green",
+   "start": 264440,
+   "end": 264665
+  },
+  {
+   "text": "gauge",
+   "start": 264777,
+   "end": 265146
+  },
+  {
+   "text": "does",
+   "start": 265178,
+   "end": 265306
+  },
+  {
+   "text": "not",
+   "start": 265354,
+   "end": 265595
+  },
+  {
+   "text": "mean",
+   "start": 265675,
+   "end": 265948
+  },
+  {
+   "text": "a",
+   "start": 266124,
+   "end": 266268
+  },
+  {
+   "text": "working",
+   "start": 266285,
+   "end": 266525
+  },
+  {
+   "text": "extinguisher.",
+   "start": 266605,
+   "end": 267263
+  },
+  {
+   "text": "It",
+   "start": 267824,
+   "end": 267856
+  },
+  {
+   "text": "means",
+   "start": 267856,
+   "end": 268033
+  },
+  {
+   "text": "a",
+   "start": 268081,
+   "end": 268097
+  },
+  {
+   "text": "pressurized",
+   "start": 268145,
+   "end": 268770
+  },
+  {
+   "text": "can.",
+   "start": 268770,
+   "end": 268899
+  },
+  {
+   "text": "Those",
+   "start": 269492,
+   "end": 269636
+  },
+  {
+   "text": "are",
+   "start": 269684,
+   "end": 269748
+  },
+  {
+   "text": "not",
+   "start": 269748,
+   "end": 269941
+  },
+  {
+   "text": "the",
+   "start": 269989,
+   "end": 270069
+  },
+  {
+   "text": "same",
+   "start": 270069,
+   "end": 270310
+  },
+  {
+   "text": "promise.",
+   "start": 270310,
+   "end": 270695
+  },
+  {
+   "text": "So",
+   "start": 271256,
+   "end": 271417
+  },
+  {
+   "text": "how",
+   "start": 271417,
+   "end": 271513
+  },
+  {
+   "text": "do",
+   "start": 271513,
+   "end": 271609
+  },
+  {
+   "text": "you",
+   "start": 271609,
+   "end": 271738
+  },
+  {
+   "text": "actually",
+   "start": 271818,
+   "end": 272123
+  },
+  {
+   "text": "check",
+   "start": 272155,
+   "end": 272396
+  },
+  {
+   "text": "the",
+   "start": 272412,
+   "end": 272557
+  },
+  {
+   "text": "powder",
+   "start": 272557,
+   "end": 272814
+  },
+  {
+   "text": "side,",
+   "start": 272814,
+   "end": 273247
+  },
+  {
+   "text": "not",
+   "start": 273600,
+   "end": 273841
+  },
+  {
+   "text": "just",
+   "start": 273841,
+   "end": 274002
+  },
+  {
+   "text": "the",
+   "start": 274002,
+   "end": 274082
+  },
+  {
+   "text": "gas",
+   "start": 274082,
+   "end": 274323
+  },
+  {
+   "text": "side?",
+   "start": 274323,
+   "end": 274660
+  },
+  {
+   "text": "Fire",
+   "start": 275206,
+   "end": 275399
+  },
+  {
+   "text": "safety",
+   "start": 275463,
+   "end": 275848
+  },
+  {
+   "text": "standards",
+   "start": 275848,
+   "end": 276410
+  },
+  {
+   "text": "have",
+   "start": 276410,
+   "end": 276587
+  },
+  {
+   "text": "a",
+   "start": 276587,
+   "end": 276651
+  },
+  {
+   "text": "straightforward",
+   "start": 276651,
+   "end": 277374
+  },
+  {
+   "text": "answer,",
+   "start": 277374,
+   "end": 277743
+  },
+  {
+   "text": "and",
+   "start": 278177,
+   "end": 278241
+  },
+  {
+   "text": "it",
+   "start": 278257,
+   "end": 278337
+  },
+  {
+   "text": "takes",
+   "start": 278337,
+   "end": 278658
+  },
+  {
+   "text": "about",
+   "start": 278658,
+   "end": 278835
+  },
+  {
+   "text": "thirty",
+   "start": 278835,
+   "end": 279220
+  },
+  {
+   "text": "seconds.",
+   "start": 279220,
+   "end": 279670
+  },
+  {
+   "text": "Turn",
+   "start": 280328,
+   "end": 280537
+  },
+  {
+   "text": "the",
+   "start": 280585,
+   "end": 280746
+  },
+  {
+   "text": "extinguisher",
+   "start": 280746,
+   "end": 281452
+  },
+  {
+   "text": "upside",
+   "start": 281532,
+   "end": 281950
+  },
+  {
+   "text": "down,",
+   "start": 281950,
+   "end": 282239
+  },
+  {
+   "text": "or",
+   "start": 282688,
+   "end": 282753
+  },
+  {
+   "text": "tip",
+   "start": 282817,
+   "end": 283010
+  },
+  {
+   "text": "it",
+   "start": 283010,
+   "end": 283122
+  },
+  {
+   "text": "firmly",
+   "start": 283138,
+   "end": 283523
+  },
+  {
+   "text": "side",
+   "start": 283555,
+   "end": 283877
+  },
+  {
+   "text": "to",
+   "start": 283877,
+   "end": 283957
+  },
+  {
+   "text": "side,",
+   "start": 283957,
+   "end": 284406
+  },
+  {
+   "text": "once",
+   "start": 284760,
+   "end": 284936
+  },
+  {
+   "text": "a",
+   "start": 285001,
+   "end": 285017
+  },
+  {
+   "text": "month.",
+   "start": 285017,
+   "end": 285306
+  },
+  {
+   "text": "You",
+   "start": 285884,
+   "end": 285964
+  },
+  {
+   "text": "should",
+   "start": 285964,
+   "end": 286173
+  },
+  {
+   "text": "feel",
+   "start": 286205,
+   "end": 286478
+  },
+  {
+   "text": "and",
+   "start": 286687,
+   "end": 286751
+  },
+  {
+   "text": "hear",
+   "start": 286831,
+   "end": 287040
+  },
+  {
+   "text": "the",
+   "start": 287088,
+   "end": 287168
+  },
+  {
+   "text": "powder",
+   "start": 287232,
+   "end": 287650
+  },
+  {
+   "text": "moving",
+   "start": 287650,
+   "end": 288100
+  },
+  {
+   "text": "loosely",
+   "start": 288292,
+   "end": 288742
+  },
+  {
+   "text": "inside,",
+   "start": 288774,
+   "end": 289384
+  },
+  {
+   "text": "like",
+   "start": 289721,
+   "end": 289834
+  },
+  {
+   "text": "a",
+   "start": 289834,
+   "end": 289898
+  },
+  {
+   "text": "bag",
+   "start": 289898,
+   "end": 290203
+  },
+  {
+   "text": "of",
+   "start": 290219,
+   "end": 290299
+  },
+  {
+   "text": "sugar.",
+   "start": 290299,
+   "end": 290636
+  },
+  {
+   "text": "If",
+   "start": 291247,
+   "end": 291295
+  },
+  {
+   "text": "it",
+   "start": 291343,
+   "end": 291423
+  },
+  {
+   "text": "feels",
+   "start": 291423,
+   "end": 291712
+  },
+  {
+   "text": "solid,",
+   "start": 291728,
+   "end": 292194
+  },
+  {
+   "text": "or",
+   "start": 292547,
+   "end": 292611
+  },
+  {
+   "text": "you",
+   "start": 292611,
+   "end": 292772
+  },
+  {
+   "text": "don't",
+   "start": 292772,
+   "end": 292933
+  },
+  {
+   "text": "feel",
+   "start": 293029,
+   "end": 293302
+  },
+  {
+   "text": "or",
+   "start": 293591,
+   "end": 293639
+  },
+  {
+   "text": "hear",
+   "start": 293671,
+   "end": 293864
+  },
+  {
+   "text": "any",
+   "start": 294073,
+   "end": 294201
+  },
+  {
+   "text": "movement",
+   "start": 294249,
+   "end": 294699
+  },
+  {
+   "text": "at",
+   "start": 294699,
+   "end": 294795
+  },
+  {
+   "text": "all,",
+   "start": 294859,
+   "end": 294908
+  },
+  {
+   "text": "that's",
+   "start": 295518,
+   "end": 295678
+  },
+  {
+   "text": "your",
+   "start": 295678,
+   "end": 295791
+  },
+  {
+   "text": "answer.",
+   "start": 295823,
+   "end": 296144
+  },
+  {
+   "text": "That",
+   "start": 296610,
+   "end": 296738
+  },
+  {
+   "text": "unit",
+   "start": 296786,
+   "end": 297075
+  },
+  {
+   "text": "needs",
+   "start": 297123,
+   "end": 297379
+  },
+  {
+   "text": "replacing",
+   "start": 297444,
+   "end": 298053
+  },
+  {
+   "text": "or",
+   "start": 298310,
+   "end": 298390
+  },
+  {
+   "text": "professional",
+   "start": 298390,
+   "end": 298999
+  },
+  {
+   "text": "recharging,",
+   "start": 299048,
+   "end": 299657
+  },
+  {
+   "text": "gauge",
+   "start": 300090,
+   "end": 300299
+  },
+  {
+   "text": "reading",
+   "start": 300411,
+   "end": 300700
+  },
+  {
+   "text": "or",
+   "start": 300908,
+   "end": 300972
+  },
+  {
+   "text": "not.",
+   "start": 300972,
+   "end": 301309
+  },
+  {
+   "text": "If",
+   "start": 301871,
+   "end": 302015
+  },
+  {
+   "text": "nobody",
+   "start": 302015,
+   "end": 302384
+  },
+  {
+   "text": "ever",
+   "start": 302496,
+   "end": 302737
+  },
+  {
+   "text": "told",
+   "start": 302737,
+   "end": 303042
+  },
+  {
+   "text": "you",
+   "start": 303042,
+   "end": 303138
+  },
+  {
+   "text": "that",
+   "start": 303138,
+   "end": 303378
+  },
+  {
+   "text": "before,",
+   "start": 303378,
+   "end": 303731
+  },
+  {
+   "text": "you're",
+   "start": 304164,
+   "end": 304277
+  },
+  {
+   "text": "not",
+   "start": 304277,
+   "end": 304517
+  },
+  {
+   "text": "alone,",
+   "start": 304517,
+   "end": 304790
+  },
+  {
+   "text": "and",
+   "start": 305383,
+   "end": 305448
+  },
+  {
+   "text": "that's",
+   "start": 305464,
+   "end": 305656
+  },
+  {
+   "text": "exactly",
+   "start": 305704,
+   "end": 306314
+  },
+  {
+   "text": "why",
+   "start": 306346,
+   "end": 306506
+  },
+  {
+   "text": "this",
+   "start": 306586,
+   "end": 306747
+  },
+  {
+   "text": "channel",
+   "start": 306747,
+   "end": 307068
+  },
+  {
+   "text": "exists.",
+   "start": 307068,
+   "end": 307629
+  },
+  {
+   "text": "Old,",
+   "start": 308174,
+   "end": 308399
+  },
+  {
+   "text": "simple",
+   "start": 308752,
+   "end": 309089
+  },
+  {
+   "text": "things",
+   "start": 309089,
+   "end": 309442
+  },
+  {
+   "text": "that",
+   "start": 309474,
+   "end": 309682
+  },
+  {
+   "text": "need",
+   "start": 309714,
+   "end": 309923
+  },
+  {
+   "text": "one",
+   "start": 310019,
+   "end": 310147
+  },
+  {
+   "text": "honest",
+   "start": 310420,
+   "end": 310693
+  },
+  {
+   "text": "explanation.",
+   "start": 310693,
+   "end": 311366
+  },
+  {
+   "text": "Subscribe",
+   "start": 311880,
+   "end": 312425
+  },
+  {
+   "text": "if",
+   "start": 312425,
+   "end": 312521
+  },
+  {
+   "text": "you",
+   "start": 312521,
+   "end": 312601
+  },
+  {
+   "text": "want",
+   "start": 312601,
+   "end": 312762
+  },
+  {
+   "text": "the",
+   "start": 312762,
+   "end": 312842
+  },
+  {
+   "text": "next",
+   "start": 312842,
+   "end": 313115
+  },
+  {
+   "text": "one.",
+   "start": 313147,
+   "end": 313275
+  },
+  {
+   "text": "That",
+   "start": 313788,
+   "end": 313917
+  },
+  {
+   "text": "thirty-second",
+   "start": 314125,
+   "end": 314719
+  },
+  {
+   "text": "shake",
+   "start": 314751,
+   "end": 315232
+  },
+  {
+   "text": "is",
+   "start": 315312,
+   "end": 315376
+  },
+  {
+   "text": "the",
+   "start": 315409,
+   "end": 315601
+  },
+  {
+   "text": "actual",
+   "start": 315713,
+   "end": 316034
+  },
+  {
+   "text": "fix",
+   "start": 316034,
+   "end": 316371
+  },
+  {
+   "text": "here,",
+   "start": 316371,
+   "end": 316483
+  },
+  {
+   "text": "and",
+   "start": 317013,
+   "end": 317077
+  },
+  {
+   "text": "it's",
+   "start": 317109,
+   "end": 317253
+  },
+  {
+   "text": "the",
+   "start": 317253,
+   "end": 317349
+  },
+  {
+   "text": "one",
+   "start": 317478,
+   "end": 317590
+  },
+  {
+   "text": "step",
+   "start": 317654,
+   "end": 318039
+  },
+  {
+   "text": "almost",
+   "start": 318199,
+   "end": 318600
+  },
+  {
+   "text": "nobody",
+   "start": 318600,
+   "end": 318985
+  },
+  {
+   "text": "does.",
+   "start": 319002,
+   "end": 319194
+  },
+  {
+   "text": "Not",
+   "start": 319884,
+   "end": 320044
+  },
+  {
+   "text": "because",
+   "start": 320044,
+   "end": 320301
+  },
+  {
+   "text": "it's",
+   "start": 320301,
+   "end": 320461
+  },
+  {
+   "text": "hard.",
+   "start": 320461,
+   "end": 320798
+  },
+  {
+   "text": "Because",
+   "start": 321263,
+   "end": 321552
+  },
+  {
+   "text": "nobody",
+   "start": 321648,
+   "end": 321953
+  },
+  {
+   "text": "ever",
+   "start": 322226,
+   "end": 322450
+  },
+  {
+   "text": "told",
+   "start": 322450,
+   "end": 322707
+  },
+  {
+   "text": "them",
+   "start": 322707,
+   "end": 322835
+  },
+  {
+   "text": "the",
+   "start": 322851,
+   "end": 322947
+  },
+  {
+   "text": "gauge",
+   "start": 322947,
+   "end": 323236
+  },
+  {
+   "text": "wasn't",
+   "start": 323348,
+   "end": 323589
+  },
+  {
+   "text": "the",
+   "start": 323589,
+   "end": 323733
+  },
+  {
+   "text": "whole",
+   "start": 323733,
+   "end": 323862
+  },
+  {
+   "text": "story.",
+   "start": 323910,
+   "end": 324279
+  },
+  {
+   "text": "While",
+   "start": 324776,
+   "end": 324936
+  },
+  {
+   "text": "you're",
+   "start": 324936,
+   "end": 325016
+  },
+  {
+   "text": "at",
+   "start": 325097,
+   "end": 325257
+  },
+  {
+   "text": "it,",
+   "start": 325257,
+   "end": 325321
+  },
+  {
+   "text": "do",
+   "start": 325738,
+   "end": 325850
+  },
+  {
+   "text": "the",
+   "start": 325850,
+   "end": 325962
+  },
+  {
+   "text": "rest",
+   "start": 325994,
+   "end": 326315
+  },
+  {
+   "text": "of",
+   "start": 326315,
+   "end": 326395
+  },
+  {
+   "text": "the",
+   "start": 326395,
+   "end": 326475
+  },
+  {
+   "text": "monthly",
+   "start": 326475,
+   "end": 326956
+  },
+  {
+   "text": "check",
+   "start": 326956,
+   "end": 327229
+  },
+  {
+   "text": "at",
+   "start": 327341,
+   "end": 327437
+  },
+  {
+   "text": "the",
+   "start": 327437,
+   "end": 327518
+  },
+  {
+   "text": "same",
+   "start": 327518,
+   "end": 327838
+  },
+  {
+   "text": "time,",
+   "start": 327838,
+   "end": 328239
+  },
+  {
+   "text": "since",
+   "start": 328640,
+   "end": 328864
+  },
+  {
+   "text": "you're",
+   "start": 328864,
+   "end": 328960
+  },
+  {
+   "text": "already",
+   "start": 329025,
+   "end": 329297
+  },
+  {
+   "text": "standing",
+   "start": 329297,
+   "end": 329730
+  },
+  {
+   "text": "there.",
+   "start": 329826,
+   "end": 329906
+  },
+  {
+   "text": "Look",
+   "start": 330548,
+   "end": 330660
+  },
+  {
+   "text": "at",
+   "start": 330660,
+   "end": 330740
+  },
+  {
+   "text": "the",
+   "start": 330740,
+   "end": 330868
+  },
+  {
+   "text": "pin,",
+   "start": 330868,
+   "end": 331093
+  },
+  {
+   "text": "make",
+   "start": 331590,
+   "end": 331766
+  },
+  {
+   "text": "sure",
+   "start": 331766,
+   "end": 331959
+  },
+  {
+   "text": "it's",
+   "start": 331991,
+   "end": 332119
+  },
+  {
+   "text": "still",
+   "start": 332231,
+   "end": 332376
+  },
+  {
+   "text": "seated",
+   "start": 332472,
+   "end": 332937
+  },
+  {
+   "text": "and",
+   "start": 333193,
+   "end": 333289
+  },
+  {
+   "text": "the",
+   "start": 333289,
+   "end": 333370
+  },
+  {
+   "text": "tamper",
+   "start": 333370,
+   "end": 333770
+  },
+  {
+   "text": "seal",
+   "start": 333770,
+   "end": 334171
+  },
+  {
+   "text": "is",
+   "start": 334171,
+   "end": 334219
+  },
+  {
+   "text": "intact.",
+   "start": 334251,
+   "end": 334732
+  },
+  {
+   "text": "Check",
+   "start": 335294,
+   "end": 335470
+  },
+  {
+   "text": "that",
+   "start": 335534,
+   "end": 335678
+  },
+  {
+   "text": "the",
+   "start": 335678,
+   "end": 335742
+  },
+  {
+   "text": "gauge",
+   "start": 335775,
+   "end": 336143
+  },
+  {
+   "text": "sits",
+   "start": 336175,
+   "end": 336528
+  },
+  {
+   "text": "in",
+   "start": 336576,
+   "end": 336624
+  },
+  {
+   "text": "the",
+   "start": 336656,
+   "end": 336801
+  },
+  {
+   "text": "green",
+   "start": 336801,
+   "end": 337041
+  },
+  {
+   "text": "range.",
+   "start": 337121,
+   "end": 337506
+  },
+  {
+   "text": "Look",
+   "start": 338083,
+   "end": 338196
+  },
+  {
+   "text": "the",
+   "start": 338244,
+   "end": 338308
+  },
+  {
+   "text": "canister",
+   "start": 338340,
+   "end": 338885
+  },
+  {
+   "text": "over",
+   "start": 338965,
+   "end": 339141
+  },
+  {
+   "text": "for",
+   "start": 339141,
+   "end": 339382
+  },
+  {
+   "text": "dents,",
+   "start": 339382,
+   "end": 339783
+  },
+  {
+   "text": "rust,",
+   "start": 340264,
+   "end": 340665
+  },
+  {
+   "text": "or",
+   "start": 341065,
+   "end": 341130
+  },
+  {
+   "text": "corrosion.",
+   "start": 341130,
+   "end": 341595
+  },
+  {
+   "text": "All",
+   "start": 342172,
+   "end": 342220
+  },
+  {
+   "text": "of",
+   "start": 342268,
+   "end": 342348
+  },
+  {
+   "text": "that",
+   "start": 342348,
+   "end": 342573
+  },
+  {
+   "text": "together",
+   "start": 342573,
+   "end": 342877
+  },
+  {
+   "text": "takes",
+   "start": 342909,
+   "end": 343246
+  },
+  {
+   "text": "maybe",
+   "start": 343294,
+   "end": 343631
+  },
+  {
+   "text": "two",
+   "start": 343631,
+   "end": 343759
+  },
+  {
+   "text": "minutes,",
+   "start": 343791,
+   "end": 344160
+  },
+  {
+   "text": "once",
+   "start": 344593,
+   "end": 344817
+  },
+  {
+   "text": "a",
+   "start": 344817,
+   "end": 344833
+  },
+  {
+   "text": "month.",
+   "start": 344833,
+   "end": 345138
+  },
+  {
+   "text": "Put",
+   "start": 345715,
+   "end": 345859
+  },
+  {
+   "text": "it",
+   "start": 345859,
+   "end": 345940
+  },
+  {
+   "text": "on",
+   "start": 345940,
+   "end": 346004
+  },
+  {
+   "text": "your",
+   "start": 346020,
+   "end": 346116
+  },
+  {
+   "text": "phone",
+   "start": 346116,
+   "end": 346404
+  },
+  {
+   "text": "calendar",
+   "start": 346437,
+   "end": 346918
+  },
+  {
+   "text": "right",
+   "start": 346918,
+   "end": 347142
+  },
+  {
+   "text": "now",
+   "start": 347158,
+   "end": 347270
+  },
+  {
+   "text": "if",
+   "start": 347382,
+   "end": 347543
+  },
+  {
+   "text": "you",
+   "start": 347543,
+   "end": 347607
+  },
+  {
+   "text": "have",
+   "start": 347623,
+   "end": 347847
+  },
+  {
+   "text": "to.",
+   "start": 347879,
+   "end": 347976
+  },
+  {
+   "text": "The",
+   "start": 348505,
+   "end": 348585
+  },
+  {
+   "text": "same",
+   "start": 348585,
+   "end": 348809
+  },
+  {
+   "text": "day",
+   "start": 348906,
+   "end": 349082
+  },
+  {
+   "text": "you",
+   "start": 349082,
+   "end": 349162
+  },
+  {
+   "text": "check",
+   "start": 349162,
+   "end": 349419
+  },
+  {
+   "text": "your",
+   "start": 349467,
+   "end": 349579
+  },
+  {
+   "text": "smoke",
+   "start": 349579,
+   "end": 349948
+  },
+  {
+   "text": "detector",
+   "start": 349948,
+   "end": 350365
+  },
+  {
+   "text": "batteries",
+   "start": 350365,
+   "end": 350814
+  },
+  {
+   "text": "is",
+   "start": 351150,
+   "end": 351214
+  },
+  {
+   "text": "a",
+   "start": 351262,
+   "end": 351279
+  },
+  {
+   "text": "good",
+   "start": 351407,
+   "end": 351647
+  },
+  {
+   "text": "day",
+   "start": 351647,
+   "end": 351840
+  },
+  {
+   "text": "to",
+   "start": 351952,
+   "end": 352016
+  },
+  {
+   "text": "shake",
+   "start": 352048,
+   "end": 352369
+  },
+  {
+   "text": "the",
+   "start": 352433,
+   "end": 352593
+  },
+  {
+   "text": "extinguisher",
+   "start": 352593,
+   "end": 353170
+  },
+  {
+   "text": "too.",
+   "start": 353170,
+   "end": 353491
+  },
+  {
+   "text": "Pair",
+   "start": 353812,
+   "end": 354053
+  },
+  {
+   "text": "the",
+   "start": 354053,
+   "end": 354133
+  },
+  {
+   "text": "two",
+   "start": 354133,
+   "end": 354422
+  },
+  {
+   "text": "habits",
+   "start": 354438,
+   "end": 354936
+  },
+  {
+   "text": "and",
+   "start": 355161,
+   "end": 355241
+  },
+  {
+   "text": "neither",
+   "start": 355257,
+   "end": 355626
+  },
+  {
+   "text": "one",
+   "start": 355642,
+   "end": 355883
+  },
+  {
+   "text": "gets",
+   "start": 355899,
+   "end": 356140
+  },
+  {
+   "text": "forgotten.",
+   "start": 356140,
+   "end": 356509
+  },
+  {
+   "text": "Beyond",
+   "start": 357103,
+   "end": 357569
+  },
+  {
+   "text": "the",
+   "start": 357569,
+   "end": 357633
+  },
+  {
+   "text": "monthly",
+   "start": 357649,
+   "end": 358147
+  },
+  {
+   "text": "check",
+   "start": 358147,
+   "end": 358532
+  },
+  {
+   "text": "you",
+   "start": 358532,
+   "end": 358629
+  },
+  {
+   "text": "do",
+   "start": 358629,
+   "end": 358773
+  },
+  {
+   "text": "yourself,",
+   "start": 358773,
+   "end": 359431
+  },
+  {
+   "text": "fire",
+   "start": 359737,
+   "end": 359929
+  },
+  {
+   "text": "safety",
+   "start": 359993,
+   "end": 360379
+  },
+  {
+   "text": "guidance",
+   "start": 360395,
+   "end": 360860
+  },
+  {
+   "text": "also",
+   "start": 360941,
+   "end": 361262
+  },
+  {
+   "text": "calls",
+   "start": 361278,
+   "end": 361567
+  },
+  {
+   "text": "for",
+   "start": 361599,
+   "end": 361727
+  },
+  {
+   "text": "an",
+   "start": 361760,
+   "end": 361888
+  },
+  {
+   "text": "annual",
+   "start": 361984,
+   "end": 362209
+  },
+  {
+   "text": "inspection",
+   "start": 362305,
+   "end": 362851
+  },
+  {
+   "text": "by",
+   "start": 362948,
+   "end": 363044
+  },
+  {
+   "text": "a",
+   "start": 363044,
+   "end": 363076
+  },
+  {
+   "text": "certified",
+   "start": 363124,
+   "end": 363767
+  },
+  {
+   "text": "professional,",
+   "start": 363767,
+   "end": 364457
+  },
+  {
+   "text": "and",
+   "start": 364810,
+   "end": 364874
+  },
+  {
+   "text": "a",
+   "start": 364955,
+   "end": 364971
+  },
+  {
+   "text": "full",
+   "start": 364971,
+   "end": 365292
+  },
+  {
+   "text": "internal",
+   "start": 365292,
+   "end": 365757
+  },
+  {
+   "text": "inspection",
+   "start": 365757,
+   "end": 366303
+  },
+  {
+   "text": "and",
+   "start": 366560,
+   "end": 366641
+  },
+  {
+   "text": "recharge",
+   "start": 366737,
+   "end": 367299
+  },
+  {
+   "text": "around",
+   "start": 367299,
+   "end": 367540
+  },
+  {
+   "text": "the",
+   "start": 367540,
+   "end": 367620
+  },
+  {
+   "text": "six-year",
+   "start": 367620,
+   "end": 368150
+  },
+  {
+   "text": "mark",
+   "start": 368150,
+   "end": 368583
+  },
+  {
+   "text": "for",
+   "start": 368583,
+   "end": 368680
+  },
+  {
+   "text": "most",
+   "start": 368680,
+   "end": 369017
+  },
+  {
+   "text": "home",
+   "start": 369065,
+   "end": 369290
+  },
+  {
+   "text": "units.",
+   "start": 369290,
+   "end": 369611
+  },
+  {
+   "text": "Most",
+   "start": 370189,
+   "end": 370430
+  },
+  {
+   "text": "people",
+   "start": 370430,
+   "end": 370767
+  },
+  {
+   "text": "have",
+   "start": 370767,
+   "end": 370960
+  },
+  {
+   "text": "never",
+   "start": 370992,
+   "end": 371361
+  },
+  {
+   "text": "had",
+   "start": 371377,
+   "end": 371538
+  },
+  {
+   "text": "either",
+   "start": 371778,
+   "end": 372003
+  },
+  {
+   "text": "one",
+   "start": 372035,
+   "end": 372164
+  },
+  {
+   "text": "done,",
+   "start": 372276,
+   "end": 372549
+  },
+  {
+   "text": "on",
+   "start": 372999,
+   "end": 373079
+  },
+  {
+   "text": "an",
+   "start": 373079,
+   "end": 373127
+  },
+  {
+   "text": "extinguisher",
+   "start": 373159,
+   "end": 373850
+  },
+  {
+   "text": "they've",
+   "start": 373866,
+   "end": 374107
+  },
+  {
+   "text": "owned",
+   "start": 374107,
+   "end": 374347
+  },
+  {
+   "text": "for",
+   "start": 374347,
+   "end": 374460
+  },
+  {
+   "text": "a",
+   "start": 374460,
+   "end": 374604
+  },
+  {
+   "text": "decade",
+   "start": 374604,
+   "end": 375054
+  },
+  {
+   "text": "or",
+   "start": 375182,
+   "end": 375246
+  },
+  {
+   "text": "more.",
+   "start": 375246,
+   "end": 375519
+  },
+  {
+   "text": "If",
+   "start": 376146,
+   "end": 376274
+  },
+  {
+   "text": "you",
+   "start": 376274,
+   "end": 376370
+  },
+  {
+   "text": "don't",
+   "start": 376370,
+   "end": 376563
+  },
+  {
+   "text": "know",
+   "start": 376563,
+   "end": 376740
+  },
+  {
+   "text": "how",
+   "start": 376756,
+   "end": 376868
+  },
+  {
+   "text": "old",
+   "start": 376997,
+   "end": 377173
+  },
+  {
+   "text": "yours",
+   "start": 377173,
+   "end": 377382
+  },
+  {
+   "text": "is,",
+   "start": 377478,
+   "end": 377623
+  },
+  {
+   "text": "check",
+   "start": 378040,
+   "end": 378153
+  },
+  {
+   "text": "the",
+   "start": 378217,
+   "end": 378281
+  },
+  {
+   "text": "manufacture",
+   "start": 378281,
+   "end": 379020
+  },
+  {
+   "text": "date",
+   "start": 379020,
+   "end": 379244
+  },
+  {
+   "text": "stamped",
+   "start": 379244,
+   "end": 379822
+  },
+  {
+   "text": "or",
+   "start": 379822,
+   "end": 379903
+  },
+  {
+   "text": "printed",
+   "start": 379903,
+   "end": 380288
+  },
+  {
+   "text": "on",
+   "start": 380288,
+   "end": 380336
+  },
+  {
+   "text": "the",
+   "start": 380384,
+   "end": 380545
+  },
+  {
+   "text": "bottom",
+   "start": 380545,
+   "end": 380962
+  },
+  {
+   "text": "or",
+   "start": 381107,
+   "end": 381155
+  },
+  {
+   "text": "side",
+   "start": 381187,
+   "end": 381572
+  },
+  {
+   "text": "of",
+   "start": 381572,
+   "end": 381653
+  },
+  {
+   "text": "the",
+   "start": 381653,
+   "end": 381733
+  },
+  {
+   "text": "canister.",
+   "start": 381733,
+   "end": 382167
+  },
+  {
+   "text": "If",
+   "start": 382648,
+   "end": 382777
+  },
+  {
+   "text": "you",
+   "start": 382777,
+   "end": 382873
+  },
+  {
+   "text": "can't",
+   "start": 382873,
+   "end": 383162
+  },
+  {
+   "text": "find",
+   "start": 383179,
+   "end": 383403
+  },
+  {
+   "text": "a",
+   "start": 383436,
+   "end": 383452
+  },
+  {
+   "text": "date",
+   "start": 383452,
+   "end": 383757
+  },
+  {
+   "text": "at",
+   "start": 383757,
+   "end": 383902
+  },
+  {
+   "text": "all,",
+   "start": 383902,
+   "end": 383950
+  },
+  {
+   "text": "or",
+   "start": 384560,
+   "end": 384641
+  },
+  {
+   "text": "it's",
+   "start": 384641,
+   "end": 384801
+  },
+  {
+   "text": "been",
+   "start": 384801,
+   "end": 384962
+  },
+  {
+   "text": "more",
+   "start": 384962,
+   "end": 385155
+  },
+  {
+   "text": "than",
+   "start": 385203,
+   "end": 385315
+  },
+  {
+   "text": "six",
+   "start": 385364,
+   "end": 385749
+  },
+  {
+   "text": "years",
+   "start": 385765,
+   "end": 386054
+  },
+  {
+   "text": "and",
+   "start": 386328,
+   "end": 386392
+  },
+  {
+   "text": "you've",
+   "start": 386472,
+   "end": 386649
+  },
+  {
+   "text": "never",
+   "start": 386649,
+   "end": 386970
+  },
+  {
+   "text": "had",
+   "start": 386970,
+   "end": 387147
+  },
+  {
+   "text": "it",
+   "start": 387147,
+   "end": 387275
+  },
+  {
+   "text": "serviced,",
+   "start": 387275,
+   "end": 387902
+  },
+  {
+   "text": "treat",
+   "start": 388239,
+   "end": 388480
+  },
+  {
+   "text": "it",
+   "start": 388480,
+   "end": 388577
+  },
+  {
+   "text": "as",
+   "start": 388577,
+   "end": 388641
+  },
+  {
+   "text": "due,",
+   "start": 388737,
+   "end": 388946
+  },
+  {
+   "text": "not",
+   "start": 389460,
+   "end": 389637
+  },
+  {
+   "text": "as",
+   "start": 389637,
+   "end": 389750
+  },
+  {
+   "text": "fine.",
+   "start": 389846,
+   "end": 389991
+  },
+  {
+   "text": "And",
+   "start": 390585,
+   "end": 390649
+  },
+  {
+   "text": "here's",
+   "start": 390665,
+   "end": 390874
+  },
+  {
+   "text": "the",
+   "start": 390922,
+   "end": 391051
+  },
+  {
+   "text": "part",
+   "start": 391051,
+   "end": 391324
+  },
+  {
+   "text": "that",
+   "start": 391372,
+   "end": 391469
+  },
+  {
+   "text": "should",
+   "start": 391469,
+   "end": 391678
+  },
+  {
+   "text": "make",
+   "start": 391710,
+   "end": 391935
+  },
+  {
+   "text": "this",
+   "start": 391951,
+   "end": 392063
+  },
+  {
+   "text": "an",
+   "start": 392192,
+   "end": 392320
+  },
+  {
+   "text": "easy",
+   "start": 392497,
+   "end": 392674
+  },
+  {
+   "text": "decision.",
+   "start": 392674,
+   "end": 393124
+  },
+  {
+   "text": "A",
+   "start": 393622,
+   "end": 393654
+  },
+  {
+   "text": "new",
+   "start": 393654,
+   "end": 393814
+  },
+  {
+   "text": "home",
+   "start": 393943,
+   "end": 394104
+  },
+  {
+   "text": "fire",
+   "start": 394184,
+   "end": 394521
+  },
+  {
+   "text": "extinguisher",
+   "start": 394521,
+   "end": 395244
+  },
+  {
+   "text": "costs",
+   "start": 395244,
+   "end": 395855
+  },
+  {
+   "text": "less",
+   "start": 395887,
+   "end": 396160
+  },
+  {
+   "text": "than",
+   "start": 396208,
+   "end": 396305
+  },
+  {
+   "text": "most",
+   "start": 396369,
+   "end": 396642
+  },
+  {
+   "text": "people",
+   "start": 396690,
+   "end": 396979
+  },
+  {
+   "text": "spend",
+   "start": 396996,
+   "end": 397317
+  },
+  {
+   "text": "on",
+   "start": 397317,
+   "end": 397494
+  },
+  {
+   "text": "takeout",
+   "start": 397494,
+   "end": 397927
+  },
+  {
+   "text": "in",
+   "start": 398056,
+   "end": 398104
+  },
+  {
+   "text": "a",
+   "start": 398136,
+   "end": 398281
+  },
+  {
+   "text": "week.",
+   "start": 398297,
+   "end": 398458
+  },
+  {
+   "text": "Replacing",
+   "start": 399084,
+   "end": 399550
+  },
+  {
+   "text": "one",
+   "start": 399663,
+   "end": 399855
+  },
+  {
+   "text": "that's",
+   "start": 399904,
+   "end": 400096
+  },
+  {
+   "text": "questionable",
+   "start": 400145,
+   "end": 400964
+  },
+  {
+   "text": "isn't",
+   "start": 401028,
+   "end": 401317
+  },
+  {
+   "text": "really",
+   "start": 401349,
+   "end": 401687
+  },
+  {
+   "text": "a",
+   "start": 401687,
+   "end": 401703
+  },
+  {
+   "text": "financial",
+   "start": 401751,
+   "end": 402265
+  },
+  {
+   "text": "decision.",
+   "start": 402297,
+   "end": 402683
+  },
+  {
+   "text": "It's",
+   "start": 403213,
+   "end": 403358
+  },
+  {
+   "text": "just",
+   "start": 403358,
+   "end": 403599
+  },
+  {
+   "text": "something",
+   "start": 403599,
+   "end": 403968
+  },
+  {
+   "text": "people",
+   "start": 404000,
+   "end": 404290
+  },
+  {
+   "text": "put",
+   "start": 404322,
+   "end": 404547
+  },
+  {
+   "text": "off,",
+   "start": 404547,
+   "end": 404900
+  },
+  {
+   "text": "because",
+   "start": 405205,
+   "end": 405495
+  },
+  {
+   "text": "nothing",
+   "start": 405543,
+   "end": 405896
+  },
+  {
+   "text": "ever",
+   "start": 406073,
+   "end": 406250
+  },
+  {
+   "text": "reminds",
+   "start": 406250,
+   "end": 406700
+  },
+  {
+   "text": "them",
+   "start": 406716,
+   "end": 406812
+  },
+  {
+   "text": "to",
+   "start": 406812,
+   "end": 406957
+  },
+  {
+   "text": "do",
+   "start": 406957,
+   "end": 407117
+  },
+  {
+   "text": "it.",
+   "start": 407133,
+   "end": 407182
+  },
+  {
+   "text": "Where",
+   "start": 407696,
+   "end": 407840
+  },
+  {
+   "text": "you",
+   "start": 407840,
+   "end": 407872
+  },
+  {
+   "text": "mount",
+   "start": 407872,
+   "end": 408162
+  },
+  {
+   "text": "it",
+   "start": 408162,
+   "end": 408210
+  },
+  {
+   "text": "matters",
+   "start": 408258,
+   "end": 408547
+  },
+  {
+   "text": "too.",
+   "start": 408660,
+   "end": 408981
+  },
+  {
+   "text": "Fire",
+   "start": 409302,
+   "end": 409494
+  },
+  {
+   "text": "safety",
+   "start": 409606,
+   "end": 409991
+  },
+  {
+   "text": "guidance",
+   "start": 410023,
+   "end": 410504
+  },
+  {
+   "text": "points",
+   "start": 410504,
+   "end": 410824
+  },
+  {
+   "text": "to",
+   "start": 410824,
+   "end": 410968
+  },
+  {
+   "text": "keeping",
+   "start": 410968,
+   "end": 411257
+  },
+  {
+   "text": "extinguishers",
+   "start": 411305,
+   "end": 412074
+  },
+  {
+   "text": "away",
+   "start": 412106,
+   "end": 412427
+  },
+  {
+   "text": "from",
+   "start": 412427,
+   "end": 412603
+  },
+  {
+   "text": "heat",
+   "start": 412667,
+   "end": 412923
+  },
+  {
+   "text": "sources",
+   "start": 412923,
+   "end": 413436
+  },
+  {
+   "text": "and",
+   "start": 413628,
+   "end": 413692
+  },
+  {
+   "text": "heavy",
+   "start": 413789,
+   "end": 414077
+  },
+  {
+   "text": "vibration",
+   "start": 414109,
+   "end": 414718
+  },
+  {
+   "text": "when",
+   "start": 414974,
+   "end": 415039
+  },
+  {
+   "text": "you",
+   "start": 415135,
+   "end": 415231
+  },
+  {
+   "text": "can,",
+   "start": 415231,
+   "end": 415519
+  },
+  {
+   "text": "which",
+   "start": 416032,
+   "end": 416160
+  },
+  {
+   "text": "rules",
+   "start": 416272,
+   "end": 416577
+  },
+  {
+   "text": "out",
+   "start": 416577,
+   "end": 416705
+  },
+  {
+   "text": "right",
+   "start": 416817,
+   "end": 416945
+  },
+  {
+   "text": "next",
+   "start": 417010,
+   "end": 417266
+  },
+  {
+   "text": "to",
+   "start": 417298,
+   "end": 417362
+  },
+  {
+   "text": "the",
+   "start": 417378,
+   "end": 417458
+  },
+  {
+   "text": "stove,",
+   "start": 417458,
+   "end": 417923
+  },
+  {
+   "text": "or",
+   "start": 418356,
+   "end": 418404
+  },
+  {
+   "text": "bolted",
+   "start": 418516,
+   "end": 418884
+  },
+  {
+   "text": "to",
+   "start": 418900,
+   "end": 419077
+  },
+  {
+   "text": "a",
+   "start": 419077,
+   "end": 419205
+  },
+  {
+   "text": "wall",
+   "start": 419237,
+   "end": 419365
+  },
+  {
+   "text": "shared",
+   "start": 419477,
+   "end": 419878
+  },
+  {
+   "text": "with",
+   "start": 419878,
+   "end": 419990
+  },
+  {
+   "text": "a",
+   "start": 420038,
+   "end": 420086
+  },
+  {
+   "text": "washing",
+   "start": 420118,
+   "end": 420487
+  },
+  {
+   "text": "machine.",
+   "start": 420519,
+   "end": 420727
+  },
+  {
+   "text": "Near",
+   "start": 421320,
+   "end": 421544
+  },
+  {
+   "text": "the",
+   "start": 421544,
+   "end": 421641
+  },
+  {
+   "text": "kitchen",
+   "start": 421641,
+   "end": 421929
+  },
+  {
+   "text": "exit,",
+   "start": 422025,
+   "end": 422410
+  },
+  {
+   "text": "but",
+   "start": 422762,
+   "end": 422858
+  },
+  {
+   "text": "not",
+   "start": 422907,
+   "end": 423035
+  },
+  {
+   "text": "touching",
+   "start": 423163,
+   "end": 423531
+  },
+  {
+   "text": "the",
+   "start": 423564,
+   "end": 423644
+  },
+  {
+   "text": "source",
+   "start": 423644,
+   "end": 423932
+  },
+  {
+   "text": "of",
+   "start": 424044,
+   "end": 424172
+  },
+  {
+   "text": "heat",
+   "start": 424188,
+   "end": 424541
+  },
+  {
+   "text": "or",
+   "start": 424541,
+   "end": 424589
+  },
+  {
+   "text": "shaking,",
+   "start": 424605,
+   "end": 425118
+  },
+  {
+   "text": "is",
+   "start": 425567,
+   "end": 425615
+  },
+  {
+   "text": "the",
+   "start": 425647,
+   "end": 425759
+  },
+  {
+   "text": "better",
+   "start": 425807,
+   "end": 426031
+  },
+  {
+   "text": "spot.",
+   "start": 426031,
+   "end": 426464
+  },
+  {
+   "text": "And",
+   "start": 427009,
+   "end": 427073
+  },
+  {
+   "text": "accessible",
+   "start": 427089,
+   "end": 427714
+  },
+  {
+   "text": "actually",
+   "start": 427794,
+   "end": 428130
+  },
+  {
+   "text": "has",
+   "start": 428195,
+   "end": 428339
+  },
+  {
+   "text": "to",
+   "start": 428387,
+   "end": 428515
+  },
+  {
+   "text": "mean",
+   "start": 428515,
+   "end": 428755
+  },
+  {
+   "text": "accessible.",
+   "start": 428755,
+   "end": 429316
+  },
+  {
+   "text": "Not",
+   "start": 429813,
+   "end": 429973
+  },
+  {
+   "text": "behind",
+   "start": 429973,
+   "end": 430374
+  },
+  {
+   "text": "the",
+   "start": 430374,
+   "end": 430518
+  },
+  {
+   "text": "ironing",
+   "start": 430518,
+   "end": 430823
+  },
+  {
+   "text": "board",
+   "start": 430935,
+   "end": 431239
+  },
+  {
+   "text": "in",
+   "start": 431239,
+   "end": 431287
+  },
+  {
+   "text": "the",
+   "start": 431319,
+   "end": 431399
+  },
+  {
+   "text": "closet.",
+   "start": 431399,
+   "end": 431800
+  },
+  {
+   "text": "Somewhere",
+   "start": 432313,
+   "end": 432681
+  },
+  {
+   "text": "you",
+   "start": 432681,
+   "end": 432729
+  },
+  {
+   "text": "could",
+   "start": 432778,
+   "end": 433002
+  },
+  {
+   "text": "grab",
+   "start": 433002,
+   "end": 433274
+  },
+  {
+   "text": "it",
+   "start": 433274,
+   "end": 433402
+  },
+  {
+   "text": "in",
+   "start": 433402,
+   "end": 433451
+  },
+  {
+   "text": "three",
+   "start": 433563,
+   "end": 433835
+  },
+  {
+   "text": "seconds",
+   "start": 433835,
+   "end": 434332
+  },
+  {
+   "text": "without",
+   "start": 434380,
+   "end": 434700
+  },
+  {
+   "text": "thinking,",
+   "start": 434700,
+   "end": 435069
+  },
+  {
+   "text": "because",
+   "start": 435486,
+   "end": 435711
+  },
+  {
+   "text": "in",
+   "start": 435807,
+   "end": 435855
+  },
+  {
+   "text": "an",
+   "start": 435904,
+   "end": 435952
+  },
+  {
+   "text": "actual",
+   "start": 436128,
+   "end": 436418
+  },
+  {
+   "text": "kitchen",
+   "start": 436466,
+   "end": 436755
+  },
+  {
+   "text": "fire,",
+   "start": 436867,
+   "end": 437189
+  },
+  {
+   "text": "three",
+   "start": 437574,
+   "end": 437767
+  },
+  {
+   "text": "seconds",
+   "start": 437767,
+   "end": 438249
+  },
+  {
+   "text": "of",
+   "start": 438249,
+   "end": 438329
+  },
+  {
+   "text": "searching",
+   "start": 438377,
+   "end": 438827
+  },
+  {
+   "text": "is",
+   "start": 439036,
+   "end": 439165
+  },
+  {
+   "text": "three",
+   "start": 439261,
+   "end": 439518
+  },
+  {
+   "text": "seconds",
+   "start": 439518,
+   "end": 440048
+  },
+  {
+   "text": "you",
+   "start": 440080,
+   "end": 440160
+  },
+  {
+   "text": "don't",
+   "start": 440160,
+   "end": 440401
+  },
+  {
+   "text": "have.",
+   "start": 440401,
+   "end": 440610
+  },
+  {
+   "text": "So",
+   "start": 441205,
+   "end": 441365
+  },
+  {
+   "text": "that's",
+   "start": 441365,
+   "end": 441590
+  },
+  {
+   "text": "the",
+   "start": 441590,
+   "end": 441671
+  },
+  {
+   "text": "whole",
+   "start": 441671,
+   "end": 441847
+  },
+  {
+   "text": "fix.",
+   "start": 441847,
+   "end": 442265
+  },
+  {
+   "text": "Shake",
+   "start": 442811,
+   "end": 443068
+  },
+  {
+   "text": "it",
+   "start": 443068,
+   "end": 443197
+  },
+  {
+   "text": "monthly,",
+   "start": 443197,
+   "end": 443582
+  },
+  {
+   "text": "check",
+   "start": 443936,
+   "end": 444112
+  },
+  {
+   "text": "the",
+   "start": 444176,
+   "end": 444257
+  },
+  {
+   "text": "gauge",
+   "start": 444337,
+   "end": 444707
+  },
+  {
+   "text": "and",
+   "start": 444739,
+   "end": 444819
+  },
+  {
+   "text": "the",
+   "start": 444819,
+   "end": 444980
+  },
+  {
+   "text": "pin",
+   "start": 444980,
+   "end": 445253
+  },
+  {
+   "text": "at",
+   "start": 445301,
+   "end": 445381
+  },
+  {
+   "text": "the",
+   "start": 445381,
+   "end": 445462
+  },
+  {
+   "text": "same",
+   "start": 445462,
+   "end": 445751
+  },
+  {
+   "text": "time,",
+   "start": 445783,
+   "end": 446265
+  },
+  {
+   "text": "know",
+   "start": 446586,
+   "end": 446779
+  },
+  {
+   "text": "its",
+   "start": 446827,
+   "end": 447052
+  },
+  {
+   "text": "age,",
+   "start": 447052,
+   "end": 447357
+  },
+  {
+   "text": "and",
+   "start": 447775,
+   "end": 447855
+  },
+  {
+   "text": "get",
+   "start": 447871,
+   "end": 448032
+  },
+  {
+   "text": "it",
+   "start": 448032,
+   "end": 448112
+  },
+  {
+   "text": "professionally",
+   "start": 448112,
+   "end": 448771
+  },
+  {
+   "text": "serviced",
+   "start": 448771,
+   "end": 449365
+  },
+  {
+   "text": "or",
+   "start": 449494,
+   "end": 449558
+  },
+  {
+   "text": "replaced",
+   "start": 449558,
+   "end": 450040
+  },
+  {
+   "text": "on",
+   "start": 450040,
+   "end": 450088
+  },
+  {
+   "text": "schedule",
+   "start": 450136,
+   "end": 450795
+  },
+  {
+   "text": "instead",
+   "start": 450923,
+   "end": 451245
+  },
+  {
+   "text": "of",
+   "start": 451245,
+   "end": 451325
+  },
+  {
+   "text": "waiting",
+   "start": 451389,
+   "end": 451614
+  },
+  {
+   "text": "for",
+   "start": 451646,
+   "end": 451807
+  },
+  {
+   "text": "the",
+   "start": 451807,
+   "end": 451887
+  },
+  {
+   "text": "one",
+   "start": 451968,
+   "end": 452080
+  },
+  {
+   "text": "day",
+   "start": 452192,
+   "end": 452353
+  },
+  {
+   "text": "it",
+   "start": 452369,
+   "end": 452465
+  },
+  {
+   "text": "matters",
+   "start": 452465,
+   "end": 452819
+  },
+  {
+   "text": "most.",
+   "start": 452915,
+   "end": 453269
+  },
+  {
+   "text": "Let's",
+   "start": 453735,
+   "end": 453959
+  },
+  {
+   "text": "cover",
+   "start": 453959,
+   "end": 454184
+  },
+  {
+   "text": "what",
+   "start": 454216,
+   "end": 454345
+  },
+  {
+   "text": "you're",
+   "start": 454361,
+   "end": 454457
+  },
+  {
+   "text": "probably",
+   "start": 454457,
+   "end": 454907
+  },
+  {
+   "text": "wondering.",
+   "start": 454939,
+   "end": 455309
+  },
+  {
+   "text": "Does",
+   "start": 455807,
+   "end": 455951
+  },
+  {
+   "text": "this",
+   "start": 456048,
+   "end": 456224
+  },
+  {
+   "text": "apply",
+   "start": 456224,
+   "end": 456498
+  },
+  {
+   "text": "to",
+   "start": 456626,
+   "end": 456851
+  },
+  {
+   "text": "every",
+   "start": 456947,
+   "end": 457156
+  },
+  {
+   "text": "fire",
+   "start": 457188,
+   "end": 457461
+  },
+  {
+   "text": "extinguisher,",
+   "start": 457574,
+   "end": 458168
+  },
+  {
+   "text": "or",
+   "start": 458650,
+   "end": 458779
+  },
+  {
+   "text": "just",
+   "start": 458779,
+   "end": 458955
+  },
+  {
+   "text": "some?",
+   "start": 458955,
+   "end": 459212
+  },
+  {
+   "text": "This",
+   "start": 459742,
+   "end": 459935
+  },
+  {
+   "text": "is",
+   "start": 459935,
+   "end": 459999
+  },
+  {
+   "text": "specifically",
+   "start": 459999,
+   "end": 460771
+  },
+  {
+   "text": "about",
+   "start": 460803,
+   "end": 461188
+  },
+  {
+   "text": "dry",
+   "start": 461188,
+   "end": 461397
+  },
+  {
+   "text": "chemical",
+   "start": 461526,
+   "end": 461943
+  },
+  {
+   "text": "extinguishers,",
+   "start": 461943,
+   "end": 462698
+  },
+  {
+   "text": "the",
+   "start": 463020,
+   "end": 463068
+  },
+  {
+   "text": "ABC-rated",
+   "start": 463276,
+   "end": 464031
+  },
+  {
+   "text": "kind,",
+   "start": 464079,
+   "end": 464496
+  },
+  {
+   "text": "which",
+   "start": 464817,
+   "end": 464978
+  },
+  {
+   "text": "is",
+   "start": 464978,
+   "end": 465026
+  },
+  {
+   "text": "what",
+   "start": 465122,
+   "end": 465186
+  },
+  {
+   "text": "most",
+   "start": 465283,
+   "end": 465620
+  },
+  {
+   "text": "homes",
+   "start": 465620,
+   "end": 465957
+  },
+  {
+   "text": "and",
+   "start": 466005,
+   "end": 466117
+  },
+  {
+   "text": "kitchens",
+   "start": 466166,
+   "end": 466583
+  },
+  {
+   "text": "actually",
+   "start": 466583,
+   "end": 466952
+  },
+  {
+   "text": "have.",
+   "start": 466984,
+   "end": 467273
+  },
+  {
+   "text": "CO2",
+   "start": 468188,
+   "end": 468365
+  },
+  {
+   "text": "extinguishers",
+   "start": 468429,
+   "end": 469119
+  },
+  {
+   "text": "and",
+   "start": 469232,
+   "end": 469376
+  },
+  {
+   "text": "clean-agent",
+   "start": 469376,
+   "end": 469970
+  },
+  {
+   "text": "units",
+   "start": 470018,
+   "end": 470291
+  },
+  {
+   "text": "work",
+   "start": 470355,
+   "end": 470532
+  },
+  {
+   "text": "differently",
+   "start": 470676,
+   "end": 471126
+  },
+  {
+   "text": "and",
+   "start": 471479,
+   "end": 471543
+  },
+  {
+   "text": "don't",
+   "start": 471623,
+   "end": 471848
+  },
+  {
+   "text": "have",
+   "start": 471864,
+   "end": 472089
+  },
+  {
+   "text": "this",
+   "start": 472137,
+   "end": 472249
+  },
+  {
+   "text": "exact",
+   "start": 472362,
+   "end": 472907
+  },
+  {
+   "text": "powder-caking",
+   "start": 472907,
+   "end": 473582
+  },
+  {
+   "text": "issue,",
+   "start": 473646,
+   "end": 473967
+  },
+  {
+   "text": "though",
+   "start": 474368,
+   "end": 474448
+  },
+  {
+   "text": "they",
+   "start": 474448,
+   "end": 474577
+  },
+  {
+   "text": "have",
+   "start": 474593,
+   "end": 474785
+  },
+  {
+   "text": "their",
+   "start": 474785,
+   "end": 474994
+  },
+  {
+   "text": "own",
+   "start": 474994,
+   "end": 475042
+  },
+  {
+   "text": "service",
+   "start": 475155,
+   "end": 475492
+  },
+  {
+   "text": "schedules.",
+   "start": 475492,
+   "end": 476021
+  },
+  {
+   "text": "Do",
+   "start": 476615,
+   "end": 476744
+  },
+  {
+   "text": "I",
+   "start": 476760,
+   "end": 476808
+  },
+  {
+   "text": "really",
+   "start": 476936,
+   "end": 477145
+  },
+  {
+   "text": "need",
+   "start": 477177,
+   "end": 477354
+  },
+  {
+   "text": "to",
+   "start": 477354,
+   "end": 477418
+  },
+  {
+   "text": "shake",
+   "start": 477418,
+   "end": 477803
+  },
+  {
+   "text": "it",
+   "start": 477803,
+   "end": 477899
+  },
+  {
+   "text": "every",
+   "start": 478124,
+   "end": 478317
+  },
+  {
+   "text": "single",
+   "start": 478317,
+   "end": 478654
+  },
+  {
+   "text": "month,",
+   "start": 478654,
+   "end": 478991
+  },
+  {
+   "text": "forever?",
+   "start": 479264,
+   "end": 479649
+  },
+  {
+   "text": "Yes,",
+   "start": 480147,
+   "end": 480339
+  },
+  {
+   "text": "for",
+   "start": 480789,
+   "end": 480933
+  },
+  {
+   "text": "as",
+   "start": 480933,
+   "end": 480997
+  },
+  {
+   "text": "long",
+   "start": 481094,
+   "end": 481238
+  },
+  {
+   "text": "as",
+   "start": 481286,
+   "end": 481399
+  },
+  {
+   "text": "you",
+   "start": 481415,
+   "end": 481479
+  },
+  {
+   "text": "own",
+   "start": 481527,
+   "end": 481704
+  },
+  {
+   "text": "it.",
+   "start": 481752,
+   "end": 481896
+  },
+  {
+   "text": "It",
+   "start": 482378,
+   "end": 482458
+  },
+  {
+   "text": "takes",
+   "start": 482458,
+   "end": 482827
+  },
+  {
+   "text": "thirty",
+   "start": 482956,
+   "end": 483164
+  },
+  {
+   "text": "seconds.",
+   "start": 483197,
+   "end": 483566
+  },
+  {
+   "text": "Compare",
+   "start": 484224,
+   "end": 484513
+  },
+  {
+   "text": "that",
+   "start": 484561,
+   "end": 484721
+  },
+  {
+   "text": "to",
+   "start": 484721,
+   "end": 484818
+  },
+  {
+   "text": "the",
+   "start": 484818,
+   "end": 484930
+  },
+  {
+   "text": "alternative,",
+   "start": 485026,
+   "end": 485572
+  },
+  {
+   "text": "finding",
+   "start": 485990,
+   "end": 486230
+  },
+  {
+   "text": "out",
+   "start": 486311,
+   "end": 486423
+  },
+  {
+   "text": "it's",
+   "start": 486423,
+   "end": 486567
+  },
+  {
+   "text": "dead",
+   "start": 486567,
+   "end": 486856
+  },
+  {
+   "text": "during",
+   "start": 486953,
+   "end": 487161
+  },
+  {
+   "text": "an",
+   "start": 487209,
+   "end": 487338
+  },
+  {
+   "text": "actual",
+   "start": 487434,
+   "end": 487723
+  },
+  {
+   "text": "fire,",
+   "start": 487771,
+   "end": 488108
+  },
+  {
+   "text": "and",
+   "start": 488494,
+   "end": 488558
+  },
+  {
+   "text": "the",
+   "start": 488638,
+   "end": 488686
+  },
+  {
+   "text": "monthly",
+   "start": 488686,
+   "end": 489071
+  },
+  {
+   "text": "habit",
+   "start": 489136,
+   "end": 489617
+  },
+  {
+   "text": "isn't",
+   "start": 489762,
+   "end": 489986
+  },
+  {
+   "text": "much",
+   "start": 490002,
+   "end": 490147
+  },
+  {
+   "text": "to",
+   "start": 490243,
+   "end": 490404
+  },
+  {
+   "text": "ask.",
+   "start": 490484,
+   "end": 490757
+  },
+  {
+   "text": "What",
+   "start": 491206,
+   "end": 491254
+  },
+  {
+   "text": "do",
+   "start": 491254,
+   "end": 491350
+  },
+  {
+   "text": "I",
+   "start": 491366,
+   "end": 491462
+  },
+  {
+   "text": "do",
+   "start": 491462,
+   "end": 491575
+  },
+  {
+   "text": "with",
+   "start": 491623,
+   "end": 491783
+  },
+  {
+   "text": "one",
+   "start": 491847,
+   "end": 491975
+  },
+  {
+   "text": "that's",
+   "start": 492104,
+   "end": 492328
+  },
+  {
+   "text": "actually",
+   "start": 492328,
+   "end": 492649
+  },
+  {
+   "text": "gone",
+   "start": 492665,
+   "end": 492857
+  },
+  {
+   "text": "bad?",
+   "start": 492985,
+   "end": 493322
+  },
+  {
+   "text": "Don't",
+   "start": 493771,
+   "end": 493915
+  },
+  {
+   "text": "throw",
+   "start": 493931,
+   "end": 494188
+  },
+  {
+   "text": "a",
+   "start": 494188,
+   "end": 494268
+  },
+  {
+   "text": "pressurized",
+   "start": 494268,
+   "end": 494877
+  },
+  {
+   "text": "canister",
+   "start": 494909,
+   "end": 495438
+  },
+  {
+   "text": "in",
+   "start": 495470,
+   "end": 495518
+  },
+  {
+   "text": "the",
+   "start": 495550,
+   "end": 495695
+  },
+  {
+   "text": "regular",
+   "start": 495695,
+   "end": 496095
+  },
+  {
+   "text": "trash.",
+   "start": 496095,
+   "end": 496448
+  },
+  {
+   "text": "Most",
+   "start": 497057,
+   "end": 497298
+  },
+  {
+   "text": "fire",
+   "start": 497298,
+   "end": 497426
+  },
+  {
+   "text": "departments,",
+   "start": 497490,
+   "end": 498115
+  },
+  {
+   "text": "and",
+   "start": 498436,
+   "end": 498500
+  },
+  {
+   "text": "some",
+   "start": 498516,
+   "end": 498692
+  },
+  {
+   "text": "hardware",
+   "start": 498740,
+   "end": 499093
+  },
+  {
+   "text": "stores,",
+   "start": 499093,
+   "end": 499446
+  },
+  {
+   "text": "will",
+   "start": 499943,
+   "end": 500023
+  },
+  {
+   "text": "take",
+   "start": 500023,
+   "end": 500263
+  },
+  {
+   "text": "an",
+   "start": 500263,
+   "end": 500311
+  },
+  {
+   "text": "old",
+   "start": 500504,
+   "end": 500696
+  },
+  {
+   "text": "extinguisher",
+   "start": 500696,
+   "end": 501482
+  },
+  {
+   "text": "for",
+   "start": 501482,
+   "end": 501626
+  },
+  {
+   "text": "proper",
+   "start": 501642,
+   "end": 502043
+  },
+  {
+   "text": "disposal",
+   "start": 502043,
+   "end": 502748
+  },
+  {
+   "text": "or",
+   "start": 502924,
+   "end": 502973
+  },
+  {
+   "text": "recycling.",
+   "start": 503005,
+   "end": 503582
+  },
+  {
+   "text": "A",
+   "start": 504063,
+   "end": 504079
+  },
+  {
+   "text": "quick",
+   "start": 504127,
+   "end": 504367
+  },
+  {
+   "text": "call",
+   "start": 504431,
+   "end": 504656
+  },
+  {
+   "text": "to",
+   "start": 504688,
+   "end": 504832
+  },
+  {
+   "text": "your",
+   "start": 504832,
+   "end": 504928
+  },
+  {
+   "text": "local",
+   "start": 504928,
+   "end": 505217
+  },
+  {
+   "text": "station",
+   "start": 505249,
+   "end": 505618
+  },
+  {
+   "text": "will",
+   "start": 505890,
+   "end": 505986
+  },
+  {
+   "text": "tell",
+   "start": 505986,
+   "end": 506195
+  },
+  {
+   "text": "you",
+   "start": 506275,
+   "end": 506339
+  },
+  {
+   "text": "where",
+   "start": 506435,
+   "end": 506547
+  },
+  {
+   "text": "to",
+   "start": 506547,
+   "end": 506628
+  },
+  {
+   "text": "bring",
+   "start": 506692,
+   "end": 506820
+  },
+  {
+   "text": "it.",
+   "start": 506868,
+   "end": 506916
+  },
+  {
+   "text": "How",
+   "start": 507557,
+   "end": 507653
+  },
+  {
+   "text": "many",
+   "start": 507653,
+   "end": 507862
+  },
+  {
+   "text": "should",
+   "start": 507878,
+   "end": 508070
+  },
+  {
+   "text": "a",
+   "start": 508070,
+   "end": 508134
+  },
+  {
+   "text": "house",
+   "start": 508134,
+   "end": 508519
+  },
+  {
+   "text": "actually",
+   "start": 508519,
+   "end": 508824
+  },
+  {
+   "text": "have?",
+   "start": 508920,
+   "end": 509064
+  },
+  {
+   "text": "One",
+   "start": 509721,
+   "end": 509850
+  },
+  {
+   "text": "per",
+   "start": 509898,
+   "end": 510122
+  },
+  {
+   "text": "level",
+   "start": 510122,
+   "end": 510347
+  },
+  {
+   "text": "of",
+   "start": 510379,
+   "end": 510475
+  },
+  {
+   "text": "your",
+   "start": 510475,
+   "end": 510619
+  },
+  {
+   "text": "home",
+   "start": 510619,
+   "end": 510812
+  },
+  {
+   "text": "at",
+   "start": 510876,
+   "end": 510956
+  },
+  {
+   "text": "minimum,",
+   "start": 511004,
+   "end": 511421
+  },
+  {
+   "text": "plus",
+   "start": 511821,
+   "end": 512126
+  },
+  {
+   "text": "one",
+   "start": 512126,
+   "end": 512254
+  },
+  {
+   "text": "specifically",
+   "start": 512302,
+   "end": 513072
+  },
+  {
+   "text": "in",
+   "start": 513248,
+   "end": 513296
+  },
+  {
+   "text": "or",
+   "start": 513585,
+   "end": 513633
+  },
+  {
+   "text": "near",
+   "start": 513681,
+   "end": 513937
+  },
+  {
+   "text": "the",
+   "start": 513986,
+   "end": 514130
+  },
+  {
+   "text": "kitchen,",
+   "start": 514130,
+   "end": 514434
+  },
+  {
+   "text": "since",
+   "start": 514883,
+   "end": 515188
+  },
+  {
+   "text": "that's",
+   "start": 515188,
+   "end": 515412
+  },
+  {
+   "text": "where",
+   "start": 515412,
+   "end": 515476
+  },
+  {
+   "text": "most",
+   "start": 515508,
+   "end": 515893
+  },
+  {
+   "text": "home",
+   "start": 515893,
+   "end": 516086
+  },
+  {
+   "text": "fires",
+   "start": 516134,
+   "end": 516422
+  },
+  {
+   "text": "start.",
+   "start": 516422,
+   "end": 516855
+  },
+  {
+   "text": "A",
+   "start": 517272,
+   "end": 517336
+  },
+  {
+   "text": "garage",
+   "start": 517352,
+   "end": 517802
+  },
+  {
+   "text": "or",
+   "start": 518075,
+   "end": 518123
+  },
+  {
+   "text": "workshop",
+   "start": 518219,
+   "end": 518781
+  },
+  {
+   "text": "with",
+   "start": 518781,
+   "end": 518877
+  },
+  {
+   "text": "flammable",
+   "start": 518893,
+   "end": 519455
+  },
+  {
+   "text": "materials",
+   "start": 519455,
+   "end": 520049
+  },
+  {
+   "text": "around",
+   "start": 520081,
+   "end": 520530
+  },
+  {
+   "text": "is",
+   "start": 520739,
+   "end": 520851
+  },
+  {
+   "text": "worth",
+   "start": 520948,
+   "end": 521140
+  },
+  {
+   "text": "its",
+   "start": 521140,
+   "end": 521349
+  },
+  {
+   "text": "own",
+   "start": 521510,
+   "end": 521558
+  },
+  {
+   "text": "unit",
+   "start": 521670,
+   "end": 521879
+  },
+  {
+   "text": "too.",
+   "start": 521927,
+   "end": 522136
+  },
+  {
+   "text": "Is",
+   "start": 522729,
+   "end": 522778
+  },
+  {
+   "text": "it",
+   "start": 522826,
+   "end": 522890
+  },
+  {
+   "text": "cheaper",
+   "start": 522890,
+   "end": 523291
+  },
+  {
+   "text": "to",
+   "start": 523291,
+   "end": 523387
+  },
+  {
+   "text": "recharge",
+   "start": 523452,
+   "end": 523933
+  },
+  {
+   "text": "an",
+   "start": 523933,
+   "end": 524013
+  },
+  {
+   "text": "old",
+   "start": 524013,
+   "end": 524238
+  },
+  {
+   "text": "one,",
+   "start": 524238,
+   "end": 524367
+  },
+  {
+   "text": "or",
+   "start": 524816,
+   "end": 524896
+  },
+  {
+   "text": "just",
+   "start": 524896,
+   "end": 525121
+  },
+  {
+   "text": "buy",
+   "start": 525121,
+   "end": 525233
+  },
+  {
+   "text": "new?",
+   "start": 525233,
+   "end": 525426
+  },
+  {
+   "text": "For",
+   "start": 526004,
+   "end": 526084
+  },
+  {
+   "text": "most",
+   "start": 526084,
+   "end": 526405
+  },
+  {
+   "text": "small",
+   "start": 526405,
+   "end": 526630
+  },
+  {
+   "text": "home",
+   "start": 526726,
+   "end": 526887
+  },
+  {
+   "text": "units,",
+   "start": 526983,
+   "end": 527320
+  },
+  {
+   "text": "buying",
+   "start": 527785,
+   "end": 528058
+  },
+  {
+   "text": "new",
+   "start": 528187,
+   "end": 528315
+  },
+  {
+   "text": "is",
+   "start": 528444,
+   "end": 528556
+  },
+  {
+   "text": "usually",
+   "start": 528668,
+   "end": 529037
+  },
+  {
+   "text": "simpler",
+   "start": 529069,
+   "end": 529599
+  },
+  {
+   "text": "and",
+   "start": 529792,
+   "end": 529856
+  },
+  {
+   "text": "cheaper",
+   "start": 529936,
+   "end": 530338
+  },
+  {
+   "text": "than",
+   "start": 530418,
+   "end": 530482
+  },
+  {
+   "text": "a",
+   "start": 530530,
+   "end": 530594
+  },
+  {
+   "text": "professional",
+   "start": 530594,
+   "end": 531301
+  },
+  {
+   "text": "recharge,",
+   "start": 531301,
+   "end": 531814
+  },
+  {
+   "text": "once",
+   "start": 532280,
+   "end": 532504
+  },
+  {
+   "text": "you",
+   "start": 532504,
+   "end": 532601
+  },
+  {
+   "text": "account",
+   "start": 532601,
+   "end": 532986
+  },
+  {
+   "text": "for",
+   "start": 532986,
+   "end": 533098
+  },
+  {
+   "text": "the",
+   "start": 533098,
+   "end": 533179
+  },
+  {
+   "text": "service",
+   "start": 533179,
+   "end": 533532
+  },
+  {
+   "text": "fee.",
+   "start": 533644,
+   "end": 533804
+  },
+  {
+   "text": "Don't",
+   "start": 534350,
+   "end": 534511
+  },
+  {
+   "text": "skip",
+   "start": 534511,
+   "end": 534848
+  },
+  {
+   "text": "replacing",
+   "start": 534848,
+   "end": 535377
+  },
+  {
+   "text": "one",
+   "start": 535570,
+   "end": 535698
+  },
+  {
+   "text": "over",
+   "start": 535747,
+   "end": 535907
+  },
+  {
+   "text": "the",
+   "start": 535907,
+   "end": 536036
+  },
+  {
+   "text": "cost",
+   "start": 536036,
+   "end": 536260
+  },
+  {
+   "text": "question.",
+   "start": 536357,
+   "end": 536726
+  },
+  {
+   "text": "A",
+   "start": 537255,
+   "end": 537271
+  },
+  {
+   "text": "new",
+   "start": 537271,
+   "end": 537448
+  },
+  {
+   "text": "one",
+   "start": 537576,
+   "end": 537785
+  },
+  {
+   "text": "is",
+   "start": 537897,
+   "end": 537946
+  },
+  {
+   "text": "genuinely",
+   "start": 538042,
+   "end": 538539
+  },
+  {
+   "text": "inexpensive.",
+   "start": 538539,
+   "end": 539165
+  },
+  {
+   "text": "Do",
+   "start": 539679,
+   "end": 539840
+  },
+  {
+   "text": "these",
+   "start": 539840,
+   "end": 540032
+  },
+  {
+   "text": "actually",
+   "start": 540129,
+   "end": 540433
+  },
+  {
+   "text": "expire,",
+   "start": 540450,
+   "end": 540899
+  },
+  {
+   "text": "like",
+   "start": 541188,
+   "end": 541364
+  },
+  {
+   "text": "food",
+   "start": 541413,
+   "end": 541637
+  },
+  {
+   "text": "does?",
+   "start": 541669,
+   "end": 541878
+  },
+  {
+   "text": "Not",
+   "start": 542536,
+   "end": 542665
+  },
+  {
+   "text": "in",
+   "start": 542697,
+   "end": 542729
+  },
+  {
+   "text": "the",
+   "start": 542729,
+   "end": 542809
+  },
+  {
+   "text": "sense",
+   "start": 542809,
+   "end": 543178
+  },
+  {
+   "text": "of",
+   "start": 543178,
+   "end": 543274
+  },
+  {
+   "text": "suddenly",
+   "start": 543274,
+   "end": 543644
+  },
+  {
+   "text": "stopping",
+   "start": 543692,
+   "end": 544141
+  },
+  {
+   "text": "on",
+   "start": 544238,
+   "end": 544286
+  },
+  {
+   "text": "a",
+   "start": 544334,
+   "end": 544382
+  },
+  {
+   "text": "specific",
+   "start": 544382,
+   "end": 544896
+  },
+  {
+   "text": "date.",
+   "start": 545024,
+   "end": 545345
+  },
+  {
+   "text": "But",
+   "start": 545666,
+   "end": 545763
+  },
+  {
+   "text": "they",
+   "start": 545763,
+   "end": 545843
+  },
+  {
+   "text": "do",
+   "start": 545907,
+   "end": 546068
+  },
+  {
+   "text": "have",
+   "start": 546068,
+   "end": 546228
+  },
+  {
+   "text": "a",
+   "start": 546228,
+   "end": 546244
+  },
+  {
+   "text": "limited",
+   "start": 546389,
+   "end": 546694
+  },
+  {
+   "text": "service",
+   "start": 546710,
+   "end": 547079
+  },
+  {
+   "text": "life,",
+   "start": 547192,
+   "end": 547401
+  },
+  {
+   "text": "generally",
+   "start": 547850,
+   "end": 548220
+  },
+  {
+   "text": "cited",
+   "start": 548252,
+   "end": 548653
+  },
+  {
+   "text": "around",
+   "start": 548653,
+   "end": 548942
+  },
+  {
+   "text": "ten",
+   "start": 549135,
+   "end": 549344
+  },
+  {
+   "text": "to",
+   "start": 549376,
+   "end": 549536
+  },
+  {
+   "text": "twelve",
+   "start": 549536,
+   "end": 549906
+  },
+  {
+   "text": "years",
+   "start": 549922,
+   "end": 550147
+  },
+  {
+   "text": "for",
+   "start": 550163,
+   "end": 550339
+  },
+  {
+   "text": "a",
+   "start": 550339,
+   "end": 550404
+  },
+  {
+   "text": "home",
+   "start": 550404,
+   "end": 550645
+  },
+  {
+   "text": "unit.",
+   "start": 550645,
+   "end": 550821
+  },
+  {
+   "text": "After",
+   "start": 551464,
+   "end": 551688
+  },
+  {
+   "text": "that,",
+   "start": 551704,
+   "end": 552026
+  },
+  {
+   "text": "replace",
+   "start": 552267,
+   "end": 552620
+  },
+  {
+   "text": "it,",
+   "start": 552748,
+   "end": 552877
+  },
+  {
+   "text": "regardless",
+   "start": 553214,
+   "end": 553728
+  },
+  {
+   "text": "of",
+   "start": 553728,
+   "end": 553856
+  },
+  {
+   "text": "how",
+   "start": 553856,
+   "end": 553985
+  },
+  {
+   "text": "it",
+   "start": 554017,
+   "end": 554081
+  },
+  {
+   "text": "looks",
+   "start": 554194,
+   "end": 554547
+  },
+  {
+   "text": "or",
+   "start": 554692,
+   "end": 554756
+  },
+  {
+   "text": "checks",
+   "start": 554820,
+   "end": 555221
+  },
+  {
+   "text": "out",
+   "start": 555221,
+   "end": 555302
+  },
+  {
+   "text": "on",
+   "start": 555302,
+   "end": 555350
+  },
+  {
+   "text": "the",
+   "start": 555382,
+   "end": 555543
+  },
+  {
+   "text": "outside.",
+   "start": 555543,
+   "end": 555912
+  },
+  {
+   "text": "Let's",
+   "start": 556522,
+   "end": 556683
+  },
+  {
+   "text": "talk",
+   "start": 556683,
+   "end": 556940
+  },
+  {
+   "text": "about",
+   "start": 556940,
+   "end": 557229
+  },
+  {
+   "text": "how",
+   "start": 557229,
+   "end": 557325
+  },
+  {
+   "text": "this",
+   "start": 557406,
+   "end": 557518
+  },
+  {
+   "text": "fits",
+   "start": 557646,
+   "end": 557903
+  },
+  {
+   "text": "your",
+   "start": 557903,
+   "end": 558032
+  },
+  {
+   "text": "specific",
+   "start": 558032,
+   "end": 558546
+  },
+  {
+   "text": "situation.",
+   "start": 558546,
+   "end": 559140
+  },
+  {
+   "text": "If",
+   "start": 559670,
+   "end": 559750
+  },
+  {
+   "text": "you",
+   "start": 559798,
+   "end": 559863
+  },
+  {
+   "text": "rent",
+   "start": 559959,
+   "end": 560136
+  },
+  {
+   "text": "an",
+   "start": 560136,
+   "end": 560184
+  },
+  {
+   "text": "apartment,",
+   "start": 560216,
+   "end": 560746
+  },
+  {
+   "text": "check",
+   "start": 561083,
+   "end": 561404
+  },
+  {
+   "text": "whether",
+   "start": 561404,
+   "end": 561645
+  },
+  {
+   "text": "your",
+   "start": 561645,
+   "end": 561822
+  },
+  {
+   "text": "unit",
+   "start": 561822,
+   "end": 562111
+  },
+  {
+   "text": "already",
+   "start": 562288,
+   "end": 562561
+  },
+  {
+   "text": "has",
+   "start": 562609,
+   "end": 562753
+  },
+  {
+   "text": "one",
+   "start": 562866,
+   "end": 562994
+  },
+  {
+   "text": "mounted,",
+   "start": 563107,
+   "end": 563492
+  },
+  {
+   "text": "which",
+   "start": 563829,
+   "end": 563958
+  },
+  {
+   "text": "many",
+   "start": 564054,
+   "end": 564279
+  },
+  {
+   "text": "buildings",
+   "start": 564375,
+   "end": 564777
+  },
+  {
+   "text": "require.",
+   "start": 564777,
+   "end": 565210
+  },
+  {
+   "text": "If",
+   "start": 565740,
+   "end": 565789
+  },
+  {
+   "text": "it's",
+   "start": 565837,
+   "end": 565949
+  },
+  {
+   "text": "there,",
+   "start": 565997,
+   "end": 566174
+  },
+  {
+   "text": "it's",
+   "start": 566624,
+   "end": 566736
+  },
+  {
+   "text": "still",
+   "start": 566784,
+   "end": 566929
+  },
+  {
+   "text": "your",
+   "start": 567025,
+   "end": 567186
+  },
+  {
+   "text": "job",
+   "start": 567186,
+   "end": 567443
+  },
+  {
+   "text": "to",
+   "start": 567443,
+   "end": 567587
+  },
+  {
+   "text": "check",
+   "start": 567587,
+   "end": 567780
+  },
+  {
+   "text": "it",
+   "start": 567780,
+   "end": 567860
+  },
+  {
+   "text": "monthly.",
+   "start": 567908,
+   "end": 568262
+  },
+  {
+   "text": "Landlords",
+   "start": 568792,
+   "end": 569257
+  },
+  {
+   "text": "rarely",
+   "start": 569273,
+   "end": 569579
+  },
+  {
+   "text": "do.",
+   "start": 569611,
+   "end": 569755
+  },
+  {
+   "text": "If",
+   "start": 570333,
+   "end": 570414
+  },
+  {
+   "text": "you've",
+   "start": 570414,
+   "end": 570574
+  },
+  {
+   "text": "got",
+   "start": 570574,
+   "end": 570703
+  },
+  {
+   "text": "kids",
+   "start": 570735,
+   "end": 571104
+  },
+  {
+   "text": "old",
+   "start": 571201,
+   "end": 571313
+  },
+  {
+   "text": "enough",
+   "start": 571313,
+   "end": 571602
+  },
+  {
+   "text": "to",
+   "start": 571618,
+   "end": 571747
+  },
+  {
+   "text": "understand",
+   "start": 571779,
+   "end": 572341
+  },
+  {
+   "text": "it,",
+   "start": 572341,
+   "end": 572361
+  },
+  {
+   "text": "this",
+   "start": 572662,
+   "end": 572822
+  },
+  {
+   "text": "is",
+   "start": 572822,
+   "end": 572870
+  },
+  {
+   "text": "worth",
+   "start": 572966,
+   "end": 573110
+  },
+  {
+   "text": "teaching",
+   "start": 573206,
+   "end": 573511
+  },
+  {
+   "text": "them",
+   "start": 573607,
+   "end": 573703
+  },
+  {
+   "text": "too.",
+   "start": 573719,
+   "end": 573943
+  },
+  {
+   "text": "Not",
+   "start": 574488,
+   "end": 574616
+  },
+  {
+   "text": "to",
+   "start": 574665,
+   "end": 574793
+  },
+  {
+   "text": "use",
+   "start": 574809,
+   "end": 575001
+  },
+  {
+   "text": "it",
+   "start": 575001,
+   "end": 575081
+  },
+  {
+   "text": "themselves",
+   "start": 575129,
+   "end": 575626
+  },
+  {
+   "text": "in",
+   "start": 575626,
+   "end": 575674
+  },
+  {
+   "text": "most",
+   "start": 575770,
+   "end": 576026
+  },
+  {
+   "text": "cases,",
+   "start": 576026,
+   "end": 576475
+  },
+  {
+   "text": "but",
+   "start": 576828,
+   "end": 576972
+  },
+  {
+   "text": "to",
+   "start": 576988,
+   "end": 577084
+  },
+  {
+   "text": "know",
+   "start": 577084,
+   "end": 577276
+  },
+  {
+   "text": "exactly",
+   "start": 577308,
+   "end": 577917
+  },
+  {
+   "text": "where",
+   "start": 577933,
+   "end": 578125
+  },
+  {
+   "text": "it",
+   "start": 578125,
+   "end": 578254
+  },
+  {
+   "text": "is",
+   "start": 578254,
+   "end": 578478
+  },
+  {
+   "text": "and",
+   "start": 578830,
+   "end": 578895
+  },
+  {
+   "text": "to",
+   "start": 578911,
+   "end": 578991
+  },
+  {
+   "text": "go",
+   "start": 578991,
+   "end": 579231
+  },
+  {
+   "text": "get",
+   "start": 579231,
+   "end": 579391
+  },
+  {
+   "text": "an",
+   "start": 579391,
+   "end": 579471
+  },
+  {
+   "text": "adult",
+   "start": 579471,
+   "end": 579872
+  },
+  {
+   "text": "immediately.",
+   "start": 579872,
+   "end": 580417
+  },
+  {
+   "text": "If",
+   "start": 580978,
+   "end": 581058
+  },
+  {
+   "text": "you've",
+   "start": 581058,
+   "end": 581202
+  },
+  {
+   "text": "got",
+   "start": 581218,
+   "end": 581378
+  },
+  {
+   "text": "a",
+   "start": 581378,
+   "end": 581394
+  },
+  {
+   "text": "garage",
+   "start": 581458,
+   "end": 581907
+  },
+  {
+   "text": "or",
+   "start": 582115,
+   "end": 582163
+  },
+  {
+   "text": "workshop",
+   "start": 582275,
+   "end": 582820
+  },
+  {
+   "text": "with",
+   "start": 582820,
+   "end": 582964
+  },
+  {
+   "text": "gasoline,",
+   "start": 582996,
+   "end": 583605
+  },
+  {
+   "text": "paint,",
+   "start": 583942,
+   "end": 584358
+  },
+  {
+   "text": "or",
+   "start": 584535,
+   "end": 584583
+  },
+  {
+   "text": "solvents",
+   "start": 584599,
+   "end": 585144
+  },
+  {
+   "text": "around,",
+   "start": 585144,
+   "end": 585368
+  },
+  {
+   "text": "that",
+   "start": 585961,
+   "end": 586137
+  },
+  {
+   "text": "space",
+   "start": 586137,
+   "end": 586473
+  },
+  {
+   "text": "needs",
+   "start": 586602,
+   "end": 586794
+  },
+  {
+   "text": "its",
+   "start": 586842,
+   "end": 586938
+  },
+  {
+   "text": "own",
+   "start": 587146,
+   "end": 587275
+  },
+  {
+   "text": "extinguisher,",
+   "start": 587307,
+   "end": 588028
+  },
+  {
+   "text": "mounted",
+   "start": 588508,
+   "end": 588845
+  },
+  {
+   "text": "near",
+   "start": 588845,
+   "end": 589037
+  },
+  {
+   "text": "the",
+   "start": 589085,
+   "end": 589309
+  },
+  {
+   "text": "exit,",
+   "start": 589309,
+   "end": 589694
+  },
+  {
+   "text": "not",
+   "start": 590127,
+   "end": 590239
+  },
+  {
+   "text": "buried",
+   "start": 590367,
+   "end": 590736
+  },
+  {
+   "text": "behind",
+   "start": 590768,
+   "end": 591168
+  },
+  {
+   "text": "the",
+   "start": 591168,
+   "end": 591248
+  },
+  {
+   "text": "lawn",
+   "start": 591248,
+   "end": 591441
+  },
+  {
+   "text": "mower.",
+   "start": 591569,
+   "end": 591857
+  },
+  {
+   "text": "If",
+   "start": 592370,
+   "end": 592514
+  },
+  {
+   "text": "you've",
+   "start": 592514,
+   "end": 592610
+  },
+  {
+   "text": "got",
+   "start": 592610,
+   "end": 592786
+  },
+  {
+   "text": "an",
+   "start": 592786,
+   "end": 592867
+  },
+  {
+   "text": "RV,",
+   "start": 592915,
+   "end": 593363
+  },
+  {
+   "text": "boat,",
+   "start": 593796,
+   "end": 594196
+  },
+  {
+   "text": "or",
+   "start": 594389,
+   "end": 594437
+  },
+  {
+   "text": "camper,",
+   "start": 594517,
+   "end": 594982
+  },
+  {
+   "text": "those",
+   "start": 595334,
+   "end": 595542
+  },
+  {
+   "text": "come",
+   "start": 595574,
+   "end": 595703
+  },
+  {
+   "text": "with",
+   "start": 595751,
+   "end": 595895
+  },
+  {
+   "text": "their",
+   "start": 595895,
+   "end": 595991
+  },
+  {
+   "text": "own",
+   "start": 596119,
+   "end": 596247
+  },
+  {
+   "text": "small",
+   "start": 596279,
+   "end": 596568
+  },
+  {
+   "text": "units",
+   "start": 596680,
+   "end": 596968
+  },
+  {
+   "text": "too,",
+   "start": 597017,
+   "end": 597273
+  },
+  {
+   "text": "and",
+   "start": 597738,
+   "end": 597802
+  },
+  {
+   "text": "the",
+   "start": 597882,
+   "end": 597914
+  },
+  {
+   "text": "vibration",
+   "start": 597914,
+   "end": 598539
+  },
+  {
+   "text": "problem",
+   "start": 598539,
+   "end": 598907
+  },
+  {
+   "text": "applies",
+   "start": 598939,
+   "end": 599388
+  },
+  {
+   "text": "even",
+   "start": 599564,
+   "end": 599708
+  },
+  {
+   "text": "more",
+   "start": 599740,
+   "end": 599933
+  },
+  {
+   "text": "there,",
+   "start": 599981,
+   "end": 600221
+  },
+  {
+   "text": "since",
+   "start": 600558,
+   "end": 600798
+  },
+  {
+   "text": "they're",
+   "start": 600862,
+   "end": 600958
+  },
+  {
+   "text": "moving",
+   "start": 600958,
+   "end": 601231
+  },
+  {
+   "text": "constantly.",
+   "start": 601263,
+   "end": 601824
+  },
+  {
+   "text": "Check",
+   "start": 602370,
+   "end": 602546
+  },
+  {
+   "text": "those",
+   "start": 602546,
+   "end": 602738
+  },
+  {
+   "text": "more",
+   "start": 602787,
+   "end": 603011
+  },
+  {
+   "text": "often,",
+   "start": 603011,
+   "end": 603348
+  },
+  {
+   "text": "not",
+   "start": 603685,
+   "end": 603861
+  },
+  {
+   "text": "less.",
+   "start": 603973,
+   "end": 604214
+  },
+  {
+   "text": "If",
+   "start": 604855,
+   "end": 604935
+  },
+  {
+   "text": "you're",
+   "start": 604935,
+   "end": 605031
+  },
+  {
+   "text": "checking",
+   "start": 605031,
+   "end": 605400
+  },
+  {
+   "text": "in",
+   "start": 605497,
+   "end": 605593
+  },
+  {
+   "text": "on",
+   "start": 605657,
+   "end": 605753
+  },
+  {
+   "text": "an",
+   "start": 605753,
+   "end": 605833
+  },
+  {
+   "text": "older",
+   "start": 605978,
+   "end": 606234
+  },
+  {
+   "text": "relative's",
+   "start": 606234,
+   "end": 606699
+  },
+  {
+   "text": "home,",
+   "start": 606699,
+   "end": 606972
+  },
+  {
+   "text": "this",
+   "start": 607421,
+   "end": 607485
+  },
+  {
+   "text": "is",
+   "start": 607597,
+   "end": 607645
+  },
+  {
+   "text": "a",
+   "start": 607693,
+   "end": 607709
+  },
+  {
+   "text": "genuinely",
+   "start": 607838,
+   "end": 608367
+  },
+  {
+   "text": "useful",
+   "start": 608543,
+   "end": 608880
+  },
+  {
+   "text": "thing",
+   "start": 608880,
+   "end": 609153
+  },
+  {
+   "text": "to",
+   "start": 609505,
+   "end": 609650
+  },
+  {
+   "text": "add",
+   "start": 609746,
+   "end": 609970
+  },
+  {
+   "text": "to",
+   "start": 610002,
+   "end": 610131
+  },
+  {
+   "text": "a",
+   "start": 610147,
+   "end": 610179
+  },
+  {
+   "text": "safety",
+   "start": 610179,
+   "end": 610644
+  },
+  {
+   "text": "visit.",
+   "start": 610644,
+   "end": 610933
+  },
+  {
+   "text": "A",
+   "start": 611462,
+   "end": 611478
+  },
+  {
+   "text": "lot",
+   "start": 611526,
+   "end": 611702
+  },
+  {
+   "text": "of",
+   "start": 611702,
+   "end": 611782
+  },
+  {
+   "text": "extinguishers",
+   "start": 611782,
+   "end": 612616
+  },
+  {
+   "text": "in",
+   "start": 612648,
+   "end": 612696
+  },
+  {
+   "text": "older",
+   "start": 612953,
+   "end": 613177
+  },
+  {
+   "text": "homes",
+   "start": 613194,
+   "end": 613514
+  },
+  {
+   "text": "have",
+   "start": 613514,
+   "end": 613626
+  },
+  {
+   "text": "been",
+   "start": 613675,
+   "end": 613755
+  },
+  {
+   "text": "sitting,",
+   "start": 613787,
+   "end": 614204
+  },
+  {
+   "text": "untouched,",
+   "start": 614797,
+   "end": 615454
+  },
+  {
+   "text": "since",
+   "start": 615711,
+   "end": 616000
+  },
+  {
+   "text": "the",
+   "start": 616000,
+   "end": 616064
+  },
+  {
+   "text": "day",
+   "start": 616096,
+   "end": 616336
+  },
+  {
+   "text": "they",
+   "start": 616336,
+   "end": 616481
+  },
+  {
+   "text": "were",
+   "start": 616481,
+   "end": 616593
+  },
+  {
+   "text": "mounted.",
+   "start": 616593,
+   "end": 616994
+  },
+  {
+   "text": "If",
+   "start": 617539,
+   "end": 617619
+  },
+  {
+   "text": "you",
+   "start": 617619,
+   "end": 617764
+  },
+  {
+   "text": "just",
+   "start": 617764,
+   "end": 617972
+  },
+  {
+   "text": "moved",
+   "start": 618020,
+   "end": 618277
+  },
+  {
+   "text": "into",
+   "start": 618277,
+   "end": 618469
+  },
+  {
+   "text": "a",
+   "start": 618501,
+   "end": 618517
+  },
+  {
+   "text": "new",
+   "start": 618517,
+   "end": 618694
+  },
+  {
+   "text": "place,",
+   "start": 618806,
+   "end": 619111
+  },
+  {
+   "text": "don't",
+   "start": 619544,
+   "end": 619768
+  },
+  {
+   "text": "assume",
+   "start": 619784,
+   "end": 620233
+  },
+  {
+   "text": "whatever's",
+   "start": 620329,
+   "end": 620858
+  },
+  {
+   "text": "already",
+   "start": 620971,
+   "end": 621291
+  },
+  {
+   "text": "mounted",
+   "start": 621291,
+   "end": 621644
+  },
+  {
+   "text": "there",
+   "start": 621644,
+   "end": 621788
+  },
+  {
+   "text": "is",
+   "start": 621788,
+   "end": 621837
+  },
+  {
+   "text": "good.",
+   "start": 621949,
+   "end": 622237
+  },
+  {
+   "text": "Check",
+   "start": 622735,
+   "end": 622975
+  },
+  {
+   "text": "the",
+   "start": 622975,
+   "end": 623055
+  },
+  {
+   "text": "manufacture",
+   "start": 623055,
+   "end": 623777
+  },
+  {
+   "text": "date,",
+   "start": 623777,
+   "end": 624082
+  },
+  {
+   "text": "and",
+   "start": 624354,
+   "end": 624498
+  },
+  {
+   "text": "give",
+   "start": 624498,
+   "end": 624611
+  },
+  {
+   "text": "it",
+   "start": 624611,
+   "end": 624739
+  },
+  {
+   "text": "the",
+   "start": 624739,
+   "end": 624803
+  },
+  {
+   "text": "shake",
+   "start": 624819,
+   "end": 625220
+  },
+  {
+   "text": "test,",
+   "start": 625220,
+   "end": 625797
+  },
+  {
+   "text": "before",
+   "start": 625942,
+   "end": 626166
+  },
+  {
+   "text": "you",
+   "start": 626262,
+   "end": 626359
+  },
+  {
+   "text": "cross",
+   "start": 626359,
+   "end": 626551
+  },
+  {
+   "text": "it",
+   "start": 626679,
+   "end": 626824
+  },
+  {
+   "text": "off",
+   "start": 626824,
+   "end": 626872
+  },
+  {
+   "text": "your",
+   "start": 627000,
+   "end": 627080
+  },
+  {
+   "text": "list.",
+   "start": 627144,
+   "end": 627497
+  },
+  {
+   "text": "If",
+   "start": 627946,
+   "end": 628042
+  },
+  {
+   "text": "you're",
+   "start": 628042,
+   "end": 628187
+  },
+  {
+   "text": "a",
+   "start": 628187,
+   "end": 628203
+  },
+  {
+   "text": "landlord",
+   "start": 628203,
+   "end": 628700
+  },
+  {
+   "text": "yourself,",
+   "start": 628700,
+   "end": 629229
+  },
+  {
+   "text": "this",
+   "start": 629566,
+   "end": 629727
+  },
+  {
+   "text": "is",
+   "start": 629727,
+   "end": 629807
+  },
+  {
+   "text": "a",
+   "start": 629871,
+   "end": 629887
+  },
+  {
+   "text": "liability",
+   "start": 629951,
+   "end": 630497
+  },
+  {
+   "text": "question",
+   "start": 630593,
+   "end": 631042
+  },
+  {
+   "text": "as",
+   "start": 631331,
+   "end": 631379
+  },
+  {
+   "text": "much",
+   "start": 631507,
+   "end": 631748
+  },
+  {
+   "text": "as",
+   "start": 631748,
+   "end": 631892
+  },
+  {
+   "text": "a",
+   "start": 631892,
+   "end": 631956
+  },
+  {
+   "text": "safety",
+   "start": 631956,
+   "end": 632357
+  },
+  {
+   "text": "one.",
+   "start": 632438,
+   "end": 632630
+  },
+  {
+   "text": "A",
+   "start": 633079,
+   "end": 633176
+  },
+  {
+   "text": "dead",
+   "start": 633176,
+   "end": 633400
+  },
+  {
+   "text": "extinguisher",
+   "start": 633400,
+   "end": 634074
+  },
+  {
+   "text": "that",
+   "start": 634074,
+   "end": 634202
+  },
+  {
+   "text": "was",
+   "start": 634202,
+   "end": 634315
+  },
+  {
+   "text": "never",
+   "start": 634395,
+   "end": 634699
+  },
+  {
+   "text": "checked",
+   "start": 634699,
+   "end": 635165
+  },
+  {
+   "text": "is",
+   "start": 635197,
+   "end": 635309
+  },
+  {
+   "text": "a",
+   "start": 635341,
+   "end": 635357
+  },
+  {
+   "text": "bad",
+   "start": 635566,
+   "end": 635822
+  },
+  {
+   "text": "position",
+   "start": 635822,
+   "end": 636272
+  },
+  {
+   "text": "to",
+   "start": 636368,
+   "end": 636432
+  },
+  {
+   "text": "be",
+   "start": 636464,
+   "end": 636657
+  },
+  {
+   "text": "in",
+   "start": 636689,
+   "end": 636833
+  },
+  {
+   "text": "if",
+   "start": 637009,
+   "end": 637106
+  },
+  {
+   "text": "something",
+   "start": 637106,
+   "end": 637394
+  },
+  {
+   "text": "ever",
+   "start": 637491,
+   "end": 637667
+  },
+  {
+   "text": "goes",
+   "start": 637667,
+   "end": 637876
+  },
+  {
+   "text": "wrong.",
+   "start": 637972,
+   "end": 638116
+  },
+  {
+   "text": "Pair",
+   "start": 638694,
+   "end": 638822
+  },
+  {
+   "text": "this",
+   "start": 638934,
+   "end": 639191
+  },
+  {
+   "text": "with",
+   "start": 639191,
+   "end": 639303
+  },
+  {
+   "text": "whatever",
+   "start": 639416,
+   "end": 639817
+  },
+  {
+   "text": "routine",
+   "start": 639817,
+   "end": 640314
+  },
+  {
+   "text": "you",
+   "start": 640314,
+   "end": 640442
+  },
+  {
+   "text": "already",
+   "start": 640619,
+   "end": 640923
+  },
+  {
+   "text": "have",
+   "start": 640956,
+   "end": 641164
+  },
+  {
+   "text": "for",
+   "start": 641196,
+   "end": 641373
+  },
+  {
+   "text": "smoke",
+   "start": 641373,
+   "end": 641693
+  },
+  {
+   "text": "detectors",
+   "start": 641742,
+   "end": 642287
+  },
+  {
+   "text": "and",
+   "start": 642720,
+   "end": 642800
+  },
+  {
+   "text": "carbon",
+   "start": 642800,
+   "end": 643169
+  },
+  {
+   "text": "monoxide",
+   "start": 643185,
+   "end": 643763
+  },
+  {
+   "text": "alarms.",
+   "start": 643763,
+   "end": 644212
+  },
+  {
+   "text": "Same",
+   "start": 644789,
+   "end": 645014
+  },
+  {
+   "text": "seasonal",
+   "start": 645062,
+   "end": 645527
+  },
+  {
+   "text": "check,",
+   "start": 645527,
+   "end": 645944
+  },
+  {
+   "text": "same",
+   "start": 646233,
+   "end": 646458
+  },
+  {
+   "text": "calendar",
+   "start": 646570,
+   "end": 646971
+  },
+  {
+   "text": "reminder.",
+   "start": 646971,
+   "end": 647452
+  },
+  {
+   "text": "One",
+   "start": 648014,
+   "end": 648126
+  },
+  {
+   "text": "habit,",
+   "start": 648238,
+   "end": 648527
+  },
+  {
+   "text": "instead",
+   "start": 648976,
+   "end": 649313
+  },
+  {
+   "text": "of",
+   "start": 649313,
+   "end": 649377
+  },
+  {
+   "text": "three",
+   "start": 649377,
+   "end": 649698
+  },
+  {
+   "text": "separate",
+   "start": 649698,
+   "end": 650147
+  },
+  {
+   "text": "ones",
+   "start": 650259,
+   "end": 650468
+  },
+  {
+   "text": "you",
+   "start": 650500,
+   "end": 650564
+  },
+  {
+   "text": "might",
+   "start": 650564,
+   "end": 650789
+  },
+  {
+   "text": "forget.",
+   "start": 650805,
+   "end": 651206
+  },
+  {
+   "text": "So",
+   "start": 651703,
+   "end": 651848
+  },
+  {
+   "text": "here's",
+   "start": 651864,
+   "end": 652168
+  },
+  {
+   "text": "what",
+   "start": 652168,
+   "end": 652329
+  },
+  {
+   "text": "actually",
+   "start": 652329,
+   "end": 652666
+  },
+  {
+   "text": "matters,",
+   "start": 652666,
+   "end": 653115
+  },
+  {
+   "text": "if",
+   "start": 653484,
+   "end": 653612
+  },
+  {
+   "text": "you",
+   "start": 653612,
+   "end": 653708
+  },
+  {
+   "text": "remember",
+   "start": 653708,
+   "end": 654029
+  },
+  {
+   "text": "nothing",
+   "start": 654029,
+   "end": 654318
+  },
+  {
+   "text": "else.",
+   "start": 654414,
+   "end": 654558
+  },
+  {
+   "text": "The",
+   "start": 655152,
+   "end": 655233
+  },
+  {
+   "text": "gauge",
+   "start": 655233,
+   "end": 655522
+  },
+  {
+   "text": "on",
+   "start": 655570,
+   "end": 655666
+  },
+  {
+   "text": "your",
+   "start": 655699,
+   "end": 655795
+  },
+  {
+   "text": "fire",
+   "start": 655795,
+   "end": 656068
+  },
+  {
+   "text": "extinguisher",
+   "start": 656116,
+   "end": 656807
+  },
+  {
+   "text": "tells",
+   "start": 656920,
+   "end": 657209
+  },
+  {
+   "text": "you",
+   "start": 657225,
+   "end": 657321
+  },
+  {
+   "text": "there's",
+   "start": 657321,
+   "end": 657562
+  },
+  {
+   "text": "pressure.",
+   "start": 657562,
+   "end": 657964
+  },
+  {
+   "text": "It",
+   "start": 658526,
+   "end": 658590
+  },
+  {
+   "text": "does",
+   "start": 658590,
+   "end": 658655
+  },
+  {
+   "text": "not",
+   "start": 658703,
+   "end": 658880
+  },
+  {
+   "text": "tell",
+   "start": 658928,
+   "end": 659105
+  },
+  {
+   "text": "you",
+   "start": 659153,
+   "end": 659249
+  },
+  {
+   "text": "the",
+   "start": 659249,
+   "end": 659330
+  },
+  {
+   "text": "powder",
+   "start": 659410,
+   "end": 659747
+  },
+  {
+   "text": "inside",
+   "start": 659747,
+   "end": 660277
+  },
+  {
+   "text": "is",
+   "start": 660277,
+   "end": 660310
+  },
+  {
+   "text": "still",
+   "start": 660310,
+   "end": 660583
+  },
+  {
+   "text": "loose",
+   "start": 660759,
+   "end": 660904
+  },
+  {
+   "text": "enough",
+   "start": 661016,
+   "end": 661257
+  },
+  {
+   "text": "to",
+   "start": 661257,
+   "end": 661402
+  },
+  {
+   "text": "come",
+   "start": 661402,
+   "end": 661531
+  },
+  {
+   "text": "out.",
+   "start": 661579,
+   "end": 661788
+  },
+  {
+   "text": "Those",
+   "start": 662302,
+   "end": 662511
+  },
+  {
+   "text": "are",
+   "start": 662559,
+   "end": 662623
+  },
+  {
+   "text": "two",
+   "start": 662687,
+   "end": 662928
+  },
+  {
+   "text": "different",
+   "start": 662928,
+   "end": 663201
+  },
+  {
+   "text": "things,",
+   "start": 663250,
+   "end": 663635
+  },
+  {
+   "text": "and",
+   "start": 663989,
+   "end": 664053
+  },
+  {
+   "text": "only",
+   "start": 664214,
+   "end": 664390
+  },
+  {
+   "text": "one",
+   "start": 664455,
+   "end": 664519
+  },
+  {
+   "text": "of",
+   "start": 664567,
+   "end": 664631
+  },
+  {
+   "text": "them",
+   "start": 664696,
+   "end": 664776
+  },
+  {
+   "text": "gets",
+   "start": 664856,
+   "end": 665097
+  },
+  {
+   "text": "checked",
+   "start": 665097,
+   "end": 665499
+  },
+  {
+   "text": "just",
+   "start": 665499,
+   "end": 665676
+  },
+  {
+   "text": "by",
+   "start": 665676,
+   "end": 665917
+  },
+  {
+   "text": "looking.",
+   "start": 665917,
+   "end": 666174
+  },
+  {
+   "text": "The",
+   "start": 666640,
+   "end": 666784
+  },
+  {
+   "text": "actual",
+   "start": 666865,
+   "end": 667154
+  },
+  {
+   "text": "check",
+   "start": 667202,
+   "end": 667523
+  },
+  {
+   "text": "takes",
+   "start": 667604,
+   "end": 667925
+  },
+  {
+   "text": "thirty",
+   "start": 667925,
+   "end": 668166
+  },
+  {
+   "text": "seconds.",
+   "start": 668166,
+   "end": 668616
+  },
+  {
+   "text": "Shake",
+   "start": 669210,
+   "end": 669596
+  },
+  {
+   "text": "it,",
+   "start": 669596,
+   "end": 669676
+  },
+  {
+   "text": "or",
+   "start": 670030,
+   "end": 670158
+  },
+  {
+   "text": "turn",
+   "start": 670158,
+   "end": 670351
+  },
+  {
+   "text": "it",
+   "start": 670351,
+   "end": 670480
+  },
+  {
+   "text": "upside",
+   "start": 670480,
+   "end": 670897
+  },
+  {
+   "text": "down,",
+   "start": 670897,
+   "end": 671186
+  },
+  {
+   "text": "once",
+   "start": 671620,
+   "end": 671797
+  },
+  {
+   "text": "a",
+   "start": 671861,
+   "end": 671877
+  },
+  {
+   "text": "month,",
+   "start": 671877,
+   "end": 672231
+  },
+  {
+   "text": "and",
+   "start": 672584,
+   "end": 672729
+  },
+  {
+   "text": "you",
+   "start": 672729,
+   "end": 672825
+  },
+  {
+   "text": "should",
+   "start": 672825,
+   "end": 673018
+  },
+  {
+   "text": "feel",
+   "start": 673066,
+   "end": 673420
+  },
+  {
+   "text": "and",
+   "start": 673709,
+   "end": 673773
+  },
+  {
+   "text": "hear",
+   "start": 673853,
+   "end": 674062
+  },
+  {
+   "text": "the",
+   "start": 674110,
+   "end": 674271
+  },
+  {
+   "text": "powder",
+   "start": 674271,
+   "end": 674657
+  },
+  {
+   "text": "move",
+   "start": 674657,
+   "end": 674898
+  },
+  {
+   "text": "freely.",
+   "start": 674898,
+   "end": 675315
+  },
+  {
+   "text": "If",
+   "start": 675878,
+   "end": 675958
+  },
+  {
+   "text": "it",
+   "start": 675958,
+   "end": 676087
+  },
+  {
+   "text": "doesn't,",
+   "start": 676103,
+   "end": 676504
+  },
+  {
+   "text": "that",
+   "start": 676826,
+   "end": 676922
+  },
+  {
+   "text": "can",
+   "start": 676922,
+   "end": 677083
+  },
+  {
+   "text": "needs",
+   "start": 677083,
+   "end": 677324
+  },
+  {
+   "text": "replacing,",
+   "start": 677324,
+   "end": 677854
+  },
+  {
+   "text": "whatever",
+   "start": 678207,
+   "end": 678529
+  },
+  {
+   "text": "the",
+   "start": 678529,
+   "end": 678609
+  },
+  {
+   "text": "gauge",
+   "start": 678609,
+   "end": 678898
+  },
+  {
+   "text": "says.",
+   "start": 678946,
+   "end": 679187
+  },
+  {
+   "text": "Go",
+   "start": 679814,
+   "end": 679975
+  },
+  {
+   "text": "check",
+   "start": 679975,
+   "end": 680216
+  },
+  {
+   "text": "the",
+   "start": 680216,
+   "end": 680312
+  },
+  {
+   "text": "one",
+   "start": 680360,
+   "end": 680489
+  },
+  {
+   "text": "under",
+   "start": 680537,
+   "end": 680762
+  },
+  {
+   "text": "your",
+   "start": 680762,
+   "end": 680858
+  },
+  {
+   "text": "sink",
+   "start": 680858,
+   "end": 681099
+  },
+  {
+   "text": "today.",
+   "start": 681099,
+   "end": 681421
+  },
+  {
+   "text": "Look",
+   "start": 681806,
+   "end": 681918
+  },
+  {
+   "text": "at",
+   "start": 681918,
+   "end": 682047
+  },
+  {
+   "text": "the",
+   "start": 682047,
+   "end": 682111
+  },
+  {
+   "text": "date,",
+   "start": 682143,
+   "end": 682432
+  },
+  {
+   "text": "do",
+   "start": 682785,
+   "end": 682945
+  },
+  {
+   "text": "the",
+   "start": 682945,
+   "end": 683041
+  },
+  {
+   "text": "shake,",
+   "start": 683041,
+   "end": 683443
+  },
+  {
+   "text": "and",
+   "start": 683828,
+   "end": 683892
+  },
+  {
+   "text": "make",
+   "start": 683972,
+   "end": 684132
+  },
+  {
+   "text": "sure",
+   "start": 684148,
+   "end": 684341
+  },
+  {
+   "text": "it's",
+   "start": 684373,
+   "end": 684485
+  },
+  {
+   "text": "somewhere",
+   "start": 684485,
+   "end": 684822
+  },
+  {
+   "text": "you",
+   "start": 684935,
+   "end": 685031
+  },
+  {
+   "text": "could",
+   "start": 685031,
+   "end": 685256
+  },
+  {
+   "text": "actually",
+   "start": 685256,
+   "end": 685560
+  },
+  {
+   "text": "reach",
+   "start": 685673,
+   "end": 685962
+  },
+  {
+   "text": "in",
+   "start": 686074,
+   "end": 686122
+  },
+  {
+   "text": "three",
+   "start": 686218,
+   "end": 686411
+  },
+  {
+   "text": "seconds.",
+   "start": 686411,
+   "end": 686844
+  },
+  {
+   "text": "That's",
+   "start": 687502,
+   "end": 687678
+  },
+  {
+   "text": "the",
+   "start": 687678,
+   "end": 687807
+  },
+  {
+   "text": "old",
+   "start": 687823,
+   "end": 687983
+  },
+  {
+   "text": "way.",
+   "start": 687983,
+   "end": 688095
+  },
+  {
+   "text": "Still",
+   "start": 688577,
+   "end": 688817
+  },
+  {
+   "text": "works.",
+   "start": 688882,
+   "end": 689154
+  },
+  {
+   "text": "It",
+   "start": 689764,
+   "end": 689844
+  },
+  {
+   "text": "just",
+   "start": 689844,
+   "end": 690101
+  },
+  {
+   "text": "needs",
+   "start": 690149,
+   "end": 690374
+  },
+  {
+   "text": "the",
+   "start": 690390,
+   "end": 690486
+  },
+  {
+   "text": "thirty",
+   "start": 690486,
+   "end": 690855
+  },
+  {
+   "text": "seconds",
+   "start": 690887,
+   "end": 691336
+  },
+  {
+   "text": "nobody",
+   "start": 691449,
+   "end": 691818
+  },
+  {
+   "text": "ever",
+   "start": 692155,
+   "end": 692331
+  },
+  {
+   "text": "told",
+   "start": 692331,
+   "end": 692588
+  },
+  {
+   "text": "you",
+   "start": 692636,
+   "end": 692716
+  },
+  {
+   "text": "it",
+   "start": 692732,
+   "end": 692780
+  },
+  {
+   "text": "needed.",
+   "start": 692813,
+   "end": 693101
+  },
+  {
+   "text": "If",
+   "start": 693615,
+   "end": 693759
+  },
+  {
+   "text": "you",
+   "start": 693759,
+   "end": 693823
+  },
+  {
+   "text": "want",
+   "start": 693839,
+   "end": 694016
+  },
+  {
+   "text": "more",
+   "start": 694016,
+   "end": 694208
+  },
+  {
+   "text": "of",
+   "start": 694337,
+   "end": 694481
+  },
+  {
+   "text": "these,",
+   "start": 694481,
+   "end": 694626
+  },
+  {
+   "text": "the",
+   "start": 695059,
+   "end": 695139
+  },
+  {
+   "text": "plain",
+   "start": 695139,
+   "end": 695428
+  },
+  {
+   "text": "truth",
+   "start": 695460,
+   "end": 695797
+  },
+  {
+   "text": "about",
+   "start": 695797,
+   "end": 696086
+  },
+  {
+   "text": "the",
+   "start": 696086,
+   "end": 696150
+  },
+  {
+   "text": "stuff",
+   "start": 696166,
+   "end": 696503
+  },
+  {
+   "text": "already",
+   "start": 696647,
+   "end": 696952
+  },
+  {
+   "text": "in",
+   "start": 696984,
+   "end": 697064
+  },
+  {
+   "text": "your",
+   "start": 697064,
+   "end": 697177
+  },
+  {
+   "text": "house,",
+   "start": 697225,
+   "end": 697514
+  },
+  {
+   "text": "subscribe.",
+   "start": 697947,
+   "end": 698524
+  },
+  {
+   "text": "And",
+   "start": 698990,
+   "end": 699054
+  },
+  {
+   "text": "if",
+   "start": 699070,
+   "end": 699198
+  },
+  {
+   "text": "this",
+   "start": 699230,
+   "end": 699359
+  },
+  {
+   "text": "saved",
+   "start": 699391,
+   "end": 699808
+  },
+  {
+   "text": "you",
+   "start": 699808,
+   "end": 699920
+  },
+  {
+   "text": "from",
+   "start": 699936,
+   "end": 700113
+  },
+  {
+   "text": "finding",
+   "start": 700113,
+   "end": 700466
+  },
+  {
+   "text": "out",
+   "start": 700578,
+   "end": 700674
+  },
+  {
+   "text": "the",
+   "start": 700674,
+   "end": 700787
+  },
+  {
+   "text": "hard",
+   "start": 700819,
+   "end": 701043
+  },
+  {
+   "text": "way,",
+   "start": 701076,
+   "end": 701316
+  },
+  {
+   "text": "a",
+   "start": 701781,
+   "end": 701798
+  },
+  {
+   "text": "like",
+   "start": 701798,
+   "end": 702022
+  },
+  {
+   "text": "helps",
+   "start": 702022,
+   "end": 702279
+  },
+  {
+   "text": "it",
+   "start": 702279,
+   "end": 702327
+  },
+  {
+   "text": "reach",
+   "start": 702423,
+   "end": 702568
+  },
+  {
+   "text": "the",
+   "start": 702680,
+   "end": 702776
+  },
+  {
+   "text": "next",
+   "start": 702776,
+   "end": 703161
+  },
+  {
+   "text": "person",
+   "start": 703161,
+   "end": 703562
+  },
+  {
+   "text": "who",
+   "start": 703562,
+   "end": 703659
+  },
+  {
+   "text": "needs",
+   "start": 703659,
+   "end": 703931
+  },
+  {
+   "text": "to",
+   "start": 703980,
+   "end": 704124
+  },
+  {
+   "text": "hear",
+   "start": 704124,
+   "end": 704300
+  },
+  {
+   "text": "it",
+   "start": 704300,
+   "end": 704397
+  },
+  {
+   "text": "too.",
+   "start": 704461,
+   "end": 704702
+  },
+  {
+   "text": "Tell",
+   "start": 705231,
+   "end": 705343
+  },
+  {
+   "text": "me",
+   "start": 705343,
+   "end": 705488
+  },
+  {
+   "text": "in",
+   "start": 705488,
+   "end": 705568
+  },
+  {
+   "text": "the",
+   "start": 705568,
+   "end": 705648
+  },
+  {
+   "text": "comments.",
+   "start": 705648,
+   "end": 706210
+  },
+  {
+   "text": "When's",
+   "start": 706691,
+   "end": 706900
+  },
+  {
+   "text": "the",
+   "start": 706916,
+   "end": 707012
+  },
+  {
+   "text": "last",
+   "start": 707012,
+   "end": 707269
+  },
+  {
+   "text": "time",
+   "start": 707269,
+   "end": 707461
+  },
+  {
+   "text": "you",
+   "start": 707558,
+   "end": 707622
+  },
+  {
+   "text": "actually",
+   "start": 707718,
+   "end": 708103
+  },
+  {
+   "text": "touched",
+   "start": 708199,
+   "end": 708536
+  },
+  {
+   "text": "the",
+   "start": 708536,
+   "end": 708665
+  },
+  {
+   "text": "fire",
+   "start": 708681,
+   "end": 708953
+  },
+  {
+   "text": "extinguisher",
+   "start": 709002,
+   "end": 709563
+  },
+  {
+   "text": "in",
+   "start": 709579,
+   "end": 709627
+  },
+  {
+   "text": "your",
+   "start": 709659,
+   "end": 709804
+  },
+  {
+   "text": "house?",
+   "start": 709804,
+   "end": 710044
+  },
+  {
+   "text": "I've",
+   "start": 710709,
+   "end": 710808
+  },
+  {
+   "text": "got",
+   "start": 710808,
+   "end": 710973
+  },
+  {
+   "text": "a",
+   "start": 710973,
+   "end": 711022
+  },
+  {
+   "text": "feeling",
+   "start": 711022,
+   "end": 711335
+  },
+  {
+   "text": "I",
+   "start": 711450,
+   "end": 711565
+  },
+  {
+   "text": "already",
+   "start": 711615,
+   "end": 711944
+  },
+  {
+   "text": "know",
+   "start": 711944,
+   "end": 712191
+  },
+  {
+   "text": "the",
+   "start": 712191,
+   "end": 712356
+  },
+  {
+   "text": "answer",
+   "start": 712356,
+   "end": 712668
+  },
+  {
+   "text": "for",
+   "start": 712668,
+   "end": 712734
+  },
+  {
+   "text": "most",
+   "start": 712734,
+   "end": 713047
+  },
+  {
+   "text": "of",
+   "start": 713096,
+   "end": 713244
+  },
+  {
+   "text": "you.",
+   "start": 713244,
+   "end": 713343
+  }
+ ],
+ "duration_s": 713.64,
+ "_alignment": "assemblyai-asr (real word timings, aligned to script; frame-accurate)"
+}

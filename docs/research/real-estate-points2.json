@@ -1,0 +1,102 @@
+{
+ "topic": "mortgage rate points explained",
+ "niche": "real-estate",
+ "niche_target": [
+  10,
+  40
+ ],
+ "recent_window": "90d",
+ "long_only": false,
+ "generated": "2026-08-04T21:22:07+00:00",
+ "autocomplete": {
+  "topic": "mortgage rate points explained",
+  "self_suggest_chars": null,
+  "self_suggest_prefix": null,
+  "self_suggest_rank": null,
+  "topic_chars": 30,
+  "reach": null,
+  "head_suggestions": [
+   "mortgage rates points explained",
+   "mortgage rates explained",
+   "mortgage explained",
+   "mortgage rates",
+   "mortgage interest explained"
+  ],
+  "longtail": [
+   "mortgage explained",
+   "mortgage rates explained",
+   "mortgage interest explained",
+   "mortgage rates",
+   "mortgage fees",
+   "mortgage law",
+   "mortgages"
+  ],
+  "longtail_n": 7,
+  "probes": 13,
+  "probe_failures": 0
+ },
+ "year": {
+  "rows": [],
+  "total_results": null
+ },
+ "recent": {
+  "rows": [],
+  "total_results": null
+ },
+ "quota_units_used": 204,
+ "assessment": {
+  "scores": {
+   "demand": 0,
+   "performance": 0,
+   "freshness": 0,
+   "winnability": 1
+  },
+  "why": {
+   "demand": "YouTube never autocompletes this exact phrase, at any prefix — it is not a thing people type",
+   "performance": "nothing on this topic is being watched — best is 0 views/day",
+   "freshness": "nobody has published on this in 90d",
+   "winnability": "no small channel has broken out on this topic"
+  },
+  "total": 1,
+  "verdict": "NO-DEMAND",
+  "big_channel_share": 0.0,
+  "supply_saturated": false,
+  "freshness_ratio": null,
+  "drift": 1.0,
+  "strict_on_topic": false,
+  "downgrade": null,
+  "n_on_topic": 0,
+  "n_sampled": 0,
+  "small_breakouts": []
+ },
+ "angles": [
+  {
+   "q": "mortgage explained",
+   "covered": false
+  },
+  {
+   "q": "mortgage rates explained",
+   "covered": false
+  },
+  {
+   "q": "mortgage interest explained",
+   "covered": false
+  },
+  {
+   "q": "mortgage rates",
+   "covered": false
+  },
+  {
+   "q": "mortgage fees",
+   "covered": false
+  },
+  {
+   "q": "mortgage law",
+   "covered": false
+  },
+  {
+   "q": "mortgage rates points explained",
+   "covered": false
+  }
+ ]
+}

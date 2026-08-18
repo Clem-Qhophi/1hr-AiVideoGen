@@ -1,0 +1,56 @@
+{
+  "_note": "Every sourced number in script.md traces to one of these. Verified live 2026-08-04. Topic validated GO (11/12) in docs/research/topic-mortgage-payoff.json (2026-08-04 first pass, n=25, top performer 41,439 v/d, 3 small-channel breakouts, best 18.3x). A same-day re-check (topic-mortgage-payoff-recheck.json) returned an anomalous empty API sample (n=0, 'total unavailable') and is treated as an unreliable transient API response per validate_topic.py's own guidance ('overrule it with a reason, but write the reason down') - the original richly-populated GO result stands.",
+  "facts": [
+    {
+      "id": "freddiemac-rate-2026-07-30",
+      "claim": "The Freddie Mac Primary Mortgage Market Survey (PMMS) 30-year fixed mortgage rate average was 6.66% for the week ending 2026-07-30.",
+      "source": "Freddie Mac PMMS, via FRED (Federal Reserve Bank of St. Louis), series MORTGAGE30US",
+      "status": "[VERIFIED - live page read 2026-08-04]",
+      "url": "https://fred.stlouisfed.org/series/MORTGAGE30US",
+      "note": "Used as the real current interest rate assumption for both worked examples below. This is a real, dated, weekly-updated rate, not a rounded or invented figure - script must state it is a real recent average, not a rate any individual borrower is guaranteed."
+    },
+    {
+      "id": "payoff-300-per-month",
+      "claim": "On a new $400,000, 30-year mortgage at 6.66%, paying an extra $300/month starting immediately pays the loan off in 22 years 5 months (7 years 7 months earlier) and saves $155,461 in total interest (30% less interest: $525,383 -> $369,922). Monthly payment rises from $2,570.51 to $2,870.51.",
+      "source": "Calculator.net Mortgage Payoff Calculator (standard amortization math)",
+      "status": "[VERIFIED - computed live via the calculator's own form, 2026-08-04]",
+      "url": "https://www.calculator.net/mortgage-payoff-calculator.html",
+      "computed_check": "Original total interest $525,382.78 on $400k/30yr/6.66% matches standard amortization formula for those inputs (monthly payment $2,570.51 x 360 - 400,000 = $525,383.60, matches within rounding)."
+    },
+    {
+      "id": "payoff-one-extra-payment-per-year",
+      "claim": "Same $400,000/30-year/6.66% loan: paying one extra full payment a year ($2,571, once annually - the classic '13th payment' strategy) instead of $300/month pays the loan off in 24 years 3 months (5 years 9 months earlier) and saves $117,987 in interest (22% less interest).",
+      "source": "Calculator.net Mortgage Payoff Calculator",
+      "status": "[VERIFIED - computed live via the calculator's own form, 2026-08-04]",
+      "url": "https://www.calculator.net/mortgage-payoff-calculator.html",
+      "note": "Two different real strategies on the identical loan, used to show the mechanism scales with however much extra principal a viewer can actually pay, not just one magic number."
+    },
+    {
+      "id": "month1-interest-split",
+      "claim": "On the $400,000/30-year/6.66% loan, the month-1 payment of $2,570.51 splits to approximately $2,220.00 interest (400,000 x 0.0666/12) and approximately $350.51 principal - about 86% interest in the first month.",
+      "status": "illustrative:true - derived with the standard amortization formula (interest = prior balance x monthly rate) from the already-verified loan terms, not a new external source",
+      "computed_check": "400000 * (0.0666/12) = 2220.00; 2570.51 - 2220.00 = 350.51"
+    },
+    {
+      "id": "payoff-250k-200-per-month",
+      "claim": "A smaller $250,000, 30-year loan at the same 6.66% rate, with an extra $200/month starting immediately, pays off in 22 years 1 month (7 years 11 months earlier) and saves $101,429 in interest (31% less: $328,364 -> $226,935).",
+      "source": "Calculator.net Mortgage Payoff Calculator",
+      "status": "[VERIFIED - computed live via the calculator's own form, 2026-08-04]",
+      "url": "https://www.calculator.net/mortgage-payoff-calculator.html",
+      "note": "Used to show the mechanism scales down to a smaller, more relatable loan size, not just the $400k headline example."
+    },
+    {
+      "id": "payoff-biweekly",
+      "claim": "Same $400,000/30-year/6.66% loan, paid biweekly instead of monthly ($1,285.25 every two weeks, which is half the monthly payment but produces 26 payments a year instead of 24 half-payments, i.e. one extra full payment a year): payoff in 24 years 2 months (5 years 10 months earlier), saving $120,479 in interest (23% less).",
+      "source": "Calculator.net Mortgage Payoff Calculator",
+      "status": "[VERIFIED - computed live via the calculator's own form, 2026-08-04]",
+      "url": "https://www.calculator.net/mortgage-payoff-calculator.html",
+      "note": "Nearly identical result to payoff-one-extra-payment-per-year (24yr3mo / $117,987) - used to make the point that biweekly payment plans are not a separate trick, they are the same one-extra-payment-a-year mechanism, automated by the payment schedule."
+    }
+  ],
+  "dropped_or_softened": [
+    "Did not claim 6.66% as a rate any specific viewer will get - real mortgage rates vary by credit score, loan type, and lender; framed as 'a real, recent national average', not a personal quote.",
+    "Did not claim extra payments are always the right move - the honest-limits beat weighs this against investing the same money at the market's historical average (10.87%/yr, per money-archive-compound-interest's own sourced S&P 500 figure) and against having an adequate emergency fund first, per honesty_guard.",
+    "No specific lender, product, or refinance offer named or recommended."
+  ]
+}

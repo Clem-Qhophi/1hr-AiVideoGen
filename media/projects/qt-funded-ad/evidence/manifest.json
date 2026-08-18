@@ -1,0 +1,111 @@
+[
+ {
+  "name": "programs",
+  "file": "programs.png",
+  "url": "https://qtfunded.quanttekel.com/",
+  "source": "qtfunded.quanttekel.com, Aug 2026",
+  "selector": "section.pricing-alt",
+  "captured_at": "2026-08-08T14:28:38"
+ },
+ {
+  "name": "features",
+  "file": "features.png",
+  "url": "https://qtfunded.quanttekel.com/",
+  "source": "qtfunded.quanttekel.com, Aug 2026",
+  "selector": "section.features",
+  "captured_at": "2026-08-08T14:28:39"
+ },
+ {
+  "name": "hero",
+  "file": "hero.png",
+  "url": "https://qtfunded.quanttekel.com/",
+  "source": "qtfunded.quanttekel.com, Aug 2026",
+  "selector": "section.hero",
+  "captured_at": "2026-08-08T14:28:42"
+ },
+ {
+  "name": "faq",
+  "file": "faq.png",
+  "url": "https://qtfunded.quanttekel.com/",
+  "source": "qtfunded.quanttekel.com, Aug 2026",
+  "selector": "section.home-faq",
+  "captured_at": "2026-08-08T14:29:49"
+ },
+ {
+  "name": "trust",
+  "file": "trust.png",
+  "url": "https://qtfunded.quanttekel.com/",
+  "source": "qtfunded.quanttekel.com, Aug 2026",
+  "selector": "section.cert-trusted",
+  "captured_at": "2026-08-08T14:29:54"
+ },
+ {
+  "name": "newseason",
+  "file": "newseason.png",
+  "url": "https://qtfunded.quanttekel.com/",
+  "source": "qtfunded.quanttekel.com, Aug 2026",
+  "selector": "section.new-season",
+  "captured_at": "2026-08-08T14:30:02"
+ },
+ {
+  "name": "testimonials",
+  "file": "testimonials.png",
+  "url": "https://qtfunded.quanttekel.com/",
+  "source": "qtfunded.quanttekel.com, Aug 2026",
+  "selector": "section.testi",
+  "captured_at": "2026-08-08T14:30:02"
+ },
+ {
+  "name": "evaluations",
+  "file": "evaluations.png",
+  "url": "https://qtfunded.quanttekel.com/evaluations/",
+  "source": "qtfunded.quanttekel.com/evaluations, Aug 2026",
+  "selector": "section.hero",
+  "captured_at": "2026-08-08T14:30:02"
+ },
+ {
+  "name": "path-selector",
+  "file": "clean/path-selector.png",
+  "url": "https://qtfunded.quanttekel.com/evaluations/",
+  "source": "qtfunded.quanttekel.com/evaluations, Aug 2026 (cropped from evaluations.png, y:1080-1480 of 2160)",
+  "selector": "section.hero (pixel-cropped to the program-tab row + platform/currency toggle + account-size chips only)",
+  "captured_at": "2026-08-08T00:00:00",
+  "note": "v2 fix: original evaluations.png full-viewport capture is fine as source but was never used raw in v1. This crop isolates pure navigation/selector UI with zero pricing, drawdown, profit-split, or promo-code text -- see videos/qt-funded-ad/work/claims-register.md and v1-audit-report.md."
+ },
+ {
+  "name": "platforms",
+  "file": "clean/platforms.png",
+  "url": "https://qtfunded.quanttekel.com/",
+  "source": "qtfunded.quanttekel.com, Aug 2026 (cropped from programs.png, y:4430-4560 of 4838)",
+  "selector": "section.pricing-alt (pixel-cropped to the TradeLocker/cTrader/MetaTrader5 platform-partner logo row only)",
+  "captured_at": "2026-08-08T00:00:00",
+  "note": "v2 fix: programs.png's full section includes the QT Instant pricing grid, drawdown/profit-split figures, and a 55%-off promo banner -- all unapproved per claims-register.md. This crop keeps only the claims-free platform-logo strip."
+ },
+ {
+  "name": "mobile-evaluations",
+  "file": "mobile-evaluations.png",
+  "url": "https://qtfunded.quanttekel.com/evaluations/",
+  "source": "qtfunded.quanttekel.com/evaluations, Aug 2026 (mobile viewport)",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-08T16:46:39"
+ },
+ {
+  "name": "mobile-dropdowns",
+  "file": "clean/mobile-dropdowns.png",
+  "url": "https://qtfunded.quanttekel.com/evaluations/",
+  "source": "qtfunded.quanttekel.com/evaluations, Aug 2026 (cropped from mobile-evaluations.png, y:560-1100 of 10196, 430px viewport)",
+  "selector": "the four program/platform/currency/size selector dropdowns only -- no pricing card, no profit target, no drawdown, no promo code",
+  "captured_at": "2026-08-08T00:00:00",
+  "note": "v2's primary real-evidence asset for 9:16 -- natural mobile-layout aspect ratio (unlike a desktop-viewport crop, which is too wide/short to read well in a vertical frame). Zero claims from claims-register.md's unapproved list."
+ },
+ {
+  "name": "mobile-platforms",
+  "file": "clean/mobile-platforms.png",
+  "url": "https://qtfunded.quanttekel.com/evaluations/",
+  "source": "qtfunded.quanttekel.com/evaluations, Aug 2026 (cropped from mobile-evaluations.png, y:2570-2800 of 10196, 430px viewport)",
+  "selector": "TradeLocker/cTrader/MetaTrader5 partner-logo row + the harmless 'How to choose the right evaluation?' FAQ label -- crops out the payout-certificate wall and trader-count stats directly below it",
+  "captured_at": "2026-08-08T00:00:00",
+  "note": "v2's second real-evidence asset. The full section this sits in (TRUSTED BY 120,000 TRADERS, payout certs) is excluded per claims-register.md rows 1-4; this crop stops before any of that."
+ }
+]

@@ -1,0 +1,24 @@
+{
+  "master": "videos/maviga-real-estate/reference/master-cutdown-silent.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/maviga-real-estate/output/maviga-real-estate-cutdown-preview.mp4",
+    "out": "videos/maviga-real-estate/output/maviga-real-estate-cutdown-sfx.mp4"
+  },
+  "_note": "15s cutdown: text-driven, no VO. Same restrained palette as the 30s: whooshes at the four shot cuts, piano on the money lines, a send cue on the WhatsApp line.",
+  "events": [
+    {"at_s": 0.1, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVHook", "cue": "into hook"},
+    {"at_s": 0.9, "sfx_id": "piano-c-maj", "gain_db": -2, "shot": "MVHook", "cue": "GHC 5,000 DOWN caption"},
+    {"at_s": 2.0, "sfx_id": "chime-reward", "gain_db": -6, "shot": "MVHook", "cue": "THE LAND IS YOURS"},
+    {"at_s": 3.3, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVLand", "cue": "into land"},
+    {"at_s": 4.5, "sfx_id": "piano-g-maj", "gain_db": -2, "shot": "MVLand", "cue": "FULL PLOTS AT DAWHENYA"},
+    {"at_s": 7.0, "sfx_id": "warm-shimmer", "gain_db": -4, "shot": "MVLand", "cue": "80x80 schematic"},
+    {"at_s": 9.0, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVCash", "cue": "into cash"},
+    {"at_s": 9.8, "sfx_id": "chime-reward", "gain_db": -4, "shot": "MVCash", "cue": "GHC 30,000 CASH"},
+    {"at_s": 11.5, "sfx_id": "pop-reveal", "gain_db": -2, "shot": "MVCash", "cue": "flyer option crops"},
+    {"at_s": 12.3, "sfx_id": "whoosh-soft", "gain_db": 0, "shot": "MVCTA", "cue": "into cta"},
+    {"at_s": 13.2, "sfx_id": "ui-send", "gain_db": -4, "shot": "MVCTA", "cue": "MESSAGE US ON WHATSAPP"},
+    {"at_s": 14.3, "sfx_id": "piano-c-maj", "gain_db": -3, "shot": "MVCTA", "cue": "054 072 1425"}
+  ]
+}

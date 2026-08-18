@@ -1,0 +1,18 @@
+[
+ {
+  "name": "bankrate-fee-breakdown",
+  "file": "bankrate-fee-breakdown.png",
+  "url": "https://www.bankrate.com/mortgages/what-are-closing-costs/",
+  "source": "Bankrate, Closing Costs: What Are They And How Much Are They?",
+  "selector": null,
+  "captured_at": "2026-08-02T20:15:59"
+ },
+ {
+  "name": "housingwire-lodestar-yoy",
+  "file": "housingwire-lodestar-yoy.png",
+  "url": "https://www.housingwire.com/articles/2025-closing-costs-down/",
+  "source": "HousingWire, citing LodeStar's Year-Over-Year Mortgage Closing Cost Report, June 30, 2026",
+  "selector": null,
+  "captured_at": "2026-08-02T20:27:30"
+ }
+]

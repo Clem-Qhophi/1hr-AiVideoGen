@@ -1,0 +1,52 @@
+{
+  "id": "entertainment",
+  "name": "Entertainment / stories / list-driven curiosity",
+  "audience": "broad, 18-45, watching to be entertained not informed; retention is everything",
+  "reference_titles": [
+    "She Vanished 44 Years Ago...Did We Just Find Her?? (DOUG BISHOP, 78,450 views/day)",
+    "Her Killer Was the Last Person Anyone Suspected (Othram Studios, 66,274 views/day)",
+    "Billionaire Heiress Gave Black Janitor Her Late Father's Rusty Car... (Soren Speaks, 19,517 views/day)",
+    "Untold Stories from the War in Afghanistan (Wartime Stories, 22,628 views/day)"
+  ],
+  "_reference_titles_source": "BACKFILLED live via tools/yt_research.py 2026-08-02 (--query 'untold true story,nobody noticed until years later,the man who disappeared for decades,true story worth millions' --window all --long-only) - this niche had no reference_titles at all before now. Raw data: docs/research/entertainment.json / .txt. Strongly confirms the curiosity-gap formula: unresolved questions ('Did we just find her??'), specific numbers/timeframes, and 'the last person anyone suspected' misdirection all recur across genuinely high-vpd real videos, mostly true-crime/cold-case and heartwarming-reveal subgenres. RUNTIME FLAG worth the user's attention: 30d/365d medians landed at 44-51 min (p75 71-95 min) - well above this niche's current [10,30] target_minutes ceiling. Real winners in this exact format (unresolved mystery / true story) skew noticeably longer than what this channel is currently planning for. Flagging as a proposal, not changing target_minutes unilaterally - CLAUDE.md's rule is length is always proposed and confirmed, never assumed.",
+  "title": {
+    "formula": "[curiosity gap] + [specificity] + [implied payoff], never fully resolved by the title",
+    "ingredients": {
+      "gap": ["The Man Who", "Nobody Noticed", "They Never Told You"],
+      "specificity": ["for 40 years", "in one night", "worth $2 million"],
+      "payoff": ["and it worked", "until someone checked"]
+    },
+    "rules": [
+      "The title must open a loop the thumbnail does not close.",
+      "Specific numbers and dates beat vague intrigue - specificity IS the curiosity.",
+      "Do not resolve the hook in the title. That is the one rule that separates this from home-hacks."
+    ]
+  },
+  "script": {
+    "target_minutes": [25, 50],
+    "_target_minutes_note": "WIDENED 2026-08-02 from [10,30] on the user's explicit call, to match live yt_research data (docs/research/entertainment.json). Real winners in this exact lane (unresolved-mystery / true-story long-form) ran medians of 36 min (24h) / 51 min (30d) / 44 min (365d), with p25 at 23-34 min and p75 at 41-95 min - the old 30-min ceiling sat BELOW the median of what actually performs here, meaning every video was being planned shorter than the format's own audience expects. The new range spans roughly p25 to just above median; the 71-95 min p75 tail is deliberately NOT chased - that is documentary/podcast territory and the production cost is not justified on this pipeline (see docs/IMPROVEMENT-QUEUE.md R6). Default proposal is 40 min (channel-persona.entertainment.json default_target_seconds 2400). COST REALITY, state it when proposing: 40 min = ~7,092 narration words and ~400 visual beats at the current 6.0s cadence (verified via `plan_runtime.py budget 40 --niche entertainment`). That is roughly double the script and image-sourcing load of a 20-min video. If that beat count proves unworkable in practice, the lever to pull is pacing.beat_seconds (6.0 is fast for a 40-min story piece), NOT quietly shipping short of the target. Per CLAUDE.md, still propose the specific runtime per video and get it confirmed - this range is the envelope, not an automatic 40 min.",
+    "structure": [
+      { "beat": "cold-open-tease", "share": 0.05, "note": "Drop the viewer into the most dramatic moment. Do not explain it yet." },
+      { "beat": "rewind", "share": 0.15, "note": "Go back to the beginning. Now the tease has weight." },
+      { "beat": "escalation", "share": 0.45, "note": "Chronological build. Each beat raises the stakes and opens a new small loop before closing the last." },
+      { "beat": "turn", "share": 0.15, "note": "The reveal the cold open promised." },
+      { "beat": "aftermath", "share": 0.12, "note": "Consequences. Lets the viewer come down." },
+      { "beat": "close", "share": 0.08, "note": "One resonant line, then the next-video hook." }
+    ],
+    "voice_rules": [
+      "Vary sentence length hard - short punch, then a long winding one. Monotony kills this niche.",
+      "Never close every loop at once; always have one question live.",
+      "Present tense for tension, past tense for reflection."
+    ],
+    "honesty_guard": "Storytelling licence covers pacing and framing, NOT invented facts about real people. Real names require real sources. If it is dramatised or uncertain, say so on screen."
+  },
+  "pacing": { "beat_seconds": 6.0, "beat_jitter": 2.5, "hook_beat_seconds": 3.0, "hook_seconds": 25 },
+  "images": {
+    "style": "cinematic, moody, high contrast, archival where the story is historical",
+    "query_hints": ["vintage photograph", "old newspaper", "empty road at night", "storm clouds", "abandoned building", "city lights"],
+    "avoid": ["cheerful stock models", "flat corporate illustration", "clip art"]
+  },
+  "sound": { "music_bed": "cinematic-min", "bed_gain_db": -3, "sfx_density": "medium-high", "sfx_palette": ["impact-deep-soft", "riser-soft", "whoosh-reverse", "clock-tick-soft", "warm-shimmer"],
+   "_bed_gain_note": "Corrected 2026-07-30 (was -13, never measured). cinematic-min's own mean is -23.7dB; -13 put the effective bed near -37dB, inaudible against a ~-25dB speech-gap floor. -3 lands it at the validated -27dB target. Re-derive if the bed clip changes: bed_gain_db = -27 - <clip's measured mean dB>." },
+  "voice": { "tone": "narrator, deliberate, theatrical restraint", "tts_voice_hint": "warm low, variable pacing" }
+}

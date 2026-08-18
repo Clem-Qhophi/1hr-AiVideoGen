@@ -1,0 +1,23 @@
+{
+  "id": "EmphasisCaptions-maviga-real-estate-cutdown",
+  "project": "maviga-real-estate",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "duration_s": 15.0,
+  "font_size": 62,
+  "pad_bottom": 384,
+  "clean": false,
+  "em_style": "color",
+  "_note": "15s cutdown: text-driven (no VO), key lines only, synced to the cutdown shot timeline. Phrases are whole lines so each beat carries one big readable statement. Safe zone respected (pad_bottom 384 of 1920 = bottom 20%).",
+  "phrases": [
+    {"s": 2, "e": 90, "w": [{"t": "GHC 5,000 DOWN.", "s": 2, "e": 90, "m": 1, "why": "hook"}]},
+    {"s": 40, "e": 98, "w": [{"t": "THE LAND IS YOURS.", "s": 40, "e": 98, "m": 1, "why": "hook"}]},
+    {"s": 100, "e": 220, "w": [{"t": "FULL PLOTS AT DAWHENYA", "s": 100, "e": 220, "m": 1, "why": "location"}]},
+    {"s": 160, "e": 268, "w": [{"t": "80×80 FT · ROADS CLEARED", "s": 160, "e": 268, "m": 1, "why": "spec"}]},
+    {"s": 272, "e": 350, "w": [{"t": "GHC 30,000 CASH", "s": 272, "e": 350, "m": 1, "why": "price"}]},
+    {"s": 320, "e": 368, "w": [{"t": "OR SPREAD IT", "s": 320, "e": 368, "m": 0}]},
+    {"s": 372, "e": 440, "w": [{"t": "MESSAGE US ON WHATSAPP", "s": 372, "e": 440, "m": 1, "why": "cta"}]},
+    {"s": 425, "e": 450, "w": [{"t": "054 072 1425", "s": 425, "e": 450, "m": 1, "why": "contact"}]}
+  ]
+}

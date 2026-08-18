@@ -1,0 +1,60 @@
+{
+  "_note": "Long-form Ken-Burns pipeline: cues sync to key moments in work/beats.json (evidence reveals, hook, mid-roll CTA, close), not to Remotion timeline.json shots. Density kept LOW per niches/home-hacks.json sound.sfx_density - same 7-cue pattern used on videos 4-6 this session.",
+  "master": "videos/diatomaceous-earth-truth/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/diatomaceous-earth-truth/output/diatomaceous-earth-truth-captioned.mp4",
+    "out": "videos/diatomaceous-earth-truth/output/diatomaceous-earth-truth-sfx.mp4",
+    "end_s": 873.216,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.2,
+      "sfx_id": "clock-tick-soft",
+      "gain_db": -10,
+      "cue": "cold open: 'an eight-dollar bag of powder... breathing something closer to ground glass'",
+      "note": "opens the retention loop around the food-grade vs pool-grade danger"
+    },
+    {
+      "at_s": 199.49,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-npic-mechanism card lands: the dehydration mechanism explained",
+      "note": "first hero beat - how the powder actually kills a bug"
+    },
+    {
+      "at_s": 317.23,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-pestzero-grades card lands: food-grade vs pool-grade crystalline silica",
+      "note": "second hero beat - the payoff, the safety-critical distinction"
+    },
+    {
+      "at_s": 368.87,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -11,
+      "cue": "mid-roll subscribe mention"
+    },
+    {
+      "at_s": 804.82,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "close section: recap begins, both facts restated"
+    },
+    {
+      "at_s": 820.66,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "second evidence recap card, the food-grade label check restated"
+    },
+    {
+      "at_s": 848.01,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -10,
+      "cue": "Walt's sign-off line: 'That's the old way. Still works.'",
+      "note": "signature line - identical treatment to videos 4-6 for consistency"
+    }
+  ]
+}

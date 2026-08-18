@@ -1,0 +1,847 @@
+{
+ "niche": "real-estate",
+ "output": {
+  "w": 1920,
+  "h": 1080,
+  "fps": 30,
+  "out": "output/re-city-down-payment-visuals.mp4"
+ },
+ "audio": "work/audio/voiceover.mp3",
+ "beats": [
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-0.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 0.0,
+   "end_s": 4.67,
+   "move": "auto",
+   "cue": "There is a video going around right now claiming certain cities will pay your entire down payment. Skip the ba"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 4.67,
+   "end_s": 9.16,
+   "move": "auto",
+   "cue": "There is a video going around right now claiming certain cities will pay your entire down payment. Skip the ba"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-1.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 9.16,
+   "end_s": 14.7,
+   "move": "auto",
+   "cue": "There is a video going around right now claiming certain cities will pay your entire down payment. Skip the ba"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 14.7,
+   "end_s": 18.34,
+   "move": "auto",
+   "cue": "But there is something real hiding underneath that myth. Three actual cities, with a real mechanism, that can "
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 18.34,
+   "end_s": 21.98,
+   "move": "auto",
+   "cue": "But there is something real hiding underneath that myth. Three actual cities, with a real mechanism, that can "
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 21.98,
+   "end_s": 25.62,
+   "move": "auto",
+   "cue": "But there is something real hiding underneath that myth. Three actual cities, with a real mechanism, that can "
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 25.62,
+   "end_s": 29.26,
+   "move": "auto",
+   "cue": "But there is something real hiding underneath that myth. Three actual cities, with a real mechanism, that can "
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 29.26,
+   "end_s": 34.08,
+   "move": "auto",
+   "cue": "But there is something real hiding underneath that myth. Three actual cities, with a real mechanism, that can "
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 34.08,
+   "end_s": 40.32,
+   "move": "auto",
+   "cue": "Here is why the myth is actually dangerous, not just wrong.  People search for \"free down payment\" and land on"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 40.32,
+   "end_s": 47.7,
+   "move": "auto",
+   "cue": "Here is why the myth is actually dangerous, not just wrong.  People search for \"free down payment\" and land on"
+  },
+  {
+   "image": "work\\images\\005-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 47.7,
+   "end_s": 54.86,
+   "move": "auto",
+   "cue": "Meanwhile, the real programs sit right there, mostly ignored, because they do not sound flashy enough to go vi"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 54.86,
+   "end_s": 63.12,
+   "move": "auto",
+   "cue": "Meanwhile, the real programs sit right there, mostly ignored, because they do not sound flashy enough to go vi"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 63.12,
+   "end_s": 69.87,
+   "move": "auto",
+   "cue": "So let's do the boring version. It is worth more to you than the exciting one.  Think of it like a coupon vers"
+  },
+  {
+   "image": "work\\images\\006-open-house-0.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 69.87,
+   "end_s": 76.62,
+   "move": "auto",
+   "cue": "So let's do the boring version. It is worth more to you than the exciting one.  Think of it like a coupon vers"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 76.62,
+   "end_s": 84.51,
+   "move": "auto",
+   "cue": "So let's do the boring version. It is worth more to you than the exciting one.  Think of it like a coupon vers"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 84.51,
+   "end_s": 91.73,
+   "move": "auto",
+   "cue": "First, the mechanism itself. What these programs actually are.  Nearly all of them work the same way. A city o"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 91.73,
+   "end_s": 98.95,
+   "move": "auto",
+   "cue": "First, the mechanism itself. What these programs actually are.  Nearly all of them work the same way. A city o"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 98.95,
+   "end_s": 106.18,
+   "move": "auto",
+   "cue": "First, the mechanism itself. What these programs actually are.  Nearly all of them work the same way. A city o"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 106.18,
+   "end_s": 113.4,
+   "move": "auto",
+   "cue": "First, the mechanism itself. What these programs actually are.  Nearly all of them work the same way. A city o"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 113.4,
+   "end_s": 120.62,
+   "move": "auto",
+   "cue": "First, the mechanism itself. What these programs actually are.  Nearly all of them work the same way. A city o"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 120.62,
+   "end_s": 128.92,
+   "move": "auto",
+   "cue": "First, the mechanism itself. What these programs actually are.  Nearly all of them work the same way. A city o"
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\southbend-chc.png",
+   "image_query": "EVIDENCE-southbend-chc",
+   "image_prompt": "EVIDENCE-southbend-chc, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 128.92,
+   "end_s": 135.29,
+   "move": "none",
+   "cue": "City one. South Bend, Indiana.  Per Community Homebuyers Corporation, the city's program partner, qualifying b",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\southbend-chc.png",
+   "image_query": "EVIDENCE-southbend-chc",
+   "image_prompt": "EVIDENCE-southbend-chc, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 135.29,
+   "end_s": 141.66,
+   "move": "none",
+   "cue": "City one. South Bend, Indiana.  Per Community Homebuyers Corporation, the city's program partner, qualifying b",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\southbend-chc.png",
+   "image_query": "EVIDENCE-southbend-chc",
+   "image_prompt": "EVIDENCE-southbend-chc, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 141.66,
+   "end_s": 148.02,
+   "move": "none",
+   "cue": "City one. South Bend, Indiana.  Per Community Homebuyers Corporation, the city's program partner, qualifying b",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\southbend-chc.png",
+   "image_query": "EVIDENCE-southbend-chc",
+   "image_prompt": "EVIDENCE-southbend-chc, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 148.02,
+   "end_s": 154.39,
+   "move": "none",
+   "cue": "City one. South Bend, Indiana.  Per Community Homebuyers Corporation, the city's program partner, qualifying b",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\southbend-chc.png",
+   "image_query": "EVIDENCE-southbend-chc",
+   "image_prompt": "EVIDENCE-southbend-chc, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 154.39,
+   "end_s": 161.87,
+   "move": "none",
+   "cue": "City one. South Bend, Indiana.  Per Community Homebuyers Corporation, the city's program partner, qualifying b",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/southbend-math.png",
+   "image_query": "card-southbend-math",
+   "image_prompt": "card-southbend-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 161.87,
+   "end_s": 169.42,
+   "move": "none",
+   "cue": "There are real limits. The home price cannot exceed one hundred seventy five thousand dollars. And here is the",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/southbend-math.png",
+   "image_query": "card-southbend-math",
+   "image_prompt": "card-southbend-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 169.42,
+   "end_s": 176.96,
+   "move": "none",
+   "cue": "There are real limits. The home price cannot exceed one hundred seventy five thousand dollars. And here is the",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/southbend-math.png",
+   "image_query": "card-southbend-math",
+   "image_prompt": "card-southbend-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 176.96,
+   "end_s": 184.51,
+   "move": "none",
+   "cue": "There are real limits. The home price cannot exceed one hundred seventy five thousand dollars. And here is the",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/southbend-math.png",
+   "image_query": "card-southbend-math",
+   "image_prompt": "card-southbend-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 184.51,
+   "end_s": 193.14,
+   "move": "none",
+   "cue": "There are real limits. The home price cannot exceed one hundred seventy five thousand dollars. And here is the",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\baltimore-bib.png",
+   "image_query": "EVIDENCE-baltimore-bib",
+   "image_prompt": "EVIDENCE-baltimore-bib, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 193.14,
+   "end_s": 200.84,
+   "move": "none",
+   "cue": "City two. Baltimore, Maryland.  Per Live Baltimore's own program page, the \"Buying Into Baltimore\" incentive o",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\baltimore-bib.png",
+   "image_query": "EVIDENCE-baltimore-bib",
+   "image_prompt": "EVIDENCE-baltimore-bib, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 200.84,
+   "end_s": 209.58,
+   "move": "none",
+   "cue": "City two. Baltimore, Maryland.  Per Live Baltimore's own program page, the \"Buying Into Baltimore\" incentive o",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/baltimore-math.png",
+   "image_query": "card-baltimore-math",
+   "image_prompt": "card-baltimore-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 209.58,
+   "end_s": 217.16,
+   "move": "none",
+   "cue": "Here is the catch. It is not first-come, first-served. It is a lottery. Only twenty winners are selected each ",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/baltimore-math.png",
+   "image_query": "card-baltimore-math",
+   "image_prompt": "card-baltimore-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 217.16,
+   "end_s": 224.75,
+   "move": "none",
+   "cue": "Here is the catch. It is not first-come, first-served. It is a lottery. Only twenty winners are selected each ",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/baltimore-math.png",
+   "image_query": "card-baltimore-math",
+   "image_prompt": "card-baltimore-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 224.75,
+   "end_s": 232.33,
+   "move": "none",
+   "cue": "Here is the catch. It is not first-come, first-served. It is a lottery. Only twenty winners are selected each ",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/baltimore-math.png",
+   "image_query": "card-baltimore-math",
+   "image_prompt": "card-baltimore-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 232.33,
+   "end_s": 241.0,
+   "move": "none",
+   "cue": "Here is the catch. It is not first-come, first-served. It is a lottery. Only twenty winners are selected each ",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\newark-live.png",
+   "image_query": "EVIDENCE-newark-live",
+   "image_prompt": "EVIDENCE-newark-live, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 241.0,
+   "end_s": 247.76,
+   "move": "none",
+   "cue": "City three. Newark, New Jersey.  Per the city's own Live Newark program page, first-time buyers can get a twen",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\newark-live.png",
+   "image_query": "EVIDENCE-newark-live",
+   "image_prompt": "EVIDENCE-newark-live, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 247.76,
+   "end_s": 254.51,
+   "move": "none",
+   "cue": "City three. Newark, New Jersey.  Per the city's own Live Newark program page, first-time buyers can get a twen",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\newark-live.png",
+   "image_query": "EVIDENCE-newark-live",
+   "image_prompt": "EVIDENCE-newark-live, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 254.51,
+   "end_s": 262.32,
+   "move": "none",
+   "cue": "City three. Newark, New Jersey.  Per the city's own Live Newark program page, first-time buyers can get a twen",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/newark-math.png",
+   "image_query": "card-newark-math",
+   "image_prompt": "card-newark-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 262.32,
+   "end_s": 268.73,
+   "move": "none",
+   "cue": "Per the city's own data, the average buyer using this program earned around fifty four thousand dollars a year",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/newark-math.png",
+   "image_query": "card-newark-math",
+   "image_prompt": "card-newark-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 268.73,
+   "end_s": 275.13,
+   "move": "none",
+   "cue": "Per the city's own data, the average buyer using this program earned around fifty four thousand dollars a year",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/newark-math.png",
+   "image_query": "card-newark-math",
+   "image_prompt": "card-newark-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 275.13,
+   "end_s": 282.61,
+   "move": "none",
+   "cue": "Per the city's own data, the average buyer using this program earned around fifty four thousand dollars a year",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 282.61,
+   "end_s": 289.94,
+   "move": "auto",
+   "cue": "Notice what all three have in common. None of them replace a mortgage. Every single one still requires you to "
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 289.94,
+   "end_s": 297.27,
+   "move": "auto",
+   "cue": "Notice what all three have in common. None of them replace a mortgage. Every single one still requires you to "
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 297.27,
+   "end_s": 304.6,
+   "move": "auto",
+   "cue": "Notice what all three have in common. None of them replace a mortgage. Every single one still requires you to "
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 304.6,
+   "end_s": 311.93,
+   "move": "auto",
+   "cue": "Notice what all three have in common. None of them replace a mortgage. Every single one still requires you to "
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 311.93,
+   "end_s": 319.25,
+   "move": "auto",
+   "cue": "Notice what all three have in common. None of them replace a mortgage. Every single one still requires you to "
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 319.25,
+   "end_s": 326.58,
+   "move": "auto",
+   "cue": "Notice what all three have in common. None of them replace a mortgage. Every single one still requires you to "
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 326.58,
+   "end_s": 335.06,
+   "move": "auto",
+   "cue": "Notice what all three have in common. None of them replace a mortgage. Every single one still requires you to "
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 335.06,
+   "end_s": 341.98,
+   "move": "auto",
+   "cue": "Now the honest part, because these programs get exaggerated for a reason. The real details are less exciting t"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 341.98,
+   "end_s": 348.9,
+   "move": "auto",
+   "cue": "Now the honest part, because these programs get exaggerated for a reason. The real details are less exciting t"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 348.9,
+   "end_s": 355.81,
+   "move": "auto",
+   "cue": "Now the honest part, because these programs get exaggerated for a reason. The real details are less exciting t"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 355.81,
+   "end_s": 362.73,
+   "move": "auto",
+   "cue": "Now the honest part, because these programs get exaggerated for a reason. The real details are less exciting t"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 362.73,
+   "end_s": 369.65,
+   "move": "auto",
+   "cue": "Now the honest part, because these programs get exaggerated for a reason. The real details are less exciting t"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 369.65,
+   "end_s": 377.69,
+   "move": "auto",
+   "cue": "Now the honest part, because these programs get exaggerated for a reason. The real details are less exciting t"
+  },
+  {
+   "image": "work\\images\\013-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 377.69,
+   "end_s": 384.01,
+   "move": "auto",
+   "cue": "Second, these programs run on limited funding. Baltimore caps it at twenty winners a year, by lottery. Other c"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 384.01,
+   "end_s": 390.34,
+   "move": "auto",
+   "cue": "Second, these programs run on limited funding. Baltimore caps it at twenty winners a year, by lottery. Other c"
+  },
+  {
+   "image": "work\\images\\013-residential-street-1.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 390.34,
+   "end_s": 396.66,
+   "move": "auto",
+   "cue": "Second, these programs run on limited funding. Baltimore caps it at twenty winners a year, by lottery. Other c"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 396.66,
+   "end_s": 402.99,
+   "move": "auto",
+   "cue": "Second, these programs run on limited funding. Baltimore caps it at twenty winners a year, by lottery. Other c"
+  },
+  {
+   "image": "work\\images\\013-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 402.99,
+   "end_s": 410.55,
+   "move": "auto",
+   "cue": "Second, these programs run on limited funding. Baltimore caps it at twenty winners a year, by lottery. Other c"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 410.55,
+   "end_s": 416.98,
+   "move": "auto",
+   "cue": "Third, this is three real examples, not a complete national list. Hundreds of similar programs exist across di"
+  },
+  {
+   "image": "work\\images\\005-calculator-desk-paperwork-1.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 416.98,
+   "end_s": 423.42,
+   "move": "auto",
+   "cue": "Third, this is three real examples, not a complete national list. Hundreds of similar programs exist across di"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 423.42,
+   "end_s": 429.85,
+   "move": "auto",
+   "cue": "Third, this is three real examples, not a complete national list. Hundreds of similar programs exist across di"
+  },
+  {
+   "image": "work\\images\\005-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 429.85,
+   "end_s": 436.29,
+   "move": "auto",
+   "cue": "Third, this is three real examples, not a complete national list. Hundreds of similar programs exist across di"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 436.29,
+   "end_s": 443.86,
+   "move": "auto",
+   "cue": "Third, this is three real examples, not a complete national list. Hundreds of similar programs exist across di"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 443.86,
+   "end_s": 451.39,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how these specific programs"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 451.39,
+   "end_s": 458.93,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how these specific programs"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 458.93,
+   "end_s": 467.55,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how these specific programs"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 467.55,
+   "end_s": 475.22,
+   "move": "auto",
+   "cue": "So here is exactly what to do this week.  One. Search your own city or county name plus \"down payment assistan"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 475.22,
+   "end_s": 482.88,
+   "move": "auto",
+   "cue": "So here is exactly what to do this week.  One. Search your own city or county name plus \"down payment assistan"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 482.88,
+   "end_s": 491.6,
+   "move": "auto",
+   "cue": "So here is exactly what to do this week.  One. Search your own city or county name plus \"down payment assistan"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 491.6,
+   "end_s": 497.76,
+   "move": "auto",
+   "cue": "Two. Read the eligibility page fully before you do anything else. Income limits, occupancy years, and price ca"
+  },
+  {
+   "image": "work\\images\\006-open-house-1.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 497.76,
+   "end_s": 503.92,
+   "move": "auto",
+   "cue": "Two. Read the eligibility page fully before you do anything else. Income limits, occupancy years, and price ca"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 503.92,
+   "end_s": 510.07,
+   "move": "auto",
+   "cue": "Two. Read the eligibility page fully before you do anything else. Income limits, occupancy years, and price ca"
+  },
+  {
+   "image": "work\\images\\006-open-house-0.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 510.07,
+   "end_s": 517.19,
+   "move": "auto",
+   "cue": "Two. Read the eligibility page fully before you do anything else. Income limits, occupancy years, and price ca"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 517.19,
+   "end_s": 524.46,
+   "move": "auto",
+   "cue": "Three. Check the application order carefully. South Bend disqualifies you for signing a purchase agreement too"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 524.46,
+   "end_s": 532.85,
+   "move": "auto",
+   "cue": "Three. Check the application order carefully. South Bend disqualifies you for signing a purchase agreement too"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 532.85,
+   "end_s": 539.64,
+   "move": "auto",
+   "cue": "Four. Get pre-approved with a private lender at the same time you apply to the city program, not after. You wi"
+  },
+  {
+   "image": "work\\images\\005-calculator-desk-paperwork-1.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 539.64,
+   "end_s": 546.44,
+   "move": "auto",
+   "cue": "Four. Get pre-approved with a private lender at the same time you apply to the city program, not after. You wi"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 546.44,
+   "end_s": 554.27,
+   "move": "auto",
+   "cue": "Four. Get pre-approved with a private lender at the same time you apply to the city program, not after. You wi"
+  },
+  {
+   "image": "work\\images\\005-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 554.27,
+   "end_s": 561.12,
+   "move": "auto",
+   "cue": "Five. Ask directly what happens if you move before the forgiveness period ends. That answer, in writing, tells"
+  },
+  {
+   "image": "work\\images\\004-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 561.12,
+   "end_s": 567.96,
+   "move": "auto",
+   "cue": "Five. Ask directly what happens if you move before the forgiveness period ends. That answer, in writing, tells"
+  },
+  {
+   "image": "work\\images\\005-calculator-desk-paperwork-1.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 567.96,
+   "end_s": 575.88,
+   "move": "auto",
+   "cue": "Five. Ask directly what happens if you move before the forgiveness period ends. That answer, in writing, tells"
+  },
+  {
+   "image": "work/cards/southbend-math.png",
+   "image_query": "card-southbend-math",
+   "image_prompt": "card-southbend-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 575.88,
+   "end_s": 583.31,
+   "move": "none",
+   "cue": "So, quickly, the three real programs.  South Bend, twenty percent of your purchase price, forgivable. Baltimor",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/southbend-math.png",
+   "image_query": "card-southbend-math",
+   "image_prompt": "card-southbend-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 583.31,
+   "end_s": 591.76,
+   "move": "none",
+   "cue": "So, quickly, the three real programs.  South Bend, twenty percent of your purchase price, forgivable. Baltimor",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-city-down-payment\\evidence\\newark-live.png",
+   "image_query": "EVIDENCE-newark-live",
+   "image_prompt": "EVIDENCE-newark-live, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 591.76,
+   "end_s": 601.31,
+   "move": "none",
+   "cue": "All three are real. All three still require a real mortgage. None of them bypass the bank, no matter what the ",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 601.31,
+   "end_s": 607.33,
+   "move": "auto",
+   "cue": "Knowing the boring, accurate version beats chasing a promise that was never true. If that is worth something t"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-0.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 607.33,
+   "end_s": 613.35,
+   "move": "auto",
+   "cue": "Knowing the boring, accurate version beats chasing a promise that was never true. If that is worth something t"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 613.35,
+   "end_s": 620.46,
+   "move": "auto",
+   "cue": "Knowing the boring, accurate version beats chasing a promise that was never true. If that is worth something t"
+  },
+  {
+   "image": "work/cards/close-recap.png",
+   "image_query": "card-close-recap",
+   "image_prompt": "card-close-recap, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 620.46,
+   "end_s": 622.72,
+   "move": "none",
+   "cue": "See you in the next one.",
+   "is_card": true
+  }
+ ]
+}

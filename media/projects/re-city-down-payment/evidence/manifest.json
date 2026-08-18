@@ -1,0 +1,34 @@
+[
+ {
+  "name": "detroit-dpa",
+  "file": "detroit-dpa.png",
+  "url": "https://detroitmi.gov/departments/housing-and-revitalization-department/homebuyers/detroit-down-payment-assistance-program",
+  "source": "City of Detroit, Down Payment Assistance Program",
+  "selector": null,
+  "captured_at": "2026-08-05T07:39:14"
+ },
+ {
+  "name": "baltimore-bib",
+  "file": "baltimore-bib.png",
+  "url": "https://livebaltimore.com/resident-resources/financial-incentives/buying-into-baltimore/",
+  "source": "Live Baltimore, Buying Into Baltimore",
+  "selector": null,
+  "captured_at": "2026-08-05T07:40:20"
+ },
+ {
+  "name": "southbend-chc",
+  "file": "southbend-chc.png",
+  "url": "https://www.ahomeallmyown.org/",
+  "source": "Community Homebuyers Corporation, South Bend",
+  "selector": null,
+  "captured_at": "2026-08-05T07:41:09"
+ },
+ {
+  "name": "newark-live",
+  "file": "newark-live.png",
+  "url": "https://www.newarknj.gov/187/Live-Newark-Program",
+  "source": "City of Newark, Live Newark Program",
+  "selector": null,
+  "captured_at": "2026-08-05T07:42:41"
+ }
+]

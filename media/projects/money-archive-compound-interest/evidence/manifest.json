@@ -1,0 +1,18 @@
+[
+ {
+  "name": "sp500-32yr-return",
+  "file": "sp500-32yr-return.png",
+  "url": "https://www.officialdata.org/us/stocks/s-p-500/1994",
+  "source": "OfficialData.org, S&P 500 1994-2026",
+  "selector": null,
+  "captured_at": "2026-08-04T16:07:45"
+ },
+ {
+  "name": "financial-literacy-states",
+  "file": "financial-literacy-states.png",
+  "url": "https://www.councilforeconed.org/survey-of-the-states-2024/",
+  "source": "Council for Economic Education, Survey of the States 2024",
+  "selector": null,
+  "captured_at": "2026-08-04T16:08:00"
+ }
+]

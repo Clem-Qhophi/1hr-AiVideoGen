@@ -1,0 +1,16 @@
+{
+  "_note": "Paths are ABSOLUTE - yt_upload.py resolves relative plan paths against the parent of this repo folder. Single thumbnail only (A.jpg) per the 2026-08-04 standing preference - no B/C bets.",
+  "video": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/water-heater-flush-truth/output/water-heater-flush-truth-MASTER.mp4",
+  "title": "Your Water Heater Is Quietly Overheating Itself. The Fix Takes 20 Minutes And Costs Nothing.",
+  "description_file": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/water-heater-flush-truth/packaging/description.txt",
+  "thumbnail": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/water-heater-flush-truth/packaging/thumbs/A.jpg",
+  "tags": [
+    "water heater", "water heater maintenance", "sediment flush",
+    "home hacks", "water heater popping noise", "DIY plumbing",
+    "home maintenance", "water heater lifespan", "flush water heater",
+    "water heater sediment", "old fixes", "household safety"
+  ],
+  "categoryId": 26,
+  "privacy": "private",
+  "madeForKids": false
+}

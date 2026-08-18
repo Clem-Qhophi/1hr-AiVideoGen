@@ -1,0 +1,1 @@
+aevalsrc=0.5*exp(-13*t)*(sin(2*PI*118*t)+0.55*sin(2*PI*298*t)+0.3*sin(2*PI*610*t)):d=0.9:s=44100,afade=t=out:d=0.45

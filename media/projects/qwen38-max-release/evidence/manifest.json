@@ -1,0 +1,27 @@
+[
+ {
+  "name": "qwen-blog-hero",
+  "file": "qwen-blog-hero.png",
+  "url": "https://qwen.ai/blog?id=qwen3.8",
+  "source": "qwen.ai official blog, Aug 3 2026",
+  "selector": null,
+  "captured_at": "2026-08-04T07:59:53"
+ },
+ {
+  "name": "qwen-benchmark-table",
+  "file": "qwen-benchmark-table.png",
+  "url": "https://qwen.ai/blog?id=qwen3.8",
+  "source": "qwen.ai official blog, Aug 3 2026, coding-agent benchmark table (header row visible: Opus4.8 / Fable5 / GPT5.6 Sol / Qwen3.7-Max / Qwen3.8-Max)",
+  "selector": "internal scroll container aligned via scratch script (table[1] header row), not window.scrollTo - this site scrolls a nested div, not window",
+  "captured_at": "2026-08-04T08:03:00"
+ },
+ {
+  "name": "alibaba-press-release",
+  "file": "alibaba-press-release.png",
+  "url": "https://www.alibabacloud.com/en/press-room/alibaba-unveils-qwen3-8-max",
+  "source": "Alibaba Cloud Press Room, Aug 3 2026",
+  "selector": null,
+  "captured_at": "2026-08-04T08:04:17",
+  "note": "includes embedded Text Arena leaderboard chart showing Qwen-3.8 Max at rank #5 (1,496) - useful for the honest-gap beat"
+ }
+]

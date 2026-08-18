@@ -1,0 +1,1 @@
+anoisesrc=color=brown:seed=14:duration=1.4:amplitude=0.85,highpass=f=400,lowpass=f=4200,tremolo=f=6:d=0.8,afade=t=in:d=0.12,afade=t=out:d=0.3,volume=0.8

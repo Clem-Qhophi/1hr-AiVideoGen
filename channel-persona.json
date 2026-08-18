@@ -1,0 +1,4 @@
+{
+  "_deprecated_redirect": "This unsuffixed file is legacy/single-channel only. As of 2026-07-31 this repo runs multiple channels, so persona files are one per niche: channel-persona.<niche-id>.json. This file's content moved to channel-persona.ai-news.json (AI Under 3 Min). Do NOT read this file for a new run - resolve the niche id from Stage A intake and read channel-persona.<niche-id>.json instead. Kept here only so an old reference to the bare filename fails loudly/obviously rather than silently applying the wrong channel's persona.",
+  "see_instead": "channel-persona.ai-news.json"
+}

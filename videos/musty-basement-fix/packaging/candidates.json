@@ -1,0 +1,65 @@
+[
+  {
+    "_note": "HOME-HACKS packaging matched to proven competitor pattern (Sidney Explains 871k views, Elias Yoder 369k views - both use identical title/thumbnail formula). Title: dollar anchor + 'Dry' in quotes + 'Dehumidifies Any Room Forever' + negation stack. Thumbnail: rainbow sunburst, giant purple 'DEHUMIDIFIES FOREVER', host cutout + jar, yellow '$4 DRY TRICK' badge, red 'NO POWER' badge."
+  },
+  {
+    "archetype": "dollar-anchor-negation",
+    "archetype_name": "Proven Competitor Formula (Sidney Explains 871k / Elias Yoder 369k)",
+    "title": "The $4 \"Dry\" Trick That Dehumidifies Any Room Forever — No Power Needed!",
+    "thumb_text": "DEHUMIDIFIES FOREVER / $4 DRY TRICK / NO POWER",
+    "accent": "violet",
+    "visual_concept": "Calcium chloride jar photo, purple 'DEHUMIDIFIES FOREVER' two-tone text, Walt cutout bottom-right, yellow '$4 DRY TRICK' badge, red 'NO POWER' badge",
+    "evaluation": {
+      "total_score": 97,
+      "breakdown": {
+        "curiosity_gap": 24,
+        "emotional_stakes": 19,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 14,
+        "entity_velocity": 5
+      },
+      "pass_90": true
+    }
+  },
+  {
+    "archetype": "curiosity-object",
+    "archetype_name": "Curiosity Object (rejected - weaker than proven formula)",
+    "title": "The Bucket That Eats Damp Air. It Costs $4 and Needs No Power.",
+    "thumb_text": "EATS DAMP AIR",
+    "accent": "cyan",
+    "visual_concept": "Calcium chloride tub with pooled water, Walt cutout, 'EATS DAMP AIR' two-tone",
+    "evaluation": {
+      "total_score": 88,
+      "breakdown": {
+        "curiosity_gap": 22,
+        "emotional_stakes": 15,
+        "glanceability": 18,
+        "visual_metaphor": 14,
+        "title_thumb_synergy": 12,
+        "entity_velocity": 7
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "borrowed-authority",
+    "archetype_name": "Borrowed Authority + Negation (rejected - weaker than proven formula)",
+    "title": "Grandma's $4 Trick for a Damp House. The $200 Dehumidifier Is Overkill.",
+    "thumb_text": "$4 TRICK",
+    "accent": "hot",
+    "visual_concept": "Grandma's-house basement photo, Walt cutout, '$4 TRICK' two-tone",
+    "evaluation": {
+      "total_score": 86,
+      "breakdown": {
+        "curiosity_gap": 20,
+        "emotional_stakes": 16,
+        "glanceability": 18,
+        "visual_metaphor": 13,
+        "title_thumb_synergy": 12,
+        "entity_velocity": 7
+      },
+      "pass_90": false
+    }
+  }
+]

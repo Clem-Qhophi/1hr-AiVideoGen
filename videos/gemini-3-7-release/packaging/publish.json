@@ -1,0 +1,23 @@
+{
+  "video": "videos/gemini-3-7-release/output/gemini-3-7-release-MASTER.mp4",
+  "title": "Google Gemini 3.7 Flash: 65% Coding Score at Half the Price (With a Catch)",
+  "description_file": "videos/gemini-3-7-release/packaging/description.txt",
+  "thumbnail": "videos/gemini-3-7-release/packaging/thumbs/viral_master.jpg",
+  "tags": [
+    "Gemini 3.7",
+    "Gemini 3.7 Flash",
+    "Google DeepMind",
+    "AI coding",
+    "SWE-bench",
+    "Google AI Studio",
+    "LLM benchmarks",
+    "AI News",
+    "DeepSWE",
+    "Agentic AI",
+    "FrontierCode",
+    "WebDev Arena"
+  ],
+  "categoryId": 28,
+  "privacy": "private",
+  "madeForKids": false
+}

@@ -1,0 +1,15 @@
+{
+  "_note": "Paths are ABSOLUTE - yt_upload.py resolves relative plan paths against the parent of this repo folder. Thumbnail A.jpg set on upload; B and C also exist in packaging/thumbs/ as the other two bets for YouTube's built-in A/B/C thumbnail test - swap in Studio.",
+  "video": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/car-battery-backup-power/output/car-battery-backup-power-MASTER.mp4",
+  "title": "The Generator You Already Own (The Safe Way To Use It During A Blackout)",
+  "description_file": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/car-battery-backup-power/packaging/description.txt",
+  "thumbnail": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/car-battery-backup-power/packaging/thumbs/A.jpg",
+  "tags": [
+    "power outage", "backup power", "car inverter", "power inverter", "blackout tips",
+    "generator alternative", "home hacks", "old fixes", "storm preparedness",
+    "carbon monoxide safety", "no power generator", "car battery power"
+  ],
+  "categoryId": 26,
+  "privacy": "private",
+  "madeForKids": false
+}

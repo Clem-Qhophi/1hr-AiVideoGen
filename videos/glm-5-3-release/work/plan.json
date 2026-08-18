@@ -1,0 +1,15 @@
+{
+  "project": "glm-5-3-release",
+  "niche": "ai-news",
+  "source": "Zhipu AI (Z.ai) Announcement, Aug 14, 2026",
+  "persona": "AI Under 3 Min",
+  "delivery_mode": "breaking-news",
+  "voice_id": "en-US-AndrewNeural",
+  "tts_speed": 1.15,
+  "target_s": 220,
+  "target_minutes": 3.7,
+  "goal": "authority",
+  "audience": "practitioners",
+  "conversion": "nothing",
+  "stage": "intake"
+}

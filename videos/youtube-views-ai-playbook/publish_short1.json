@@ -1,0 +1,18 @@
+{
+  "channel": "AI Enthusiast",
+  "token": ".youtube/token-ai-news.json",
+  "title": "YouTube's August 24 View Rule Change Explained #Shorts",
+  "description": "Starting August 24, 2026, YouTube is officially eliminating the 30-second view rule. Public views will now register from frame zero (0.00s).\n\nSubscribe to AI Enthusiast for the full deep dive!\n\n#Shorts #YouTubeUpdate #YouTubeAlgorithm #TechNews #AIEnthusiast",
+  "thumbnail": "videos/youtube-views-ai-playbook/thumbnail.jpg",
+  "video": "videos/youtube-views-ai-playbook/shorts/short_01_august_reset_trap.mp4",
+  "categoryId": 28,
+  "tags": [
+    "Shorts",
+    "YouTube update",
+    "YouTube algorithm",
+    "AI Enthusiast",
+    "Tech news"
+  ],
+  "privacy": "private",
+  "madeForKids": false
+}

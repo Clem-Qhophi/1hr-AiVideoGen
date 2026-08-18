@@ -1,0 +1,1 @@
+[a]anoisesrc=color=brown:seed=12:duration=1.8:amplitude=0.7,lowpass=f=650,tremolo=f=26:d=0.55,afade=t=in:d=0.2,afade=t=out:d=0.4[b];[c]anoisesrc=color=white:seed=22:duration=1.8:amplitude=0.09,highpass=f=1800,lowpass=f=8000,tremolo=f=9:d=0.6,afade=t=in:d=0.1,afade=t=out:d=0.3[d];[b][d]amix=inputs=2:normalize=0

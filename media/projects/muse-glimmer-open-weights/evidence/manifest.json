@@ -1,0 +1,47 @@
+[
+ {
+  "name": "reuters-zuck-policy",
+  "file": "reuters-zuck-policy.png",
+  "url": "https://www.reuters.com/world/china/meta-launches-new-ai-model-zuckerberg-champions-open-weight-push-2026-08-10/",
+  "source": "Reuters, Aug 10 2026",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-10T11:38:40"
+ },
+ {
+  "name": "zuck-x-post",
+  "file": "zuck-x-post.png",
+  "url": "https://x.com/finkd/status/2086755195535413696",
+  "source": "Mark Zuckerberg on X, Aug 10 2026",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-10T11:41:05"
+ },
+ {
+  "name": "meta-blog-benchmarks",
+  "file": "meta-blog-benchmarks.png",
+  "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+  "source": "Meta AI Research blog, Aug 10 2026",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-10T12:06:28"
+ },
+ {
+  "name": "hf-model-card",
+  "file": "hf-model-card.png",
+  "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+  "source": "Hugging Face model card, meta-models/Muse-Glimmer-30B",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-10T12:10:02"
+ },
+ {
+  "name": "hf-model-card-top",
+  "file": "hf-model-card-top.png",
+  "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+  "source": "Hugging Face model card, meta-models/Muse-Glimmer-30B",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-10T12:14:34"
+ }
+]

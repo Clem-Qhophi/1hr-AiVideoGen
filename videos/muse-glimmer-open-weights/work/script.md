@@ -1,0 +1,115 @@
+# Meta's New Open Model Runs on Your Laptop — and Qwen Still Wins One Table
+
+**Format:** single-story | **Niche:** ai-news | **Target:** ~6 min (1,028 words @ 171.4 wpm)
+**Voice:** en-US-AndrewNeural @ 1.15x (breaking-news) | **Date:** 2026-08-10
+
+---
+
+## COLD-OPEN-CLAIM (~18s, ~51 words)
+
+[beat: hook — model card graphic, "30B • Apache 2.0" slams in]
+
+On August tenth, Meta open-sourced Muse Glimmer: a thirty-billion-parameter model built for agents, that runs on a single consumer GPU. It beats Google and Alibaba's newest mid-size models on most agent benchmarks. If you pay per token for an AI agent, this undercuts your bill. But there's one table where Alibaba's Qwen still wins big, and it changes who this is actually for. We'll get to it.
+
+---
+
+## CONTEXT (~36s, ~103 words)
+
+[beat: timeline — Muse Spark closed in April, "betrayal" backlash]
+
+Quick backstory. In April, Meta shipped Muse Spark, its first frontier model, and kept the weights closed. The local-AI community called it a betrayal. They spent years building on open Llama. Meta promised open weights were coming. The community's answer? "Talk is cheap. Show us the weights."
+
+[beat: contrast — "four months later" turn]
+
+Four months later, here they are. Muse Glimmer is the first open release from Meta Superintelligence Labs. Not a small fine-tune: a full agentic model, distilled from Muse Spark itself. And Zuckerberg says the big one is coming too: Spark 1.2's weights, soon.
+
+---
+
+## VERDICT (~108s, ~308 words)
+
+[beat: verdict title card — "Meta is back in the open-weight game"]
+
+Here's the read. Muse Glimmer is thirty billion parameters, with vision. It reads text and images, plans multi-step tasks, calls tools, and when a call fails, it retries instead of dying. That's the difference between a chatbot and an agent.
+
+[beat: stat card — 55GB full → under 20GB quantized]
+
+The headline number: what it runs on. At full precision it would need fifty-five gigabytes. Quantized to four-bit, the model fits under twenty gigabytes, inside a twenty-four-gigabyte card. A Mac or a PC with one GPU. No cloud, no per-token fees, no internet. An always-on agent on your own machine.
+
+[beat: speed stat — 233 tokens/sec on RTX 5090]
+
+And it's fast. Meta ships a speculative-decoding drafter, DFlash. On an RTX 5090, it triples speed: two hundred thirty-three tokens per second. On a Mac M5 Max, fifty. Agents feel real-time.
+
+[beat: benchmark table — Glimmer vs Gemma4 vs Qwen3.6]
+
+The benchmark story: Meta compared it to Google's Gemma4-31B and Alibaba's Qwen3.6-27B. On agent benchmarks, Glimmer wins most. MCP Atlas, the tool-use test, seventy-five point five, versus fifty-four and sixty-two. DeepSearch QA, seventy-four point six. SWE-Bench Pro, fifty-one point two. AIME math, ninety-four point seven.
+
+[beat: what-it-means card — "your data never leaves your machine"]
+
+So what does this mean for you? If you build agents, you now have a free, open, local option in the same league as paid APIs. Your data never leaves your machine.
+
+[beat: policy angle — Zuck quote, China race]
+
+And this is also a political statement. Zuckerberg says the US is falling behind China in open-weight models. Moonshot's Kimi K3, Alibaba's Qwen, DeepSeek's V4-Flash. He says American labs carry extra training-data restrictions, and US policy has to change. This release is Meta's proof.
+
+---
+
+## EVIDENCE (~108s, ~308 words)
+
+[beat: evidence — Meta research blog capture]
+
+The evidence is on the model card. Read it carefully. First, the context window. That's how much text the model can hold in its head at once: one hundred thirty-one thousand tokens, double that in some configs. Multilingual, a hundred-plus languages. Knowledge cutoff: January fourth. Not a stale model.
+
+[beat: stat card — 1% degradation for 4-bit]
+
+Second, the quant story. This is where local models fall apart. Meta says the four-bit compression loses about one percent on average across fifteen benchmarks. One percent. For a thirty-billion agent on a gaming card, that's the trade everyone has been waiting for.
+
+[beat: license reveal — Apache 2.0]
+
+Third, the license. Apache 2.0. Not Meta's usual restricted community license. This one says: use it commercially, modify it, no strings attached. Meta made a point here.
+
+[beat: mid-roll CTA]
+
+And if you want these breakdowns the day a model drops, hit subscribe. Verdict in the first three minutes, every time.
+
+[beat: rollout timeline — live today, tools in days]
+
+The weights are live on Hugging Face today. vLLM and SGLang support it day one. llama.cpp, MLX, and ExecuTorch integrations land in the coming days, and Ollama and LM Studio are coming too. So tonight you can download it, but the one-click tools are days behind.
+
+[beat: evidence — Reuters capture, Zuck policy push]
+
+And the context around the launch matters. On Reuters, Zuckerberg is pushing Washington to ease restrictions on open models, arguing American labs are handcuffed compared to Chinese ones. Meta's own shares moved up one percent premarket. And in case you missed it: Hugging Face, where these weights live, is the platform caught in the rogue-agent breach we broke down in detail. That's exactly why open-weight security is suddenly a mainstream question.
+
+---
+
+## HONEST-GAP (~43s, ~123 words)
+
+[beat: the catch — Qwen wins table revealed]
+
+Here's the catch I promised. That one table? Alibaba's Qwen3.6-27B still wins several benchmarks. GDPVal, a financial agent test: eleven forty-one versus nine fifty-three. OSWorld, operating a real computer: seventy-five point six versus sixty-five point nine. SWE-Bench Verified and TerminalBench too. So "Meta beats everything" is wrong. The honest read: trading blows, and Qwen wins the ones that involve running real systems.
+
+[beat: frontier reality check]
+
+Also, don't mistake size for frontier. A thirty-billion local model is not a GPT-5.6 or a Muse Spark. It competes with other mid-size open models. And Meta's own model card notes it can still produce inaccurate or biased responses, especially in novel situations. Plus: everyone gets this license, including the people who won't add guardrails. Open weights are a risk as much as a gift.
+
+---
+
+## CLOSE (~47s, ~134 words)
+
+[beat: what's next — Spark 1.2 weights]
+
+So what's next? The Spark 1.2 open weights. Zuckerberg says they're coming soon. If that happens, Meta's flagship joins the open club, and the frontier conversation changes. This release is the appetizer. The main course is Spark 1.2's weights, when they land.
+
+[beat: verdict recap]
+
+For the community, this is a real moment. After the April betrayal, Meta is back on the open side, under Apache 2.0, the most permissive license in the industry. The verdict: if you've been waiting for a local agent model that's actually good, today is the day the wait ended. Just don't expect it to win every table.
+
+[beat: close CTA]
+
+We tracked this one the day it dropped. Subscribe so you don't miss Spark 1.2 when the weights land. Drop a comment: is this enough to bring you back to Meta's open models? And watch our rogue-agents deep dive if you want the security side of open weights. We'll see you in the next one.
+
+---
+
+**Word count:** ~990 | **Estimated runtime:** ~5:47 at 171.4 wpm (within +/-8% of 6:00)
+**Phase-1 cap:** ~438 words (~153s) — inside the ~170s "Under 3 Min" limit
+**Sources:** Meta research blog (research.meta.ai, Aug 10), Meta model card (Hugging Face meta-models/Muse-Glimmer-30B), Reuters (Aug 10), Zuckerberg on X (@finkd, Aug 10), Unsloth docs (day-zero support)
+**Cross-link:** openai-rogue-agents (Hugging Face breach, mentioned twice — once in evidence, once in close)

@@ -1,0 +1,109 @@
+{
+ "topic": "escrow account explained",
+ "niche": "real-estate",
+ "niche_target": [
+  10,
+  40
+ ],
+ "recent_window": "90d",
+ "long_only": false,
+ "generated": "2026-08-04T21:24:29+00:00",
+ "autocomplete": {
+  "topic": "escrow account explained",
+  "self_suggest_chars": 15,
+  "self_suggest_prefix": "escrow account ",
+  "self_suggest_rank": 1,
+  "topic_chars": 24,
+  "reach": 0.62,
+  "head_suggestions": [
+   "escrow account explained",
+   "trust account explained",
+   "escrow account meaning",
+   "escrow account",
+   "escrow payment method",
+   "escrow",
+   "escrow payment"
+  ],
+  "longtail": [
+   "escrow account",
+   "escrow account meaning",
+   "escrow",
+   "escrow agreement",
+   "escrow payment method",
+   "how to use escrow account",
+   "escrow payment",
+   "escrow agent"
+  ],
+  "longtail_n": 8,
+  "probes": 10,
+  "probe_failures": 0
+ },
+ "year": {
+  "rows": [],
+  "total_results": null
+ },
+ "recent": {
+  "rows": [],
+  "total_results": null
+ },
+ "quota_units_used": 204,
+ "assessment": {
+  "scores": {
+   "demand": 2,
+   "performance": 0,
+   "freshness": 0,
+   "winnability": 1
+  },
+  "why": {
+   "demand": "autocompletes after 15/24 chars, 8 long-tail queries",
+   "performance": "nothing on this topic is being watched — best is 0 views/day",
+   "freshness": "nobody has published on this in 90d",
+   "winnability": "no small channel has broken out on this topic"
+  },
+  "total": 3,
+  "verdict": "NO-AUDIENCE",
+  "big_channel_share": 0.0,
+  "supply_saturated": false,
+  "freshness_ratio": null,
+  "drift": 1.0,
+  "strict_on_topic": false,
+  "downgrade": null,
+  "n_on_topic": 0,
+  "n_sampled": 0,
+  "small_breakouts": []
+ },
+ "angles": [
+  {
+   "q": "escrow account",
+   "covered": false
+  },
+  {
+   "q": "escrow account meaning",
+   "covered": false
+  },
+  {
+   "q": "escrow agreement",
+   "covered": false
+  },
+  {
+   "q": "escrow payment method",
+   "covered": false
+  },
+  {
+   "q": "how to use escrow account",
+   "covered": false
+  },
+  {
+   "q": "escrow payment",
+   "covered": false
+  },
+  {
+   "q": "escrow agent",
+   "covered": false
+  },
+  {
+   "q": "trust account explained",
+   "covered": false
+  }
+ ]
+}

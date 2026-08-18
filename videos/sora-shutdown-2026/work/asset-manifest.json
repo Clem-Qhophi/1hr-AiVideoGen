@@ -1,0 +1,73 @@
+{
+  "project": "sora-shutdown-2026",
+  "assets": [
+    {
+      "id": "openai-sunset-page",
+      "kind": "screenshot",
+      "purpose": "THE deadline evidence: API sunset Sept 24 2026 + permanent data deletion",
+      "source_url": "https://help.openai.com/en/articles/20001152-what-to-know-about-the-sora-discontinuation",
+      "source_label": "OpenAI Help Center, updated Aug 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/sora-shutdown-2026/evidence/openai-sunset-page.png",
+      "validated": "ok"
+    },
+    {
+      "id": "techcrunch-why-shutdown",
+      "kind": "screenshot",
+      "purpose": "$1M/day burn, peak 1M users collapsed <500K, Claude Code ate OpenAI's lunch",
+      "source_url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "source_label": "TechCrunch, Mar 29 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/sora-shutdown-2026/evidence/techcrunch-why-shutdown.png",
+      "validated": "ok"
+    },
+    {
+      "id": "reuters-disney-rugpull",
+      "kind": "screenshot",
+      "purpose": "Disney blindsided 30 min after joint meeting; $1B deal never closed",
+      "source_url": "https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/",
+      "source_label": "Reuters, Mar 24 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/sora-shutdown-2026/evidence/reuters-disney-rugpull.png",
+      "validated": "blank",
+      "note": "bot-blocked (Cloudflare) - wire as EvidenceFrame with on-screen disclosure \"live page capture blocked - source text verified directly\"."
+    },
+    {
+      "id": "verge-sensor-tower",
+      "kind": "screenshot",
+      "purpose": "Download collapse 6.1M Nov -> 1.1M Mar (Sensor Tower)",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "source_label": "The Verge, Mar 28 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/sora-shutdown-2026/evidence/verge-sensor-tower.png",
+      "validated": "ok"
+    },
+    {
+      "id": "openai-sora2-launch",
+      "kind": "screenshot",
+      "purpose": "The launch: 'Sora 2 is here' Sept 30 2025 + 'As of April 26, 2026, the Sora product is no longer available'",
+      "source_url": "https://openai.com/index/sora-2/",
+      "source_label": "OpenAI, Sep 30 2025",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/sora-shutdown-2026/evidence/openai-sora2-launch.png",
+      "validated": "blank",
+      "note": "bot-blocked (Cloudflare) - wire as EvidenceFrame with on-screen disclosure \"live page capture blocked - source text verified directly\"."
+    },
+    {
+      "id": "vector-ceded-market",
+      "kind": "screenshot",
+      "purpose": "Market handoff: MiniMax/ByteDance fighting over the market OpenAI abandoned",
+      "source_url": "https://vector.news/how-openai-ceded-video-to-google-and-china/",
+      "source_label": "Vector, Aug 3 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/sora-shutdown-2026/evidence/vector-ceded-market.png",
+      "validated": "ok"
+    }
+  ]
+}

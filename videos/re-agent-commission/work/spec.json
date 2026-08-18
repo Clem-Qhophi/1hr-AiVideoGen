@@ -1,0 +1,46 @@
+{
+  "format": "longform-images",
+  "niche": "real-estate",
+  "runtime": {
+    "target_min": 10.6,
+    "tolerance": 0.08
+  },
+  "video": {
+    "aspect": "16:9",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "source": "generated",
+  "voice": {
+    "engine": "edge-tts",
+    "name": "en-US-JennyNeural"
+  },
+  "captions": {
+    "enabled": true,
+    "style": "burned",
+    "emphasis": true,
+    "font_px": null
+  },
+  "motion": {
+    "kind": "ken-burns",
+    "beat_seconds": 7.0
+  },
+  "sfx": {
+    "enabled": true,
+    "density": "low"
+  },
+  "music": {
+    "enabled": true,
+    "bed": "lofi-warm",
+    "gain_db": -5.4
+  },
+  "evidence": {
+    "required": true,
+    "min_on_screen": 2
+  },
+  "master": {
+    "lufs": -14.0,
+    "true_peak": -1.0
+  }
+}

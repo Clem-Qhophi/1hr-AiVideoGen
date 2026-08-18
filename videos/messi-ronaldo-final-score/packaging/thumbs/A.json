@@ -1,0 +1,32 @@
+{
+  "engine": "remotion-still",
+  "composition": "dlfinalscore",
+  "props": {
+    "headline": "5-4",
+    "emphasis": "RONALDO",
+    "kicker": "THE FINAL SCORE",
+    "sub": null,
+    "badge": "THE BELT",
+    "accent": "lime",
+    "variant": "photo",
+    "image": "thumbs/000-football-stadium-floodlights-night-0.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "left",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": null,
+    "faceAt": null,
+    "faceFocus": null,
+    "faceCutout": false
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\dlfinalscore.tsx"
+}

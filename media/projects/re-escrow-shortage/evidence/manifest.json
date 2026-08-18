@@ -1,0 +1,26 @@
+[
+ {
+  "name": "cfpb-escrow-basics",
+  "file": "cfpb-escrow-basics.png",
+  "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-an-escrow-or-impound-account-en-140/",
+  "source": "CFPB, Ask CFPB",
+  "selector": null,
+  "captured_at": "2026-08-04T21:32:18"
+ },
+ {
+  "name": "attom-property-tax",
+  "file": "attom-property-tax.png",
+  "url": "https://www.attomdata.com/news/market-trends/home-sales-prices/2025-annual-tax-report/",
+  "source": "ATTOM, 2025 property tax report",
+  "selector": null,
+  "captured_at": "2026-08-04T21:32:36"
+ },
+ {
+  "name": "insurify-premium-rise",
+  "file": "insurify-premium-rise.png",
+  "url": "https://www.prnewswire.com/news-releases/insurify-projects-average-home-insurance-price-will-climb-4-in-2026-after-jumping-12-in-2025-302715236.html",
+  "source": "Insurify/PRNewswire, 2026 insurance forecast",
+  "selector": null,
+  "captured_at": "2026-08-04T21:33:08"
+ }
+]

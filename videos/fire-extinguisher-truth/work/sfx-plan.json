@@ -1,0 +1,60 @@
+{
+  "_note": "Long-form Ken-Burns pipeline: cues sync to key moments in work/beats.json (evidence reveals, hook, mid-roll CTA, close), not to Remotion timeline.json shots. Density kept LOW per niches/home-hacks.json sound.sfx_density - same 7-cue pattern used on videos 1-4.",
+  "master": "videos/fire-extinguisher-truth/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/fire-extinguisher-truth/output/fire-extinguisher-truth-captioned.mp4",
+    "out": "videos/fire-extinguisher-truth/output/fire-extinguisher-truth-sfx.mp4",
+    "end_s": 713.64,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.2,
+      "sfx_id": "clock-tick-soft",
+      "gain_db": -10,
+      "cue": "cold open: 'that red canister under your sink... there's a real chance it won't work'",
+      "note": "opens the retention loop around the gauge-lies-to-you mechanism"
+    },
+    {
+      "at_s": 196.52,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-kordfire-caking card lands: the powder-caking mechanism explained",
+      "note": "first hero beat - why the gauge can't be trusted alone"
+    },
+    {
+      "at_s": 271.26,
+      "sfx_id": "impact-soft",
+      "gain_db": -8,
+      "cue": "EVIDENCE-otisfire-nfpa10 card lands: the 30-second shake test, the actual fix",
+      "note": "second hero beat - the payoff of the retention loop"
+    },
+    {
+      "at_s": 301.87,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -11,
+      "cue": "mid-roll subscribe mention"
+    },
+    {
+      "at_s": 651.7,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "close section: recap begins, both facts restated"
+    },
+    {
+      "at_s": 666.64,
+      "sfx_id": "page-flip",
+      "gain_db": -9,
+      "cue": "second evidence recap card, NFPA 10 shake test restated"
+    },
+    {
+      "at_s": 687.5,
+      "sfx_id": "warm-shimmer",
+      "gain_db": -10,
+      "cue": "Walt's sign-off line: 'That's the old way. Still works.'",
+      "note": "signature line - identical treatment to videos 1-4 for consistency"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "engine": "remotion-still",
+  "composition": "ASHThumbnail",
+  "props": {
+    "headline": "AI REFUSED",
+    "emphasis": "TO DIE",
+    "kicker": null,
+    "sub": null,
+    "badge": "UC BERKELEY",
+    "accent": "hot",
+    "variant": "photo",
+    "image": "thumbs/000-emergency-shutdown-button-0.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "right",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": null,
+    "faceAt": null,
+    "faceFocus": null,
+    "faceCutout": false
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\ASHThumbnail.tsx"
+}

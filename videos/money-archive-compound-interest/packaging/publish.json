@@ -1,0 +1,15 @@
+{
+  "_note": "Ready to run once YouTube OAuth is set up for the finance channel (no .youtube/token-finance.json exists yet - same blocker money-archive-401k-fee hit). Setup: tools/yt_upload_SETUP.md, then `python tools/yt_upload.py auth --channel finance`. Once authed: python tools/yt_upload.py upload \"C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/money-archive-compound-interest/packaging/publish.json\" --channel finance --dry-run, then without --dry-run for the real private-draft upload. Paths below are ABSOLUTE per yt_upload.py's rp() convention (see the same note on money-archive-401k-fee/packaging/publish.json).",
+  "video": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/money-archive-compound-interest/output/money-archive-compound-interest-scored-MASTER.mp4",
+  "title": "$1.1 Million vs $545,000: The 10-Year Head Start That Wins",
+  "description_file": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/money-archive-compound-interest/packaging/description.txt",
+  "thumbnail": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/money-archive-compound-interest/packaging/thumbs/A.jpg",
+  "tags": [
+    "compound interest", "compound interest explained", "personal finance", "investing for beginners",
+    "how does compound interest work", "financial literacy", "money explainer", "retirement savings",
+    "rule of 72", "the money archive", "SEC compound interest calculator", "investing basics"
+  ],
+  "categoryId": 27,
+  "privacy": "private",
+  "madeForKids": false
+}

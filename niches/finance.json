@@ -1,0 +1,55 @@
+{
+  "id": "finance",
+  "name": "Personal finance & money literacy explainers",
+  "_channel": "LOCKED 2026-08-04: 'The Money Archive' (@TheMoneyArchive). Full setup - description, keywords, logo, banner, and ranked/validated launch topics - is docs/CHANNEL-SETUP-finance.md. Do not re-open the name question without a real reason; one video has already shipped under this identity (money-archive-401k-fee).",
+  "reference_titles": [
+    "The Man Who Invented the 401k Called It a Monster — Here's Why He Regrets It (Eric Invests)",
+    "Every Retirement Account Explained In 37 Minutes (Beginners Guide) (Tom - Lazy Investor, 94 views/day at 106 days old - real evergreen legs)",
+    "Retirement Planning Strategies Explained: Annuities, 401(k) Rollovers, Hidden Fees (Retirement Reality On Demand)",
+    "How To Remove Collections From Credit Report FAST!! 2026 (Updated) (Stephen Smith)"
+  ],
+  "_reference_titles_source": "BACKFILLED live via tools/yt_research.py 2026-08-02 (--query '401k fee explained,how mortgage points work,hidden bank fees explained,credit score explained real example' --window all --long-only), resolving the _reference_titles_todo flag this field replaced. Raw data: docs/research/finance.json / .txt. Runtime confirms fit: 30d/365d medians ~26 min, inside the [15,25] target (a few outliers ran to 37-39min). HONEST CAVEAT worth carrying forward: on-target evergreen mechanism-explainer queries pulled mostly single-digit-to-low-hundreds views/day in the 30d window - this is a genuinely less crowded/lower-peak lane than reactive finance content. The one true outlier found, a 577K-view/90d political-hook video ('Trump Just Quietly Replaced The 401k' framing), is deliberately NOT in reference_titles above - it works by being reactive and politically-adjacent, which this niche's honesty_guard and evergreen positioning rule out. Read as a real tradeoff: this channel is choosing durability and compliance safety over that kind of reactive peak, not failing to find it.",
+  "audience": "US adults 30-65, financially anxious or curious, skeptical of finance-influencer hype and get-rich-quick framing, wants plain-English explanations of money mechanics they can verify themselves; premium-RPM ad category but also the audience most likely to catch a wrong number",
+  "title": {
+    "formula": "[specific, defensible dollar or percent outcome] + [the one plain mechanism behind it] + [who it actually applies to]",
+    "ingredients": {
+      "outcome": ["$1,200 a Year", "Retire 7 Years Sooner", "Your Real Mortgage Cost", "One Number on Your Statement"],
+      "mechanism": ["The Fee Banks Don't Explain", "Why Compounding Works Backwards Against Debt", "The Math Your 401k Never Shows You"],
+      "audience_stakes": ["If You Make Under $80K", "Before You Turn 40", "For Anyone With a Credit Card"]
+    },
+    "rules": [
+      "Lead with a real, sourced number - never a rounded-up or invented one. This audience checks.",
+      "Resolve the claim in the title. Unlike entertainment's open-loop rule, this audience wants clarity, not a puzzle - an unresolved hook reads as bait here.",
+      "Never use 'secret', 'they don't want you to know', 'get rich' - reads as scam-adjacent and is exactly what draws policy/demonetization scrutiny.",
+      "Borrowed authority (a named study, a real institution, a real regulation) beats guru authority - the channel has no face and should not invent one."
+    ]
+  },
+  "script": {
+    "target_minutes": [15, 25],
+    "structure": [
+      { "beat": "cold-open-claim", "share": 0.05, "note": "State the number and what it means for the viewer, plainly, in the first 10-15 seconds. No channel intro." },
+      { "beat": "stakes", "share": 0.10, "note": "What not knowing this actually costs, in dollars, over a realistic timeframe. Concrete, not vague ('costs you money')." },
+      { "beat": "mechanism", "share": 0.40, "note": "The actual explanation. This is the bulk. One concept per beat, plain language, worked example with real numbers." },
+      { "beat": "honest-limits", "share": 0.15, "note": "Where this does NOT apply, or what it depends on (income level, region, risk tolerance). Non-negotiable trust beat - this is what separates the channel from finance-influencer hype." },
+      { "beat": "how-to-apply", "share": 0.15, "note": "What the viewer can actually go check or do this week - numbered, concrete, never a specific buy/sell/invest instruction." },
+      { "beat": "close", "share": 0.15, "note": "Recap the number, one soft CTA. No 'link to my course/community' hard sell - that pattern is exactly what erodes trust in this niche." }
+    ],
+    "voice_rules": [
+      "Plain words: 'what you pay' not 'cost basis', unless the jargon term is itself being taught - then define it in the same sentence.",
+      "Cite as you speak: 'per the Fed's own data', 'according to your plan's disclosure' - a bare number with no source is a liability here.",
+      "Never phrase anything as personalized advice ('you should buy X') - always general mechanics and worked examples ('here is how X works, here is what it would mean if...').",
+      "Say 'you' constantly, but keep every claim general - this is the line between education and advice."
+    ],
+    "honesty_guard": "This is the highest-compliance-risk niche in the channel portfolio: overclaiming here risks demonetization AND makes the content read as investment advice, which it must never be. Every number must be sourced and defensible; if a claim can't be supported, soften it, never fabricate a source. Never state a specific investment, trade, or product as a recommendation - explain mechanics and let the viewer apply it to their own situation. Never guarantee a return or outcome. Where a topic is genuinely contested (tax strategy, market timing, specific products), say so on screen rather than picking a side. A light on-screen note ('this is general information, not personal advice') belongs on any video that could be mistaken for a recommendation."
+  },
+  "pacing": { "beat_seconds": 7.0, "beat_jitter": 2.0, "hook_beat_seconds": 4.0, "hook_seconds": 25 },
+  "images": {
+    "style": "muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+    "query_hints": ["ledger book", "receipt macro", "calculator desk", "bank statement", "coins on table", "budget notebook", "kitchen table bills", "piggy bank close up"],
+    "avoid": ["suit handshake", "neon stock market ticker", "gold bars", "dollar sign clip art", "Wall Street skyline cliche", "trading floor stock footage"],
+    "_facts_go_on_cards": "Every dollar figure, percentage, and rate belongs on a code-rendered stat card, never spoken over an unrelated stock photo - same discipline as robotics-news. This is also an accessibility/trust matter: viewers half-listening should still catch the number by reading it."
+  },
+  "sound": { "music_bed": "ambient-pad", "bed_gain_db": -3.8, "sfx_density": "low", "sfx_palette": ["page-flip", "impact-soft", "warm-shimmer", "ui-click-soft"],
+   "_bed_gain_note": "MEASURED 2026-07-31 on money-archive-401k-fee (first finance video). ffmpeg volumedetect on media/library/music/clips/ambient-pad.mp3 -> mean_volume -23.2 dB. bed_gain_db = -27 - (-23.2) = -3.8, same formula used to correct docu-pluck/tech-pulse/cinematic-min on 2026-07-30. Verify with an audibility measurement (mixed vs voice-only) after the first mix rather than trusting the formula blindly -- the formula is a strong prior, not a guarantee." },
+  "voice": { "tone": "calm, plain-spoken, quietly credible - a knowledgeable friend explaining your own bank statement back to you, not a guru", "tts_voice_hint": "clear neutral adult, unhurried rate, en-US-GuyNeural or similar per niches/voice-rates.json" }
+}

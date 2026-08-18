@@ -1,0 +1,37 @@
+{
+  "master": "videos\\grok-imagine-image-2/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "GIIHook", "type": "cutaway", "master_in_s": 0.0, "master_out_s": 23.85, "cue": "cold open: #2 in the world, the catch, cost" },
+    { "id": "GIIContext", "type": "cutaway", "master_in_s": 23.85, "master_out_s": 61.79, "cue": "what existed before, the field, switch flipped" },
+    { "id": "GIIFastOne", "type": "cutaway", "master_in_s": 61.79, "master_out_s": 69.10, "cue": "HOOK LINE: the #2 is the fast one, Quality at #14" },
+    { "id": "GIIBoardNumbers", "type": "cutaway", "master_in_s": 69.10, "master_out_s": 91.42, "cue": "the numbers: 1380/1320, 1463/1439" },
+    { "id": "GIIEloExplain", "type": "cutaway", "master_in_s": 91.42, "master_out_s": 105.23, "cue": "how Elo works, no money, popularity contest" },
+    { "id": "GIIBelow", "type": "cutaway", "master_in_s": 105.23, "master_out_s": 121.19, "cue": "the field below: Reve, Muse, Gemini, Qwen" },
+    { "id": "GIIFeatures", "type": "cutaway", "master_in_s": 121.19, "master_out_s": 144.51, "cue": "built-in editing: wand, segmentation, bg removal, multi-ref" },
+    { "id": "GIIWorkflow", "type": "cutaway", "master_in_s": 144.51, "master_out_s": 163.43, "cue": "one sentence in Grok vs Photoshop, text rendering" },
+    { "id": "GIIVerdict", "type": "cutaway", "master_in_s": 163.43, "master_out_s": 176.10, "cue": "the verdict: #2, design tool, catch restated" },
+    { "id": "GIIEvidenceT2I", "type": "cutaway", "master_in_s": 176.10, "master_out_s": 203.88, "cue": "evidence 1: T2I board, 1320, preliminary, 18 pts clear" },
+    { "id": "GIIEvidenceEdit", "type": "cutaway", "master_in_s": 203.88, "master_out_s": 226.12, "cue": "evidence 2: edit board, vote counts 5,931 vs 184,189" },
+    { "id": "GIIJump", "type": "cutaway", "master_in_s": 226.12, "master_out_s": 233.35, "cue": "twelve places, one release: #14 to #2" },
+    { "id": "GIIEvidenceDecoder", "type": "cutaway", "master_in_s": 233.35, "master_out_s": 250.43, "cue": "evidence 3: the release as The Decoder covered it" },
+    { "id": "GIIBeyond", "type": "cutaway", "master_in_s": 250.43, "master_out_s": 264.41, "cue": "templates, consistent worlds, stepping stone to video" },
+    { "id": "GIIMidroll", "type": "cutaway", "master_in_s": 264.41, "master_out_s": 277.73, "cue": "mid-roll CTA: subscribe, comment Midjourney take" },
+    { "id": "GIIEvidenceAPI", "type": "cutaway", "master_in_s": 277.73, "master_out_s": 301.97, "cue": "evidence 4: API pricing, app-only, 3 vs 5 refs" },
+    { "id": "GIIEvidenceSays", "type": "cutaway", "master_in_s": 301.97, "master_out_s": 310.00, "cue": "what the evidence says" },
+    { "id": "GIIHonestOpen", "type": "cutaway", "master_in_s": 310.00, "master_out_s": 328.78, "cue": "honest: real and provisional, 2,500 vs 69,000" },
+    { "id": "GIIHonestSecond", "type": "cutaway", "master_in_s": 328.78, "master_out_s": 338.07, "cue": "honest: still second, 60/24 pts" },
+    { "id": "GIIHonestThird", "type": "cutaway", "master_in_s": 338.07, "master_out_s": 357.25, "cue": "honest: fast variant, quality tier not ranked, honest gap" },
+    { "id": "GIIPayoff", "type": "cutaway", "master_in_s": 357.25, "master_out_s": 370.18, "cue": "HOOK PAYOFF: the catch in one line" },
+    { "id": "GIICallToAction", "type": "cutaway", "master_in_s": 370.18, "master_out_s": 387.23, "cue": "try it today: grok.com/imagine two-step test" },
+    { "id": "GIIOutro", "type": "cutaway", "master_in_s": 387.23, "master_out_s": 406.30, "cue": "EndCard: subscribe, like, comment question" }
+  ],
+  "preview": {
+    "end_s": 406.27,
+    "out": "videos\\grok-imagine-image-2/output/grok-imagine-image-2-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

@@ -1,0 +1,5101 @@
+{
+ "words": [
+  {
+   "text": "**Format:**",
+   "start": 176,
+   "end": 785
+  },
+  {
+   "text": "single-story",
+   "start": 1058,
+   "end": 1651
+  },
+  {
+   "text": "**Niche:**",
+   "start": 1651,
+   "end": 1924
+  },
+  {
+   "text": "ai-news",
+   "start": 2421,
+   "end": 2966
+  },
+  {
+   "text": "**Target:**",
+   "start": 3062,
+   "end": 3655
+  },
+  {
+   "text": "~6",
+   "start": 3896,
+   "end": 4208
+  },
+  {
+   "text": "min",
+   "start": 4208,
+   "end": 4521
+  },
+  {
+   "text": "(1,028",
+   "start": 4826,
+   "end": 5900
+  },
+  {
+   "text": "words",
+   "start": 5948,
+   "end": 6205
+  },
+  {
+   "text": "171.4",
+   "start": 6349,
+   "end": 7600
+  },
+  {
+   "text": "wpm)",
+   "start": 7632,
+   "end": 8193
+  },
+  {
+   "text": "**Voice:**",
+   "start": 8530,
+   "end": 9187
+  },
+  {
+   "text": "en-US-AndrewNeural",
+   "start": 9268,
+   "end": 10310
+  },
+  {
+   "text": "1.15x",
+   "start": 10438,
+   "end": 11368
+  },
+  {
+   "text": "(breaking-news)",
+   "start": 11737,
+   "end": 12266
+  },
+  {
+   "text": "**Date:**",
+   "start": 12619,
+   "end": 13340
+  },
+  {
+   "text": "2026-08-10",
+   "start": 13485,
+   "end": 15120
+  },
+  {
+   "text": "On",
+   "start": 15585,
+   "end": 15633
+  },
+  {
+   "text": "August",
+   "start": 15810,
+   "end": 16066
+  },
+  {
+   "text": "tenth,",
+   "start": 16066,
+   "end": 16323
+  },
+  {
+   "text": "Meta",
+   "start": 16628,
+   "end": 16932
+  },
+  {
+   "text": "open-sourced",
+   "start": 16948,
+   "end": 17574
+  },
+  {
+   "text": "Muse",
+   "start": 17574,
+   "end": 17798
+  },
+  {
+   "text": "Glimmer:",
+   "start": 17830,
+   "end": 18151
+  },
+  {
+   "text": "a",
+   "start": 18552,
+   "end": 18584
+  },
+  {
+   "text": "thirty-billion-parameter",
+   "start": 18616,
+   "end": 19610
+  },
+  {
+   "text": "model",
+   "start": 19610,
+   "end": 19899
+  },
+  {
+   "text": "built",
+   "start": 19915,
+   "end": 20155
+  },
+  {
+   "text": "for",
+   "start": 20155,
+   "end": 20284
+  },
+  {
+   "text": "agents,",
+   "start": 20316,
+   "end": 20749
+  },
+  {
+   "text": "that",
+   "start": 20957,
+   "end": 21069
+  },
+  {
+   "text": "runs",
+   "start": 21101,
+   "end": 21326
+  },
+  {
+   "text": "on",
+   "start": 21358,
+   "end": 21438
+  },
+  {
+   "text": "a",
+   "start": 21438,
+   "end": 21454
+  },
+  {
+   "text": "single",
+   "start": 21454,
+   "end": 21839
+  },
+  {
+   "text": "consumer",
+   "start": 21839,
+   "end": 22240
+  },
+  {
+   "text": "GPU.",
+   "start": 22240,
+   "end": 22801
+  },
+  {
+   "text": "It",
+   "start": 23138,
+   "end": 23282
+  },
+  {
+   "text": "beats",
+   "start": 23282,
+   "end": 23539
+  },
+  {
+   "text": "Google",
+   "start": 23603,
+   "end": 23988
+  },
+  {
+   "text": "and",
+   "start": 24004,
+   "end": 24068
+  },
+  {
+   "text": "Alibaba's",
+   "start": 24228,
+   "end": 24789
+  },
+  {
+   "text": "newest",
+   "start": 24821,
+   "end": 25286
+  },
+  {
+   "text": "mid-size",
+   "start": 25286,
+   "end": 25655
+  },
+  {
+   "text": "models",
+   "start": 25703,
+   "end": 26056
+  },
+  {
+   "text": "on",
+   "start": 26152,
+   "end": 26200
+  },
+  {
+   "text": "most",
+   "start": 26248,
+   "end": 26537
+  },
+  {
+   "text": "agent",
+   "start": 26633,
+   "end": 26810
+  },
+  {
+   "text": "benchmarks.",
+   "start": 26810,
+   "end": 27387
+  },
+  {
+   "text": "If",
+   "start": 27836,
+   "end": 27916
+  },
+  {
+   "text": "you",
+   "start": 27916,
+   "end": 28013
+  },
+  {
+   "text": "pay",
+   "start": 28013,
+   "end": 28173
+  },
+  {
+   "text": "per",
+   "start": 28173,
+   "end": 28334
+  },
+  {
+   "text": "token",
+   "start": 28334,
+   "end": 28655
+  },
+  {
+   "text": "for",
+   "start": 28655,
+   "end": 28800
+  },
+  {
+   "text": "an",
+   "start": 28800,
+   "end": 28848
+  },
+  {
+   "text": "AI",
+   "start": 28960,
+   "end": 29233
+  },
+  {
+   "text": "agent,",
+   "start": 29297,
+   "end": 29602
+  },
+  {
+   "text": "this",
+   "start": 29923,
+   "end": 29988
+  },
+  {
+   "text": "undercuts",
+   "start": 30180,
+   "end": 30582
+  },
+  {
+   "text": "your",
+   "start": 30582,
+   "end": 30662
+  },
+  {
+   "text": "bill.",
+   "start": 30662,
+   "end": 30807
+  },
+  {
+   "text": "But",
+   "start": 31304,
+   "end": 31385
+  },
+  {
+   "text": "there's",
+   "start": 31385,
+   "end": 31513
+  },
+  {
+   "text": "one",
+   "start": 31609,
+   "end": 31674
+  },
+  {
+   "text": "table",
+   "start": 31770,
+   "end": 32091
+  },
+  {
+   "text": "where",
+   "start": 32091,
+   "end": 32252
+  },
+  {
+   "text": "Alibaba's",
+   "start": 32332,
+   "end": 32894
+  },
+  {
+   "text": "Qwen",
+   "start": 32910,
+   "end": 33103
+  },
+  {
+   "text": "still",
+   "start": 33167,
+   "end": 33424
+  },
+  {
+   "text": "wins",
+   "start": 33472,
+   "end": 33761
+  },
+  {
+   "text": "big,",
+   "start": 33793,
+   "end": 34114
+  },
+  {
+   "text": "and",
+   "start": 34435,
+   "end": 34500
+  },
+  {
+   "text": "it",
+   "start": 34516,
+   "end": 34596
+  },
+  {
+   "text": "changes",
+   "start": 34596,
+   "end": 34965
+  },
+  {
+   "text": "who",
+   "start": 34997,
+   "end": 35158
+  },
+  {
+   "text": "this",
+   "start": 35158,
+   "end": 35286
+  },
+  {
+   "text": "is",
+   "start": 35495,
+   "end": 35608
+  },
+  {
+   "text": "actually",
+   "start": 35704,
+   "end": 36009
+  },
+  {
+   "text": "for.",
+   "start": 36041,
+   "end": 36234
+  },
+  {
+   "text": "We'll",
+   "start": 36748,
+   "end": 36844
+  },
+  {
+   "text": "get",
+   "start": 36844,
+   "end": 36988
+  },
+  {
+   "text": "to",
+   "start": 36988,
+   "end": 37101
+  },
+  {
+   "text": "it.",
+   "start": 37101,
+   "end": 37181
+  },
+  {
+   "text": "Quick",
+   "start": 37631,
+   "end": 37807
+  },
+  {
+   "text": "backstory.",
+   "start": 37807,
+   "end": 38225
+  },
+  {
+   "text": "In",
+   "start": 38690,
+   "end": 38819
+  },
+  {
+   "text": "April,",
+   "start": 38915,
+   "end": 39140
+  },
+  {
+   "text": "Meta",
+   "start": 39477,
+   "end": 39638
+  },
+  {
+   "text": "shipped",
+   "start": 39638,
+   "end": 39959
+  },
+  {
+   "text": "Muse",
+   "start": 39959,
+   "end": 40135
+  },
+  {
+   "text": "Spark,",
+   "start": 40135,
+   "end": 40617
+  },
+  {
+   "text": "its",
+   "start": 40858,
+   "end": 40954
+  },
+  {
+   "text": "first",
+   "start": 41003,
+   "end": 41243
+  },
+  {
+   "text": "frontier",
+   "start": 41243,
+   "end": 41613
+  },
+  {
+   "text": "model,",
+   "start": 41645,
+   "end": 41982
+  },
+  {
+   "text": "and",
+   "start": 42223,
+   "end": 42287
+  },
+  {
+   "text": "kept",
+   "start": 42303,
+   "end": 42496
+  },
+  {
+   "text": "the",
+   "start": 42528,
+   "end": 42592
+  },
+  {
+   "text": "weights",
+   "start": 42624,
+   "end": 42865
+  },
+  {
+   "text": "closed.",
+   "start": 42865,
+   "end": 43283
+  },
+  {
+   "text": "The",
+   "start": 43668,
+   "end": 43748
+  },
+  {
+   "text": "local-AI",
+   "start": 43748,
+   "end": 44262
+  },
+  {
+   "text": "community",
+   "start": 44294,
+   "end": 44760
+  },
+  {
+   "text": "called",
+   "start": 44792,
+   "end": 45049
+  },
+  {
+   "text": "it",
+   "start": 45049,
+   "end": 45129
+  },
+  {
+   "text": "a",
+   "start": 45129,
+   "end": 45193
+  },
+  {
+   "text": "betrayal.",
+   "start": 45193,
+   "end": 45675
+  },
+  {
+   "text": "They",
+   "start": 46060,
+   "end": 46157
+  },
+  {
+   "text": "spent",
+   "start": 46157,
+   "end": 46462
+  },
+  {
+   "text": "years",
+   "start": 46462,
+   "end": 46687
+  },
+  {
+   "text": "building",
+   "start": 46719,
+   "end": 46992
+  },
+  {
+   "text": "on",
+   "start": 47024,
+   "end": 47072
+  },
+  {
+   "text": "open",
+   "start": 47265,
+   "end": 47513
+  },
+  {
+   "text": "Llama.",
+   "start": 47513,
+   "end": 47762
+  },
+  {
+   "text": "Meta",
+   "start": 48164,
+   "end": 48340
+  },
+  {
+   "text": "promised",
+   "start": 48340,
+   "end": 48742
+  },
+  {
+   "text": "open",
+   "start": 48806,
+   "end": 48999
+  },
+  {
+   "text": "weights",
+   "start": 49047,
+   "end": 49272
+  },
+  {
+   "text": "were",
+   "start": 49272,
+   "end": 49352
+  },
+  {
+   "text": "coming.",
+   "start": 49352,
+   "end": 49577
+  },
+  {
+   "text": "The",
+   "start": 49994,
+   "end": 50026
+  },
+  {
+   "text": "community's",
+   "start": 50026,
+   "end": 50476
+  },
+  {
+   "text": "answer?",
+   "start": 50556,
+   "end": 50797
+  },
+  {
+   "text": "\"Talk",
+   "start": 51215,
+   "end": 51391
+  },
+  {
+   "text": "is",
+   "start": 51391,
+   "end": 51504
+  },
+  {
+   "text": "cheap.",
+   "start": 51520,
+   "end": 51793
+  },
+  {
+   "text": "Show",
+   "start": 52162,
+   "end": 52339
+  },
+  {
+   "text": "us",
+   "start": 52355,
+   "end": 52499
+  },
+  {
+   "text": "the",
+   "start": 52499,
+   "end": 52579
+  },
+  {
+   "text": "weights.\"",
+   "start": 52579,
+   "end": 52820
+  },
+  {
+   "text": "Four",
+   "start": 53286,
+   "end": 53350
+  },
+  {
+   "text": "months",
+   "start": 53350,
+   "end": 53607
+  },
+  {
+   "text": "later,",
+   "start": 53607,
+   "end": 53800
+  },
+  {
+   "text": "here",
+   "start": 54105,
+   "end": 54233
+  },
+  {
+   "text": "they",
+   "start": 54249,
+   "end": 54378
+  },
+  {
+   "text": "are.",
+   "start": 54410,
+   "end": 54458
+  },
+  {
+   "text": "Muse",
+   "start": 54972,
+   "end": 55196
+  },
+  {
+   "text": "Glimmer",
+   "start": 55228,
+   "end": 55485
+  },
+  {
+   "text": "is",
+   "start": 55630,
+   "end": 55678
+  },
+  {
+   "text": "the",
+   "start": 55710,
+   "end": 55790
+  },
+  {
+   "text": "first",
+   "start": 55790,
+   "end": 56256
+  },
+  {
+   "text": "open",
+   "start": 56416,
+   "end": 56561
+  },
+  {
+   "text": "release",
+   "start": 56593,
+   "end": 56930
+  },
+  {
+   "text": "from",
+   "start": 56978,
+   "end": 57123
+  },
+  {
+   "text": "Meta",
+   "start": 57155,
+   "end": 57348
+  },
+  {
+   "text": "Superintelligence",
+   "start": 57396,
+   "end": 58182
+  },
+  {
+   "text": "Labs.",
+   "start": 58182,
+   "end": 58487
+  },
+  {
+   "text": "Not",
+   "start": 58921,
+   "end": 59081
+  },
+  {
+   "text": "a",
+   "start": 59081,
+   "end": 59097
+  },
+  {
+   "text": "small",
+   "start": 59097,
+   "end": 59370
+  },
+  {
+   "text": "fine-tune:",
+   "start": 59386,
+   "end": 59916
+  },
+  {
+   "text": "a",
+   "start": 60301,
+   "end": 60318
+  },
+  {
+   "text": "full",
+   "start": 60350,
+   "end": 60558
+  },
+  {
+   "text": "agentic",
+   "start": 60751,
+   "end": 61152
+  },
+  {
+   "text": "model,",
+   "start": 61168,
+   "end": 61473
+  },
+  {
+   "text": "distilled",
+   "start": 61714,
+   "end": 62051
+  },
+  {
+   "text": "from",
+   "start": 62051,
+   "end": 62212
+  },
+  {
+   "text": "Muse",
+   "start": 62212,
+   "end": 62469
+  },
+  {
+   "text": "Spark",
+   "start": 62469,
+   "end": 62790
+  },
+  {
+   "text": "itself.",
+   "start": 62790,
+   "end": 63127
+  },
+  {
+   "text": "And",
+   "start": 63576,
+   "end": 63641
+  },
+  {
+   "text": "Zuckerberg",
+   "start": 63721,
+   "end": 64138
+  },
+  {
+   "text": "says",
+   "start": 64138,
+   "end": 64347
+  },
+  {
+   "text": "the",
+   "start": 64379,
+   "end": 64443
+  },
+  {
+   "text": "big",
+   "start": 64459,
+   "end": 64652
+  },
+  {
+   "text": "one",
+   "start": 64764,
+   "end": 64893
+  },
+  {
+   "text": "is",
+   "start": 65021,
+   "end": 65070
+  },
+  {
+   "text": "coming",
+   "start": 65102,
+   "end": 65342
+  },
+  {
+   "text": "too:",
+   "start": 65423,
+   "end": 65664
+  },
+  {
+   "text": "Spark",
+   "start": 65985,
+   "end": 66306
+  },
+  {
+   "text": "1.2's",
+   "start": 66370,
+   "end": 67028
+  },
+  {
+   "text": "weights,",
+   "start": 67028,
+   "end": 67429
+  },
+  {
+   "text": "soon.",
+   "start": 67574,
+   "end": 67863
+  },
+  {
+   "text": "Here's",
+   "start": 68312,
+   "end": 68537
+  },
+  {
+   "text": "the",
+   "start": 68537,
+   "end": 68617
+  },
+  {
+   "text": "read.",
+   "start": 68634,
+   "end": 68890
+  },
+  {
+   "text": "Muse",
+   "start": 69276,
+   "end": 69533
+  },
+  {
+   "text": "Glimmer",
+   "start": 69581,
+   "end": 69886
+  },
+  {
+   "text": "is",
+   "start": 69934,
+   "end": 70046
+  },
+  {
+   "text": "thirty",
+   "start": 70159,
+   "end": 70448
+  },
+  {
+   "text": "billion",
+   "start": 70480,
+   "end": 70801
+  },
+  {
+   "text": "parameters,",
+   "start": 70801,
+   "end": 71331
+  },
+  {
+   "text": "with",
+   "start": 71668,
+   "end": 71828
+  },
+  {
+   "text": "vision.",
+   "start": 71828,
+   "end": 72053
+  },
+  {
+   "text": "It",
+   "start": 72503,
+   "end": 72583
+  },
+  {
+   "text": "reads",
+   "start": 72647,
+   "end": 72936
+  },
+  {
+   "text": "text",
+   "start": 72968,
+   "end": 73434
+  },
+  {
+   "text": "and",
+   "start": 73514,
+   "end": 73594
+  },
+  {
+   "text": "images,",
+   "start": 73691,
+   "end": 74060
+  },
+  {
+   "text": "plans",
+   "start": 74413,
+   "end": 74670
+  },
+  {
+   "text": "multi-step",
+   "start": 74718,
+   "end": 75280
+  },
+  {
+   "text": "tasks,",
+   "start": 75280,
+   "end": 75778
+  },
+  {
+   "text": "calls",
+   "start": 76018,
+   "end": 76227
+  },
+  {
+   "text": "tools,",
+   "start": 76323,
+   "end": 76628
+  },
+  {
+   "text": "and",
+   "start": 76982,
+   "end": 77046
+  },
+  {
+   "text": "when",
+   "start": 77062,
+   "end": 77174
+  },
+  {
+   "text": "a",
+   "start": 77206,
+   "end": 77222
+  },
+  {
+   "text": "call",
+   "start": 77287,
+   "end": 77511
+  },
+  {
+   "text": "fails,",
+   "start": 77527,
+   "end": 77913
+  },
+  {
+   "text": "it",
+   "start": 78346,
+   "end": 78394
+  },
+  {
+   "text": "retries",
+   "start": 78426,
+   "end": 78956
+  },
+  {
+   "text": "instead",
+   "start": 78988,
+   "end": 79309
+  },
+  {
+   "text": "of",
+   "start": 79309,
+   "end": 79390
+  },
+  {
+   "text": "dying.",
+   "start": 79390,
+   "end": 79679
+  },
+  {
+   "text": "That's",
+   "start": 80032,
+   "end": 80144
+  },
+  {
+   "text": "the",
+   "start": 80192,
+   "end": 80273
+  },
+  {
+   "text": "difference",
+   "start": 80337,
+   "end": 80658
+  },
+  {
+   "text": "between",
+   "start": 80658,
+   "end": 80867
+  },
+  {
+   "text": "a",
+   "start": 80915,
+   "end": 80931
+  },
+  {
+   "text": "chatbot",
+   "start": 80931,
+   "end": 81541
+  },
+  {
+   "text": "and",
+   "start": 81637,
+   "end": 81717
+  },
+  {
+   "text": "an",
+   "start": 81717,
+   "end": 81798
+  },
+  {
+   "text": "agent.",
+   "start": 81798,
+   "end": 82022
+  },
+  {
+   "text": "The",
+   "start": 82504,
+   "end": 82584
+  },
+  {
+   "text": "headline",
+   "start": 82584,
+   "end": 82857
+  },
+  {
+   "text": "number:",
+   "start": 82857,
+   "end": 83162
+  },
+  {
+   "text": "what",
+   "start": 83483,
+   "end": 83579
+  },
+  {
+   "text": "it",
+   "start": 83579,
+   "end": 83660
+  },
+  {
+   "text": "runs",
+   "start": 83708,
+   "end": 83901
+  },
+  {
+   "text": "on.",
+   "start": 83949,
+   "end": 83997
+  },
+  {
+   "text": "At",
+   "start": 84527,
+   "end": 84607
+  },
+  {
+   "text": "full",
+   "start": 84607,
+   "end": 84816
+  },
+  {
+   "text": "precision",
+   "start": 84832,
+   "end": 85217
+  },
+  {
+   "text": "it",
+   "start": 85409,
+   "end": 85490
+  },
+  {
+   "text": "would",
+   "start": 85490,
+   "end": 85586
+  },
+  {
+   "text": "need",
+   "start": 85586,
+   "end": 85779
+  },
+  {
+   "text": "fifty-five",
+   "start": 85955,
+   "end": 86405
+  },
+  {
+   "text": "gigabytes.",
+   "start": 86453,
+   "end": 86951
+  },
+  {
+   "text": "Quantized",
+   "start": 87416,
+   "end": 87914
+  },
+  {
+   "text": "to",
+   "start": 87914,
+   "end": 87994
+  },
+  {
+   "text": "four-bit,",
+   "start": 88042,
+   "end": 88460
+  },
+  {
+   "text": "the",
+   "start": 88764,
+   "end": 88829
+  },
+  {
+   "text": "model",
+   "start": 88829,
+   "end": 89086
+  },
+  {
+   "text": "fits",
+   "start": 89102,
+   "end": 89503
+  },
+  {
+   "text": "under",
+   "start": 89503,
+   "end": 89663
+  },
+  {
+   "text": "twenty",
+   "start": 89663,
+   "end": 89985
+  },
+  {
+   "text": "gigabytes,",
+   "start": 89985,
+   "end": 90546
+  },
+  {
+   "text": "inside",
+   "start": 90787,
+   "end": 91188
+  },
+  {
+   "text": "a",
+   "start": 91188,
+   "end": 91204
+  },
+  {
+   "text": "twenty-four-gigabyte",
+   "start": 91204,
+   "end": 92136
+  },
+  {
+   "text": "card.",
+   "start": 92152,
+   "end": 92441
+  },
+  {
+   "text": "A",
+   "start": 92794,
+   "end": 92858
+  },
+  {
+   "text": "Mac",
+   "start": 92858,
+   "end": 93211
+  },
+  {
+   "text": "or",
+   "start": 93275,
+   "end": 93323
+  },
+  {
+   "text": "a",
+   "start": 93356,
+   "end": 93436
+  },
+  {
+   "text": "PC",
+   "start": 93436,
+   "end": 93933
+  },
+  {
+   "text": "with",
+   "start": 93998,
+   "end": 94158
+  },
+  {
+   "text": "one",
+   "start": 94222,
+   "end": 94287
+  },
+  {
+   "text": "GPU.",
+   "start": 94383,
+   "end": 94704
+  },
+  {
+   "text": "No",
+   "start": 95202,
+   "end": 95346
+  },
+  {
+   "text": "cloud,",
+   "start": 95362,
+   "end": 95812
+  },
+  {
+   "text": "no",
+   "start": 96181,
+   "end": 96293
+  },
+  {
+   "text": "per-token",
+   "start": 96325,
+   "end": 96807
+  },
+  {
+   "text": "fees,",
+   "start": 96807,
+   "end": 97096
+  },
+  {
+   "text": "no",
+   "start": 97529,
+   "end": 97658
+  },
+  {
+   "text": "internet.",
+   "start": 97690,
+   "end": 98027
+  },
+  {
+   "text": "An",
+   "start": 98492,
+   "end": 98541
+  },
+  {
+   "text": "always-on",
+   "start": 98717,
+   "end": 99022
+  },
+  {
+   "text": "agent",
+   "start": 99118,
+   "end": 99375
+  },
+  {
+   "text": "on",
+   "start": 99375,
+   "end": 99456
+  },
+  {
+   "text": "your",
+   "start": 99456,
+   "end": 99552
+  },
+  {
+   "text": "own",
+   "start": 99600,
+   "end": 99648
+  },
+  {
+   "text": "machine.",
+   "start": 99761,
+   "end": 99985
+  },
+  {
+   "text": "And",
+   "start": 100419,
+   "end": 100483
+  },
+  {
+   "text": "it's",
+   "start": 100515,
+   "end": 100660
+  },
+  {
+   "text": "fast.",
+   "start": 100660,
+   "end": 101077
+  },
+  {
+   "text": "Meta",
+   "start": 101462,
+   "end": 101623
+  },
+  {
+   "text": "ships",
+   "start": 101623,
+   "end": 101960
+  },
+  {
+   "text": "a",
+   "start": 101960,
+   "end": 101976
+  },
+  {
+   "text": "speculative-decoding",
+   "start": 102008,
+   "end": 103035
+  },
+  {
+   "text": "drafter,",
+   "start": 103067,
+   "end": 103453
+  },
+  {
+   "text": "DFlash.",
+   "start": 103710,
+   "end": 104271
+  },
+  {
+   "text": "On",
+   "start": 104737,
+   "end": 104785
+  },
+  {
+   "text": "an",
+   "start": 104817,
+   "end": 104881
+  },
+  {
+   "text": "RTX",
+   "start": 104929,
+   "end": 105395
+  },
+  {
+   "text": "5090,",
+   "start": 105395,
+   "end": 106005
+  },
+  {
+   "text": "it",
+   "start": 106278,
+   "end": 106358
+  },
+  {
+   "text": "triples",
+   "start": 106358,
+   "end": 106711
+  },
+  {
+   "text": "speed:",
+   "start": 106711,
+   "end": 107129
+  },
+  {
+   "text": "two",
+   "start": 107682,
+   "end": 107950
+  },
+  {
+   "text": "hundred",
+   "start": 107950,
+   "end": 108219
+  },
+  {
+   "text": "thirty-three",
+   "start": 108219,
+   "end": 108488
+  },
+  {
+   "text": "tokens",
+   "start": 108488,
+   "end": 108858
+  },
+  {
+   "text": "per",
+   "start": 108891,
+   "end": 108987
+  },
+  {
+   "text": "second.",
+   "start": 108987,
+   "end": 109342
+  },
+  {
+   "text": "On",
+   "start": 109777,
+   "end": 109842
+  },
+  {
+   "text": "a",
+   "start": 109842,
+   "end": 109858
+  },
+  {
+   "text": "Mac",
+   "start": 109858,
+   "end": 110180
+  },
+  {
+   "text": "M5",
+   "start": 110180,
+   "end": 110648
+  },
+  {
+   "text": "Max,",
+   "start": 110648,
+   "end": 111067
+  },
+  {
+   "text": "fifty.",
+   "start": 111292,
+   "end": 111567
+  },
+  {
+   "text": "Agents",
+   "start": 112018,
+   "end": 112260
+  },
+  {
+   "text": "feel",
+   "start": 112260,
+   "end": 112453
+  },
+  {
+   "text": "real-time.",
+   "start": 112518,
+   "end": 112872
+  },
+  {
+   "text": "The",
+   "start": 113370,
+   "end": 113402
+  },
+  {
+   "text": "benchmark",
+   "start": 113402,
+   "end": 113787
+  },
+  {
+   "text": "story:",
+   "start": 113787,
+   "end": 114093
+  },
+  {
+   "text": "Meta",
+   "start": 114430,
+   "end": 114559
+  },
+  {
+   "text": "compared",
+   "start": 114607,
+   "end": 114944
+  },
+  {
+   "text": "it",
+   "start": 114944,
+   "end": 115008
+  },
+  {
+   "text": "to",
+   "start": 115008,
+   "end": 115137
+  },
+  {
+   "text": "Google's",
+   "start": 115169,
+   "end": 115555
+  },
+  {
+   "text": "Gemma4-31B",
+   "start": 115571,
+   "end": 117354
+  },
+  {
+   "text": "and",
+   "start": 117579,
+   "end": 117644
+  },
+  {
+   "text": "Alibaba's",
+   "start": 117804,
+   "end": 118367
+  },
+  {
+   "text": "Qwen3.6-27B.",
+   "start": 118367,
+   "end": 120632
+  },
+  {
+   "text": "On",
+   "start": 121114,
+   "end": 121163
+  },
+  {
+   "text": "agent",
+   "start": 121259,
+   "end": 121468
+  },
+  {
+   "text": "benchmarks,",
+   "start": 121516,
+   "end": 121998
+  },
+  {
+   "text": "Glimmer",
+   "start": 122304,
+   "end": 122545
+  },
+  {
+   "text": "wins",
+   "start": 122545,
+   "end": 122770
+  },
+  {
+   "text": "most.",
+   "start": 122802,
+   "end": 123142
+  },
+  {
+   "text": "MCP",
+   "start": 123594,
+   "end": 124161
+  },
+  {
+   "text": "Atlas,",
+   "start": 124161,
+   "end": 124387
+  },
+  {
+   "text": "the",
+   "start": 124743,
+   "end": 124824
+  },
+  {
+   "text": "tool-use",
+   "start": 124824,
+   "end": 125244
+  },
+  {
+   "text": "test,",
+   "start": 125244,
+   "end": 125633
+  },
+  {
+   "text": "seventy-five",
+   "start": 125810,
+   "end": 126252
+  },
+  {
+   "text": "point",
+   "start": 126252,
+   "end": 126694
+  },
+  {
+   "text": "five,",
+   "start": 126694,
+   "end": 127137
+  },
+  {
+   "text": "versus",
+   "start": 127412,
+   "end": 127735
+  },
+  {
+   "text": "fifty-four",
+   "start": 127816,
+   "end": 128253
+  },
+  {
+   "text": "and",
+   "start": 128463,
+   "end": 128528
+  },
+  {
+   "text": "sixty-two.",
+   "start": 128609,
+   "end": 129126
+  },
+  {
+   "text": "DeepSearch",
+   "start": 129498,
+   "end": 129887
+  },
+  {
+   "text": "QA,",
+   "start": 129919,
+   "end": 130178
+  },
+  {
+   "text": "seventy-four",
+   "start": 130550,
+   "end": 130889
+  },
+  {
+   "text": "point",
+   "start": 130889,
+   "end": 131229
+  },
+  {
+   "text": "six.",
+   "start": 131229,
+   "end": 131569
+  },
+  {
+   "text": "SWE-Bench",
+   "start": 132024,
+   "end": 132675
+  },
+  {
+   "text": "Pro,",
+   "start": 132692,
+   "end": 132950
+  },
+  {
+   "text": "fifty-one",
+   "start": 133200,
+   "end": 133565
+  },
+  {
+   "text": "point",
+   "start": 133565,
+   "end": 133930
+  },
+  {
+   "text": "two.",
+   "start": 133930,
+   "end": 134296
+  },
+  {
+   "text": "AIME",
+   "start": 134296,
+   "end": 134661
+  },
+  {
+   "text": "math,",
+   "start": 134661,
+   "end": 135026
+  },
+  {
+   "text": "ninety-four",
+   "start": 135026,
+   "end": 135392
+  },
+  {
+   "text": "point",
+   "start": 135392,
+   "end": 135757
+  },
+  {
+   "text": "seven.",
+   "start": 135757,
+   "end": 136123
+  },
+  {
+   "text": "So",
+   "start": 136540,
+   "end": 136620
+  },
+  {
+   "text": "what",
+   "start": 136685,
+   "end": 136765
+  },
+  {
+   "text": "does",
+   "start": 136765,
+   "end": 136861
+  },
+  {
+   "text": "this",
+   "start": 136861,
+   "end": 136974
+  },
+  {
+   "text": "mean",
+   "start": 137006,
+   "end": 137183
+  },
+  {
+   "text": "for",
+   "start": 137231,
+   "end": 137327
+  },
+  {
+   "text": "you?",
+   "start": 137327,
+   "end": 137375
+  },
+  {
+   "text": "If",
+   "start": 137889,
+   "end": 137970
+  },
+  {
+   "text": "you",
+   "start": 137970,
+   "end": 138050
+  },
+  {
+   "text": "build",
+   "start": 138050,
+   "end": 138291
+  },
+  {
+   "text": "agents,",
+   "start": 138291,
+   "end": 138692
+  },
+  {
+   "text": "you",
+   "start": 138998,
+   "end": 139030
+  },
+  {
+   "text": "now",
+   "start": 139030,
+   "end": 139238
+  },
+  {
+   "text": "have",
+   "start": 139238,
+   "end": 139351
+  },
+  {
+   "text": "a",
+   "start": 139351,
+   "end": 139415
+  },
+  {
+   "text": "free,",
+   "start": 139415,
+   "end": 139817
+  },
+  {
+   "text": "open,",
+   "start": 140202,
+   "end": 140395
+  },
+  {
+   "text": "local",
+   "start": 140684,
+   "end": 141005
+  },
+  {
+   "text": "option",
+   "start": 141005,
+   "end": 141230
+  },
+  {
+   "text": "in",
+   "start": 141326,
+   "end": 141407
+  },
+  {
+   "text": "the",
+   "start": 141407,
+   "end": 141439
+  },
+  {
+   "text": "same",
+   "start": 141439,
+   "end": 141744
+  },
+  {
+   "text": "league",
+   "start": 141744,
+   "end": 142162
+  },
+  {
+   "text": "as",
+   "start": 142226,
+   "end": 142322
+  },
+  {
+   "text": "paid",
+   "start": 142370,
+   "end": 142611
+  },
+  {
+   "text": "APIs.",
+   "start": 142611,
+   "end": 143077
+  },
+  {
+   "text": "Your",
+   "start": 143591,
+   "end": 143703
+  },
+  {
+   "text": "data",
+   "start": 143752,
+   "end": 143992
+  },
+  {
+   "text": "never",
+   "start": 143992,
+   "end": 144314
+  },
+  {
+   "text": "leaves",
+   "start": 144314,
+   "end": 144555
+  },
+  {
+   "text": "your",
+   "start": 144555,
+   "end": 144651
+  },
+  {
+   "text": "machine.",
+   "start": 144651,
+   "end": 144924
+  },
+  {
+   "text": "And",
+   "start": 145358,
+   "end": 145422
+  },
+  {
+   "text": "this",
+   "start": 145438,
+   "end": 145615
+  },
+  {
+   "text": "is",
+   "start": 145615,
+   "end": 145679
+  },
+  {
+   "text": "also",
+   "start": 145743,
+   "end": 146000
+  },
+  {
+   "text": "a",
+   "start": 146000,
+   "end": 146080
+  },
+  {
+   "text": "political",
+   "start": 146080,
+   "end": 146386
+  },
+  {
+   "text": "statement.",
+   "start": 146402,
+   "end": 146819
+  },
+  {
+   "text": "Zuckerberg",
+   "start": 147269,
+   "end": 147670
+  },
+  {
+   "text": "says",
+   "start": 147670,
+   "end": 147815
+  },
+  {
+   "text": "the",
+   "start": 147863,
+   "end": 147992
+  },
+  {
+   "text": "US",
+   "start": 148072,
+   "end": 148506
+  },
+  {
+   "text": "is",
+   "start": 148506,
+   "end": 148618
+  },
+  {
+   "text": "falling",
+   "start": 148650,
+   "end": 148939
+  },
+  {
+   "text": "behind",
+   "start": 148971,
+   "end": 149357
+  },
+  {
+   "text": "China",
+   "start": 149357,
+   "end": 149807
+  },
+  {
+   "text": "in",
+   "start": 149935,
+   "end": 149983
+  },
+  {
+   "text": "open-weight",
+   "start": 150176,
+   "end": 150513
+  },
+  {
+   "text": "models.",
+   "start": 150561,
+   "end": 150867
+  },
+  {
+   "text": "Moonshot's",
+   "start": 151364,
+   "end": 151846
+  },
+  {
+   "text": "Kimi",
+   "start": 151862,
+   "end": 152071
+  },
+  {
+   "text": "K3,",
+   "start": 152103,
+   "end": 152762
+  },
+  {
+   "text": "Alibaba's",
+   "start": 153131,
+   "end": 153629
+  },
+  {
+   "text": "Qwen,",
+   "start": 153629,
+   "end": 153918
+  },
+  {
+   "text": "DeepSeek's",
+   "start": 154272,
+   "end": 154818
+  },
+  {
+   "text": "V4-Flash.",
+   "start": 154834,
+   "end": 155958
+  },
+  {
+   "text": "He",
+   "start": 156440,
+   "end": 156520
+  },
+  {
+   "text": "says",
+   "start": 156520,
+   "end": 156745
+  },
+  {
+   "text": "American",
+   "start": 156745,
+   "end": 157146
+  },
+  {
+   "text": "labs",
+   "start": 157162,
+   "end": 157500
+  },
+  {
+   "text": "carry",
+   "start": 157628,
+   "end": 157853
+  },
+  {
+   "text": "extra",
+   "start": 158030,
+   "end": 158287
+  },
+  {
+   "text": "training-data",
+   "start": 158287,
+   "end": 158769
+  },
+  {
+   "text": "restrictions,",
+   "start": 158769,
+   "end": 159299
+  },
+  {
+   "text": "and",
+   "start": 159636,
+   "end": 159716
+  },
+  {
+   "text": "US",
+   "start": 159796,
+   "end": 160053
+  },
+  {
+   "text": "policy",
+   "start": 160053,
+   "end": 160471
+  },
+  {
+   "text": "has",
+   "start": 160519,
+   "end": 160664
+  },
+  {
+   "text": "to",
+   "start": 160680,
+   "end": 160776
+  },
+  {
+   "text": "change.",
+   "start": 160776,
+   "end": 161065
+  },
+  {
+   "text": "This",
+   "start": 161579,
+   "end": 161740
+  },
+  {
+   "text": "release",
+   "start": 161740,
+   "end": 162045
+  },
+  {
+   "text": "is",
+   "start": 162222,
+   "end": 162270
+  },
+  {
+   "text": "Meta's",
+   "start": 162318,
+   "end": 162623
+  },
+  {
+   "text": "proof.",
+   "start": 162623,
+   "end": 162848
+  },
+  {
+   "text": "The",
+   "start": 163346,
+   "end": 163490
+  },
+  {
+   "text": "evidence",
+   "start": 163571,
+   "end": 163972
+  },
+  {
+   "text": "is",
+   "start": 164004,
+   "end": 164085
+  },
+  {
+   "text": "on",
+   "start": 164133,
+   "end": 164181
+  },
+  {
+   "text": "the",
+   "start": 164213,
+   "end": 164261
+  },
+  {
+   "text": "model",
+   "start": 164261,
+   "end": 164534
+  },
+  {
+   "text": "card.",
+   "start": 164534,
+   "end": 164807
+  },
+  {
+   "text": "Read",
+   "start": 165193,
+   "end": 165337
+  },
+  {
+   "text": "it",
+   "start": 165337,
+   "end": 165418
+  },
+  {
+   "text": "carefully.",
+   "start": 165418,
+   "end": 165771
+  },
+  {
+   "text": "First,",
+   "start": 166237,
+   "end": 166558
+  },
+  {
+   "text": "the",
+   "start": 166799,
+   "end": 166847
+  },
+  {
+   "text": "context",
+   "start": 166863,
+   "end": 167281
+  },
+  {
+   "text": "window.",
+   "start": 167281,
+   "end": 167506
+  },
+  {
+   "text": "That's",
+   "start": 167747,
+   "end": 168164
+  },
+  {
+   "text": "how",
+   "start": 168164,
+   "end": 168261
+  },
+  {
+   "text": "much",
+   "start": 168261,
+   "end": 168453
+  },
+  {
+   "text": "text",
+   "start": 168550,
+   "end": 168823
+  },
+  {
+   "text": "the",
+   "start": 168823,
+   "end": 168903
+  },
+  {
+   "text": "model",
+   "start": 168903,
+   "end": 169272
+  },
+  {
+   "text": "can",
+   "start": 169272,
+   "end": 169353
+  },
+  {
+   "text": "hold",
+   "start": 169433,
+   "end": 169690
+  },
+  {
+   "text": "in",
+   "start": 169690,
+   "end": 169738
+  },
+  {
+   "text": "its",
+   "start": 169770,
+   "end": 169867
+  },
+  {
+   "text": "head",
+   "start": 169915,
+   "end": 170075
+  },
+  {
+   "text": "at",
+   "start": 170075,
+   "end": 170124
+  },
+  {
+   "text": "once:",
+   "start": 170236,
+   "end": 170445
+  },
+  {
+   "text": "one",
+   "start": 170894,
+   "end": 171215
+  },
+  {
+   "text": "hundred",
+   "start": 171215,
+   "end": 171536
+  },
+  {
+   "text": "thirty-one",
+   "start": 171536,
+   "end": 171857
+  },
+  {
+   "text": "thousand",
+   "start": 171857,
+   "end": 172179
+  },
+  {
+   "text": "tokens,",
+   "start": 172179,
+   "end": 172549
+  },
+  {
+   "text": "double",
+   "start": 172902,
+   "end": 173127
+  },
+  {
+   "text": "that",
+   "start": 173143,
+   "end": 173304
+  },
+  {
+   "text": "in",
+   "start": 173304,
+   "end": 173384
+  },
+  {
+   "text": "some",
+   "start": 173384,
+   "end": 173609
+  },
+  {
+   "text": "configs.",
+   "start": 173609,
+   "end": 174074
+  },
+  {
+   "text": "Multilingual,",
+   "start": 174572,
+   "end": 175135
+  },
+  {
+   "text": "a",
+   "start": 175167,
+   "end": 175448
+  },
+  {
+   "text": "hundred-plus",
+   "start": 175448,
+   "end": 175729
+  },
+  {
+   "text": "languages.",
+   "start": 175777,
+   "end": 176403
+  },
+  {
+   "text": "Knowledge",
+   "start": 176901,
+   "end": 177206
+  },
+  {
+   "text": "cutoff:",
+   "start": 177222,
+   "end": 177512
+  },
+  {
+   "text": "January",
+   "start": 177865,
+   "end": 178202
+  },
+  {
+   "text": "fourth.",
+   "start": 178202,
+   "end": 178572
+  },
+  {
+   "text": "Not",
+   "start": 179005,
+   "end": 179102
+  },
+  {
+   "text": "a",
+   "start": 179102,
+   "end": 179150
+  },
+  {
+   "text": "stale",
+   "start": 179150,
+   "end": 179358
+  },
+  {
+   "text": "model.",
+   "start": 179407,
+   "end": 179648
+  },
+  {
+   "text": "Second,",
+   "start": 180129,
+   "end": 180467
+  },
+  {
+   "text": "the",
+   "start": 180692,
+   "end": 180772
+  },
+  {
+   "text": "quant",
+   "start": 180772,
+   "end": 180997
+  },
+  {
+   "text": "story.",
+   "start": 180997,
+   "end": 181254
+  },
+  {
+   "text": "This",
+   "start": 181800,
+   "end": 181864
+  },
+  {
+   "text": "is",
+   "start": 181912,
+   "end": 181992
+  },
+  {
+   "text": "where",
+   "start": 182057,
+   "end": 182137
+  },
+  {
+   "text": "local",
+   "start": 182201,
+   "end": 182442
+  },
+  {
+   "text": "models",
+   "start": 182442,
+   "end": 182747
+  },
+  {
+   "text": "fall",
+   "start": 182779,
+   "end": 182956
+  },
+  {
+   "text": "apart.",
+   "start": 182956,
+   "end": 183326
+  },
+  {
+   "text": "Meta",
+   "start": 183727,
+   "end": 183856
+  },
+  {
+   "text": "says",
+   "start": 183888,
+   "end": 184048
+  },
+  {
+   "text": "the",
+   "start": 184145,
+   "end": 184193
+  },
+  {
+   "text": "four-bit",
+   "start": 184225,
+   "end": 184707
+  },
+  {
+   "text": "compression",
+   "start": 184707,
+   "end": 185189
+  },
+  {
+   "text": "loses",
+   "start": 185253,
+   "end": 185574
+  },
+  {
+   "text": "about",
+   "start": 185590,
+   "end": 185783
+  },
+  {
+   "text": "one",
+   "start": 185976,
+   "end": 186008
+  },
+  {
+   "text": "percent",
+   "start": 186008,
+   "end": 186040
+  },
+  {
+   "text": "on",
+   "start": 186634,
+   "end": 186730
+  },
+  {
+   "text": "average",
+   "start": 186939,
+   "end": 187196
+  },
+  {
+   "text": "across",
+   "start": 187196,
+   "end": 187517
+  },
+  {
+   "text": "fifteen",
+   "start": 187517,
+   "end": 187806
+  },
+  {
+   "text": "benchmarks.",
+   "start": 187839,
+   "end": 188336
+  },
+  {
+   "text": "One",
+   "start": 188722,
+   "end": 188778
+  },
+  {
+   "text": "percent.",
+   "start": 188778,
+   "end": 188834
+  },
+  {
+   "text": "For",
+   "start": 189685,
+   "end": 189781
+  },
+  {
+   "text": "a",
+   "start": 189781,
+   "end": 189845
+  },
+  {
+   "text": "thirty-billion",
+   "start": 189845,
+   "end": 190487
+  },
+  {
+   "text": "agent",
+   "start": 190487,
+   "end": 190760
+  },
+  {
+   "text": "on",
+   "start": 190808,
+   "end": 190904
+  },
+  {
+   "text": "a",
+   "start": 190904,
+   "end": 190968
+  },
+  {
+   "text": "gaming",
+   "start": 190968,
+   "end": 191257
+  },
+  {
+   "text": "card,",
+   "start": 191289,
+   "end": 191578
+  },
+  {
+   "text": "that's",
+   "start": 191931,
+   "end": 192092
+  },
+  {
+   "text": "the",
+   "start": 192092,
+   "end": 192236
+  },
+  {
+   "text": "trade",
+   "start": 192236,
+   "end": 192541
+  },
+  {
+   "text": "everyone",
+   "start": 192734,
+   "end": 193022
+  },
+  {
+   "text": "has",
+   "start": 193071,
+   "end": 193167
+  },
+  {
+   "text": "been",
+   "start": 193215,
+   "end": 193279
+  },
+  {
+   "text": "waiting",
+   "start": 193359,
+   "end": 193584
+  },
+  {
+   "text": "for.",
+   "start": 193680,
+   "end": 193793
+  },
+  {
+   "text": "Third,",
+   "start": 194338,
+   "end": 194707
+  },
+  {
+   "text": "the",
+   "start": 194900,
+   "end": 194948
+  },
+  {
+   "text": "license.",
+   "start": 194980,
+   "end": 195333
+  },
+  {
+   "text": "Apache",
+   "start": 195863,
+   "end": 196232
+  },
+  {
+   "text": "2.0.",
+   "start": 196264,
+   "end": 196890
+  },
+  {
+   "text": "Not",
+   "start": 197387,
+   "end": 197596
+  },
+  {
+   "text": "Meta's",
+   "start": 197596,
+   "end": 197853
+  },
+  {
+   "text": "usual",
+   "start": 197933,
+   "end": 198222
+  },
+  {
+   "text": "restricted",
+   "start": 198254,
+   "end": 198735
+  },
+  {
+   "text": "community",
+   "start": 198735,
+   "end": 199120
+  },
+  {
+   "text": "license.",
+   "start": 199136,
+   "end": 199473
+  },
+  {
+   "text": "This",
+   "start": 199955,
+   "end": 200179
+  },
+  {
+   "text": "one",
+   "start": 200179,
+   "end": 200244
+  },
+  {
+   "text": "says:",
+   "start": 200340,
+   "end": 200564
+  },
+  {
+   "text": "use",
+   "start": 201078,
+   "end": 201254
+  },
+  {
+   "text": "it",
+   "start": 201254,
+   "end": 201383
+  },
+  {
+   "text": "commercially,",
+   "start": 201383,
+   "end": 201848
+  },
+  {
+   "text": "modify",
+   "start": 202121,
+   "end": 202490
+  },
+  {
+   "text": "it,",
+   "start": 202490,
+   "end": 202570
+  },
+  {
+   "text": "no",
+   "start": 202923,
+   "end": 203084
+  },
+  {
+   "text": "strings",
+   "start": 203084,
+   "end": 203405
+  },
+  {
+   "text": "attached.",
+   "start": 203405,
+   "end": 203854
+  },
+  {
+   "text": "Meta",
+   "start": 204271,
+   "end": 204384
+  },
+  {
+   "text": "made",
+   "start": 204384,
+   "end": 204528
+  },
+  {
+   "text": "a",
+   "start": 204528,
+   "end": 204544
+  },
+  {
+   "text": "point",
+   "start": 204544,
+   "end": 204833
+  },
+  {
+   "text": "here.",
+   "start": 204833,
+   "end": 204945
+  },
+  {
+   "text": "And",
+   "start": 205411,
+   "end": 205475
+  },
+  {
+   "text": "if",
+   "start": 205507,
+   "end": 205603
+  },
+  {
+   "text": "you",
+   "start": 205635,
+   "end": 205683
+  },
+  {
+   "text": "want",
+   "start": 205716,
+   "end": 205860
+  },
+  {
+   "text": "these",
+   "start": 205908,
+   "end": 206101
+  },
+  {
+   "text": "breakdowns",
+   "start": 206117,
+   "end": 206582
+  },
+  {
+   "text": "the",
+   "start": 206598,
+   "end": 206662
+  },
+  {
+   "text": "day",
+   "start": 206694,
+   "end": 206839
+  },
+  {
+   "text": "a",
+   "start": 206855,
+   "end": 206871
+  },
+  {
+   "text": "model",
+   "start": 206871,
+   "end": 207256
+  },
+  {
+   "text": "drops,",
+   "start": 207256,
+   "end": 207657
+  },
+  {
+   "text": "hit",
+   "start": 207962,
+   "end": 208058
+  },
+  {
+   "text": "subscribe.",
+   "start": 208058,
+   "end": 208636
+  },
+  {
+   "text": "Verdict",
+   "start": 209021,
+   "end": 209278
+  },
+  {
+   "text": "in",
+   "start": 209278,
+   "end": 209358
+  },
+  {
+   "text": "the",
+   "start": 209358,
+   "end": 209470
+  },
+  {
+   "text": "first",
+   "start": 209487,
+   "end": 209824
+  },
+  {
+   "text": "three",
+   "start": 209824,
+   "end": 210000
+  },
+  {
+   "text": "minutes,",
+   "start": 210000,
+   "end": 210337
+  },
+  {
+   "text": "every",
+   "start": 210690,
+   "end": 210867
+  },
+  {
+   "text": "time.",
+   "start": 210867,
+   "end": 211059
+  },
+  {
+   "text": "The",
+   "start": 211508,
+   "end": 211557
+  },
+  {
+   "text": "weights",
+   "start": 211589,
+   "end": 211829
+  },
+  {
+   "text": "are",
+   "start": 211829,
+   "end": 211910
+  },
+  {
+   "text": "live",
+   "start": 211910,
+   "end": 212215
+  },
+  {
+   "text": "on",
+   "start": 212215,
+   "end": 212263
+  },
+  {
+   "text": "Hugging",
+   "start": 212311,
+   "end": 212600
+  },
+  {
+   "text": "Face",
+   "start": 212632,
+   "end": 212824
+  },
+  {
+   "text": "today.",
+   "start": 212872,
+   "end": 213129
+  },
+  {
+   "text": "vLLM",
+   "start": 213579,
+   "end": 214044
+  },
+  {
+   "text": "and",
+   "start": 214236,
+   "end": 214301
+  },
+  {
+   "text": "SGLang",
+   "start": 214397,
+   "end": 214846
+  },
+  {
+   "text": "support",
+   "start": 214894,
+   "end": 215279
+  },
+  {
+   "text": "it",
+   "start": 215279,
+   "end": 215360
+  },
+  {
+   "text": "day",
+   "start": 215360,
+   "end": 215488
+  },
+  {
+   "text": "one.",
+   "start": 215584,
+   "end": 215777
+  },
+  {
+   "text": "llama.cpp,",
+   "start": 216082,
+   "end": 217190
+  },
+  {
+   "text": "MLX,",
+   "start": 217527,
+   "end": 218025
+  },
+  {
+   "text": "and",
+   "start": 218250,
+   "end": 218314
+  },
+  {
+   "text": "ExecuTorch",
+   "start": 218475,
+   "end": 219198
+  },
+  {
+   "text": "integrations",
+   "start": 219214,
+   "end": 219840
+  },
+  {
+   "text": "land",
+   "start": 219840,
+   "end": 220081
+  },
+  {
+   "text": "in",
+   "start": 220081,
+   "end": 220113
+  },
+  {
+   "text": "the",
+   "start": 220113,
+   "end": 220194
+  },
+  {
+   "text": "coming",
+   "start": 220194,
+   "end": 220467
+  },
+  {
+   "text": "days,",
+   "start": 220483,
+   "end": 220708
+  },
+  {
+   "text": "and",
+   "start": 221061,
+   "end": 221125
+  },
+  {
+   "text": "Ollama",
+   "start": 221366,
+   "end": 221720
+  },
+  {
+   "text": "and",
+   "start": 221864,
+   "end": 221928
+  },
+  {
+   "text": "LM",
+   "start": 222089,
+   "end": 222362
+  },
+  {
+   "text": "Studio",
+   "start": 222362,
+   "end": 222812
+  },
+  {
+   "text": "are",
+   "start": 222924,
+   "end": 222972
+  },
+  {
+   "text": "coming",
+   "start": 222988,
+   "end": 223197
+  },
+  {
+   "text": "too.",
+   "start": 223294,
+   "end": 223551
+  },
+  {
+   "text": "So",
+   "start": 223888,
+   "end": 224032
+  },
+  {
+   "text": "tonight",
+   "start": 224032,
+   "end": 224273
+  },
+  {
+   "text": "you",
+   "start": 224273,
+   "end": 224354
+  },
+  {
+   "text": "can",
+   "start": 224354,
+   "end": 224514
+  },
+  {
+   "text": "download",
+   "start": 224514,
+   "end": 224900
+  },
+  {
+   "text": "it,",
+   "start": 224900,
+   "end": 224964
+  },
+  {
+   "text": "but",
+   "start": 225237,
+   "end": 225349
+  },
+  {
+   "text": "the",
+   "start": 225382,
+   "end": 225446
+  },
+  {
+   "text": "one-click",
+   "start": 225478,
+   "end": 225815
+  },
+  {
+   "text": "tools",
+   "start": 225815,
+   "end": 226088
+  },
+  {
+   "text": "are",
+   "start": 226120,
+   "end": 226201
+  },
+  {
+   "text": "days",
+   "start": 226201,
+   "end": 226410
+  },
+  {
+   "text": "behind.",
+   "start": 226442,
+   "end": 226859
+  },
+  {
+   "text": "And",
+   "start": 227245,
+   "end": 227309
+  },
+  {
+   "text": "the",
+   "start": 227325,
+   "end": 227405
+  },
+  {
+   "text": "context",
+   "start": 227405,
+   "end": 227903
+  },
+  {
+   "text": "around",
+   "start": 227951,
+   "end": 228192
+  },
+  {
+   "text": "the",
+   "start": 228192,
+   "end": 228241
+  },
+  {
+   "text": "launch",
+   "start": 228289,
+   "end": 228514
+  },
+  {
+   "text": "matters.",
+   "start": 228514,
+   "end": 228899
+  },
+  {
+   "text": "On",
+   "start": 229413,
+   "end": 229477
+  },
+  {
+   "text": "Reuters,",
+   "start": 229558,
+   "end": 229863
+  },
+  {
+   "text": "Zuckerberg",
+   "start": 230200,
+   "end": 230634
+  },
+  {
+   "text": "is",
+   "start": 230634,
+   "end": 230746
+  },
+  {
+   "text": "pushing",
+   "start": 230778,
+   "end": 231067
+  },
+  {
+   "text": "Washington",
+   "start": 231180,
+   "end": 231581
+  },
+  {
+   "text": "to",
+   "start": 231646,
+   "end": 231806
+  },
+  {
+   "text": "ease",
+   "start": 231886,
+   "end": 231951
+  },
+  {
+   "text": "restrictions",
+   "start": 231983,
+   "end": 232529
+  },
+  {
+   "text": "on",
+   "start": 232529,
+   "end": 232577
+  },
+  {
+   "text": "open",
+   "start": 232770,
+   "end": 232914
+  },
+  {
+   "text": "models,",
+   "start": 232947,
+   "end": 233236
+  },
+  {
+   "text": "arguing",
+   "start": 233814,
+   "end": 234071
+  },
+  {
+   "text": "American",
+   "start": 234135,
+   "end": 234505
+  },
+  {
+   "text": "labs",
+   "start": 234553,
+   "end": 234842
+  },
+  {
+   "text": "are",
+   "start": 234890,
+   "end": 234938
+  },
+  {
+   "text": "handcuffed",
+   "start": 235018,
+   "end": 235532
+  },
+  {
+   "text": "compared",
+   "start": 235532,
+   "end": 235902
+  },
+  {
+   "text": "to",
+   "start": 235902,
+   "end": 235982
+  },
+  {
+   "text": "Chinese",
+   "start": 235982,
+   "end": 236287
+  },
+  {
+   "text": "ones.",
+   "start": 236384,
+   "end": 236609
+  },
+  {
+   "text": "Meta's",
+   "start": 237123,
+   "end": 237299
+  },
+  {
+   "text": "own",
+   "start": 237299,
+   "end": 237476
+  },
+  {
+   "text": "shares",
+   "start": 237508,
+   "end": 237813
+  },
+  {
+   "text": "moved",
+   "start": 237845,
+   "end": 238150
+  },
+  {
+   "text": "up",
+   "start": 238150,
+   "end": 238247
+  },
+  {
+   "text": "one",
+   "start": 238391,
+   "end": 238624
+  },
+  {
+   "text": "percent",
+   "start": 238624,
+   "end": 238857
+  },
+  {
+   "text": "premarket.",
+   "start": 238970,
+   "end": 239468
+  },
+  {
+   "text": "And",
+   "start": 239853,
+   "end": 239917
+  },
+  {
+   "text": "in",
+   "start": 239933,
+   "end": 239982
+  },
+  {
+   "text": "case",
+   "start": 240014,
+   "end": 240206
+  },
+  {
+   "text": "you",
+   "start": 240319,
+   "end": 240383
+  },
+  {
+   "text": "missed",
+   "start": 240383,
+   "end": 240656
+  },
+  {
+   "text": "it:",
+   "start": 240656,
+   "end": 240704
+  },
+  {
+   "text": "Hugging",
+   "start": 241202,
+   "end": 241427
+  },
+  {
+   "text": "Face,",
+   "start": 241523,
+   "end": 241732
+  },
+  {
+   "text": "where",
+   "start": 242070,
+   "end": 242166
+  },
+  {
+   "text": "these",
+   "start": 242166,
+   "end": 242311
+  },
+  {
+   "text": "weights",
+   "start": 242407,
+   "end": 242664
+  },
+  {
+   "text": "live,",
+   "start": 242664,
+   "end": 242857
+  },
+  {
+   "text": "is",
+   "start": 243226,
+   "end": 243275
+  },
+  {
+   "text": "the",
+   "start": 243307,
+   "end": 243387
+  },
+  {
+   "text": "platform",
+   "start": 243387,
+   "end": 243869
+  },
+  {
+   "text": "caught",
+   "start": 243869,
+   "end": 244175
+  },
+  {
+   "text": "in",
+   "start": 244191,
+   "end": 244239
+  },
+  {
+   "text": "the",
+   "start": 244271,
+   "end": 244400
+  },
+  {
+   "text": "rogue-agent",
+   "start": 244416,
+   "end": 244898
+  },
+  {
+   "text": "breach",
+   "start": 244914,
+   "end": 245203
+  },
+  {
+   "text": "we",
+   "start": 245299,
+   "end": 245396
+  },
+  {
+   "text": "broke",
+   "start": 245460,
+   "end": 245717
+  },
+  {
+   "text": "down",
+   "start": 245717,
+   "end": 245910
+  },
+  {
+   "text": "in",
+   "start": 245958,
+   "end": 246039
+  },
+  {
+   "text": "detail.",
+   "start": 246039,
+   "end": 246376
+  },
+  {
+   "text": "That's",
+   "start": 246842,
+   "end": 247019
+  },
+  {
+   "text": "exactly",
+   "start": 247019,
+   "end": 247533
+  },
+  {
+   "text": "why",
+   "start": 247565,
+   "end": 247645
+  },
+  {
+   "text": "open-weight",
+   "start": 247870,
+   "end": 248208
+  },
+  {
+   "text": "security",
+   "start": 248208,
+   "end": 248658
+  },
+  {
+   "text": "is",
+   "start": 248915,
+   "end": 248979
+  },
+  {
+   "text": "suddenly",
+   "start": 249011,
+   "end": 249381
+  },
+  {
+   "text": "a",
+   "start": 249574,
+   "end": 249590
+  },
+  {
+   "text": "mainstream",
+   "start": 249622,
+   "end": 250120
+  },
+  {
+   "text": "question.",
+   "start": 250120,
+   "end": 250425
+  },
+  {
+   "text": "Here's",
+   "start": 250924,
+   "end": 251068
+  },
+  {
+   "text": "the",
+   "start": 251100,
+   "end": 251181
+  },
+  {
+   "text": "catch",
+   "start": 251181,
+   "end": 251390
+  },
+  {
+   "text": "I",
+   "start": 251390,
+   "end": 251406
+  },
+  {
+   "text": "promised.",
+   "start": 251422,
+   "end": 251920
+  },
+  {
+   "text": "That",
+   "start": 252306,
+   "end": 252418
+  },
+  {
+   "text": "one",
+   "start": 252450,
+   "end": 252515
+  },
+  {
+   "text": "table?",
+   "start": 252563,
+   "end": 252852
+  },
+  {
+   "text": "Alibaba's",
+   "start": 253334,
+   "end": 253768
+  },
+  {
+   "text": "Qwen3.6-27B",
+   "start": 253833,
+   "end": 256260
+  },
+  {
+   "text": "still",
+   "start": 256260,
+   "end": 256533
+  },
+  {
+   "text": "wins",
+   "start": 256646,
+   "end": 256983
+  },
+  {
+   "text": "several",
+   "start": 257112,
+   "end": 257401
+  },
+  {
+   "text": "benchmarks.",
+   "start": 257433,
+   "end": 257947
+  },
+  {
+   "text": "GDPVal,",
+   "start": 258414,
+   "end": 259217
+  },
+  {
+   "text": "a",
+   "start": 259394,
+   "end": 259410
+  },
+  {
+   "text": "financial",
+   "start": 259442,
+   "end": 259892
+  },
+  {
+   "text": "agent",
+   "start": 259924,
+   "end": 260150
+  },
+  {
+   "text": "test:",
+   "start": 260150,
+   "end": 260522
+  },
+  {
+   "text": "eleven",
+   "start": 260570,
+   "end": 261080
+  },
+  {
+   "text": "forty-one",
+   "start": 261080,
+   "end": 261590
+  },
+  {
+   "text": "versus",
+   "start": 261704,
+   "end": 262011
+  },
+  {
+   "text": "nine",
+   "start": 262060,
+   "end": 262448
+  },
+  {
+   "text": "fifty-three.",
+   "start": 262448,
+   "end": 262837
+  },
+  {
+   "text": "OSWorld,",
+   "start": 263339,
+   "end": 263873
+  },
+  {
+   "text": "operating",
+   "start": 264229,
+   "end": 264602
+  },
+  {
+   "text": "a",
+   "start": 264634,
+   "end": 264764
+  },
+  {
+   "text": "real",
+   "start": 264780,
+   "end": 264925
+  },
+  {
+   "text": "computer:",
+   "start": 264958,
+   "end": 265346
+  },
+  {
+   "text": "seventy-five",
+   "start": 265670,
+   "end": 266053
+  },
+  {
+   "text": "point",
+   "start": 266053,
+   "end": 266436
+  },
+  {
+   "text": "six",
+   "start": 266436,
+   "end": 266820
+  },
+  {
+   "text": "versus",
+   "start": 266820,
+   "end": 267111
+  },
+  {
+   "text": "sixty-five",
+   "start": 267289,
+   "end": 267445
+  },
+  {
+   "text": "point",
+   "start": 267445,
+   "end": 267602
+  },
+  {
+   "text": "nine.",
+   "start": 267602,
+   "end": 267759
+  },
+  {
+   "text": "SWE-Bench",
+   "start": 268868,
+   "end": 269543
+  },
+  {
+   "text": "Verified",
+   "start": 269575,
+   "end": 270105
+  },
+  {
+   "text": "and",
+   "start": 270218,
+   "end": 270282
+  },
+  {
+   "text": "TerminalBench",
+   "start": 270298,
+   "end": 270893
+  },
+  {
+   "text": "too.",
+   "start": 270925,
+   "end": 271150
+  },
+  {
+   "text": "So",
+   "start": 271519,
+   "end": 271680
+  },
+  {
+   "text": "\"Meta",
+   "start": 271680,
+   "end": 271985
+  },
+  {
+   "text": "beats",
+   "start": 271985,
+   "end": 272291
+  },
+  {
+   "text": "everything\"",
+   "start": 272371,
+   "end": 272676
+  },
+  {
+   "text": "is",
+   "start": 272869,
+   "end": 272917
+  },
+  {
+   "text": "wrong.",
+   "start": 273014,
+   "end": 273158
+  },
+  {
+   "text": "The",
+   "start": 273657,
+   "end": 273721
+  },
+  {
+   "text": "honest",
+   "start": 273817,
+   "end": 274090
+  },
+  {
+   "text": "read:",
+   "start": 274139,
+   "end": 274364
+  },
+  {
+   "text": "trading",
+   "start": 274621,
+   "end": 274926
+  },
+  {
+   "text": "blows,",
+   "start": 274958,
+   "end": 275247
+  },
+  {
+   "text": "and",
+   "start": 275601,
+   "end": 275665
+  },
+  {
+   "text": "Qwen",
+   "start": 275681,
+   "end": 275874
+  },
+  {
+   "text": "wins",
+   "start": 275987,
+   "end": 276179
+  },
+  {
+   "text": "the",
+   "start": 276228,
+   "end": 276292
+  },
+  {
+   "text": "ones",
+   "start": 276324,
+   "end": 276565
+  },
+  {
+   "text": "that",
+   "start": 276581,
+   "end": 276726
+  },
+  {
+   "text": "involve",
+   "start": 276726,
+   "end": 277111
+  },
+  {
+   "text": "running",
+   "start": 277192,
+   "end": 277336
+  },
+  {
+   "text": "real",
+   "start": 277433,
+   "end": 277593
+  },
+  {
+   "text": "systems.",
+   "start": 277593,
+   "end": 278027
+  },
+  {
+   "text": "Also,",
+   "start": 278574,
+   "end": 278911
+  },
+  {
+   "text": "don't",
+   "start": 279136,
+   "end": 279281
+  },
+  {
+   "text": "mistake",
+   "start": 279297,
+   "end": 279634
+  },
+  {
+   "text": "size",
+   "start": 279634,
+   "end": 279907
+  },
+  {
+   "text": "for",
+   "start": 280004,
+   "end": 280084
+  },
+  {
+   "text": "frontier.",
+   "start": 280100,
+   "end": 280454
+  },
+  {
+   "text": "A",
+   "start": 280984,
+   "end": 281000
+  },
+  {
+   "text": "thirty-billion",
+   "start": 281048,
+   "end": 281611
+  },
+  {
+   "text": "local",
+   "start": 281611,
+   "end": 281852
+  },
+  {
+   "text": "model",
+   "start": 281884,
+   "end": 282173
+  },
+  {
+   "text": "is",
+   "start": 282334,
+   "end": 282398
+  },
+  {
+   "text": "not",
+   "start": 282430,
+   "end": 282607
+  },
+  {
+   "text": "a",
+   "start": 282607,
+   "end": 282671
+  },
+  {
+   "text": "GPT-5.6",
+   "start": 282671,
+   "end": 284471
+  },
+  {
+   "text": "or",
+   "start": 284664,
+   "end": 284696
+  },
+  {
+   "text": "a",
+   "start": 284696,
+   "end": 284760
+  },
+  {
+   "text": "Muse",
+   "start": 284760,
+   "end": 285041
+  },
+  {
+   "text": "Spark.",
+   "start": 285041,
+   "end": 285322
+  },
+  {
+   "text": "It",
+   "start": 285724,
+   "end": 285788
+  },
+  {
+   "text": "competes",
+   "start": 285788,
+   "end": 286190
+  },
+  {
+   "text": "with",
+   "start": 286190,
+   "end": 286351
+  },
+  {
+   "text": "other",
+   "start": 286447,
+   "end": 286560
+  },
+  {
+   "text": "mid-size",
+   "start": 286608,
+   "end": 287058
+  },
+  {
+   "text": "open",
+   "start": 287154,
+   "end": 287331
+  },
+  {
+   "text": "models.",
+   "start": 287331,
+   "end": 287701
+  },
+  {
+   "text": "And",
+   "start": 288215,
+   "end": 288279
+  },
+  {
+   "text": "Meta's",
+   "start": 288295,
+   "end": 288504
+  },
+  {
+   "text": "own",
+   "start": 288600,
+   "end": 288649
+  },
+  {
+   "text": "model",
+   "start": 288697,
+   "end": 289002
+  },
+  {
+   "text": "card",
+   "start": 289018,
+   "end": 289259
+  },
+  {
+   "text": "notes",
+   "start": 289259,
+   "end": 289645
+  },
+  {
+   "text": "it",
+   "start": 289677,
+   "end": 289741
+  },
+  {
+   "text": "can",
+   "start": 289741,
+   "end": 289854
+  },
+  {
+   "text": "still",
+   "start": 289886,
+   "end": 290111
+  },
+  {
+   "text": "produce",
+   "start": 290143,
+   "end": 290464
+  },
+  {
+   "text": "inaccurate",
+   "start": 290545,
+   "end": 291188
+  },
+  {
+   "text": "or",
+   "start": 291188,
+   "end": 291236
+  },
+  {
+   "text": "biased",
+   "start": 291348,
+   "end": 291686
+  },
+  {
+   "text": "responses,",
+   "start": 291686,
+   "end": 292200
+  },
+  {
+   "text": "especially",
+   "start": 292618,
+   "end": 293164
+  },
+  {
+   "text": "in",
+   "start": 293196,
+   "end": 293244
+  },
+  {
+   "text": "novel",
+   "start": 293357,
+   "end": 293582
+  },
+  {
+   "text": "situations.",
+   "start": 293598,
+   "end": 294208
+  },
+  {
+   "text": "Plus:",
+   "start": 294562,
+   "end": 294755
+  },
+  {
+   "text": "everyone",
+   "start": 295348,
+   "end": 295637
+  },
+  {
+   "text": "gets",
+   "start": 295686,
+   "end": 295926
+  },
+  {
+   "text": "this",
+   "start": 295926,
+   "end": 296039
+  },
+  {
+   "text": "license,",
+   "start": 296151,
+   "end": 296569
+  },
+  {
+   "text": "including",
+   "start": 296809,
+   "end": 297179
+  },
+  {
+   "text": "the",
+   "start": 297195,
+   "end": 297275
+  },
+  {
+   "text": "people",
+   "start": 297275,
+   "end": 297548
+  },
+  {
+   "text": "who",
+   "start": 297548,
+   "end": 297628
+  },
+  {
+   "text": "won't",
+   "start": 297756,
+   "end": 297917
+  },
+  {
+   "text": "add",
+   "start": 297997,
+   "end": 298142
+  },
+  {
+   "text": "guardrails.",
+   "start": 298174,
+   "end": 298623
+  },
+  {
+   "text": "Open",
+   "start": 299201,
+   "end": 299346
+  },
+  {
+   "text": "weights",
+   "start": 299378,
+   "end": 299683
+  },
+  {
+   "text": "are",
+   "start": 299699,
+   "end": 299763
+  },
+  {
+   "text": "a",
+   "start": 299763,
+   "end": 299795
+  },
+  {
+   "text": "risk",
+   "start": 299859,
+   "end": 300180
+  },
+  {
+   "text": "as",
+   "start": 300180,
+   "end": 300229
+  },
+  {
+   "text": "much",
+   "start": 300325,
+   "end": 300502
+  },
+  {
+   "text": "as",
+   "start": 300502,
+   "end": 300582
+  },
+  {
+   "text": "a",
+   "start": 300582,
+   "end": 300662
+  },
+  {
+   "text": "gift.",
+   "start": 300662,
+   "end": 300919
+  },
+  {
+   "text": "So",
+   "start": 301320,
+   "end": 301465
+  },
+  {
+   "text": "what's",
+   "start": 301465,
+   "end": 301625
+  },
+  {
+   "text": "next?",
+   "start": 301625,
+   "end": 301962
+  },
+  {
+   "text": "The",
+   "start": 302348,
+   "end": 302428
+  },
+  {
+   "text": "Spark",
+   "start": 302428,
+   "end": 302749
+  },
+  {
+   "text": "1.2",
+   "start": 302813,
+   "end": 303391
+  },
+  {
+   "text": "open",
+   "start": 303391,
+   "end": 303584
+  },
+  {
+   "text": "weights.",
+   "start": 303632,
+   "end": 303937
+  },
+  {
+   "text": "Zuckerberg",
+   "start": 304370,
+   "end": 304772
+  },
+  {
+   "text": "says",
+   "start": 304836,
+   "end": 304996
+  },
+  {
+   "text": "they're",
+   "start": 305012,
+   "end": 305141
+  },
+  {
+   "text": "coming",
+   "start": 305141,
+   "end": 305334
+  },
+  {
+   "text": "soon.",
+   "start": 305334,
+   "end": 305606
+  },
+  {
+   "text": "If",
+   "start": 306040,
+   "end": 306136
+  },
+  {
+   "text": "that",
+   "start": 306136,
+   "end": 306281
+  },
+  {
+   "text": "happens,",
+   "start": 306281,
+   "end": 306650
+  },
+  {
+   "text": "Meta's",
+   "start": 306987,
+   "end": 307228
+  },
+  {
+   "text": "flagship",
+   "start": 307228,
+   "end": 307741
+  },
+  {
+   "text": "joins",
+   "start": 307790,
+   "end": 308095
+  },
+  {
+   "text": "the",
+   "start": 308111,
+   "end": 308255
+  },
+  {
+   "text": "open",
+   "start": 308271,
+   "end": 308448
+  },
+  {
+   "text": "club,",
+   "start": 308448,
+   "end": 308785
+  },
+  {
+   "text": "and",
+   "start": 309010,
+   "end": 309074
+  },
+  {
+   "text": "the",
+   "start": 309106,
+   "end": 309234
+  },
+  {
+   "text": "frontier",
+   "start": 309234,
+   "end": 309604
+  },
+  {
+   "text": "conversation",
+   "start": 309652,
+   "end": 310278
+  },
+  {
+   "text": "changes.",
+   "start": 310278,
+   "end": 310631
+  },
+  {
+   "text": "This",
+   "start": 311097,
+   "end": 311321
+  },
+  {
+   "text": "release",
+   "start": 311321,
+   "end": 311739
+  },
+  {
+   "text": "is",
+   "start": 311739,
+   "end": 311787
+  },
+  {
+   "text": "the",
+   "start": 311819,
+   "end": 311963
+  },
+  {
+   "text": "appetizer.",
+   "start": 311963,
+   "end": 312445
+  },
+  {
+   "text": "The",
+   "start": 312862,
+   "end": 312927
+  },
+  {
+   "text": "main",
+   "start": 312927,
+   "end": 313071
+  },
+  {
+   "text": "course",
+   "start": 313167,
+   "end": 313440
+  },
+  {
+   "text": "is",
+   "start": 313440,
+   "end": 313505
+  },
+  {
+   "text": "Spark",
+   "start": 313505,
+   "end": 313890
+  },
+  {
+   "text": "1.2's",
+   "start": 313970,
+   "end": 314709
+  },
+  {
+   "text": "weights,",
+   "start": 314709,
+   "end": 315110
+  },
+  {
+   "text": "when",
+   "start": 315335,
+   "end": 315399
+  },
+  {
+   "text": "they",
+   "start": 315431,
+   "end": 315575
+  },
+  {
+   "text": "land.",
+   "start": 315575,
+   "end": 315880
+  },
+  {
+   "text": "For",
+   "start": 316234,
+   "end": 316362
+  },
+  {
+   "text": "the",
+   "start": 316362,
+   "end": 316458
+  },
+  {
+   "text": "community,",
+   "start": 316458,
+   "end": 316844
+  },
+  {
+   "text": "this",
+   "start": 317261,
+   "end": 317325
+  },
+  {
+   "text": "is",
+   "start": 317373,
+   "end": 317438
+  },
+  {
+   "text": "a",
+   "start": 317454,
+   "end": 317582
+  },
+  {
+   "text": "real",
+   "start": 317598,
+   "end": 317775
+  },
+  {
+   "text": "moment.",
+   "start": 317775,
+   "end": 318128
+  },
+  {
+   "text": "After",
+   "start": 318625,
+   "end": 318770
+  },
+  {
+   "text": "the",
+   "start": 318802,
+   "end": 318963
+  },
+  {
+   "text": "April",
+   "start": 318963,
+   "end": 319203
+  },
+  {
+   "text": "betrayal,",
+   "start": 319203,
+   "end": 319573
+  },
+  {
+   "text": "Meta",
+   "start": 319990,
+   "end": 320134
+  },
+  {
+   "text": "is",
+   "start": 320151,
+   "end": 320215
+  },
+  {
+   "text": "back",
+   "start": 320327,
+   "end": 320648
+  },
+  {
+   "text": "on",
+   "start": 320648,
+   "end": 320728
+  },
+  {
+   "text": "the",
+   "start": 320728,
+   "end": 320873
+  },
+  {
+   "text": "open",
+   "start": 320873,
+   "end": 321066
+  },
+  {
+   "text": "side,",
+   "start": 321114,
+   "end": 321467
+  },
+  {
+   "text": "under",
+   "start": 321676,
+   "end": 321804
+  },
+  {
+   "text": "Apache",
+   "start": 321852,
+   "end": 322220
+  },
+  {
+   "text": "2.0,",
+   "start": 322252,
+   "end": 323118
+  },
+  {
+   "text": "the",
+   "start": 323374,
+   "end": 323438
+  },
+  {
+   "text": "most",
+   "start": 323438,
+   "end": 323631
+  },
+  {
+   "text": "permissive",
+   "start": 323679,
+   "end": 324111
+  },
+  {
+   "text": "license",
+   "start": 324175,
+   "end": 324528
+  },
+  {
+   "text": "in",
+   "start": 324576,
+   "end": 324624
+  },
+  {
+   "text": "the",
+   "start": 324656,
+   "end": 324800
+  },
+  {
+   "text": "industry.",
+   "start": 324800,
+   "end": 325153
+  },
+  {
+   "text": "The",
+   "start": 325602,
+   "end": 325666
+  },
+  {
+   "text": "verdict:",
+   "start": 325682,
+   "end": 326082
+  },
+  {
+   "text": "if",
+   "start": 326323,
+   "end": 326371
+  },
+  {
+   "text": "you've",
+   "start": 326403,
+   "end": 326547
+  },
+  {
+   "text": "been",
+   "start": 326563,
+   "end": 326643
+  },
+  {
+   "text": "waiting",
+   "start": 326723,
+   "end": 326932
+  },
+  {
+   "text": "for",
+   "start": 326964,
+   "end": 327124
+  },
+  {
+   "text": "a",
+   "start": 327124,
+   "end": 327220
+  },
+  {
+   "text": "local",
+   "start": 327220,
+   "end": 327525
+  },
+  {
+   "text": "agent",
+   "start": 327605,
+   "end": 327829
+  },
+  {
+   "text": "model",
+   "start": 327861,
+   "end": 328133
+  },
+  {
+   "text": "that's",
+   "start": 328182,
+   "end": 328406
+  },
+  {
+   "text": "actually",
+   "start": 328486,
+   "end": 328790
+  },
+  {
+   "text": "good,",
+   "start": 328806,
+   "end": 329031
+  },
+  {
+   "text": "today",
+   "start": 329303,
+   "end": 329656
+  },
+  {
+   "text": "is",
+   "start": 329880,
+   "end": 329960
+  },
+  {
+   "text": "the",
+   "start": 329960,
+   "end": 330040
+  },
+  {
+   "text": "day",
+   "start": 330104,
+   "end": 330265
+  },
+  {
+   "text": "the",
+   "start": 330345,
+   "end": 330425
+  },
+  {
+   "text": "wait",
+   "start": 330425,
+   "end": 330665
+  },
+  {
+   "text": "ended.",
+   "start": 330665,
+   "end": 330874
+  },
+  {
+   "text": "Just",
+   "start": 331306,
+   "end": 331418
+  },
+  {
+   "text": "don't",
+   "start": 331418,
+   "end": 331611
+  },
+  {
+   "text": "expect",
+   "start": 331611,
+   "end": 331963
+  },
+  {
+   "text": "it",
+   "start": 331963,
+   "end": 332027
+  },
+  {
+   "text": "to",
+   "start": 332027,
+   "end": 332124
+  },
+  {
+   "text": "win",
+   "start": 332188,
+   "end": 332380
+  },
+  {
+   "text": "every",
+   "start": 332652,
+   "end": 332797
+  },
+  {
+   "text": "table.",
+   "start": 332829,
+   "end": 333149
+  },
+  {
+   "text": "We",
+   "start": 333550,
+   "end": 333630
+  },
+  {
+   "text": "tracked",
+   "start": 333630,
+   "end": 333950
+  },
+  {
+   "text": "this",
+   "start": 333950,
+   "end": 334111
+  },
+  {
+   "text": "one",
+   "start": 334175,
+   "end": 334239
+  },
+  {
+   "text": "the",
+   "start": 334271,
+   "end": 334351
+  },
+  {
+   "text": "day",
+   "start": 334351,
+   "end": 334495
+  },
+  {
+   "text": "it",
+   "start": 334511,
+   "end": 334575
+  },
+  {
+   "text": "dropped.",
+   "start": 334591,
+   "end": 334960
+  },
+  {
+   "text": "Subscribe",
+   "start": 335393,
+   "end": 335873
+  },
+  {
+   "text": "so",
+   "start": 335873,
+   "end": 335969
+  },
+  {
+   "text": "you",
+   "start": 336018,
+   "end": 336114
+  },
+  {
+   "text": "don't",
+   "start": 336114,
+   "end": 336338
+  },
+  {
+   "text": "miss",
+   "start": 336354,
+   "end": 336466
+  },
+  {
+   "text": "Spark",
+   "start": 336514,
+   "end": 336915
+  },
+  {
+   "text": "1.2",
+   "start": 336915,
+   "end": 337620
+  },
+  {
+   "text": "when",
+   "start": 337780,
+   "end": 337844
+  },
+  {
+   "text": "the",
+   "start": 337876,
+   "end": 337924
+  },
+  {
+   "text": "weights",
+   "start": 337957,
+   "end": 338197
+  },
+  {
+   "text": "land.",
+   "start": 338197,
+   "end": 338325
+  },
+  {
+   "text": "Drop",
+   "start": 338902,
+   "end": 339062
+  },
+  {
+   "text": "a",
+   "start": 339062,
+   "end": 339094
+  },
+  {
+   "text": "comment:",
+   "start": 339094,
+   "end": 339447
+  },
+  {
+   "text": "is",
+   "start": 339863,
+   "end": 339928
+  },
+  {
+   "text": "this",
+   "start": 339944,
+   "end": 340056
+  },
+  {
+   "text": "enough",
+   "start": 340120,
+   "end": 340360
+  },
+  {
+   "text": "to",
+   "start": 340360,
+   "end": 340440
+  },
+  {
+   "text": "bring",
+   "start": 340440,
+   "end": 340569
+  },
+  {
+   "text": "you",
+   "start": 340665,
+   "end": 340761
+  },
+  {
+   "text": "back",
+   "start": 340761,
+   "end": 341065
+  },
+  {
+   "text": "to",
+   "start": 341065,
+   "end": 341129
+  },
+  {
+   "text": "Meta's",
+   "start": 341129,
+   "end": 341466
+  },
+  {
+   "text": "open",
+   "start": 341466,
+   "end": 341642
+  },
+  {
+   "text": "models?",
+   "start": 341642,
+   "end": 341931
+  },
+  {
+   "text": "And",
+   "start": 342443,
+   "end": 342508
+  },
+  {
+   "text": "watch",
+   "start": 342588,
+   "end": 342828
+  },
+  {
+   "text": "our",
+   "start": 342828,
+   "end": 342924
+  },
+  {
+   "text": "rogue-agents",
+   "start": 342924,
+   "end": 343485
+  },
+  {
+   "text": "deep",
+   "start": 343485,
+   "end": 343725
+  },
+  {
+   "text": "dive",
+   "start": 343725,
+   "end": 344046
+  },
+  {
+   "text": "if",
+   "start": 344126,
+   "end": 344206
+  },
+  {
+   "text": "you",
+   "start": 344206,
+   "end": 344334
+  },
+  {
+   "text": "want",
+   "start": 344350,
+   "end": 344511
+  },
+  {
+   "text": "the",
+   "start": 344511,
+   "end": 344591
+  },
+  {
+   "text": "security",
+   "start": 344591,
+   "end": 345007
+  },
+  {
+   "text": "side",
+   "start": 345007,
+   "end": 345344
+  },
+  {
+   "text": "of",
+   "start": 345344,
+   "end": 345488
+  },
+  {
+   "text": "open",
+   "start": 345488,
+   "end": 345696
+  },
+  {
+   "text": "weights.",
+   "start": 345793,
+   "end": 346017
+  },
+  {
+   "text": "We'll",
+   "start": 346514,
+   "end": 346610
+  },
+  {
+   "text": "see",
+   "start": 346610,
+   "end": 346770
+  },
+  {
+   "text": "you",
+   "start": 346834,
+   "end": 346930
+  },
+  {
+   "text": "in",
+   "start": 346930,
+   "end": 346994
+  },
+  {
+   "text": "the",
+   "start": 346994,
+   "end": 347026
+  },
+  {
+   "text": "next",
+   "start": 347026,
+   "end": 347315
+  },
+  {
+   "text": "one.",
+   "start": 347315,
+   "end": 347427
+  },
+  {
+   "text": "**Word",
+   "start": 347878,
+   "end": 348120
+  },
+  {
+   "text": "count:**",
+   "start": 348120,
+   "end": 348331
+  },
+  {
+   "text": "~990",
+   "start": 348395,
+   "end": 349480
+  },
+  {
+   "text": "**Estimated",
+   "start": 349593,
+   "end": 350046
+  },
+  {
+   "text": "runtime:**",
+   "start": 350078,
+   "end": 350434
+  },
+  {
+   "text": "~5:47",
+   "start": 351033,
+   "end": 352311
+  },
+  {
+   "text": "at",
+   "start": 352489,
+   "end": 352554
+  },
+  {
+   "text": "171.4",
+   "start": 352586,
+   "end": 353962
+  },
+  {
+   "text": "wpm",
+   "start": 353962,
+   "end": 354528
+  },
+  {
+   "text": "(within",
+   "start": 354852,
+   "end": 355208
+  },
+  {
+   "text": "+/-8%",
+   "start": 356130,
+   "end": 356308
+  },
+  {
+   "text": "of",
+   "start": 356308,
+   "end": 356600
+  },
+  {
+   "text": "6:00)",
+   "start": 356600,
+   "end": 357438
+  },
+  {
+   "text": "**Phase-1",
+   "start": 357438,
+   "end": 358276
+  },
+  {
+   "text": "cap:**",
+   "start": 358325,
+   "end": 358631
+  },
+  {
+   "text": "~438",
+   "start": 358808,
+   "end": 360001
+  },
+  {
+   "text": "words",
+   "start": 360001,
+   "end": 360227
+  },
+  {
+   "text": "(~153s)",
+   "start": 360646,
+   "end": 361468
+  },
+  {
+   "text": "inside",
+   "start": 362017,
+   "end": 362387
+  },
+  {
+   "text": "the",
+   "start": 362420,
+   "end": 362468
+  },
+  {
+   "text": "~170s",
+   "start": 362516,
+   "end": 363339
+  },
+  {
+   "text": "\"Under",
+   "start": 363629,
+   "end": 363790
+  },
+  {
+   "text": "3",
+   "start": 363790,
+   "end": 364048
+  },
+  {
+   "text": "Min\"",
+   "start": 364048,
+   "end": 364613
+  },
+  {
+   "text": "limit",
+   "start": 364613,
+   "end": 364807
+  },
+  {
+   "text": "**Sources:**",
+   "start": 364855,
+   "end": 365260
+  },
+  {
+   "text": "Meta",
+   "start": 365810,
+   "end": 366053
+  },
+  {
+   "text": "research",
+   "start": 366053,
+   "end": 366457
+  },
+  {
+   "text": "blog",
+   "start": 366473,
+   "end": 366797
+  },
+  {
+   "text": "(research.meta.ai,",
+   "start": 367040,
+   "end": 367795
+  },
+  {
+   "text": "Aug",
+   "start": 367795,
+   "end": 368550
+  },
+  {
+   "text": "10),",
+   "start": 368550,
+   "end": 369305
+  },
+  {
+   "text": "Meta",
+   "start": 369612,
+   "end": 369774
+  },
+  {
+   "text": "model",
+   "start": 369774,
+   "end": 370033
+  },
+  {
+   "text": "card",
+   "start": 370033,
+   "end": 370341
+  },
+  {
+   "text": "(Hugging",
+   "start": 370745,
+   "end": 370955
+  },
+  {
+   "text": "Face",
+   "start": 371004,
+   "end": 371328
+  },
+  {
+   "text": "meta-models/Muse-Glimmer-30B),",
+   "start": 371328,
+   "end": 374440
+  },
+  {
+   "text": "Reuters",
+   "start": 374440,
+   "end": 375160
+  },
+  {
+   "text": "(Aug",
+   "start": 375160,
+   "end": 375600
+  },
+  {
+   "text": "10),",
+   "start": 375600,
+   "end": 376040
+  },
+  {
+   "text": "Zuckerberg",
+   "start": 376040,
+   "end": 376420
+  },
+  {
+   "text": "on",
+   "start": 376420,
+   "end": 376580
+  },
+  {
+   "text": "X",
+   "start": 376580,
+   "end": 377180
+  },
+  {
+   "text": "(@finkd,",
+   "start": 377180,
+   "end": 377750
+  },
+  {
+   "text": "Aug",
+   "start": 377750,
+   "end": 378320
+  },
+  {
+   "text": "10),",
+   "start": 378320,
+   "end": 378890
+  },
+  {
+   "text": "Unsloth",
+   "start": 378890,
+   "end": 379460
+  },
+  {
+   "text": "docs",
+   "start": 379460,
+   "end": 380000
+  },
+  {
+   "text": "(day-zero",
+   "start": 380000,
+   "end": 380380
+  },
+  {
+   "text": "support)",
+   "start": 380380,
+   "end": 380930
+  },
+  {
+   "text": "**Cross-link:**",
+   "start": 381260,
+   "end": 381680
+  },
+  {
+   "text": "openai-rogue-agents",
+   "start": 382180,
+   "end": 383520
+  },
+  {
+   "text": "(Hugging",
+   "start": 383520,
+   "end": 383780
+  },
+  {
+   "text": "Face",
+   "start": 383780,
+   "end": 384000
+  },
+  {
+   "text": "breach,",
+   "start": 384000,
+   "end": 384650
+  },
+  {
+   "text": "mentioned",
+   "start": 384720,
+   "end": 384960
+  },
+  {
+   "text": "twice",
+   "start": 384960,
+   "end": 386020
+  },
+  {
+   "text": "once",
+   "start": 386020,
+   "end": 386120
+  },
+  {
+   "text": "in",
+   "start": 386120,
+   "end": 386220
+  },
+  {
+   "text": "evidence,",
+   "start": 386220,
+   "end": 386470
+  },
+  {
+   "text": "once",
+   "start": 387040,
+   "end": 387140
+  },
+  {
+   "text": "in",
+   "start": 387140,
+   "end": 387320
+  },
+  {
+   "text": "close)",
+   "start": 387320,
+   "end": 387770
+  }
+ ],
+ "duration_s": 387.984,
+ "_alignment": "assemblyai-asr (real word timings, aligned to script; frame-accurate)"
+}

@@ -1,0 +1,125 @@
+{
+ "topic": "how to pay off your mortgage early",
+ "niche": "finance",
+ "niche_target": [
+  15,
+  25
+ ],
+ "recent_window": "90d",
+ "long_only": false,
+ "generated": "2026-08-04T19:17:14+00:00",
+ "autocomplete": {
+  "topic": "how to pay off your mortgage early",
+  "self_suggest_chars": 16,
+  "self_suggest_prefix": "how to pay off y",
+  "self_suggest_rank": 4,
+  "topic_chars": 34,
+  "reach": 0.47,
+  "head_suggestions": [
+   "how to pay off your mortgage early",
+   "how to pay off your mortgage early uk",
+   "how to pay off your mortgage early australia",
+   "how to pay off your mortgage early nz",
+   "how to pay off your mortgage early in south africa",
+   "how to pay off your mortgage early ireland",
+   "how to pay off your mortgage early with heloc",
+   "how to pay off your mortgage early dave ramsey",
+   "how to pay off your mortgage early in canada"
+  ],
+  "longtail": [
+   "how to pay off your mortgage early australia",
+   "how to pay off your mortgage early in south africa",
+   "accountant explains how to pay off your mortgage early",
+   "how to pay off your mortgage in 5 years",
+   "how to pay your mortgage faster",
+   "how to pay off your mortgage early in canada",
+   "how to pay off your mortgage early dave ramsey",
+   "how to pay off your mortgage early with heloc",
+   "how to pay off your mortgage early ireland",
+   "how i paid off my mortgage early",
+   "pay off your mortgage early or invest",
+   "should i pay off my mortgage early",
+   "how to pay off home loan early",
+   "how to pay off your mortgage early the william lee show",
+   "how to pay off your mortgage early nz",
+   "should you pay off your mortgage early or invest",
+   "best way to pay off mortgage",
+   "how to pay off 500k mortgage",
+   "tricks to pay off your mortgage early",
+   "how to pay off your mortgage early uk",
+   "how to pay off your mortgage early william lee",
+   "how to pay off a 30 year mortgage early"
+  ],
+  "longtail_n": 22,
+  "probes": 7,
+  "probe_failures": 0
+ },
+ "year": {
+  "rows": [],
+  "total_results": null
+ },
+ "recent": {
+  "rows": [],
+  "total_results": null
+ },
+ "quota_units_used": 204,
+ "assessment": {
+  "scores": {
+   "demand": 3,
+   "performance": 0,
+   "freshness": 0,
+   "winnability": 1
+  },
+  "why": {
+   "demand": "autocompletes after 16/34 chars at rank 4, 22 distinct long-tail queries",
+   "performance": "nothing on this topic is being watched — best is 0 views/day",
+   "freshness": "nobody has published on this in 90d",
+   "winnability": "no small channel has broken out on this topic"
+  },
+  "total": 4,
+  "verdict": "NO-AUDIENCE",
+  "big_channel_share": 0.0,
+  "supply_saturated": false,
+  "freshness_ratio": null,
+  "drift": 1.0,
+  "strict_on_topic": false,
+  "downgrade": null,
+  "n_on_topic": 0,
+  "n_sampled": 0,
+  "small_breakouts": []
+ },
+ "angles": [
+  {
+   "q": "how to pay off your mortgage early australia",
+   "covered": false
+  },
+  {
+   "q": "how to pay off your mortgage early in south africa",
+   "covered": false
+  },
+  {
+   "q": "accountant explains how to pay off your mortgage early",
+   "covered": false
+  },
+  {
+   "q": "how to pay off your mortgage early in canada",
+   "covered": false
+  },
+  {
+   "q": "how to pay off your mortgage early dave ramsey",
+   "covered": false
+  },
+  {
+   "q": "how to pay off your mortgage early with heloc",
+   "covered": false
+  },
+  {
+   "q": "how to pay off your mortgage early ireland",
+   "covered": false
+  },
+  {
+   "q": "how to pay off your mortgage early the william lee show",
+   "covered": false
+  }
+ ]
+}

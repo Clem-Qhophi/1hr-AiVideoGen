@@ -1,0 +1,214 @@
+# The Forgotten Fix — Video 5
+# "The Fire Extinguisher Under Your Sink Might Already Be Dead. The Gauge Won't Tell You."
+# Narrator: Walt Combs (channel-persona.home-hacks.json). Niche: home-hacks | Voice: en-US-AndrewNeural, -4% rate
+# Target: 12 min / ~2057 words (plan_runtime.py budget at AndrewNeural's measured 171.4 wpm)
+# Topic: validate_topic.py — broad pitch "dry chemical fire extinguisher fails kitchen fire" came back
+#   NO-DEMAND (3/12, autocomplete never suggests the exact phrase). Narrower angle "dry chemical powder
+#   fire extinguisher" came back GO-NARROW (8/12) with a real small-channel breakout (43,580v on 1,680
+#   subs, 25.9x). Note from that run: on-topic winners run median 9 min, and this topic mostly lives in
+#   Shorts — 12 min chosen as a deliberate middle ground between that data and Walt's usual format.
+# User explicitly chose the evidence-based format over a claimed live fire demonstration: no footage
+#   exists yet, and narrating/implying a live test that was never filmed would violate home-hacks'
+#   honesty_guard. This is a narrated myth-bust, not a demo video.
+# Verified sources (each read start-to-finish via WebFetch, not search-summarized):
+#   - kordfire.com "Common Fire Extinguisher Failures and Prevention" — powder caking mechanism
+#     (vibration + moisture -> compaction), the core myth-bust fact that the gauge can read normal
+#     pressure while the extinguisher is non-functional because gas pushes against a solid block
+#     instead of free-flowing powder, and NFPA 10's six-year internal-inspection interval.
+#   - otisfire.com "How to Inspect and Maintain Your Fire Extinguisher" — NFPA 10's monthly
+#     shake/invert requirement for dry chemical units and its stated purpose (prevents compacting).
+# Honesty guard: every claim traces to one of the two sources above. No claimed footage, no fabricated
+#   statistics, no "our team" language — this channel is one person and a pipeline.
+
+## cold-open-claim
+
+[beat: red fire extinguisher under sink]
+That red canister under your sink, the one you bought once and never touched again? There's a real chance it won't work when you need it. And if it doesn't, the cost isn't what you paid for it. It's whatever that fire gets to before you find something else to stop it. And the gauge on the front will read perfectly normal the whole time you're finding that out.
+
+[beat: walt direct address camera]
+Stick with me. I'll show you exactly why that happens, and how to check the one you already own in under a minute.
+
+## stakes
+
+[beat: kitchen grease fire pan]
+Here's why this is worth your time. A kitchen fire can double in size in well under a minute. You don't get to think it over. You reach for what's under the sink, and it either works or it doesn't.
+
+[beat: dusty extinguisher closet]
+Most people buy one of these when they move in, mount it, and never touch it again. Not once. Not a shake, not a check, nothing. It just sits there for years, doing nothing but looking like safety.
+
+[beat: pressure gauge green zone]
+And here's the part that should bother you. That little gauge on the front, the one sitting in the green zone, only tells you there's gas pressure inside the can. It does not tell you the powder inside is still a powder.
+
+[beat: solid block chemical]
+Dry chemical extinguishers, the kind almost every kitchen has, work by pushing that powder out with pressurized gas. If the powder has hardened into a solid block, the gas can still show full pressure on the gauge. It just has nothing left to push.
+
+[beat: worried homeowner kitchen]
+So you could pull the pin, squeeze the handle, and get nothing. Or worse, a weak puff that doesn't put anything out. In the few seconds a real fire gives you, that's the whole ballgame.
+
+[beat: walt calm explaining]
+This isn't rare. It's just quiet. Nobody finds out until the one day they actually need it. So let's fix that today, for the one under your sink right now.
+
+## the-old-way
+
+[beat: vintage fire extinguisher history]
+Dry chemical extinguishers have been the standard in American kitchens for decades, and there's a good reason they replaced almost everything that came before them.
+
+[beat: monoammonium phosphate powder]
+The powder inside most home units, monoammonium phosphate, is what earns the rating letters A, B, and C. Ordinary combustibles, flammable liquids, and electrical fires. One canister, three different kinds of fire. That's exactly why it became the standard for a kitchen, where a fire could start in a pan of oil just as easily as in a wall outlet.
+
+[beat: pressurized canister mechanism]
+Here's the plain version of how it works. The can holds fine powder and pressurized gas, sealed together. Pull the pin, squeeze the handle, and the gas pushes the powder out through the hose in a cloud that smothers the flame and interrupts the reaction that's actually burning.
+
+[beat: old timer trust device]
+Old-timers trusted these because they were simple. No batteries, no plumbing, no maintenance contract. Mount it, and it's supposed to be ready whenever you need it.
+
+[beat: forget it problem]
+That last part, mount it and forget it, is exactly where the trouble starts. Because "forget it" was never actually part of the design. It just feels that way, since nothing about the canister changes on the outside.
+
+[beat: vibration moisture over years]
+Sitting for years, that fine powder is exposed to two things most people never think about. Vibration, from a door slamming, a dishwasher running, just normal house life. And moisture, from a humid kitchen or a garage that swings hot and cold. Both, slowly, work against it.
+
+## method
+
+[beat: walt explaining direct camera]
+So here's exactly what's happening inside that can, and exactly what to do about it. Let's go through it properly.
+
+[beat: EVIDENCE-kordfire-caking]
+Fire safety documentation on extinguisher failures explains it plainly. Vibration, repeated movement, and moisture cause the dry chemical powder to compact and harden over time. Not instantly. Gradually, the same way flour left sitting in a bag for years can turn into a solid brick if it ever picks up a little moisture.
+
+[beat: solid brick powder illustration]
+That's the picture to hold onto. Flour turning into a brick at the bottom of the bag. Except this bag is sealed under pressure, you can't see inside it, and the outside gives you no warning at all.
+
+[beat: EVIDENCE-kordfire-caking]
+Here's the exact mechanism, and it's worth understanding, because it explains why the gauge lies to you. When the powder cakes into a solid mass, the gas behind it can still read full pressure, since gas compresses fine, it's the powder that's the actual problem. The gas ends up pushing against a solid block instead of a free-flowing powder, and nothing comes out the way it's supposed to.
+
+[beat: gauge misleading green]
+So the exact thing you're trained to check, that little needle sitting in the green zone, is only checking half the problem. It confirms there's gas. It says nothing about the powder.
+
+[beat: walt direct camera serious]
+That's the myth, right there. A green gauge does not mean a working extinguisher. It means a pressurized can. Those are not the same promise.
+
+[beat: EVIDENCE-otisfire-nfpa10]
+So how do you actually check the powder side, not just the gas side? Fire safety standards have a straightforward answer, and it takes about thirty seconds.
+
+[beat: shaking extinguisher demonstration]
+Turn the extinguisher upside down, or tip it firmly side to side, once a month. You should feel and hear the powder moving loosely inside, like a bag of sugar. If it feels solid, or you don't feel or hear any movement at all, that's your answer. That unit needs replacing or professional recharging, gauge reading or not.
+
+[beat: subscribe reminder mid]
+If nobody ever told you that before, you're not alone, and that's exactly why this channel exists. Old, simple things that need one honest explanation. Subscribe if you want the next one.
+
+[beat: monthly checklist visual]
+That thirty-second shake is the actual fix here, and it's the one step almost nobody does. Not because it's hard. Because nobody ever told them the gauge wasn't the whole story.
+
+[beat: monthly inspection checklist]
+While you're at it, do the rest of the monthly check at the same time, since you're already standing there. Look at the pin, make sure it's still seated and the tamper seal is intact. Check that the gauge sits in the green range. Look the canister over for dents, rust, or corrosion. All of that together takes maybe two minutes, once a month.
+
+[beat: calendar reminder phone]
+Put it on your phone calendar right now if you have to. The same day you check your smoke detector batteries is a good day to shake the extinguisher too. Pair the two habits and neither one gets forgotten.
+
+[beat: professional inspection tag]
+Beyond the monthly check you do yourself, fire safety guidance also calls for an annual inspection by a certified professional, and a full internal inspection and recharge around the six-year mark for most home units. Most people have never had either one done, on an extinguisher they've owned for a decade or more.
+
+[beat: purchase date sticker]
+If you don't know how old yours is, check the manufacture date stamped or printed on the bottom or side of the canister. If you can't find a date at all, or it's been more than six years and you've never had it serviced, treat it as due, not as fine.
+
+[beat: replacement affordable]
+And here's the part that should make this an easy decision. A new home fire extinguisher costs less than most people spend on takeout in a week. Replacing one that's questionable isn't really a financial decision. It's just something people put off, because nothing ever reminds them to do it.
+
+[beat: mounting location matters]
+Where you mount it matters too. Fire safety guidance points to keeping extinguishers away from heat sources and heavy vibration when you can, which rules out right next to the stove, or bolted to a wall shared with a washing machine. Near the kitchen exit, but not touching the source of heat or shaking, is the better spot.
+
+[beat: kitchen exit accessible]
+And accessible actually has to mean accessible. Not behind the ironing board in the closet. Somewhere you could grab it in three seconds without thinking, because in an actual kitchen fire, three seconds of searching is three seconds you don't have.
+
+[beat: walt wrap up method]
+So that's the whole fix. Shake it monthly, check the gauge and the pin at the same time, know its age, and get it professionally serviced or replaced on schedule instead of waiting for the one day it matters most.
+
+## objections
+
+[beat: question mark simple graphic]
+Let's cover what you're probably wondering.
+
+[beat: extinguisher type kitchen]
+Does this apply to every fire extinguisher, or just some?
+
+This is specifically about dry chemical extinguishers, the ABC-rated kind, which is what most homes and kitchens actually have. CO2 extinguishers and clean-agent units work differently and don't have this exact powder-caking issue, though they have their own service schedules.
+
+[beat: how often shake reminder]
+Do I really need to shake it every single month, forever?
+
+Yes, for as long as you own it. It takes thirty seconds. Compare that to the alternative, finding out it's dead during an actual fire, and the monthly habit isn't much to ask.
+
+[beat: expired extinguisher disposal]
+What do I do with one that's actually gone bad?
+
+Don't throw a pressurized canister in the regular trash. Most fire departments, and some hardware stores, will take an old extinguisher for proper disposal or recycling. A quick call to your local station will tell you where to bring it.
+
+[beat: multiple extinguishers house]
+How many should a house actually have?
+
+One per level of your home at minimum, plus one specifically in or near the kitchen, since that's where most home fires start. A garage or workshop with flammable materials around is worth its own unit too.
+
+[beat: refill recharge cost]
+Is it cheaper to recharge an old one, or just buy new?
+
+For most small home units, buying new is usually simpler and cheaper than a professional recharge, once you account for the service fee. Don't skip replacing one over the cost question. A new one is genuinely inexpensive.
+
+[beat: expiration date printed]
+Do these actually expire, like food does?
+
+Not in the sense of suddenly stopping on a specific date. But they do have a limited service life, generally cited around ten to twelve years for a home unit. After that, replace it, regardless of how it looks or checks out on the outside.
+
+## variations
+
+[beat: apartment renter kitchen]
+Let's talk about how this fits your specific situation.
+
+[beat: apartment small kitchen]
+If you rent an apartment, check whether your unit already has one mounted, which many buildings require. If it's there, it's still your job to check it monthly. Landlords rarely do.
+
+[beat: family kids household]
+If you've got kids old enough to understand it, this is worth teaching them too. Not to use it themselves in most cases, but to know exactly where it is and to go get an adult immediately.
+
+[beat: garage workshop flammable]
+If you've got a garage or workshop with gasoline, paint, or solvents around, that space needs its own extinguisher, mounted near the exit, not buried behind the lawn mower.
+
+[beat: RV boat mobile]
+If you've got an RV, boat, or camper, those come with their own small units too, and the vibration problem applies even more there, since they're moving constantly. Check those more often, not less.
+
+[beat: elderly relative safety check]
+If you're checking in on an older relative's home, this is a genuinely useful thing to add to a safety visit. A lot of extinguishers in older homes have been sitting, untouched, since the day they were mounted.
+
+[beat: new homeowner checklist]
+If you just moved into a new place, don't assume whatever's already mounted there is good. Check the manufacture date, and give it the shake test, before you cross it off your list.
+
+[beat: landlord rental property]
+If you're a landlord yourself, this is a liability question as much as a safety one. A dead extinguisher that was never checked is a bad position to be in if something ever goes wrong.
+
+[beat: combine smoke detector routine]
+Pair this with whatever routine you already have for smoke detectors and carbon monoxide alarms. Same seasonal check, same calendar reminder. One habit, instead of three separate ones you might forget.
+
+## close
+
+[beat: recap two facts]
+So here's what actually matters, if you remember nothing else.
+
+[beat: EVIDENCE-kordfire-caking]
+The gauge on your fire extinguisher tells you there's pressure. It does not tell you the powder inside is still loose enough to come out. Those are two different things, and only one of them gets checked just by looking.
+
+[beat: EVIDENCE-otisfire-nfpa10]
+The actual check takes thirty seconds. Shake it, or turn it upside down, once a month, and you should feel and hear the powder move freely. If it doesn't, that can needs replacing, whatever the gauge says.
+
+[beat: checklist card cabinet]
+Go check the one under your sink today. Look at the date, do the shake, and make sure it's somewhere you could actually reach in three seconds.
+
+[beat: walt sign off warm]
+That's the old way. Still works. It just needs the thirty seconds nobody ever told you it needed.
+
+[beat: subscribe comment card]
+If you want more of these, the plain truth about the stuff already in your house, subscribe. And if this saved you from finding out the hard way, a like helps it reach the next person who needs to hear it too.
+
+[beat: comment question specific]
+Tell me in the comments. When's the last time you actually touched the fire extinguisher in your house? I've got a feeling I already know the answer for most of you.
+
+[beat: card-close-recap]

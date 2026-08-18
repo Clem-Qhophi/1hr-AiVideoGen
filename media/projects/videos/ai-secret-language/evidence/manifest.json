@@ -1,0 +1,74 @@
+[
+ {
+  "name": "irregular-cyber-behavior",
+  "file": "irregular-cyber-behavior.png",
+  "url": "https://www.irregular.com/research/emergent-offensive-cyber-behavior-in-ai-agents",
+  "source": "Irregular: Emergent Cyber Behavior",
+  "selector": null,
+  "captured_at": "2026-08-07T23:26:55"
+ },
+ {
+  "name": "github-gibberlink",
+  "file": "github-gibberlink.png",
+  "url": "https://github.com/PennyroyalTea/gibberlink",
+  "source": "GitHub: Gibberlink",
+  "selector": null,
+  "captured_at": "2026-08-07T23:26:55"
+ },
+ {
+  "name": "emergentmind-collusion",
+  "file": "emergentmind-collusion.png",
+  "url": "https://www.emergentmind.com/topics/secret-collusion-among-generative-ai-agents",
+  "source": "EmergentMind: Secret Collusion",
+  "selector": null,
+  "captured_at": "2026-08-07T23:26:56"
+ },
+ {
+  "name": "wikipedia-gibberlink",
+  "file": "wikipedia-gibberlink.png",
+  "url": "https://en.wikipedia.org/wiki/Gibberlink",
+  "source": "Wikipedia: Gibberlink",
+  "selector": null,
+  "captured_at": "2026-08-07T23:26:56"
+ },
+ {
+  "name": "forbes-gibberlink",
+  "file": "forbes-gibberlink.png",
+  "url": "https://www.forbes.com/sites/dianehamilton/2025/02/25/what-is-gibberlink-mode-ais-secret-language-and-way-of-communicating/",
+  "source": "Forbes: Gibberlink Mode",
+  "selector": null,
+  "captured_at": "2026-08-07T23:27:16"
+ },
+ {
+  "name": "infobip-gibberlink",
+  "file": "infobip-gibberlink.png",
+  "url": "https://www.infobip.com/blog/gibberlink-ai-secret-language",
+  "source": "Infobip: Gibberlink Explained",
+  "selector": null,
+  "captured_at": "2026-08-07T23:27:20"
+ },
+ {
+  "name": "arxiv-html-emergent",
+  "file": "arxiv-html-emergent.png",
+  "url": "https://arxiv.org/html/2605.31170",
+  "source": "arXiv HTML: Emergent Languages",
+  "selector": null,
+  "captured_at": "2026-08-07T23:27:26"
+ },
+ {
+  "name": "acm-emergent-language",
+  "file": "acm-emergent-language.png",
+  "url": "https://dl.acm.org/doi/10.5555/3709347.3744062",
+  "source": "ACM: Humanlike Emergent Language",
+  "selector": null,
+  "captured_at": "2026-08-07T23:27:42"
+ },
+ {
+  "name": "arxiv-pdf-emergent",
+  "file": "arxiv-pdf-emergent.png",
+  "url": "https://arxiv.org/pdf/2605.31170v1",
+  "source": "arXiv PDF: Emergent Languages Paper",
+  "selector": null,
+  "captured_at": "2026-08-07T23:27:42"
+ }
+]

@@ -1,0 +1,46 @@
+{
+  "project": "car-battery-backup-power",
+  "assets": [
+    {
+      "id": "inverter-product",
+      "kind": "screenshot",
+      "purpose": "real named inverter products + specs (grounds the wattage/features beats; no verifiable price found - see plan.json note)",
+      "source_url": "https://carcaretotal.com/best-car-inverter/",
+      "source_label": "CarCareTotal, Aug 2026",
+      "capture_note": "Home Depot, Walmart, and Harbor Freight product pages all bot-blocked automated capture (Access Denied / Robot-or-human challenges - screenshots on file as a record). CarCareTotal buying-guide article was the working alternative.",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/car-battery-backup-power/evidence/inverter-product.png"
+    },
+    {
+      "id": "fridge-wattage",
+      "kind": "screenshot",
+      "purpose": "real running-watt figures for a fridge (grounds the wattage-math beat)",
+      "source_url": "https://www.energysage.com/electricity/house-watts/how-many-watts-does-a-refrigerator-use/",
+      "source_label": "EnergySage, Aug 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/car-battery-backup-power/evidence/fridge-wattage.png"
+    },
+    {
+      "id": "co-safety",
+      "kind": "screenshot",
+      "purpose": "CDC's own generator/CO safety warning (grounds the 'never run the engine indoors' hard rule)",
+      "source_url": "https://www.cdc.gov/carbon-monoxide/factsheets/generator-safety-fact-sheet.html",
+      "source_label": "CDC, Aug 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/car-battery-backup-power/evidence/co-safety.png"
+    },
+    {
+      "id": "backfeed-danger",
+      "kind": "screenshot",
+      "purpose": "electrical-safety source on why backfeeding a breaker panel without a transfer switch is dangerous/illegal (grounds the 'never connect to your panel' hard rule)",
+      "source_url": "https://safeelectricity.org/safety-tips/urge-caution-using-back-generators/",
+      "source_label": "Safe Electricity, Aug 2026",
+      "capture": "auto",
+      "status": "captured",
+      "path": "media/projects/car-battery-backup-power/evidence/backfeed-danger.png"
+    }
+  ]
+}

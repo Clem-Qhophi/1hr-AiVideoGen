@@ -1,0 +1,802 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:00.71,Cap,,0,0,0,,{\c&H00FFFFFF}Five {\c&H8CFFFFFF}four
+Dialogue: 0,0:00:00.71,0:00:01.04,Cap,,0,0,0,,{\c&H00FFFFFF}Five {\c&H00FFFFFF}four
+Dialogue: 0,0:00:01.79,0:00:02.68,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}five
+Dialogue: 0,0:00:02.68,0:00:03.20,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}five
+Dialogue: 0,0:00:03.96,0:00:04.57,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}four
+Dialogue: 0,0:00:04.57,0:00:04.94,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}four
+Dialogue: 0,0:00:05.69,0:00:06.00,Cap,,0,0,0,,{\c&H00FFFFFF}After {\c&H8CFFFFFF}twenty {\c&H8CFFFFFF}years {\c&H8CFFFFFF}of
+Dialogue: 0,0:00:06.00,0:00:06.27,Cap,,0,0,0,,{\c&H00FFFFFF}After {\c&H00FFFFFF}twenty {\c&H8CFFFFFF}years {\c&H8CFFFFFF}of
+Dialogue: 0,0:00:06.27,0:00:06.56,Cap,,0,0,0,,{\c&H00FFFFFF}After {\c&H00FFFFFF}twenty {\c&H00FFFFFF}years {\c&H8CFFFFFF}of
+Dialogue: 0,0:00:06.56,0:00:06.76,Cap,,0,0,0,,{\c&H00FFFFFF}After {\c&H00FFFFFF}twenty {\c&H00FFFFFF}years {\c&H00FFFFFF}of
+Dialogue: 0,0:00:06.65,0:00:07.19,Cap,,0,0,0,,{\c&H00FFFFFF}arguments {\c&H8CFFFFFF}the {\c&H8CFFFFFF}numbers {\c&H8CFFFFFF}have
+Dialogue: 0,0:00:07.19,0:00:07.29,Cap,,0,0,0,,{\c&H00FFFFFF}arguments {\c&H00FFFFFF}the {\c&H8CFFFFFF}numbers {\c&H8CFFFFFF}have
+Dialogue: 0,0:00:07.29,0:00:07.60,Cap,,0,0,0,,{\c&H00FFFFFF}arguments {\c&H00FFFFFF}the {\c&H00FFFFFF}numbers {\c&H8CFFFFFF}have
+Dialogue: 0,0:00:07.60,0:00:07.80,Cap,,0,0,0,,{\c&H00FFFFFF}arguments {\c&H00FFFFFF}the {\c&H00FFFFFF}numbers {\c&H00FFFFFF}have
+Dialogue: 0,0:00:07.73,0:00:08.19,Cap,,0,0,0,,{\c&H00FFFFFF}voted
+Dialogue: 0,0:00:08.95,0:00:09.11,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}winner {\c&H8CFFFFFF}is
+Dialogue: 0,0:00:09.11,0:00:09.19,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}winner {\c&H8CFFFFFF}is
+Dialogue: 0,0:00:09.19,0:00:09.47,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}winner {\c&H8CFFFFFF}is
+Dialogue: 0,0:00:09.47,0:00:09.67,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}winner {\c&H00FFFFFF}is
+Dialogue: 0,0:00:09.62,0:00:09.81,Cap,,0,0,0,,{\c&H00FFFFFF}not {\c&H8CFFFFFF}who {\c&H8CFFFFFF}most {\c&H8CFFFFFF}people
+Dialogue: 0,0:00:09.81,0:00:09.90,Cap,,0,0,0,,{\c&H00FFFFFF}not {\c&H00FFFFFF}who {\c&H8CFFFFFF}most {\c&H8CFFFFFF}people
+Dialogue: 0,0:00:09.90,0:00:10.15,Cap,,0,0,0,,{\c&H00FFFFFF}not {\c&H00FFFFFF}who {\c&H00FFFFFF}most {\c&H8CFFFFFF}people
+Dialogue: 0,0:00:10.15,0:00:10.42,Cap,,0,0,0,,{\c&H00FFFFFF}not {\c&H00FFFFFF}who {\c&H00FFFFFF}most {\c&H00FFFFFF}people
+Dialogue: 0,0:00:10.43,0:00:10.54,Cap,,0,0,0,,{\c&H00FFFFFF}would {\c&H8CFFFFFF}have {\c&H8CFFFFFF}guessed
+Dialogue: 0,0:00:10.54,0:00:10.66,Cap,,0,0,0,,{\c&H00FFFFFF}would {\c&H00FFFFFF}have {\c&H8CFFFFFF}guessed
+Dialogue: 0,0:00:10.66,0:00:11.05,Cap,,0,0,0,,{\c&H00FFFFFF}would {\c&H00FFFFFF}have {\c&H00FFFFFF}guessed
+Dialogue: 0,0:00:11.81,0:00:12.05,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H8CFFFFFF}is {\c&H8CFFFFFF}Messi {\c&H8CFFFFFF}versus
+Dialogue: 0,0:00:12.05,0:00:12.15,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H8CFFFFFF}Messi {\c&H8CFFFFFF}versus
+Dialogue: 0,0:00:12.15,0:00:12.46,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H00FFFFFF}Messi {\c&H8CFFFFFF}versus
+Dialogue: 0,0:00:12.46,0:00:12.83,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H00FFFFFF}Messi {\c&H00FFFFFF}versus
+Dialogue: 0,0:00:12.84,0:00:13.44,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo
+Dialogue: 0,0:00:14.20,0:00:14.33,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}Final {\c&H8CFFFFFF}Score
+Dialogue: 0,0:00:14.33,0:00:14.69,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Final {\c&H8CFFFFFF}Score
+Dialogue: 0,0:00:14.69,0:00:15.13,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Final {\c&H00FFFFFF}Score
+Dialogue: 0,0:00:15.89,0:00:16.13,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H8CFFFFFF}legends
+Dialogue: 0,0:00:16.13,0:00:16.67,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H00FFFFFF}legends
+Dialogue: 0,0:00:17.42,0:00:17.70,Cap,,0,0,0,,{\c&H00FFFFFF}Eight {\c&H8CFFFFFF}rounds
+Dialogue: 0,0:00:17.70,0:00:18.24,Cap,,0,0,0,,{\c&H00FFFFFF}Eight {\c&H00FFFFFF}rounds
+Dialogue: 0,0:00:18.99,0:00:19.27,Cap,,0,0,0,,{\c&H00FFFFFF}Every {\c&H8CFFFFFF}category {\c&H8CFFFFFF}decided {\c&H8CFFFFFF}by
+Dialogue: 0,0:00:19.27,0:00:19.66,Cap,,0,0,0,,{\c&H00FFFFFF}Every {\c&H00FFFFFF}category {\c&H8CFFFFFF}decided {\c&H8CFFFFFF}by
+Dialogue: 0,0:00:19.66,0:00:20.11,Cap,,0,0,0,,{\c&H00FFFFFF}Every {\c&H00FFFFFF}category {\c&H00FFFFFF}decided {\c&H8CFFFFFF}by
+Dialogue: 0,0:00:20.11,0:00:20.31,Cap,,0,0,0,,{\c&H00FFFFFF}Every {\c&H00FFFFFF}category {\c&H00FFFFFF}decided {\c&H00FFFFFF}by
+Dialogue: 0,0:00:20.23,0:00:20.71,Cap,,0,0,0,,{\c&H00FFFFFF}verified {\c&H8CFFFFFF}numbers {\c&H8CFFFFFF}not {\c&H8CFFFFFF}opinions
+Dialogue: 0,0:00:20.71,0:00:21.24,Cap,,0,0,0,,{\c&H00FFFFFF}verified {\c&H00FFFFFF}numbers {\c&H8CFFFFFF}not {\c&H8CFFFFFF}opinions
+Dialogue: 0,0:00:21.24,0:00:21.45,Cap,,0,0,0,,{\c&H00FFFFFF}verified {\c&H00FFFFFF}numbers {\c&H00FFFFFF}not {\c&H8CFFFFFF}opinions
+Dialogue: 0,0:00:21.45,0:00:22.07,Cap,,0,0,0,,{\c&H00FFFFFF}verified {\c&H00FFFFFF}numbers {\c&H00FFFFFF}not {\c&H00FFFFFF}opinions
+Dialogue: 0,0:00:22.83,0:00:23.09,Cap,,0,0,0,,{\c&H00FFFFFF}All {\c&H8CFFFFFF}of {\c&H8CFFFFFF}it {\c&H8CFFFFFF}official
+Dialogue: 0,0:00:23.09,0:00:23.16,Cap,,0,0,0,,{\c&H00FFFFFF}All {\c&H00FFFFFF}of {\c&H8CFFFFFF}it {\c&H8CFFFFFF}official
+Dialogue: 0,0:00:23.16,0:00:23.25,Cap,,0,0,0,,{\c&H00FFFFFF}All {\c&H00FFFFFF}of {\c&H00FFFFFF}it {\c&H8CFFFFFF}official
+Dialogue: 0,0:00:23.25,0:00:23.61,Cap,,0,0,0,,{\c&H00FFFFFF}All {\c&H00FFFFFF}of {\c&H00FFFFFF}it {\c&H00FFFFFF}official
+Dialogue: 0,0:00:23.62,0:00:24.28,Cap,,0,0,0,,{\c&H00FFFFFF}records {\c&H8CFFFFFF}as {\c&H8CFFFFFF}of {\c&H8CFFFFFF}July 2026
+Dialogue: 0,0:00:24.28,0:00:24.39,Cap,,0,0,0,,{\c&H00FFFFFF}records {\c&H00FFFFFF}as {\c&H8CFFFFFF}of {\c&H8CFFFFFF}July 2026
+Dialogue: 0,0:00:24.39,0:00:24.49,Cap,,0,0,0,,{\c&H00FFFFFF}records {\c&H00FFFFFF}as {\c&H00FFFFFF}of {\c&H8CFFFFFF}July 2026
+Dialogue: 0,0:00:24.49,0:00:25.87,Cap,,0,0,0,,{\c&H00FFFFFF}records {\c&H00FFFFFF}as {\c&H00FFFFFF}of {\c&H00FFFFFF}July 2026
+Dialogue: 0,0:00:26.62,0:00:26.92,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H8CFFFFFF}point {\c&H8CFFFFFF}per {\c&H8CFFFFFF}round
+Dialogue: 0,0:00:26.92,0:00:27.18,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}point {\c&H8CFFFFFF}per {\c&H8CFFFFFF}round
+Dialogue: 0,0:00:27.18,0:00:27.31,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}point {\c&H00FFFFFF}per {\c&H8CFFFFFF}round
+Dialogue: 0,0:00:27.31,0:00:27.80,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}point {\c&H00FFFFFF}per {\c&H00FFFFFF}round
+Dialogue: 0,0:00:28.55,0:00:28.92,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H8CFFFFFF}eight {\c&H8CFFFFFF}is {\c&H8CFFFFFF}worth
+Dialogue: 0,0:00:28.92,0:00:29.09,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}eight {\c&H8CFFFFFF}is {\c&H8CFFFFFF}worth
+Dialogue: 0,0:00:29.09,0:00:29.23,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}eight {\c&H00FFFFFF}is {\c&H8CFFFFFF}worth
+Dialogue: 0,0:00:29.23,0:00:29.50,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}eight {\c&H00FFFFFF}is {\c&H00FFFFFF}worth
+Dialogue: 0,0:00:29.51,0:00:29.85,Cap,,0,0,0,,{\c&H00FFFFFF}double
+Dialogue: 0,0:00:30.60,0:00:30.78,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}winner {\c&H8CFFFFFF}takes
+Dialogue: 0,0:00:30.78,0:00:30.86,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}winner {\c&H8CFFFFFF}takes
+Dialogue: 0,0:00:30.86,0:00:31.11,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}winner {\c&H8CFFFFFF}takes
+Dialogue: 0,0:00:31.11,0:00:31.35,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}winner {\c&H00FFFFFF}takes
+Dialogue: 0,0:00:31.36,0:00:31.45,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}first {\c&H8CFFFFFF}belt {\c&H8CFFFFFF}in
+Dialogue: 0,0:00:31.45,0:00:31.78,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}first {\c&H8CFFFFFF}belt {\c&H8CFFFFFF}in
+Dialogue: 0,0:00:31.78,0:00:32.01,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}first {\c&H00FFFFFF}belt {\c&H8CFFFFFF}in
+Dialogue: 0,0:00:32.01,0:00:32.21,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}first {\c&H00FFFFFF}belt {\c&H00FFFFFF}in
+Dialogue: 0,0:00:32.13,0:00:32.41,Cap,,0,0,0,,{\c&H00FFFFFF}Data {\c&H8CFFFFFF}League {\c&H8CFFFFFF}history
+Dialogue: 0,0:00:32.41,0:00:32.64,Cap,,0,0,0,,{\c&H00FFFFFF}Data {\c&H00FFFFFF}League {\c&H8CFFFFFF}history
+Dialogue: 0,0:00:32.64,0:00:33.04,Cap,,0,0,0,,{\c&H00FFFFFF}Data {\c&H00FFFFFF}League {\c&H00FFFFFF}history
+Dialogue: 0,0:00:33.80,0:00:33.94,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}Scorekeeper {\c&H8CFFFFFF}has {\c&H8CFFFFFF}the
+Dialogue: 0,0:00:33.94,0:00:34.45,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Scorekeeper {\c&H8CFFFFFF}has {\c&H8CFFFFFF}the
+Dialogue: 0,0:00:34.45,0:00:34.62,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Scorekeeper {\c&H00FFFFFF}has {\c&H8CFFFFFF}the
+Dialogue: 0,0:00:34.62,0:00:34.82,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Scorekeeper {\c&H00FFFFFF}has {\c&H00FFFFFF}the
+Dialogue: 0,0:00:34.71,0:00:35.24,Cap,,0,0,0,,{\c&H00FFFFFF}cards
+Dialogue: 0,0:00:36.00,0:00:36.36,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H8CFFFFFF}one
+Dialogue: 0,0:00:36.36,0:00:36.66,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}one
+Dialogue: 0,0:00:37.41,0:00:37.58,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}record {\c&H8CFFFFFF}book
+Dialogue: 0,0:00:37.58,0:00:37.99,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}record {\c&H8CFFFFFF}book
+Dialogue: 0,0:00:37.99,0:00:38.30,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}record {\c&H00FFFFFF}book
+Dialogue: 0,0:00:39.06,0:00:39.19,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H8CFFFFFF}category {\c&H8CFFFFFF}of {\c&H8CFFFFFF}pure
+Dialogue: 0,0:00:39.19,0:00:39.67,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H00FFFFFF}category {\c&H8CFFFFFF}of {\c&H8CFFFFFF}pure
+Dialogue: 0,0:00:39.67,0:00:39.77,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H00FFFFFF}category {\c&H00FFFFFF}of {\c&H8CFFFFFF}pure
+Dialogue: 0,0:00:39.77,0:00:40.00,Cap,,0,0,0,,{\c&H00FFFFFF}A {\c&H00FFFFFF}category {\c&H00FFFFFF}of {\c&H00FFFFFF}pure
+Dialogue: 0,0:00:40.01,0:00:40.52,Cap,,0,0,0,,{\c&H00FFFFFF}volume
+Dialogue: 0,0:00:41.27,0:00:41.69,Cap,,0,0,0,,{\c&H00FFFFFF}Career {\c&H8CFFFFFF}goals {\c&H8CFFFFFF}including {\c&H8CFFFFFF}international
+Dialogue: 0,0:00:41.69,0:00:42.31,Cap,,0,0,0,,{\c&H00FFFFFF}Career {\c&H00FFFFFF}goals {\c&H8CFFFFFF}including {\c&H8CFFFFFF}international
+Dialogue: 0,0:00:42.31,0:00:42.80,Cap,,0,0,0,,{\c&H00FFFFFF}Career {\c&H00FFFFFF}goals {\c&H00FFFFFF}including {\c&H8CFFFFFF}international
+Dialogue: 0,0:00:42.80,0:00:43.38,Cap,,0,0,0,,{\c&H00FFFFFF}Career {\c&H00FFFFFF}goals {\c&H00FFFFFF}including {\c&H00FFFFFF}international
+Dialogue: 0,0:00:43.39,0:00:43.86,Cap,,0,0,0,,{\c&H00FFFFFF}football
+Dialogue: 0,0:00:44.62,0:00:45.15,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}has {\c&H8CFFFFFF}scored {\c&H8CFFFFFF}nine
+Dialogue: 0,0:00:45.15,0:00:45.31,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H8CFFFFFF}scored {\c&H8CFFFFFF}nine
+Dialogue: 0,0:00:45.31,0:00:45.62,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H00FFFFFF}scored {\c&H8CFFFFFF}nine
+Dialogue: 0,0:00:45.62,0:00:45.87,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H00FFFFFF}scored {\c&H00FFFFFF}nine
+Dialogue: 0,0:00:45.88,0:00:46.16,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H8CFFFFFF}seventy {\c&H8CFFFFFF}six {\c&H8CFFFFFF}goals
+Dialogue: 0,0:00:46.16,0:00:46.54,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H00FFFFFF}seventy {\c&H8CFFFFFF}six {\c&H8CFFFFFF}goals
+Dialogue: 0,0:00:46.54,0:00:46.78,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H00FFFFFF}seventy {\c&H00FFFFFF}six {\c&H8CFFFFFF}goals
+Dialogue: 0,0:00:46.78,0:00:47.11,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H00FFFFFF}seventy {\c&H00FFFFFF}six {\c&H00FFFFFF}goals
+Dialogue: 0,0:00:47.12,0:00:47.21,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H8CFFFFFF}club {\c&H8CFFFFFF}and {\c&H8CFFFFFF}country
+Dialogue: 0,0:00:47.21,0:00:47.50,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H00FFFFFF}club {\c&H8CFFFFFF}and {\c&H8CFFFFFF}country
+Dialogue: 0,0:00:47.50,0:00:47.58,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H00FFFFFF}club {\c&H00FFFFFF}and {\c&H8CFFFFFF}country
+Dialogue: 0,0:00:47.58,0:00:47.99,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H00FFFFFF}club {\c&H00FFFFFF}and {\c&H00FFFFFF}country
+Dialogue: 0,0:00:48.75,0:00:49.00,Cap,,0,0,0,,{\c&H00FFFFFF}No {\c&H8CFFFFFF}man {\c&H8CFFFFFF}in {\c&H8CFFFFFF}history
+Dialogue: 0,0:00:49.00,0:00:49.24,Cap,,0,0,0,,{\c&H00FFFFFF}No {\c&H00FFFFFF}man {\c&H8CFFFFFF}in {\c&H8CFFFFFF}history
+Dialogue: 0,0:00:49.24,0:00:49.33,Cap,,0,0,0,,{\c&H00FFFFFF}No {\c&H00FFFFFF}man {\c&H00FFFFFF}in {\c&H8CFFFFFF}history
+Dialogue: 0,0:00:49.33,0:00:49.66,Cap,,0,0,0,,{\c&H00FFFFFF}No {\c&H00FFFFFF}man {\c&H00FFFFFF}in {\c&H00FFFFFF}history
+Dialogue: 0,0:00:49.67,0:00:49.85,Cap,,0,0,0,,{\c&H00FFFFFF}has {\c&H8CFFFFFF}scored {\c&H8CFFFFFF}more
+Dialogue: 0,0:00:49.85,0:00:50.17,Cap,,0,0,0,,{\c&H00FFFFFF}has {\c&H00FFFFFF}scored {\c&H8CFFFFFF}more
+Dialogue: 0,0:00:50.17,0:00:50.48,Cap,,0,0,0,,{\c&H00FFFFFF}has {\c&H00FFFFFF}scored {\c&H00FFFFFF}more
+Dialogue: 0,0:00:51.24,0:00:51.55,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H8CFFFFFF}Pelé
+Dialogue: 0,0:00:51.55,0:00:52.01,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}Pelé
+Dialogue: 0,0:00:52.76,0:00:53.04,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H8CFFFFFF}Müller
+Dialogue: 0,0:00:53.04,0:00:53.40,Cap,,0,0,0,,{\c&H00FFFFFF}Not {\c&H00FFFFFF}Müller
+Dialogue: 0,0:00:54.16,0:00:54.67,Cap,,0,0,0,,{\c&H00FFFFFF}Nobody
+Dialogue: 0,0:00:55.43,0:00:55.85,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}is {\c&H8CFFFFFF}not {\c&H8CFFFFFF}far
+Dialogue: 0,0:00:55.85,0:00:56.03,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}is {\c&H8CFFFFFF}not {\c&H8CFFFFFF}far
+Dialogue: 0,0:00:56.03,0:00:56.23,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}is {\c&H00FFFFFF}not {\c&H8CFFFFFF}far
+Dialogue: 0,0:00:56.23,0:00:56.43,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}is {\c&H00FFFFFF}not {\c&H00FFFFFF}far
+Dialogue: 0,0:00:56.43,0:00:57.04,Cap,,0,0,0,,{\c&H00FFFFFF}behind
+Dialogue: 0,0:00:57.80,0:00:58.15,Cap,,0,0,0,,{\c&H00FFFFFF}Nine {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}nineteen
+Dialogue: 0,0:00:58.15,0:00:58.51,Cap,,0,0,0,,{\c&H00FFFFFF}Nine {\c&H00FFFFFF}hundred {\c&H8CFFFFFF}nineteen
+Dialogue: 0,0:00:58.51,0:00:59.10,Cap,,0,0,0,,{\c&H00FFFFFF}Nine {\c&H00FFFFFF}hundred {\c&H00FFFFFF}nineteen
+Dialogue: 0,0:00:59.86,0:01:00.02,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H8CFFFFFF}this {\c&H8CFFFFFF}round {\c&H8CFFFFFF}belongs
+Dialogue: 0,0:01:00.02,0:01:00.20,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}this {\c&H8CFFFFFF}round {\c&H8CFFFFFF}belongs
+Dialogue: 0,0:01:00.20,0:01:00.44,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}this {\c&H00FFFFFF}round {\c&H8CFFFFFF}belongs
+Dialogue: 0,0:01:00.44,0:01:00.79,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}this {\c&H00FFFFFF}round {\c&H00FFFFFF}belongs
+Dialogue: 0,0:01:00.80,0:01:00.90,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H8CFFFFFF}Ronaldo
+Dialogue: 0,0:01:00.90,0:01:01.53,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}Ronaldo
+Dialogue: 0,0:01:02.28,0:01:02.58,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H8CFFFFFF}point {\c&H8CFFFFFF}to {\c&H8CFFFFFF}Ronaldo
+Dialogue: 0,0:01:02.58,0:01:02.84,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}point {\c&H8CFFFFFF}to {\c&H8CFFFFFF}Ronaldo
+Dialogue: 0,0:01:02.84,0:01:02.92,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}point {\c&H00FFFFFF}to {\c&H8CFFFFFF}Ronaldo
+Dialogue: 0,0:01:02.92,0:01:03.52,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}point {\c&H00FFFFFF}to {\c&H00FFFFFF}Ronaldo
+Dialogue: 0,0:01:04.28,0:01:04.89,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H8CFFFFFF}nothing
+Dialogue: 0,0:01:04.89,0:01:05.35,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}nothing
+Dialogue: 0,0:01:06.11,0:01:06.28,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}chase {\c&H8CFFFFFF}is
+Dialogue: 0,0:01:06.28,0:01:06.36,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}chase {\c&H8CFFFFFF}is
+Dialogue: 0,0:01:06.36,0:01:06.65,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}chase {\c&H8CFFFFFF}is
+Dialogue: 0,0:01:06.65,0:01:06.85,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}chase {\c&H00FFFFFF}is
+Dialogue: 0,0:01:06.77,0:01:07.05,Cap,,0,0,0,,{\c&H00FFFFFF}on
+Dialogue: 0,0:01:07.81,0:01:08.18,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H8CFFFFFF}two
+Dialogue: 0,0:01:08.18,0:01:08.47,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}two
+Dialogue: 0,0:01:09.22,0:01:09.40,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}artistry {\c&H8CFFFFFF}category
+Dialogue: 0,0:01:09.40,0:01:09.86,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}artistry {\c&H8CFFFFFF}category
+Dialogue: 0,0:01:09.86,0:01:10.36,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}artistry {\c&H00FFFFFF}category
+Dialogue: 0,0:01:11.12,0:01:11.82,Cap,,0,0,0,,{\c&H00FFFFFF}Assists
+Dialogue: 0,0:01:12.58,0:01:12.75,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}this {\c&H8CFFFFFF}is {\c&H8CFFFFFF}where
+Dialogue: 0,0:01:12.75,0:01:12.91,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}this {\c&H8CFFFFFF}is {\c&H8CFFFFFF}where
+Dialogue: 0,0:01:12.91,0:01:13.02,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}this {\c&H00FFFFFF}is {\c&H8CFFFFFF}where
+Dialogue: 0,0:01:13.02,0:01:13.22,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}this {\c&H00FFFFFF}is {\c&H00FFFFFF}where
+Dialogue: 0,0:01:13.16,0:01:13.26,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}contest {\c&H8CFFFFFF}gets {\c&H8CFFFFFF}uncomfortable
+Dialogue: 0,0:01:13.26,0:01:13.69,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}contest {\c&H8CFFFFFF}gets {\c&H8CFFFFFF}uncomfortable
+Dialogue: 0,0:01:13.69,0:01:13.94,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}contest {\c&H00FFFFFF}gets {\c&H8CFFFFFF}uncomfortable
+Dialogue: 0,0:01:13.94,0:01:14.50,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}contest {\c&H00FFFFFF}gets {\c&H00FFFFFF}uncomfortable
+Dialogue: 0,0:01:14.51,0:01:14.62,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H8CFFFFFF}one {\c&H8CFFFFFF}side
+Dialogue: 0,0:01:14.62,0:01:14.89,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H00FFFFFF}one {\c&H8CFFFFFF}side
+Dialogue: 0,0:01:14.89,0:01:15.34,Cap,,0,0,0,,{\c&H00FFFFFF}for {\c&H00FFFFFF}one {\c&H00FFFFFF}side
+Dialogue: 0,0:01:16.10,0:01:16.46,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}has {\c&H8CFFFFFF}provided {\c&H8CFFFFFF}four
+Dialogue: 0,0:01:16.46,0:01:16.61,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}has {\c&H8CFFFFFF}provided {\c&H8CFFFFFF}four
+Dialogue: 0,0:01:16.61,0:01:17.02,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}has {\c&H00FFFFFF}provided {\c&H8CFFFFFF}four
+Dialogue: 0,0:01:17.02,0:01:17.23,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}has {\c&H00FFFFFF}provided {\c&H00FFFFFF}four
+Dialogue: 0,0:01:17.24,0:01:17.53,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H8CFFFFFF}eighteen {\c&H8CFFFFFF}career {\c&H8CFFFFFF}assists
+Dialogue: 0,0:01:17.53,0:01:17.90,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H00FFFFFF}eighteen {\c&H8CFFFFFF}career {\c&H8CFFFFFF}assists
+Dialogue: 0,0:01:17.90,0:01:18.25,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H00FFFFFF}eighteen {\c&H00FFFFFF}career {\c&H8CFFFFFF}assists
+Dialogue: 0,0:01:18.25,0:01:18.81,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H00FFFFFF}eighteen {\c&H00FFFFFF}career {\c&H00FFFFFF}assists
+Dialogue: 0,0:01:19.56,0:01:20.43,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}two {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}sixty
+Dialogue: 0,0:01:20.43,0:01:20.63,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}two {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}sixty
+Dialogue: 0,0:01:20.63,0:01:20.93,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}two {\c&H00FFFFFF}hundred {\c&H8CFFFFFF}sixty
+Dialogue: 0,0:01:20.93,0:01:21.26,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}two {\c&H00FFFFFF}hundred {\c&H00FFFFFF}sixty
+Dialogue: 0,0:01:21.27,0:01:21.63,Cap,,0,0,0,,{\c&H00FFFFFF}one
+Dialogue: 0,0:01:22.39,0:01:22.85,Cap,,0,0,0,,{\c&H00FFFFFF}Sources {\c&H8CFFFFFF}differ {\c&H8CFFFFFF}by {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:22.85,0:01:23.13,Cap,,0,0,0,,{\c&H00FFFFFF}Sources {\c&H00FFFFFF}differ {\c&H8CFFFFFF}by {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:23.13,0:01:23.30,Cap,,0,0,0,,{\c&H00FFFFFF}Sources {\c&H00FFFFFF}differ {\c&H00FFFFFF}by {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:23.30,0:01:23.50,Cap,,0,0,0,,{\c&H00FFFFFF}Sources {\c&H00FFFFFF}differ {\c&H00FFFFFF}by {\c&H00FFFFFF}a
+Dialogue: 0,0:01:23.38,0:01:23.70,Cap,,0,0,0,,{\c&H00FFFFFF}single {\c&H8CFFFFFF}assist {\c&H8CFFFFFF}on {\c&H8CFFFFFF}Messi's
+Dialogue: 0,0:01:23.70,0:01:24.04,Cap,,0,0,0,,{\c&H00FFFFFF}single {\c&H00FFFFFF}assist {\c&H8CFFFFFF}on {\c&H8CFFFFFF}Messi's
+Dialogue: 0,0:01:24.04,0:01:24.16,Cap,,0,0,0,,{\c&H00FFFFFF}single {\c&H00FFFFFF}assist {\c&H00FFFFFF}on {\c&H8CFFFFFF}Messi's
+Dialogue: 0,0:01:24.16,0:01:24.46,Cap,,0,0,0,,{\c&H00FFFFFF}single {\c&H00FFFFFF}assist {\c&H00FFFFFF}on {\c&H00FFFFFF}Messi's
+Dialogue: 0,0:01:24.47,0:01:24.91,Cap,,0,0,0,,{\c&H00FFFFFF}count
+Dialogue: 0,0:01:25.67,0:01:25.88,Cap,,0,0,0,,{\c&H00FFFFFF}We're {\c&H8CFFFFFF}using {\c&H8CFFFFFF}four {\c&H8CFFFFFF}hundred
+Dialogue: 0,0:01:25.88,0:01:26.23,Cap,,0,0,0,,{\c&H00FFFFFF}We're {\c&H00FFFFFF}using {\c&H8CFFFFFF}four {\c&H8CFFFFFF}hundred
+Dialogue: 0,0:01:26.23,0:01:26.42,Cap,,0,0,0,,{\c&H00FFFFFF}We're {\c&H00FFFFFF}using {\c&H00FFFFFF}four {\c&H8CFFFFFF}hundred
+Dialogue: 0,0:01:26.42,0:01:26.70,Cap,,0,0,0,,{\c&H00FFFFFF}We're {\c&H00FFFFFF}using {\c&H00FFFFFF}four {\c&H00FFFFFF}hundred
+Dialogue: 0,0:01:26.71,0:01:27.25,Cap,,0,0,0,,{\c&H00FFFFFF}eighteen {\c&H8CFFFFFF}shown {\c&H8CFFFFFF}here
+Dialogue: 0,0:01:27.25,0:01:27.50,Cap,,0,0,0,,{\c&H00FFFFFF}eighteen {\c&H00FFFFFF}shown {\c&H8CFFFFFF}here
+Dialogue: 0,0:01:27.50,0:01:27.91,Cap,,0,0,0,,{\c&H00FFFFFF}eighteen {\c&H00FFFFFF}shown {\c&H00FFFFFF}here
+Dialogue: 0,0:01:28.66,0:01:28.82,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}gap {\c&H8CFFFFFF}is {\c&H8CFFFFFF}over
+Dialogue: 0,0:01:28.82,0:01:29.07,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}gap {\c&H8CFFFFFF}is {\c&H8CFFFFFF}over
+Dialogue: 0,0:01:29.07,0:01:29.20,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}gap {\c&H00FFFFFF}is {\c&H8CFFFFFF}over
+Dialogue: 0,0:01:29.20,0:01:29.40,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}gap {\c&H00FFFFFF}is {\c&H00FFFFFF}over
+Dialogue: 0,0:01:29.38,0:01:29.62,Cap,,0,0,0,,{\c&H00FFFFFF}one {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}fifty
+Dialogue: 0,0:01:29.62,0:01:29.91,Cap,,0,0,0,,{\c&H00FFFFFF}one {\c&H00FFFFFF}hundred {\c&H8CFFFFFF}fifty
+Dialogue: 0,0:01:29.91,0:01:30.30,Cap,,0,0,0,,{\c&H00FFFFFF}one {\c&H00FFFFFF}hundred {\c&H00FFFFFF}fifty
+Dialogue: 0,0:01:31.05,0:01:31.28,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H8CFFFFFF}is {\c&H8CFFFFFF}not {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:31.28,0:01:31.39,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H8CFFFFFF}not {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:31.39,0:01:31.58,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H00FFFFFF}not {\c&H8CFFFFFF}a
+Dialogue: 0,0:01:31.58,0:01:31.78,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H00FFFFFF}not {\c&H00FFFFFF}a
+Dialogue: 0,0:01:31.63,0:01:31.94,Cap,,0,0,0,,{\c&H00FFFFFF}close {\c&H8CFFFFFF}race
+Dialogue: 0,0:01:31.94,0:01:32.36,Cap,,0,0,0,,{\c&H00FFFFFF}close {\c&H00FFFFFF}race
+Dialogue: 0,0:01:33.12,0:01:33.29,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H8CFFFFFF}is {\c&H8CFFFFFF}a {\c&H8CFFFFFF}walk
+Dialogue: 0,0:01:33.29,0:01:33.38,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}is {\c&H8CFFFFFF}a {\c&H8CFFFFFF}walk
+Dialogue: 0,0:01:33.38,0:01:33.43,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}is {\c&H00FFFFFF}a {\c&H8CFFFFFF}walk
+Dialogue: 0,0:01:33.43,0:01:33.87,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}is {\c&H00FFFFFF}a {\c&H00FFFFFF}walk
+Dialogue: 0,0:01:34.63,0:01:34.76,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}creator {\c&H8CFFFFFF}beats {\c&H8CFFFFFF}the
+Dialogue: 0,0:01:34.76,0:01:35.15,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}creator {\c&H8CFFFFFF}beats {\c&H8CFFFFFF}the
+Dialogue: 0,0:01:35.15,0:01:35.41,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}creator {\c&H00FFFFFF}beats {\c&H8CFFFFFF}the
+Dialogue: 0,0:01:35.41,0:01:35.61,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}creator {\c&H00FFFFFF}beats {\c&H00FFFFFF}the
+Dialogue: 0,0:01:35.49,0:01:35.86,Cap,,0,0,0,,{\c&H00FFFFFF}finisher {\c&H8CFFFFFF}in {\c&H8CFFFFFF}the {\c&H8CFFFFFF}only
+Dialogue: 0,0:01:35.86,0:01:35.94,Cap,,0,0,0,,{\c&H00FFFFFF}finisher {\c&H00FFFFFF}in {\c&H8CFFFFFF}the {\c&H8CFFFFFF}only
+Dialogue: 0,0:01:35.94,0:01:36.06,Cap,,0,0,0,,{\c&H00FFFFFF}finisher {\c&H00FFFFFF}in {\c&H00FFFFFF}the {\c&H8CFFFFFF}only
+Dialogue: 0,0:01:36.06,0:01:36.27,Cap,,0,0,0,,{\c&H00FFFFFF}finisher {\c&H00FFFFFF}in {\c&H00FFFFFF}the {\c&H00FFFFFF}only
+Dialogue: 0,0:01:36.28,0:01:36.57,Cap,,0,0,0,,{\c&H00FFFFFF}stat {\c&H8CFFFFFF}that {\c&H8CFFFFFF}measures {\c&H8CFFFFFF}pure
+Dialogue: 0,0:01:36.57,0:01:36.70,Cap,,0,0,0,,{\c&H00FFFFFF}stat {\c&H00FFFFFF}that {\c&H8CFFFFFF}measures {\c&H8CFFFFFF}pure
+Dialogue: 0,0:01:36.70,0:01:37.00,Cap,,0,0,0,,{\c&H00FFFFFF}stat {\c&H00FFFFFF}that {\c&H00FFFFFF}measures {\c&H8CFFFFFF}pure
+Dialogue: 0,0:01:37.00,0:01:37.25,Cap,,0,0,0,,{\c&H00FFFFFF}stat {\c&H00FFFFFF}that {\c&H00FFFFFF}measures {\c&H00FFFFFF}pure
+Dialogue: 0,0:01:37.26,0:01:37.92,Cap,,0,0,0,,{\c&H00FFFFFF}generosity
+Dialogue: 0,0:01:38.67,0:01:38.97,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H8CFFFFFF}point {\c&H8CFFFFFF}to {\c&H8CFFFFFF}Messi
+Dialogue: 0,0:01:38.97,0:01:39.23,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}point {\c&H8CFFFFFF}to {\c&H8CFFFFFF}Messi
+Dialogue: 0,0:01:39.23,0:01:39.32,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}point {\c&H00FFFFFF}to {\c&H8CFFFFFF}Messi
+Dialogue: 0,0:01:39.32,0:01:39.74,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}point {\c&H00FFFFFF}to {\c&H00FFFFFF}Messi
+Dialogue: 0,0:01:40.49,0:01:41.02,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H8CFFFFFF}one
+Dialogue: 0,0:01:41.02,0:01:41.36,Cap,,0,0,0,,{\c&H00FFFFFF}One {\c&H00FFFFFF}one
+Dialogue: 0,0:01:42.12,0:01:42.28,Cap,,0,0,0,,{\c&H00FFFFFF}We {\c&H8CFFFFFF}have {\c&H8CFFFFFF}a {\c&H8CFFFFFF}fight
+Dialogue: 0,0:01:42.28,0:01:42.47,Cap,,0,0,0,,{\c&H00FFFFFF}We {\c&H00FFFFFF}have {\c&H8CFFFFFF}a {\c&H8CFFFFFF}fight
+Dialogue: 0,0:01:42.47,0:01:42.52,Cap,,0,0,0,,{\c&H00FFFFFF}We {\c&H00FFFFFF}have {\c&H00FFFFFF}a {\c&H8CFFFFFF}fight
+Dialogue: 0,0:01:42.52,0:01:42.96,Cap,,0,0,0,,{\c&H00FFFFFF}We {\c&H00FFFFFF}have {\c&H00FFFFFF}a {\c&H00FFFFFF}fight
+Dialogue: 0,0:01:43.72,0:01:44.08,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H8CFFFFFF}three
+Dialogue: 0,0:01:44.08,0:01:44.46,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}three
+Dialogue: 0,0:01:45.22,0:01:45.38,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}individual {\c&H8CFFFFFF}trophy {\c&H8CFFFFFF}room
+Dialogue: 0,0:01:45.38,0:01:45.92,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}individual {\c&H8CFFFFFF}trophy {\c&H8CFFFFFF}room
+Dialogue: 0,0:01:45.92,0:01:46.26,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}individual {\c&H00FFFFFF}trophy {\c&H8CFFFFFF}room
+Dialogue: 0,0:01:46.26,0:01:46.65,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}individual {\c&H00FFFFFF}trophy {\c&H00FFFFFF}room
+Dialogue: 0,0:01:47.40,0:01:47.57,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}Ballon {\c&H8CFFFFFF}d'Or
+Dialogue: 0,0:01:47.57,0:01:47.86,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Ballon {\c&H8CFFFFFF}d'Or
+Dialogue: 0,0:01:47.86,0:01:48.21,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}Ballon {\c&H00FFFFFF}d'Or
+Dialogue: 0,0:01:48.97,0:01:49.33,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}has {\c&H8CFFFFFF}won {\c&H8CFFFFFF}it
+Dialogue: 0,0:01:49.33,0:01:49.49,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}has {\c&H8CFFFFFF}won {\c&H8CFFFFFF}it
+Dialogue: 0,0:01:49.49,0:01:49.69,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}has {\c&H00FFFFFF}won {\c&H8CFFFFFF}it
+Dialogue: 0,0:01:49.69,0:01:49.89,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}has {\c&H00FFFFFF}won {\c&H00FFFFFF}it
+Dialogue: 0,0:01:49.79,0:01:49.96,Cap,,0,0,0,,{\c&H00FFFFFF}eight {\c&H8CFFFFFF}times
+Dialogue: 0,0:01:49.96,0:01:50.52,Cap,,0,0,0,,{\c&H00FFFFFF}eight {\c&H00FFFFFF}times
+Dialogue: 0,0:01:51.27,0:01:51.48,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}all-time
+Dialogue: 0,0:01:51.48,0:01:51.58,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H00FFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}all-time
+Dialogue: 0,0:01:51.58,0:01:51.68,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H8CFFFFFF}all-time
+Dialogue: 0,0:01:51.68,0:01:52.06,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H00FFFFFF}all-time
+Dialogue: 0,0:01:52.07,0:01:52.58,Cap,,0,0,0,,{\c&H00FFFFFF}record
+Dialogue: 0,0:01:53.33,0:01:53.77,Cap,,0,0,0,,{\c&H00FFFFFF}Nobody {\c&H8CFFFFFF}alive {\c&H8CFFFFFF}is {\c&H8CFFFFFF}within
+Dialogue: 0,0:01:53.77,0:01:54.18,Cap,,0,0,0,,{\c&H00FFFFFF}Nobody {\c&H00FFFFFF}alive {\c&H8CFFFFFF}is {\c&H8CFFFFFF}within
+Dialogue: 0,0:01:54.18,0:01:54.29,Cap,,0,0,0,,{\c&H00FFFFFF}Nobody {\c&H00FFFFFF}alive {\c&H00FFFFFF}is {\c&H8CFFFFFF}within
+Dialogue: 0,0:01:54.29,0:01:54.55,Cap,,0,0,0,,{\c&H00FFFFFF}Nobody {\c&H00FFFFFF}alive {\c&H00FFFFFF}is {\c&H00FFFFFF}within
+Dialogue: 0,0:01:54.56,0:01:54.85,Cap,,0,0,0,,{\c&H00FFFFFF}three {\c&H8CFFFFFF}of {\c&H8CFFFFFF}him
+Dialogue: 0,0:01:54.85,0:01:54.96,Cap,,0,0,0,,{\c&H00FFFFFF}three {\c&H00FFFFFF}of {\c&H8CFFFFFF}him
+Dialogue: 0,0:01:54.96,0:01:55.25,Cap,,0,0,0,,{\c&H00FFFFFF}three {\c&H00FFFFFF}of {\c&H00FFFFFF}him
+Dialogue: 0,0:01:56.01,0:01:56.59,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}has {\c&H8CFFFFFF}five
+Dialogue: 0,0:01:56.59,0:01:56.76,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H8CFFFFFF}five
+Dialogue: 0,0:01:56.76,0:01:57.28,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H00FFFFFF}five
+Dialogue: 0,0:01:58.04,0:01:58.27,Cap,,0,0,0,,{\c&H00FFFFFF}Which {\c&H8CFFFFFF}is {\c&H8CFFFFFF}more {\c&H8CFFFFFF}than
+Dialogue: 0,0:01:58.27,0:01:58.37,Cap,,0,0,0,,{\c&H00FFFFFF}Which {\c&H00FFFFFF}is {\c&H8CFFFFFF}more {\c&H8CFFFFFF}than
+Dialogue: 0,0:01:58.37,0:01:58.50,Cap,,0,0,0,,{\c&H00FFFFFF}Which {\c&H00FFFFFF}is {\c&H00FFFFFF}more {\c&H8CFFFFFF}than
+Dialogue: 0,0:01:58.50,0:01:58.70,Cap,,0,0,0,,{\c&H00FFFFFF}Which {\c&H00FFFFFF}is {\c&H00FFFFFF}more {\c&H00FFFFFF}than
+Dialogue: 0,0:01:58.65,0:01:59.04,Cap,,0,0,0,,{\c&H00FFFFFF}almost {\c&H8CFFFFFF}anyone {\c&H8CFFFFFF}in {\c&H8CFFFFFF}history
+Dialogue: 0,0:01:59.04,0:01:59.34,Cap,,0,0,0,,{\c&H00FFFFFF}almost {\c&H00FFFFFF}anyone {\c&H8CFFFFFF}in {\c&H8CFFFFFF}history
+Dialogue: 0,0:01:59.34,0:01:59.42,Cap,,0,0,0,,{\c&H00FFFFFF}almost {\c&H00FFFFFF}anyone {\c&H00FFFFFF}in {\c&H8CFFFFFF}history
+Dialogue: 0,0:01:59.42,0:01:59.90,Cap,,0,0,0,,{\c&H00FFFFFF}almost {\c&H00FFFFFF}anyone {\c&H00FFFFFF}in {\c&H00FFFFFF}history
+Dialogue: 0,0:02:00.66,0:02:00.88,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}category
+Dialogue: 0,0:02:00.88,0:02:00.98,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}category
+Dialogue: 0,0:02:00.98,0:02:01.05,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H8CFFFFFF}category
+Dialogue: 0,0:02:01.05,0:02:01.45,Cap,,0,0,0,,{\c&H00FFFFFF}This {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H00FFFFFF}category
+Dialogue: 0,0:02:01.46,0:02:01.63,Cap,,0,0,0,,{\c&H00FFFFFF}where {\c&H8CFFFFFF}genius {\c&H8CFFFFFF}is {\c&H8CFFFFFF}rewarded
+Dialogue: 0,0:02:01.63,0:02:02.06,Cap,,0,0,0,,{\c&H00FFFFFF}where {\c&H00FFFFFF}genius {\c&H8CFFFFFF}is {\c&H8CFFFFFF}rewarded
+Dialogue: 0,0:02:02.06,0:02:02.19,Cap,,0,0,0,,{\c&H00FFFFFF}where {\c&H00FFFFFF}genius {\c&H00FFFFFF}is {\c&H8CFFFFFF}rewarded
+Dialogue: 0,0:02:02.19,0:02:02.61,Cap,,0,0,0,,{\c&H00FFFFFF}where {\c&H00FFFFFF}genius {\c&H00FFFFFF}is {\c&H00FFFFFF}rewarded
+Dialogue: 0,0:02:02.62,0:02:02.74,Cap,,0,0,0,,{\c&H00FFFFFF}with {\c&H8CFFFFFF}a {\c&H8CFFFFFF}golden {\c&H8CFFFFFF}ball
+Dialogue: 0,0:02:02.74,0:02:02.80,Cap,,0,0,0,,{\c&H00FFFFFF}with {\c&H00FFFFFF}a {\c&H8CFFFFFF}golden {\c&H8CFFFFFF}ball
+Dialogue: 0,0:02:02.80,0:02:03.18,Cap,,0,0,0,,{\c&H00FFFFFF}with {\c&H00FFFFFF}a {\c&H00FFFFFF}golden {\c&H8CFFFFFF}ball
+Dialogue: 0,0:02:03.18,0:02:03.51,Cap,,0,0,0,,{\c&H00FFFFFF}with {\c&H00FFFFFF}a {\c&H00FFFFFF}golden {\c&H00FFFFFF}ball
+Dialogue: 0,0:02:04.27,0:02:04.44,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}numbers {\c&H8CFFFFFF}say
+Dialogue: 0,0:02:04.44,0:02:04.52,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}numbers {\c&H8CFFFFFF}say
+Dialogue: 0,0:02:04.52,0:02:04.81,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}numbers {\c&H8CFFFFFF}say
+Dialogue: 0,0:02:04.81,0:02:05.01,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}numbers {\c&H00FFFFFF}say
+Dialogue: 0,0:02:04.99,0:02:05.11,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}genius {\c&H8CFFFFFF}is {\c&H8CFFFFFF}Messi
+Dialogue: 0,0:02:05.11,0:02:05.49,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}genius {\c&H8CFFFFFF}is {\c&H8CFFFFFF}Messi
+Dialogue: 0,0:02:05.49,0:02:05.64,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}genius {\c&H00FFFFFF}is {\c&H8CFFFFFF}Messi
+Dialogue: 0,0:02:05.64,0:02:06.06,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}genius {\c&H00FFFFFF}is {\c&H00FFFFFF}Messi
+Dialogue: 0,0:02:06.82,0:02:07.03,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H8CFFFFFF}points {\c&H8CFFFFFF}to {\c&H8CFFFFFF}one
+Dialogue: 0,0:02:07.03,0:02:07.39,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H00FFFFFF}points {\c&H8CFFFFFF}to {\c&H8CFFFFFF}one
+Dialogue: 0,0:02:07.39,0:02:07.49,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H00FFFFFF}points {\c&H00FFFFFF}to {\c&H8CFFFFFF}one
+Dialogue: 0,0:02:07.49,0:02:07.82,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H00FFFFFF}points {\c&H00FFFFFF}to {\c&H00FFFFFF}one
+Dialogue: 0,0:02:08.58,0:02:08.94,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}ahead
+Dialogue: 0,0:02:08.94,0:02:09.37,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}ahead
+Dialogue: 0,0:02:10.12,0:02:10.48,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H8CFFFFFF}four
+Dialogue: 0,0:02:10.48,0:02:10.85,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}four
+Dialogue: 0,0:02:11.60,0:02:11.74,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}one {\c&H8CFFFFFF}everyone {\c&H8CFFFFFF}fights
+Dialogue: 0,0:02:11.74,0:02:11.99,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}one {\c&H8CFFFFFF}everyone {\c&H8CFFFFFF}fights
+Dialogue: 0,0:02:11.99,0:02:12.34,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}one {\c&H00FFFFFF}everyone {\c&H8CFFFFFF}fights
+Dialogue: 0,0:02:12.34,0:02:12.69,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}one {\c&H00FFFFFF}everyone {\c&H00FFFFFF}fights
+Dialogue: 0,0:02:12.70,0:02:13.10,Cap,,0,0,0,,{\c&H00FFFFFF}about
+Dialogue: 0,0:02:13.86,0:02:13.99,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}World {\c&H8CFFFFFF}Cup
+Dialogue: 0,0:02:13.99,0:02:14.30,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}World {\c&H8CFFFFFF}Cup
+Dialogue: 0,0:02:14.30,0:02:14.62,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}World {\c&H00FFFFFF}Cup
+Dialogue: 0,0:02:15.37,0:02:15.74,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}has {\c&H8CFFFFFF}scored {\c&H8CFFFFFF}nineteen
+Dialogue: 0,0:02:15.74,0:02:15.89,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}has {\c&H8CFFFFFF}scored {\c&H8CFFFFFF}nineteen
+Dialogue: 0,0:02:15.89,0:02:16.19,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}has {\c&H00FFFFFF}scored {\c&H8CFFFFFF}nineteen
+Dialogue: 0,0:02:16.19,0:02:16.59,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}has {\c&H00FFFFFF}scored {\c&H00FFFFFF}nineteen
+Dialogue: 0,0:02:16.60,0:02:16.82,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H8CFFFFFF}Cup {\c&H8CFFFFFF}goals
+Dialogue: 0,0:02:16.82,0:02:17.06,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H00FFFFFF}Cup {\c&H8CFFFFFF}goals
+Dialogue: 0,0:02:17.06,0:02:17.56,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H00FFFFFF}Cup {\c&H00FFFFFF}goals
+Dialogue: 0,0:02:18.31,0:02:18.52,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}all-time
+Dialogue: 0,0:02:18.52,0:02:18.62,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H00FFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}all-time
+Dialogue: 0,0:02:18.62,0:02:18.72,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H8CFFFFFF}all-time
+Dialogue: 0,0:02:18.72,0:02:19.10,Cap,,0,0,0,,{\c&H00FFFFFF}That {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H00FFFFFF}all-time
+Dialogue: 0,0:02:19.11,0:02:19.62,Cap,,0,0,0,,{\c&H00FFFFFF}record
+Dialogue: 0,0:02:20.37,0:02:20.56,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H8CFFFFFF}has {\c&H8CFFFFFF}played {\c&H8CFFFFFF}six
+Dialogue: 0,0:02:20.56,0:02:20.70,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H00FFFFFF}has {\c&H8CFFFFFF}played {\c&H8CFFFFFF}six
+Dialogue: 0,0:02:20.70,0:02:21.00,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H00FFFFFF}has {\c&H00FFFFFF}played {\c&H8CFFFFFF}six
+Dialogue: 0,0:02:21.00,0:02:21.26,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H00FFFFFF}has {\c&H00FFFFFF}played {\c&H00FFFFFF}six
+Dialogue: 0,0:02:21.27,0:02:21.54,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H8CFFFFFF}Cups
+Dialogue: 0,0:02:21.54,0:02:22.02,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H00FFFFFF}Cups
+Dialogue: 0,0:02:22.78,0:02:22.98,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H8CFFFFFF}has {\c&H8CFFFFFF}lifted {\c&H8CFFFFFF}the
+Dialogue: 0,0:02:22.98,0:02:23.15,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H00FFFFFF}has {\c&H8CFFFFFF}lifted {\c&H8CFFFFFF}the
+Dialogue: 0,0:02:23.15,0:02:23.47,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H00FFFFFF}has {\c&H00FFFFFF}lifted {\c&H8CFFFFFF}the
+Dialogue: 0,0:02:23.47,0:02:23.67,Cap,,0,0,0,,{\c&H00FFFFFF}He {\c&H00FFFFFF}has {\c&H00FFFFFF}lifted {\c&H00FFFFFF}the
+Dialogue: 0,0:02:23.54,0:02:23.93,Cap,,0,0,0,,{\c&H00FFFFFF}trophy {\c&H8CFFFFFF}itself {\c&H8CFFFFFF}in {\c&H8CFFFFFF}twenty
+Dialogue: 0,0:02:23.93,0:02:24.60,Cap,,0,0,0,,{\c&H00FFFFFF}trophy {\c&H00FFFFFF}itself {\c&H8CFFFFFF}in {\c&H8CFFFFFF}twenty
+Dialogue: 0,0:02:24.60,0:02:24.69,Cap,,0,0,0,,{\c&H00FFFFFF}trophy {\c&H00FFFFFF}itself {\c&H00FFFFFF}in {\c&H8CFFFFFF}twenty
+Dialogue: 0,0:02:24.69,0:02:24.98,Cap,,0,0,0,,{\c&H00FFFFFF}trophy {\c&H00FFFFFF}itself {\c&H00FFFFFF}in {\c&H00FFFFFF}twenty
+Dialogue: 0,0:02:24.99,0:02:25.32,Cap,,0,0,0,,{\c&H00FFFFFF}twenty {\c&H8CFFFFFF}two
+Dialogue: 0,0:02:25.32,0:02:25.66,Cap,,0,0,0,,{\c&H00FFFFFF}twenty {\c&H00FFFFFF}two
+Dialogue: 0,0:02:26.42,0:02:26.96,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}has {\c&H8CFFFFFF}scored {\c&H8CFFFFFF}eleven
+Dialogue: 0,0:02:26.96,0:02:27.12,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H8CFFFFFF}scored {\c&H8CFFFFFF}eleven
+Dialogue: 0,0:02:27.12,0:02:27.44,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H00FFFFFF}scored {\c&H8CFFFFFF}eleven
+Dialogue: 0,0:02:27.44,0:02:27.76,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H00FFFFFF}scored {\c&H00FFFFFF}eleven
+Dialogue: 0,0:02:27.78,0:02:28.04,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H8CFFFFFF}Cup {\c&H8CFFFFFF}goals {\c&H8CFFFFFF}in
+Dialogue: 0,0:02:28.04,0:02:28.27,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H00FFFFFF}Cup {\c&H8CFFFFFF}goals {\c&H8CFFFFFF}in
+Dialogue: 0,0:02:28.27,0:02:28.88,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H00FFFFFF}Cup {\c&H00FFFFFF}goals {\c&H8CFFFFFF}in
+Dialogue: 0,0:02:28.88,0:02:29.08,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H00FFFFFF}Cup {\c&H00FFFFFF}goals {\c&H00FFFFFF}in
+Dialogue: 0,0:02:29.01,0:02:29.28,Cap,,0,0,0,,{\c&H00FFFFFF}six {\c&H8CFFFFFF}tournaments
+Dialogue: 0,0:02:29.28,0:02:29.88,Cap,,0,0,0,,{\c&H00FFFFFF}six {\c&H00FFFFFF}tournaments
+Dialogue: 0,0:02:30.64,0:02:30.82,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}trophy {\c&H8CFFFFFF}has
+Dialogue: 0,0:02:30.82,0:02:30.90,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}trophy {\c&H8CFFFFFF}has
+Dialogue: 0,0:02:30.90,0:02:31.23,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}trophy {\c&H8CFFFFFF}has
+Dialogue: 0,0:02:31.23,0:02:31.43,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}trophy {\c&H00FFFFFF}has
+Dialogue: 0,0:02:31.42,0:02:31.66,Cap,,0,0,0,,{\c&H00FFFFFF}never {\c&H8CFFFFFF}come {\c&H8CFFFFFF}home {\c&H8CFFFFFF}with
+Dialogue: 0,0:02:31.66,0:02:31.85,Cap,,0,0,0,,{\c&H00FFFFFF}never {\c&H00FFFFFF}come {\c&H8CFFFFFF}home {\c&H8CFFFFFF}with
+Dialogue: 0,0:02:31.85,0:02:32.07,Cap,,0,0,0,,{\c&H00FFFFFF}never {\c&H00FFFFFF}come {\c&H00FFFFFF}home {\c&H8CFFFFFF}with
+Dialogue: 0,0:02:32.07,0:02:32.27,Cap,,0,0,0,,{\c&H00FFFFFF}never {\c&H00FFFFFF}come {\c&H00FFFFFF}home {\c&H00FFFFFF}with
+Dialogue: 0,0:02:32.22,0:02:32.45,Cap,,0,0,0,,{\c&H00FFFFFF}him
+Dialogue: 0,0:02:33.20,0:02:33.38,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}only
+Dialogue: 0,0:02:33.38,0:02:33.48,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}only
+Dialogue: 0,0:02:33.48,0:02:33.60,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H8CFFFFFF}only
+Dialogue: 0,0:02:33.60,0:02:33.80,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H00FFFFFF}only
+Dialogue: 0,0:02:33.81,0:02:34.20,Cap,,0,0,0,,{\c&H00FFFFFF}mountain {\c&H8CFFFFFF}he {\c&H8CFFFFFF}never {\c&H8CFFFFFF}conquered
+Dialogue: 0,0:02:34.20,0:02:34.33,Cap,,0,0,0,,{\c&H00FFFFFF}mountain {\c&H00FFFFFF}he {\c&H8CFFFFFF}never {\c&H8CFFFFFF}conquered
+Dialogue: 0,0:02:34.33,0:02:34.57,Cap,,0,0,0,,{\c&H00FFFFFF}mountain {\c&H00FFFFFF}he {\c&H00FFFFFF}never {\c&H8CFFFFFF}conquered
+Dialogue: 0,0:02:34.57,0:02:35.07,Cap,,0,0,0,,{\c&H00FFFFFF}mountain {\c&H00FFFFFF}he {\c&H00FFFFFF}never {\c&H00FFFFFF}conquered
+Dialogue: 0,0:02:35.82,0:02:36.20,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}takes {\c&H8CFFFFFF}the {\c&H8CFFFFFF}round
+Dialogue: 0,0:02:36.20,0:02:36.46,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}takes {\c&H8CFFFFFF}the {\c&H8CFFFFFF}round
+Dialogue: 0,0:02:36.46,0:02:36.55,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}takes {\c&H00FFFFFF}the {\c&H8CFFFFFF}round
+Dialogue: 0,0:02:36.55,0:02:37.03,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}takes {\c&H00FFFFFF}the {\c&H00FFFFFF}round
+Dialogue: 0,0:02:37.79,0:02:37.96,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}lead
+Dialogue: 0,0:02:37.96,0:02:38.05,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}lead
+Dialogue: 0,0:02:38.05,0:02:38.46,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}lead
+Dialogue: 0,0:02:39.21,0:02:39.81,Cap,,0,0,0,,{\c&H00FFFFFF}Three {\c&H8CFFFFFF}one
+Dialogue: 0,0:02:39.81,0:02:40.13,Cap,,0,0,0,,{\c&H00FFFFFF}Three {\c&H00FFFFFF}one
+Dialogue: 0,0:02:40.89,0:02:41.27,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H8CFFFFFF}five
+Dialogue: 0,0:02:41.27,0:02:41.79,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}five
+Dialogue: 0,0:02:42.55,0:02:42.69,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}money {\c&H8CFFFFFF}round
+Dialogue: 0,0:02:42.69,0:02:42.93,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}money {\c&H8CFFFFFF}round
+Dialogue: 0,0:02:42.93,0:02:43.39,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}money {\c&H00FFFFFF}round
+Dialogue: 0,0:02:44.15,0:02:44.57,Cap,,0,0,0,,{\c&H00FFFFFF}Career {\c&H8CFFFFFF}earnings {\c&H8CFFFFFF}on {\c&H8CFFFFFF}and
+Dialogue: 0,0:02:44.57,0:02:45.14,Cap,,0,0,0,,{\c&H00FFFFFF}Career {\c&H00FFFFFF}earnings {\c&H8CFFFFFF}on {\c&H8CFFFFFF}and
+Dialogue: 0,0:02:45.14,0:02:45.29,Cap,,0,0,0,,{\c&H00FFFFFF}Career {\c&H00FFFFFF}earnings {\c&H00FFFFFF}on {\c&H8CFFFFFF}and
+Dialogue: 0,0:02:45.29,0:02:45.49,Cap,,0,0,0,,{\c&H00FFFFFF}Career {\c&H00FFFFFF}earnings {\c&H00FFFFFF}on {\c&H00FFFFFF}and
+Dialogue: 0,0:02:45.38,0:02:45.55,Cap,,0,0,0,,{\c&H00FFFFFF}off {\c&H8CFFFFFF}the {\c&H8CFFFFFF}pitch {\c&H8CFFFFFF}before
+Dialogue: 0,0:02:45.55,0:02:45.65,Cap,,0,0,0,,{\c&H00FFFFFF}off {\c&H00FFFFFF}the {\c&H8CFFFFFF}pitch {\c&H8CFFFFFF}before
+Dialogue: 0,0:02:45.65,0:02:46.15,Cap,,0,0,0,,{\c&H00FFFFFF}off {\c&H00FFFFFF}the {\c&H00FFFFFF}pitch {\c&H8CFFFFFF}before
+Dialogue: 0,0:02:46.15,0:02:46.47,Cap,,0,0,0,,{\c&H00FFFFFF}off {\c&H00FFFFFF}the {\c&H00FFFFFF}pitch {\c&H00FFFFFF}before
+Dialogue: 0,0:02:46.48,0:02:47.02,Cap,,0,0,0,,{\c&H00FFFFFF}tax
+Dialogue: 0,0:02:47.78,0:02:48.52,Cap,,0,0,0,,{\c&H00FFFFFF}Estimates {\c&H8CFFFFFF}per {\c&H8CFFFFFF}Forbes
+Dialogue: 0,0:02:48.52,0:02:48.63,Cap,,0,0,0,,{\c&H00FFFFFF}Estimates {\c&H00FFFFFF}per {\c&H8CFFFFFF}Forbes
+Dialogue: 0,0:02:48.63,0:02:49.21,Cap,,0,0,0,,{\c&H00FFFFFF}Estimates {\c&H00FFFFFF}per {\c&H00FFFFFF}Forbes
+Dialogue: 0,0:02:49.97,0:02:50.55,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}first
+Dialogue: 0,0:02:50.55,0:02:50.69,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}first
+Dialogue: 0,0:02:50.69,0:02:50.78,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H8CFFFFFF}first
+Dialogue: 0,0:02:50.78,0:02:51.10,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H00FFFFFF}first
+Dialogue: 0,0:02:51.11,0:02:51.39,Cap,,0,0,0,,{\c&H00FFFFFF}active {\c&H8CFFFFFF}athlete {\c&H8CFFFFFF}ever {\c&H8CFFFFFF}to
+Dialogue: 0,0:02:51.39,0:02:51.79,Cap,,0,0,0,,{\c&H00FFFFFF}active {\c&H00FFFFFF}athlete {\c&H8CFFFFFF}ever {\c&H8CFFFFFF}to
+Dialogue: 0,0:02:51.79,0:02:51.95,Cap,,0,0,0,,{\c&H00FFFFFF}active {\c&H00FFFFFF}athlete {\c&H00FFFFFF}ever {\c&H8CFFFFFF}to
+Dialogue: 0,0:02:51.95,0:02:52.15,Cap,,0,0,0,,{\c&H00FFFFFF}active {\c&H00FFFFFF}athlete {\c&H00FFFFFF}ever {\c&H00FFFFFF}to
+Dialogue: 0,0:02:52.05,0:02:52.35,Cap,,0,0,0,,{\c&H00FFFFFF}pass {\c&H8CFFFFFF}two {\c&H8CFFFFFF}billion {\c&H8CFFFFFF}dollars
+Dialogue: 0,0:02:52.35,0:02:52.56,Cap,,0,0,0,,{\c&H00FFFFFF}pass {\c&H00FFFFFF}two {\c&H8CFFFFFF}billion {\c&H8CFFFFFF}dollars
+Dialogue: 0,0:02:52.56,0:02:52.90,Cap,,0,0,0,,{\c&H00FFFFFF}pass {\c&H00FFFFFF}two {\c&H00FFFFFF}billion {\c&H8CFFFFFF}dollars
+Dialogue: 0,0:02:52.90,0:02:53.22,Cap,,0,0,0,,{\c&H00FFFFFF}pass {\c&H00FFFFFF}two {\c&H00FFFFFF}billion {\c&H00FFFFFF}dollars
+Dialogue: 0,0:02:53.24,0:02:53.35,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H8CFFFFFF}career {\c&H8CFFFFFF}earnings
+Dialogue: 0,0:02:53.35,0:02:53.73,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}career {\c&H8CFFFFFF}earnings
+Dialogue: 0,0:02:53.73,0:02:54.22,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}career {\c&H00FFFFFF}earnings
+Dialogue: 0,0:02:54.98,0:02:55.19,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H8CFFFFFF}point {\c&H8CFFFFFF}one {\c&H8CFFFFFF}billion
+Dialogue: 0,0:02:55.19,0:02:55.46,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H00FFFFFF}point {\c&H8CFFFFFF}one {\c&H8CFFFFFF}billion
+Dialogue: 0,0:02:55.46,0:02:55.67,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H00FFFFFF}point {\c&H00FFFFFF}one {\c&H8CFFFFFF}billion
+Dialogue: 0,0:02:55.67,0:02:56.04,Cap,,0,0,0,,{\c&H00FFFFFF}Two {\c&H00FFFFFF}point {\c&H00FFFFFF}one {\c&H00FFFFFF}billion
+Dialogue: 0,0:02:56.23,0:02:56.35,Cap,,0,0,0,,{\c&H00FFFFFF}as {\c&H8CFFFFFF}of {\c&H8CFFFFFF}this {\c&H8CFFFFFF}year
+Dialogue: 0,0:02:56.35,0:02:56.45,Cap,,0,0,0,,{\c&H00FFFFFF}as {\c&H00FFFFFF}of {\c&H8CFFFFFF}this {\c&H8CFFFFFF}year
+Dialogue: 0,0:02:56.45,0:02:56.65,Cap,,0,0,0,,{\c&H00FFFFFF}as {\c&H00FFFFFF}of {\c&H00FFFFFF}this {\c&H8CFFFFFF}year
+Dialogue: 0,0:02:56.65,0:02:57.04,Cap,,0,0,0,,{\c&H00FFFFFF}as {\c&H00FFFFFF}of {\c&H00FFFFFF}this {\c&H00FFFFFF}year
+Dialogue: 0,0:02:57.80,0:02:58.20,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}is {\c&H8CFFFFFF}at {\c&H8CFFFFFF}one
+Dialogue: 0,0:02:58.20,0:02:58.40,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}is {\c&H8CFFFFFF}at {\c&H8CFFFFFF}one
+Dialogue: 0,0:02:58.40,0:02:58.50,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}is {\c&H00FFFFFF}at {\c&H8CFFFFFF}one
+Dialogue: 0,0:02:58.50,0:02:58.72,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}is {\c&H00FFFFFF}at {\c&H00FFFFFF}one
+Dialogue: 0,0:02:58.73,0:02:59.03,Cap,,0,0,0,,{\c&H00FFFFFF}point {\c&H8CFFFFFF}eight {\c&H8CFFFFFF}billion
+Dialogue: 0,0:02:59.03,0:02:59.22,Cap,,0,0,0,,{\c&H00FFFFFF}point {\c&H00FFFFFF}eight {\c&H8CFFFFFF}billion
+Dialogue: 0,0:02:59.22,0:02:59.64,Cap,,0,0,0,,{\c&H00FFFFFF}point {\c&H00FFFFFF}eight {\c&H00FFFFFF}billion
+Dialogue: 0,0:03:00.40,0:03:00.68,Cap,,0,0,0,,{\c&H00FFFFFF}Both {\c&H8CFFFFFF}are {\c&H8CFFFFFF}billionaires
+Dialogue: 0,0:03:00.68,0:03:00.83,Cap,,0,0,0,,{\c&H00FFFFFF}Both {\c&H00FFFFFF}are {\c&H8CFFFFFF}billionaires
+Dialogue: 0,0:03:00.83,0:03:01.54,Cap,,0,0,0,,{\c&H00FFFFFF}Both {\c&H00FFFFFF}are {\c&H00FFFFFF}billionaires
+Dialogue: 0,0:03:02.29,0:03:02.62,Cap,,0,0,0,,{\c&H00FFFFFF}Both {\c&H8CFFFFFF}are {\c&H8CFFFFFF}beyond {\c&H8CFFFFFF}normal
+Dialogue: 0,0:03:02.62,0:03:02.73,Cap,,0,0,0,,{\c&H00FFFFFF}Both {\c&H00FFFFFF}are {\c&H8CFFFFFF}beyond {\c&H8CFFFFFF}normal
+Dialogue: 0,0:03:02.73,0:03:03.07,Cap,,0,0,0,,{\c&H00FFFFFF}Both {\c&H00FFFFFF}are {\c&H00FFFFFF}beyond {\c&H8CFFFFFF}normal
+Dialogue: 0,0:03:03.07,0:03:03.41,Cap,,0,0,0,,{\c&H00FFFFFF}Both {\c&H00FFFFFF}are {\c&H00FFFFFF}beyond {\c&H00FFFFFF}normal
+Dialogue: 0,0:03:03.42,0:03:03.93,Cap,,0,0,0,,{\c&H00FFFFFF}numbers
+Dialogue: 0,0:03:04.68,0:03:04.84,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H8CFFFFFF}this {\c&H8CFFFFFF}round {\c&H8CFFFFFF}belongs
+Dialogue: 0,0:03:04.84,0:03:05.01,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}this {\c&H8CFFFFFF}round {\c&H8CFFFFFF}belongs
+Dialogue: 0,0:03:05.01,0:03:05.28,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}this {\c&H00FFFFFF}round {\c&H8CFFFFFF}belongs
+Dialogue: 0,0:03:05.28,0:03:05.56,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}this {\c&H00FFFFFF}round {\c&H00FFFFFF}belongs
+Dialogue: 0,0:03:05.57,0:03:05.66,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H8CFFFFFF}the {\c&H8CFFFFFF}man {\c&H8CFFFFFF}who
+Dialogue: 0,0:03:05.66,0:03:05.74,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}the {\c&H8CFFFFFF}man {\c&H8CFFFFFF}who
+Dialogue: 0,0:03:05.74,0:03:05.99,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}the {\c&H00FFFFFF}man {\c&H8CFFFFFF}who
+Dialogue: 0,0:03:05.99,0:03:06.19,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}the {\c&H00FFFFFF}man {\c&H00FFFFFF}who
+Dialogue: 0,0:03:06.11,0:03:06.38,Cap,,0,0,0,,{\c&H00FFFFFF}turned {\c&H8CFFFFFF}his {\c&H8CFFFFFF}name {\c&H8CFFFFFF}into
+Dialogue: 0,0:03:06.38,0:03:06.54,Cap,,0,0,0,,{\c&H00FFFFFF}turned {\c&H00FFFFFF}his {\c&H8CFFFFFF}name {\c&H8CFFFFFF}into
+Dialogue: 0,0:03:06.54,0:03:06.79,Cap,,0,0,0,,{\c&H00FFFFFF}turned {\c&H00FFFFFF}his {\c&H00FFFFFF}name {\c&H8CFFFFFF}into
+Dialogue: 0,0:03:06.79,0:03:07.01,Cap,,0,0,0,,{\c&H00FFFFFF}turned {\c&H00FFFFFF}his {\c&H00FFFFFF}name {\c&H00FFFFFF}into
+Dialogue: 0,0:03:07.02,0:03:07.07,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H8CFFFFFF}global {\c&H8CFFFFFF}brand
+Dialogue: 0,0:03:07.07,0:03:07.45,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}global {\c&H8CFFFFFF}brand
+Dialogue: 0,0:03:07.45,0:03:07.87,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}global {\c&H00FFFFFF}brand
+Dialogue: 0,0:03:08.63,0:03:08.80,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}it {\c&H8CFFFFFF}is {\c&H8CFFFFFF}not
+Dialogue: 0,0:03:08.80,0:03:08.90,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}it {\c&H8CFFFFFF}is {\c&H8CFFFFFF}not
+Dialogue: 0,0:03:08.90,0:03:09.04,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}it {\c&H00FFFFFF}is {\c&H8CFFFFFF}not
+Dialogue: 0,0:03:09.04,0:03:09.26,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}it {\c&H00FFFFFF}is {\c&H00FFFFFF}not
+Dialogue: 0,0:03:09.27,0:03:09.78,Cap,,0,0,0,,{\c&H00FFFFFF}close
+Dialogue: 0,0:03:10.54,0:03:11.11,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}takes {\c&H8CFFFFFF}it
+Dialogue: 0,0:03:11.11,0:03:11.44,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}takes {\c&H8CFFFFFF}it
+Dialogue: 0,0:03:11.44,0:03:11.66,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}takes {\c&H00FFFFFF}it
+Dialogue: 0,0:03:12.41,0:03:13.09,Cap,,0,0,0,,{\c&H00FFFFFF}Three {\c&H8CFFFFFF}two
+Dialogue: 0,0:03:13.09,0:03:13.46,Cap,,0,0,0,,{\c&H00FFFFFF}Three {\c&H00FFFFFF}two
+Dialogue: 0,0:03:14.21,0:03:14.56,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H8CFFFFFF}six
+Dialogue: 0,0:03:14.56,0:03:15.01,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}six
+Dialogue: 0,0:03:15.77,0:03:15.92,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}popularity {\c&H8CFFFFFF}round
+Dialogue: 0,0:03:15.92,0:03:16.56,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}popularity {\c&H8CFFFFFF}round
+Dialogue: 0,0:03:16.56,0:03:17.06,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}popularity {\c&H00FFFFFF}round
+Dialogue: 0,0:03:17.82,0:03:18.37,Cap,,0,0,0,,{\c&H00FFFFFF}Instagram {\c&H8CFFFFFF}followers
+Dialogue: 0,0:03:18.37,0:03:18.92,Cap,,0,0,0,,{\c&H00FFFFFF}Instagram {\c&H00FFFFFF}followers
+Dialogue: 0,0:03:19.67,0:03:20.25,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}most
+Dialogue: 0,0:03:20.25,0:03:20.42,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}is {\c&H8CFFFFFF}the {\c&H8CFFFFFF}most
+Dialogue: 0,0:03:20.42,0:03:20.51,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H8CFFFFFF}most
+Dialogue: 0,0:03:20.51,0:03:20.78,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}is {\c&H00FFFFFF}the {\c&H00FFFFFF}most
+Dialogue: 0,0:03:20.79,0:03:21.08,Cap,,0,0,0,,{\c&H00FFFFFF}followed {\c&H8CFFFFFF}human {\c&H8CFFFFFF}being {\c&H8CFFFFFF}on
+Dialogue: 0,0:03:21.08,0:03:21.43,Cap,,0,0,0,,{\c&H00FFFFFF}followed {\c&H00FFFFFF}human {\c&H8CFFFFFF}being {\c&H8CFFFFFF}on
+Dialogue: 0,0:03:21.43,0:03:21.69,Cap,,0,0,0,,{\c&H00FFFFFF}followed {\c&H00FFFFFF}human {\c&H00FFFFFF}being {\c&H8CFFFFFF}on
+Dialogue: 0,0:03:21.69,0:03:21.89,Cap,,0,0,0,,{\c&H00FFFFFF}followed {\c&H00FFFFFF}human {\c&H00FFFFFF}being {\c&H00FFFFFF}on
+Dialogue: 0,0:03:21.80,0:03:21.88,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}planet
+Dialogue: 0,0:03:21.88,0:03:22.29,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}planet
+Dialogue: 0,0:03:23.05,0:03:23.39,Cap,,0,0,0,,{\c&H00FFFFFF}Six {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}seventy {\c&H8CFFFFFF}seven
+Dialogue: 0,0:03:23.39,0:03:23.69,Cap,,0,0,0,,{\c&H00FFFFFF}Six {\c&H00FFFFFF}hundred {\c&H8CFFFFFF}seventy {\c&H8CFFFFFF}seven
+Dialogue: 0,0:03:23.69,0:03:24.06,Cap,,0,0,0,,{\c&H00FFFFFF}Six {\c&H00FFFFFF}hundred {\c&H00FFFFFF}seventy {\c&H8CFFFFFF}seven
+Dialogue: 0,0:03:24.06,0:03:24.41,Cap,,0,0,0,,{\c&H00FFFFFF}Six {\c&H00FFFFFF}hundred {\c&H00FFFFFF}seventy {\c&H00FFFFFF}seven
+Dialogue: 0,0:03:24.42,0:03:24.88,Cap,,0,0,0,,{\c&H00FFFFFF}million
+Dialogue: 0,0:03:25.64,0:03:26.28,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}five {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}fifteen
+Dialogue: 0,0:03:26.28,0:03:26.55,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}five {\c&H8CFFFFFF}hundred {\c&H8CFFFFFF}fifteen
+Dialogue: 0,0:03:26.55,0:03:26.87,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}five {\c&H00FFFFFF}hundred {\c&H8CFFFFFF}fifteen
+Dialogue: 0,0:03:26.87,0:03:27.28,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}five {\c&H00FFFFFF}hundred {\c&H00FFFFFF}fifteen
+Dialogue: 0,0:03:27.29,0:03:27.75,Cap,,0,0,0,,{\c&H00FFFFFF}million
+Dialogue: 0,0:03:28.51,0:03:28.69,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}gap {\c&H8CFFFFFF}is {\c&H8CFFFFFF}one
+Dialogue: 0,0:03:28.69,0:03:28.95,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}gap {\c&H8CFFFFFF}is {\c&H8CFFFFFF}one
+Dialogue: 0,0:03:28.95,0:03:29.09,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}gap {\c&H00FFFFFF}is {\c&H8CFFFFFF}one
+Dialogue: 0,0:03:29.09,0:03:29.30,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}gap {\c&H00FFFFFF}is {\c&H00FFFFFF}one
+Dialogue: 0,0:03:29.31,0:03:29.63,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H8CFFFFFF}sixty {\c&H8CFFFFFF}two {\c&H8CFFFFFF}million
+Dialogue: 0,0:03:29.63,0:03:29.98,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H00FFFFFF}sixty {\c&H8CFFFFFF}two {\c&H8CFFFFFF}million
+Dialogue: 0,0:03:29.98,0:03:30.22,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H00FFFFFF}sixty {\c&H00FFFFFF}two {\c&H8CFFFFFF}million
+Dialogue: 0,0:03:30.22,0:03:30.62,Cap,,0,0,0,,{\c&H00FFFFFF}hundred {\c&H00FFFFFF}sixty {\c&H00FFFFFF}two {\c&H00FFFFFF}million
+Dialogue: 0,0:03:30.63,0:03:31.04,Cap,,0,0,0,,{\c&H00FFFFFF}people
+Dialogue: 0,0:03:31.80,0:03:32.07,Cap,,0,0,0,,{\c&H00FFFFFF}Bigger {\c&H8CFFFFFF}than {\c&H8CFFFFFF}the {\c&H8CFFFFFF}population
+Dialogue: 0,0:03:32.07,0:03:32.19,Cap,,0,0,0,,{\c&H00FFFFFF}Bigger {\c&H00FFFFFF}than {\c&H8CFFFFFF}the {\c&H8CFFFFFF}population
+Dialogue: 0,0:03:32.19,0:03:32.27,Cap,,0,0,0,,{\c&H00FFFFFF}Bigger {\c&H00FFFFFF}than {\c&H00FFFFFF}the {\c&H8CFFFFFF}population
+Dialogue: 0,0:03:32.27,0:03:32.79,Cap,,0,0,0,,{\c&H00FFFFFF}Bigger {\c&H00FFFFFF}than {\c&H00FFFFFF}the {\c&H00FFFFFF}population
+Dialogue: 0,0:03:32.80,0:03:32.90,Cap,,0,0,0,,{\c&H00FFFFFF}of {\c&H8CFFFFFF}most {\c&H8CFFFFFF}countries
+Dialogue: 0,0:03:32.90,0:03:33.18,Cap,,0,0,0,,{\c&H00FFFFFF}of {\c&H00FFFFFF}most {\c&H8CFFFFFF}countries
+Dialogue: 0,0:03:33.18,0:03:33.79,Cap,,0,0,0,,{\c&H00FFFFFF}of {\c&H00FFFFFF}most {\c&H00FFFFFF}countries
+Dialogue: 0,0:03:34.55,0:03:34.75,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}on {\c&H8CFFFFFF}YouTube {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:34.75,0:03:34.89,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}on {\c&H8CFFFFFF}YouTube {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:34.89,0:03:35.44,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}on {\c&H00FFFFFF}YouTube {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:35.44,0:03:35.64,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}on {\c&H00FFFFFF}YouTube {\c&H00FFFFFF}the
+Dialogue: 0,0:03:35.54,0:03:35.78,Cap,,0,0,0,,{\c&H00FFFFFF}same {\c&H8CFFFFFF}story {\c&H8CFFFFFF}in {\c&H8CFFFFFF}slow
+Dialogue: 0,0:03:35.78,0:03:36.14,Cap,,0,0,0,,{\c&H00FFFFFF}same {\c&H00FFFFFF}story {\c&H8CFFFFFF}in {\c&H8CFFFFFF}slow
+Dialogue: 0,0:03:36.14,0:03:36.31,Cap,,0,0,0,,{\c&H00FFFFFF}same {\c&H00FFFFFF}story {\c&H00FFFFFF}in {\c&H8CFFFFFF}slow
+Dialogue: 0,0:03:36.31,0:03:36.57,Cap,,0,0,0,,{\c&H00FFFFFF}same {\c&H00FFFFFF}story {\c&H00FFFFFF}in {\c&H00FFFFFF}slow
+Dialogue: 0,0:03:36.58,0:03:37.03,Cap,,0,0,0,,{\c&H00FFFFFF}motion
+Dialogue: 0,0:03:37.79,0:03:38.42,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo's {\c&H8CFFFFFF}channel {\c&H8CFFFFFF}eighty {\c&H8CFFFFFF}two
+Dialogue: 0,0:03:38.42,0:03:38.93,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo's {\c&H00FFFFFF}channel {\c&H8CFFFFFF}eighty {\c&H8CFFFFFF}two
+Dialogue: 0,0:03:38.93,0:03:39.13,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo's {\c&H00FFFFFF}channel {\c&H00FFFFFF}eighty {\c&H8CFFFFFF}two
+Dialogue: 0,0:03:39.13,0:03:39.33,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo's {\c&H00FFFFFF}channel {\c&H00FFFFFF}eighty {\c&H00FFFFFF}two
+Dialogue: 0,0:03:39.34,0:03:39.74,Cap,,0,0,0,,{\c&H00FFFFFF}million {\c&H8CFFFFFF}subscribers
+Dialogue: 0,0:03:39.74,0:03:40.53,Cap,,0,0,0,,{\c&H00FFFFFF}million {\c&H00FFFFFF}subscribers
+Dialogue: 0,0:03:41.28,0:03:42.04,Cap,,0,0,0,,{\c&H00FFFFFF}Messi's {\c&H8CFFFFFF}four {\c&H8CFFFFFF}point {\c&H8CFFFFFF}eight
+Dialogue: 0,0:03:42.04,0:03:42.13,Cap,,0,0,0,,{\c&H00FFFFFF}Messi's {\c&H00FFFFFF}four {\c&H8CFFFFFF}point {\c&H8CFFFFFF}eight
+Dialogue: 0,0:03:42.13,0:03:42.45,Cap,,0,0,0,,{\c&H00FFFFFF}Messi's {\c&H00FFFFFF}four {\c&H00FFFFFF}point {\c&H8CFFFFFF}eight
+Dialogue: 0,0:03:42.45,0:03:42.65,Cap,,0,0,0,,{\c&H00FFFFFF}Messi's {\c&H00FFFFFF}four {\c&H00FFFFFF}point {\c&H00FFFFFF}eight
+Dialogue: 0,0:03:42.65,0:03:43.07,Cap,,0,0,0,,{\c&H00FFFFFF}million
+Dialogue: 0,0:03:43.87,0:03:44.02,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}internet {\c&H8CFFFFFF}belongs {\c&H8CFFFFFF}to
+Dialogue: 0,0:03:44.02,0:03:44.44,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}internet {\c&H8CFFFFFF}belongs {\c&H8CFFFFFF}to
+Dialogue: 0,0:03:44.44,0:03:44.80,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}internet {\c&H00FFFFFF}belongs {\c&H8CFFFFFF}to
+Dialogue: 0,0:03:44.80,0:03:45.00,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}internet {\c&H00FFFFFF}belongs {\c&H00FFFFFF}to
+Dialogue: 0,0:03:44.91,0:03:45.54,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo
+Dialogue: 0,0:03:46.29,0:03:46.45,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}scoreboard {\c&H8CFFFFFF}now
+Dialogue: 0,0:03:46.45,0:03:46.54,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}scoreboard {\c&H8CFFFFFF}now
+Dialogue: 0,0:03:46.54,0:03:47.06,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}scoreboard {\c&H8CFFFFFF}now
+Dialogue: 0,0:03:47.06,0:03:47.26,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}scoreboard {\c&H00FFFFFF}now
+Dialogue: 0,0:03:47.25,0:03:47.54,Cap,,0,0,0,,{\c&H00FFFFFF}says {\c&H8CFFFFFF}three {\c&H8CFFFFFF}three
+Dialogue: 0,0:03:47.54,0:03:48.02,Cap,,0,0,0,,{\c&H00FFFFFF}says {\c&H00FFFFFF}three {\c&H8CFFFFFF}three
+Dialogue: 0,0:03:48.02,0:03:48.46,Cap,,0,0,0,,{\c&H00FFFFFF}says {\c&H00FFFFFF}three {\c&H00FFFFFF}three
+Dialogue: 0,0:03:49.22,0:03:49.68,Cap,,0,0,0,,{\c&H00FFFFFF}Level
+Dialogue: 0,0:03:50.43,0:03:50.63,Cap,,0,0,0,,{\c&H00FFFFFF}With {\c&H8CFFFFFF}two {\c&H8CFFFFFF}rounds {\c&H8CFFFFFF}to
+Dialogue: 0,0:03:50.63,0:03:50.83,Cap,,0,0,0,,{\c&H00FFFFFF}With {\c&H00FFFFFF}two {\c&H8CFFFFFF}rounds {\c&H8CFFFFFF}to
+Dialogue: 0,0:03:50.83,0:03:51.12,Cap,,0,0,0,,{\c&H00FFFFFF}With {\c&H00FFFFFF}two {\c&H00FFFFFF}rounds {\c&H8CFFFFFF}to
+Dialogue: 0,0:03:51.12,0:03:51.32,Cap,,0,0,0,,{\c&H00FFFFFF}With {\c&H00FFFFFF}two {\c&H00FFFFFF}rounds {\c&H00FFFFFF}to
+Dialogue: 0,0:03:51.21,0:03:51.56,Cap,,0,0,0,,{\c&H00FFFFFF}go
+Dialogue: 0,0:03:52.32,0:03:52.68,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H8CFFFFFF}seven
+Dialogue: 0,0:03:52.68,0:03:53.10,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}seven
+Dialogue: 0,0:03:53.85,0:03:54.03,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}efficiency {\c&H8CFFFFFF}round
+Dialogue: 0,0:03:54.03,0:03:54.49,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}efficiency {\c&H8CFFFFFF}round
+Dialogue: 0,0:03:54.49,0:03:54.98,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}efficiency {\c&H00FFFFFF}round
+Dialogue: 0,0:03:55.74,0:03:56.08,Cap,,0,0,0,,{\c&H00FFFFFF}Goals {\c&H8CFFFFFF}per {\c&H8CFFFFFF}game
+Dialogue: 0,0:03:56.08,0:03:56.20,Cap,,0,0,0,,{\c&H00FFFFFF}Goals {\c&H00FFFFFF}per {\c&H8CFFFFFF}game
+Dialogue: 0,0:03:56.20,0:03:56.62,Cap,,0,0,0,,{\c&H00FFFFFF}Goals {\c&H00FFFFFF}per {\c&H00FFFFFF}game
+Dialogue: 0,0:03:57.37,0:03:57.57,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}this {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:57.57,0:03:57.75,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}this {\c&H8CFFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:57.75,0:03:57.85,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}this {\c&H00FFFFFF}is {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:57.85,0:03:58.05,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}this {\c&H00FFFFFF}is {\c&H00FFFFFF}the
+Dialogue: 0,0:03:57.94,0:03:58.34,Cap,,0,0,0,,{\c&H00FFFFFF}closest {\c&H8CFFFFFF}race {\c&H8CFFFFFF}of {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:58.34,0:03:58.57,Cap,,0,0,0,,{\c&H00FFFFFF}closest {\c&H00FFFFFF}race {\c&H8CFFFFFF}of {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:58.57,0:03:58.65,Cap,,0,0,0,,{\c&H00FFFFFF}closest {\c&H00FFFFFF}race {\c&H00FFFFFF}of {\c&H8CFFFFFF}the
+Dialogue: 0,0:03:58.65,0:03:58.85,Cap,,0,0,0,,{\c&H00FFFFFF}closest {\c&H00FFFFFF}race {\c&H00FFFFFF}of {\c&H00FFFFFF}the
+Dialogue: 0,0:03:58.71,0:03:59.10,Cap,,0,0,0,,{\c&H00FFFFFF}night
+Dialogue: 0,0:03:59.85,0:04:00.22,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}scores {\c&H8CFFFFFF}zero {\c&H8CFFFFFF}point
+Dialogue: 0,0:04:00.22,0:04:00.56,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}scores {\c&H8CFFFFFF}zero {\c&H8CFFFFFF}point
+Dialogue: 0,0:04:00.56,0:04:00.89,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}scores {\c&H00FFFFFF}zero {\c&H8CFFFFFF}point
+Dialogue: 0,0:04:00.89,0:04:01.15,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}scores {\c&H00FFFFFF}zero {\c&H00FFFFFF}point
+Dialogue: 0,0:04:01.16,0:04:01.47,Cap,,0,0,0,,{\c&H00FFFFFF}seven {\c&H8CFFFFFF}nine {\c&H8CFFFFFF}goals {\c&H8CFFFFFF}per
+Dialogue: 0,0:04:01.47,0:04:01.69,Cap,,0,0,0,,{\c&H00FFFFFF}seven {\c&H00FFFFFF}nine {\c&H8CFFFFFF}goals {\c&H8CFFFFFF}per
+Dialogue: 0,0:04:01.69,0:04:02.04,Cap,,0,0,0,,{\c&H00FFFFFF}seven {\c&H00FFFFFF}nine {\c&H00FFFFFF}goals {\c&H8CFFFFFF}per
+Dialogue: 0,0:04:02.04,0:04:02.24,Cap,,0,0,0,,{\c&H00FFFFFF}seven {\c&H00FFFFFF}nine {\c&H00FFFFFF}goals {\c&H00FFFFFF}per
+Dialogue: 0,0:04:02.18,0:04:02.75,Cap,,0,0,0,,{\c&H00FFFFFF}appearance
+Dialogue: 0,0:04:03.50,0:04:04.38,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}zero {\c&H8CFFFFFF}point {\c&H8CFFFFFF}seven
+Dialogue: 0,0:04:04.38,0:04:04.75,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}zero {\c&H8CFFFFFF}point {\c&H8CFFFFFF}seven
+Dialogue: 0,0:04:04.75,0:04:05.04,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}zero {\c&H00FFFFFF}point {\c&H8CFFFFFF}seven
+Dialogue: 0,0:04:05.04,0:04:05.32,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}zero {\c&H00FFFFFF}point {\c&H00FFFFFF}seven
+Dialogue: 0,0:04:05.33,0:04:05.78,Cap,,0,0,0,,{\c&H00FFFFFF}three
+Dialogue: 0,0:04:06.54,0:04:06.75,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H8CFFFFFF}the {\c&H8CFFFFFF}surface {\c&H8CFFFFFF}a
+Dialogue: 0,0:04:06.75,0:04:06.83,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}the {\c&H8CFFFFFF}surface {\c&H8CFFFFFF}a
+Dialogue: 0,0:04:06.83,0:04:07.52,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}the {\c&H00FFFFFF}surface {\c&H8CFFFFFF}a
+Dialogue: 0,0:04:07.52,0:04:07.72,Cap,,0,0,0,,{\c&H00FFFFFF}On {\c&H00FFFFFF}the {\c&H00FFFFFF}surface {\c&H00FFFFFF}a
+Dialogue: 0,0:04:07.58,0:04:07.99,Cap,,0,0,0,,{\c&H00FFFFFF}rounding {\c&H8CFFFFFF}error
+Dialogue: 0,0:04:07.99,0:04:08.28,Cap,,0,0,0,,{\c&H00FFFFFF}rounding {\c&H00FFFFFF}error
+Dialogue: 0,0:04:09.04,0:04:09.23,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H8CFFFFFF}over {\c&H8CFFFFFF}more {\c&H8CFFFFFF}than
+Dialogue: 0,0:04:09.23,0:04:09.42,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}over {\c&H8CFFFFFF}more {\c&H8CFFFFFF}than
+Dialogue: 0,0:04:09.42,0:04:09.60,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}over {\c&H00FFFFFF}more {\c&H8CFFFFFF}than
+Dialogue: 0,0:04:09.60,0:04:09.80,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H00FFFFFF}over {\c&H00FFFFFF}more {\c&H00FFFFFF}than
+Dialogue: 0,0:04:09.72,0:04:09.77,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H8CFFFFFF}thousand {\c&H8CFFFFFF}appearances {\c&H8CFFFFFF}each
+Dialogue: 0,0:04:09.77,0:04:10.17,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}thousand {\c&H8CFFFFFF}appearances {\c&H8CFFFFFF}each
+Dialogue: 0,0:04:10.17,0:04:10.72,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}thousand {\c&H00FFFFFF}appearances {\c&H8CFFFFFF}each
+Dialogue: 0,0:04:10.72,0:04:10.99,Cap,,0,0,0,,{\c&H00FFFFFF}a {\c&H00FFFFFF}thousand {\c&H00FFFFFF}appearances {\c&H00FFFFFF}each
+Dialogue: 0,0:04:11.20,0:04:11.35,Cap,,0,0,0,,{\c&H00FFFFFF}that {\c&H8CFFFFFF}tiny {\c&H8CFFFFFF}difference {\c&H8CFFFFFF}is
+Dialogue: 0,0:04:11.35,0:04:11.68,Cap,,0,0,0,,{\c&H00FFFFFF}that {\c&H00FFFFFF}tiny {\c&H8CFFFFFF}difference {\c&H8CFFFFFF}is
+Dialogue: 0,0:04:11.68,0:04:12.03,Cap,,0,0,0,,{\c&H00FFFFFF}that {\c&H00FFFFFF}tiny {\c&H00FFFFFF}difference {\c&H8CFFFFFF}is
+Dialogue: 0,0:04:12.03,0:04:12.23,Cap,,0,0,0,,{\c&H00FFFFFF}that {\c&H00FFFFFF}tiny {\c&H00FFFFFF}difference {\c&H00FFFFFF}is
+Dialogue: 0,0:04:12.14,0:04:12.24,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H8CFFFFFF}signature {\c&H8CFFFFFF}of {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:12.24,0:04:12.69,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}signature {\c&H8CFFFFFF}of {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:12.69,0:04:12.79,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}signature {\c&H00FFFFFF}of {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:12.79,0:04:12.99,Cap,,0,0,0,,{\c&H00FFFFFF}the {\c&H00FFFFFF}signature {\c&H00FFFFFF}of {\c&H00FFFFFF}the
+Dialogue: 0,0:04:12.88,0:04:13.16,Cap,,0,0,0,,{\c&H00FFFFFF}player {\c&H8CFFFFFF}who {\c&H8CFFFFFF}does {\c&H8CFFFFFF}more
+Dialogue: 0,0:04:13.16,0:04:13.29,Cap,,0,0,0,,{\c&H00FFFFFF}player {\c&H00FFFFFF}who {\c&H8CFFFFFF}does {\c&H8CFFFFFF}more
+Dialogue: 0,0:04:13.29,0:04:13.46,Cap,,0,0,0,,{\c&H00FFFFFF}player {\c&H00FFFFFF}who {\c&H00FFFFFF}does {\c&H8CFFFFFF}more
+Dialogue: 0,0:04:13.46,0:04:13.66,Cap,,0,0,0,,{\c&H00FFFFFF}player {\c&H00FFFFFF}who {\c&H00FFFFFF}does {\c&H00FFFFFF}more
+Dialogue: 0,0:04:13.61,0:04:13.77,Cap,,0,0,0,,{\c&H00FFFFFF}with {\c&H8CFFFFFF}every {\c&H8CFFFFFF}touch
+Dialogue: 0,0:04:13.77,0:04:13.97,Cap,,0,0,0,,{\c&H00FFFFFF}with {\c&H00FFFFFF}every {\c&H8CFFFFFF}touch
+Dialogue: 0,0:04:13.97,0:04:14.41,Cap,,0,0,0,,{\c&H00FFFFFF}with {\c&H00FFFFFF}every {\c&H00FFFFFF}touch
+Dialogue: 0,0:04:15.17,0:04:15.50,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}takes {\c&H8CFFFFFF}the {\c&H8CFFFFFF}round
+Dialogue: 0,0:04:15.50,0:04:15.75,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}takes {\c&H8CFFFFFF}the {\c&H8CFFFFFF}round
+Dialogue: 0,0:04:15.75,0:04:15.83,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}takes {\c&H00FFFFFF}the {\c&H8CFFFFFF}round
+Dialogue: 0,0:04:15.83,0:04:16.11,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}takes {\c&H00FFFFFF}the {\c&H00FFFFFF}round
+Dialogue: 0,0:04:16.12,0:04:16.22,Cap,,0,0,0,,{\c&H00FFFFFF}by {\c&H8CFFFFFF}the {\c&H8CFFFFFF}smallest {\c&H8CFFFFFF}margin
+Dialogue: 0,0:04:16.22,0:04:16.32,Cap,,0,0,0,,{\c&H00FFFFFF}by {\c&H00FFFFFF}the {\c&H8CFFFFFF}smallest {\c&H8CFFFFFF}margin
+Dialogue: 0,0:04:16.32,0:04:16.75,Cap,,0,0,0,,{\c&H00FFFFFF}by {\c&H00FFFFFF}the {\c&H00FFFFFF}smallest {\c&H8CFFFFFF}margin
+Dialogue: 0,0:04:16.75,0:04:17.10,Cap,,0,0,0,,{\c&H00FFFFFF}by {\c&H00FFFFFF}the {\c&H00FFFFFF}smallest {\c&H00FFFFFF}margin
+Dialogue: 0,0:04:17.11,0:04:17.24,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H8CFFFFFF}Data {\c&H8CFFFFFF}League {\c&H8CFFFFFF}history
+Dialogue: 0,0:04:17.24,0:04:17.52,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}Data {\c&H8CFFFFFF}League {\c&H8CFFFFFF}history
+Dialogue: 0,0:04:17.52,0:04:17.75,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}Data {\c&H00FFFFFF}League {\c&H8CFFFFFF}history
+Dialogue: 0,0:04:17.75,0:04:18.14,Cap,,0,0,0,,{\c&H00FFFFFF}in {\c&H00FFFFFF}Data {\c&H00FFFFFF}League {\c&H00FFFFFF}history
+Dialogue: 0,0:04:18.90,0:04:19.40,Cap,,0,0,0,,{\c&H00FFFFFF}Four {\c&H8CFFFFFF}three
+Dialogue: 0,0:04:19.40,0:04:19.87,Cap,,0,0,0,,{\c&H00FFFFFF}Four {\c&H00FFFFFF}three
+Dialogue: 0,0:04:20.63,0:04:20.79,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}it {\c&H8CFFFFFF}all {\c&H8CFFFFFF}comes
+Dialogue: 0,0:04:20.79,0:04:20.88,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}it {\c&H8CFFFFFF}all {\c&H8CFFFFFF}comes
+Dialogue: 0,0:04:20.88,0:04:21.05,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}it {\c&H00FFFFFF}all {\c&H8CFFFFFF}comes
+Dialogue: 0,0:04:21.05,0:04:21.31,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}it {\c&H00FFFFFF}all {\c&H00FFFFFF}comes
+Dialogue: 0,0:04:21.32,0:04:21.54,Cap,,0,0,0,,{\c&H00FFFFFF}down {\c&H8CFFFFFF}to {\c&H8CFFFFFF}the {\c&H8CFFFFFF}final
+Dialogue: 0,0:04:21.54,0:04:21.63,Cap,,0,0,0,,{\c&H00FFFFFF}down {\c&H00FFFFFF}to {\c&H8CFFFFFF}the {\c&H8CFFFFFF}final
+Dialogue: 0,0:04:21.63,0:04:21.72,Cap,,0,0,0,,{\c&H00FFFFFF}down {\c&H00FFFFFF}to {\c&H00FFFFFF}the {\c&H8CFFFFFF}final
+Dialogue: 0,0:04:21.72,0:04:22.09,Cap,,0,0,0,,{\c&H00FFFFFF}down {\c&H00FFFFFF}to {\c&H00FFFFFF}the {\c&H00FFFFFF}final
+Dialogue: 0,0:04:22.10,0:04:22.56,Cap,,0,0,0,,{\c&H00FFFFFF}round
+Dialogue: 0,0:04:23.32,0:04:23.68,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H8CFFFFFF}eight
+Dialogue: 0,0:04:23.68,0:04:23.99,Cap,,0,0,0,,{\c&H00FFFFFF}Round {\c&H00FFFFFF}eight
+Dialogue: 0,0:04:24.74,0:04:25.08,Cap,,0,0,0,,{\c&H00FFFFFF}Double {\c&H8CFFFFFF}points
+Dialogue: 0,0:04:25.08,0:04:25.56,Cap,,0,0,0,,{\c&H00FFFFFF}Double {\c&H00FFFFFF}points
+Dialogue: 0,0:04:26.32,0:04:26.70,Cap,,0,0,0,,{\c&H00FFFFFF}Everything {\c&H8CFFFFFF}we {\c&H8CFFFFFF}have {\c&H8CFFFFFF}measured
+Dialogue: 0,0:04:26.70,0:04:26.80,Cap,,0,0,0,,{\c&H00FFFFFF}Everything {\c&H00FFFFFF}we {\c&H8CFFFFFF}have {\c&H8CFFFFFF}measured
+Dialogue: 0,0:04:26.80,0:04:26.95,Cap,,0,0,0,,{\c&H00FFFFFF}Everything {\c&H00FFFFFF}we {\c&H00FFFFFF}have {\c&H8CFFFFFF}measured
+Dialogue: 0,0:04:26.95,0:04:27.20,Cap,,0,0,0,,{\c&H00FFFFFF}Everything {\c&H00FFFFFF}we {\c&H00FFFFFF}have {\c&H00FFFFFF}measured
+Dialogue: 0,0:04:27.21,0:04:27.52,Cap,,0,0,0,,{\c&H00FFFFFF}tonight {\c&H8CFFFFFF}comes {\c&H8CFFFFFF}down {\c&H8CFFFFFF}to
+Dialogue: 0,0:04:27.52,0:04:27.79,Cap,,0,0,0,,{\c&H00FFFFFF}tonight {\c&H00FFFFFF}comes {\c&H8CFFFFFF}down {\c&H8CFFFFFF}to
+Dialogue: 0,0:04:27.79,0:04:28.03,Cap,,0,0,0,,{\c&H00FFFFFF}tonight {\c&H00FFFFFF}comes {\c&H00FFFFFF}down {\c&H8CFFFFFF}to
+Dialogue: 0,0:04:28.03,0:04:28.23,Cap,,0,0,0,,{\c&H00FFFFFF}tonight {\c&H00FFFFFF}comes {\c&H00FFFFFF}down {\c&H00FFFFFF}to
+Dialogue: 0,0:04:28.13,0:04:28.39,Cap,,0,0,0,,{\c&H00FFFFFF}one {\c&H8CFFFFFF}category
+Dialogue: 0,0:04:28.39,0:04:28.86,Cap,,0,0,0,,{\c&H00FFFFFF}one {\c&H00FFFFFF}category
+Dialogue: 0,0:04:29.62,0:04:30.31,Cap,,0,0,0,,{\c&H00FFFFFF}Hat-tricks
+Dialogue: 0,0:04:31.07,0:04:31.38,Cap,,0,0,0,,{\c&H00FFFFFF}Three {\c&H8CFFFFFF}goals {\c&H8CFFFFFF}in {\c&H8CFFFFFF}one
+Dialogue: 0,0:04:31.38,0:04:31.69,Cap,,0,0,0,,{\c&H00FFFFFF}Three {\c&H00FFFFFF}goals {\c&H8CFFFFFF}in {\c&H8CFFFFFF}one
+Dialogue: 0,0:04:31.69,0:04:31.81,Cap,,0,0,0,,{\c&H00FFFFFF}Three {\c&H00FFFFFF}goals {\c&H00FFFFFF}in {\c&H8CFFFFFF}one
+Dialogue: 0,0:04:31.81,0:04:32.02,Cap,,0,0,0,,{\c&H00FFFFFF}Three {\c&H00FFFFFF}goals {\c&H00FFFFFF}in {\c&H00FFFFFF}one
+Dialogue: 0,0:04:32.03,0:04:32.44,Cap,,0,0,0,,{\c&H00FFFFFF}game
+Dialogue: 0,0:04:33.20,0:04:33.35,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}purest {\c&H8CFFFFFF}explosion {\c&H8CFFFFFF}of
+Dialogue: 0,0:04:33.35,0:04:33.70,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}purest {\c&H8CFFFFFF}explosion {\c&H8CFFFFFF}of
+Dialogue: 0,0:04:33.70,0:04:34.16,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}purest {\c&H00FFFFFF}explosion {\c&H8CFFFFFF}of
+Dialogue: 0,0:04:34.16,0:04:34.36,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}purest {\c&H00FFFFFF}explosion {\c&H00FFFFFF}of
+Dialogue: 0,0:04:34.24,0:04:34.73,Cap,,0,0,0,,{\c&H00FFFFFF}scoring
+Dialogue: 0,0:04:35.49,0:04:36.06,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}trails {\c&H8CFFFFFF}on {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:36.06,0:04:36.46,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}trails {\c&H8CFFFFFF}on {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:36.46,0:04:36.56,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}trails {\c&H00FFFFFF}on {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:36.56,0:04:36.76,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}trails {\c&H00FFFFFF}on {\c&H00FFFFFF}the
+Dialogue: 0,0:04:36.63,0:04:37.26,Cap,,0,0,0,,{\c&H00FFFFFF}scoreboard
+Dialogue: 0,0:04:38.02,0:04:38.52,Cap,,0,0,0,,{\c&H00FFFFFF}Four {\c&H8CFFFFFF}three
+Dialogue: 0,0:04:38.52,0:04:39.00,Cap,,0,0,0,,{\c&H00FFFFFF}Four {\c&H00FFFFFF}three
+Dialogue: 0,0:04:39.75,0:04:40.03,Cap,,0,0,0,,{\c&H00FFFFFF}Win {\c&H8CFFFFFF}this {\c&H8CFFFFFF}and {\c&H8CFFFFFF}it
+Dialogue: 0,0:04:40.03,0:04:40.48,Cap,,0,0,0,,{\c&H00FFFFFF}Win {\c&H00FFFFFF}this {\c&H8CFFFFFF}and {\c&H8CFFFFFF}it
+Dialogue: 0,0:04:40.48,0:04:40.59,Cap,,0,0,0,,{\c&H00FFFFFF}Win {\c&H00FFFFFF}this {\c&H00FFFFFF}and {\c&H8CFFFFFF}it
+Dialogue: 0,0:04:40.59,0:04:40.79,Cap,,0,0,0,,{\c&H00FFFFFF}Win {\c&H00FFFFFF}this {\c&H00FFFFFF}and {\c&H00FFFFFF}it
+Dialogue: 0,0:04:40.67,0:04:40.81,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H8CFFFFFF}his
+Dialogue: 0,0:04:40.81,0:04:41.21,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}his
+Dialogue: 0,0:04:41.97,0:04:42.27,Cap,,0,0,0,,{\c&H00FFFFFF}Lose {\c&H8CFFFFFF}it {\c&H8CFFFFFF}and {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:42.27,0:04:42.60,Cap,,0,0,0,,{\c&H00FFFFFF}Lose {\c&H00FFFFFF}it {\c&H8CFFFFFF}and {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:42.60,0:04:42.69,Cap,,0,0,0,,{\c&H00FFFFFF}Lose {\c&H00FFFFFF}it {\c&H00FFFFFF}and {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:42.69,0:04:42.89,Cap,,0,0,0,,{\c&H00FFFFFF}Lose {\c&H00FFFFFF}it {\c&H00FFFFFF}and {\c&H00FFFFFF}the
+Dialogue: 0,0:04:42.78,0:04:43.01,Cap,,0,0,0,,{\c&H00FFFFFF}belt {\c&H8CFFFFFF}belongs {\c&H8CFFFFFF}to {\c&H8CFFFFFF}Messi
+Dialogue: 0,0:04:43.01,0:04:43.35,Cap,,0,0,0,,{\c&H00FFFFFF}belt {\c&H00FFFFFF}belongs {\c&H8CFFFFFF}to {\c&H8CFFFFFF}Messi
+Dialogue: 0,0:04:43.35,0:04:43.44,Cap,,0,0,0,,{\c&H00FFFFFF}belt {\c&H00FFFFFF}belongs {\c&H00FFFFFF}to {\c&H8CFFFFFF}Messi
+Dialogue: 0,0:04:43.44,0:04:43.88,Cap,,0,0,0,,{\c&H00FFFFFF}belt {\c&H00FFFFFF}belongs {\c&H00FFFFFF}to {\c&H00FFFFFF}Messi
+Dialogue: 0,0:04:44.63,0:04:45.21,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}has {\c&H8CFFFFFF}sixty {\c&H8CFFFFFF}six
+Dialogue: 0,0:04:45.21,0:04:45.41,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H8CFFFFFF}sixty {\c&H8CFFFFFF}six
+Dialogue: 0,0:04:45.41,0:04:45.72,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H00FFFFFF}sixty {\c&H8CFFFFFF}six
+Dialogue: 0,0:04:45.72,0:04:45.96,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}has {\c&H00FFFFFF}sixty {\c&H00FFFFFF}six
+Dialogue: 0,0:04:45.97,0:04:46.34,Cap,,0,0,0,,{\c&H00FFFFFF}career {\c&H8CFFFFFF}hat-tricks
+Dialogue: 0,0:04:46.34,0:04:46.99,Cap,,0,0,0,,{\c&H00FFFFFF}career {\c&H00FFFFFF}hat-tricks
+Dialogue: 0,0:04:47.75,0:04:48.44,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}sixty {\c&H8CFFFFFF}one
+Dialogue: 0,0:04:48.44,0:04:48.74,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}sixty {\c&H8CFFFFFF}one
+Dialogue: 0,0:04:48.74,0:04:49.13,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}sixty {\c&H00FFFFFF}one
+Dialogue: 0,0:04:49.88,0:04:50.35,Cap,,0,0,0,,{\c&H00FFFFFF}Sixty {\c&H8CFFFFFF}six {\c&H8CFFFFFF}beats {\c&H8CFFFFFF}sixty
+Dialogue: 0,0:04:50.35,0:04:50.61,Cap,,0,0,0,,{\c&H00FFFFFF}Sixty {\c&H00FFFFFF}six {\c&H8CFFFFFF}beats {\c&H8CFFFFFF}sixty
+Dialogue: 0,0:04:50.61,0:04:50.85,Cap,,0,0,0,,{\c&H00FFFFFF}Sixty {\c&H00FFFFFF}six {\c&H00FFFFFF}beats {\c&H8CFFFFFF}sixty
+Dialogue: 0,0:04:50.85,0:04:51.13,Cap,,0,0,0,,{\c&H00FFFFFF}Sixty {\c&H00FFFFFF}six {\c&H00FFFFFF}beats {\c&H00FFFFFF}sixty
+Dialogue: 0,0:04:51.15,0:04:51.51,Cap,,0,0,0,,{\c&H00FFFFFF}one
+Dialogue: 0,0:04:52.26,0:04:52.45,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}final {\c&H8CFFFFFF}round
+Dialogue: 0,0:04:52.45,0:04:52.54,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}final {\c&H8CFFFFFF}round
+Dialogue: 0,0:04:52.54,0:04:52.91,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}final {\c&H8CFFFFFF}round
+Dialogue: 0,0:04:52.91,0:04:53.17,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}final {\c&H00FFFFFF}round
+Dialogue: 0,0:04:53.19,0:04:53.31,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H8CFFFFFF}worth {\c&H8CFFFFFF}two
+Dialogue: 0,0:04:53.31,0:04:53.61,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}worth {\c&H8CFFFFFF}two
+Dialogue: 0,0:04:53.61,0:04:53.93,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}worth {\c&H00FFFFFF}two
+Dialogue: 0,0:04:54.69,0:04:54.98,Cap,,0,0,0,,{\c&H00FFFFFF}Down {\c&H8CFFFFFF}on {\c&H8CFFFFFF}the {\c&H8CFFFFFF}scoreboard
+Dialogue: 0,0:04:54.98,0:04:55.06,Cap,,0,0,0,,{\c&H00FFFFFF}Down {\c&H00FFFFFF}on {\c&H8CFFFFFF}the {\c&H8CFFFFFF}scoreboard
+Dialogue: 0,0:04:55.06,0:04:55.14,Cap,,0,0,0,,{\c&H00FFFFFF}Down {\c&H00FFFFFF}on {\c&H00FFFFFF}the {\c&H8CFFFFFF}scoreboard
+Dialogue: 0,0:04:55.14,0:04:55.81,Cap,,0,0,0,,{\c&H00FFFFFF}Down {\c&H00FFFFFF}on {\c&H00FFFFFF}the {\c&H00FFFFFF}scoreboard
+Dialogue: 0,0:04:56.56,0:04:56.84,Cap,,0,0,0,,{\c&H00FFFFFF}Won {\c&H8CFFFFFF}with {\c&H8CFFFFFF}one {\c&H8CFFFFFF}swing
+Dialogue: 0,0:04:56.84,0:04:56.96,Cap,,0,0,0,,{\c&H00FFFFFF}Won {\c&H00FFFFFF}with {\c&H8CFFFFFF}one {\c&H8CFFFFFF}swing
+Dialogue: 0,0:04:56.96,0:04:57.20,Cap,,0,0,0,,{\c&H00FFFFFF}Won {\c&H00FFFFFF}with {\c&H00FFFFFF}one {\c&H8CFFFFFF}swing
+Dialogue: 0,0:04:57.20,0:04:57.59,Cap,,0,0,0,,{\c&H00FFFFFF}Won {\c&H00FFFFFF}with {\c&H00FFFFFF}one {\c&H00FFFFFF}swing
+Dialogue: 0,0:04:58.35,0:04:58.94,Cap,,0,0,0,,{\c&H00FFFFFF}Cristiano {\c&H8CFFFFFF}Ronaldo {\c&H8CFFFFFF}takes {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:58.94,0:04:59.42,Cap,,0,0,0,,{\c&H00FFFFFF}Cristiano {\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}takes {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:59.42,0:04:59.70,Cap,,0,0,0,,{\c&H00FFFFFF}Cristiano {\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}takes {\c&H8CFFFFFF}the
+Dialogue: 0,0:04:59.70,0:04:59.90,Cap,,0,0,0,,{\c&H00FFFFFF}Cristiano {\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}takes {\c&H00FFFFFF}the
+Dialogue: 0,0:04:59.79,0:05:00.14,Cap,,0,0,0,,{\c&H00FFFFFF}Final {\c&H8CFFFFFF}Score
+Dialogue: 0,0:05:00.14,0:05:00.54,Cap,,0,0,0,,{\c&H00FFFFFF}Final {\c&H00FFFFFF}Score
+Dialogue: 0,0:05:01.30,0:05:01.91,Cap,,0,0,0,,{\c&H00FFFFFF}Five {\c&H8CFFFFFF}four
+Dialogue: 0,0:05:01.91,0:05:02.24,Cap,,0,0,0,,{\c&H00FFFFFF}Five {\c&H00FFFFFF}four
+Dialogue: 0,0:05:03.00,0:05:03.17,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}for {\c&H8CFFFFFF}the {\c&H8CFFFFFF}first
+Dialogue: 0,0:05:03.17,0:05:03.26,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}for {\c&H8CFFFFFF}the {\c&H8CFFFFFF}first
+Dialogue: 0,0:05:03.26,0:05:03.34,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}for {\c&H00FFFFFF}the {\c&H8CFFFFFF}first
+Dialogue: 0,0:05:03.34,0:05:03.62,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}for {\c&H00FFFFFF}the {\c&H00FFFFFF}first
+Dialogue: 0,0:05:03.63,0:05:03.83,Cap,,0,0,0,,{\c&H00FFFFFF}time {\c&H8CFFFFFF}in {\c&H8CFFFFFF}Data {\c&H8CFFFFFF}League
+Dialogue: 0,0:05:03.83,0:05:03.95,Cap,,0,0,0,,{\c&H00FFFFFF}time {\c&H00FFFFFF}in {\c&H8CFFFFFF}Data {\c&H8CFFFFFF}League
+Dialogue: 0,0:05:03.95,0:05:04.23,Cap,,0,0,0,,{\c&H00FFFFFF}time {\c&H00FFFFFF}in {\c&H00FFFFFF}Data {\c&H8CFFFFFF}League
+Dialogue: 0,0:05:04.23,0:05:04.45,Cap,,0,0,0,,{\c&H00FFFFFF}time {\c&H00FFFFFF}in {\c&H00FFFFFF}Data {\c&H00FFFFFF}League
+Dialogue: 0,0:05:04.46,0:05:04.97,Cap,,0,0,0,,{\c&H00FFFFFF}history {\c&H8CFFFFFF}a {\c&H8CFFFFFF}champion {\c&H8CFFFFFF}is
+Dialogue: 0,0:05:04.97,0:05:05.03,Cap,,0,0,0,,{\c&H00FFFFFF}history {\c&H00FFFFFF}a {\c&H8CFFFFFF}champion {\c&H8CFFFFFF}is
+Dialogue: 0,0:05:05.03,0:05:05.44,Cap,,0,0,0,,{\c&H00FFFFFF}history {\c&H00FFFFFF}a {\c&H00FFFFFF}champion {\c&H8CFFFFFF}is
+Dialogue: 0,0:05:05.44,0:05:05.64,Cap,,0,0,0,,{\c&H00FFFFFF}history {\c&H00FFFFFF}a {\c&H00FFFFFF}champion {\c&H00FFFFFF}is
+Dialogue: 0,0:05:05.59,0:05:06.15,Cap,,0,0,0,,{\c&H00FFFFFF}crowned
+Dialogue: 0,0:05:06.90,0:05:07.06,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}numbers {\c&H8CFFFFFF}have {\c&H8CFFFFFF}spoken
+Dialogue: 0,0:05:07.06,0:05:07.38,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}numbers {\c&H8CFFFFFF}have {\c&H8CFFFFFF}spoken
+Dialogue: 0,0:05:07.38,0:05:07.51,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}numbers {\c&H00FFFFFF}have {\c&H8CFFFFFF}spoken
+Dialogue: 0,0:05:07.51,0:05:08.03,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}numbers {\c&H00FFFFFF}have {\c&H00FFFFFF}spoken
+Dialogue: 0,0:05:08.79,0:05:08.95,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}they {\c&H8CFFFFFF}are {\c&H8CFFFFFF}fair
+Dialogue: 0,0:05:08.95,0:05:09.10,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}they {\c&H8CFFFFFF}are {\c&H8CFFFFFF}fair
+Dialogue: 0,0:05:09.10,0:05:09.22,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}they {\c&H00FFFFFF}are {\c&H8CFFFFFF}fair
+Dialogue: 0,0:05:09.22,0:05:09.58,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}they {\c&H00FFFFFF}are {\c&H00FFFFFF}fair
+Dialogue: 0,0:05:10.33,0:05:10.72,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H8CFFFFFF}owns {\c&H8CFFFFFF}the {\c&H8CFFFFFF}glory
+Dialogue: 0,0:05:10.72,0:05:10.99,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}owns {\c&H8CFFFFFF}the {\c&H8CFFFFFF}glory
+Dialogue: 0,0:05:10.99,0:05:11.08,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}owns {\c&H00FFFFFF}the {\c&H8CFFFFFF}glory
+Dialogue: 0,0:05:11.08,0:05:11.44,Cap,,0,0,0,,{\c&H00FFFFFF}Messi {\c&H00FFFFFF}owns {\c&H00FFFFFF}the {\c&H00FFFFFF}glory
+Dialogue: 0,0:05:12.20,0:05:12.54,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H8CFFFFFF}Cup
+Dialogue: 0,0:05:12.54,0:05:12.87,Cap,,0,0,0,,{\c&H00FFFFFF}World {\c&H00FFFFFF}Cup
+Dialogue: 0,0:05:13.62,0:05:13.99,Cap,,0,0,0,,{\c&H00FFFFFF}Ballon {\c&H8CFFFFFF}d'Or
+Dialogue: 0,0:05:13.99,0:05:14.35,Cap,,0,0,0,,{\c&H00FFFFFF}Ballon {\c&H00FFFFFF}d'Or
+Dialogue: 0,0:05:15.10,0:05:15.81,Cap,,0,0,0,,{\c&H00FFFFFF}Assists
+Dialogue: 0,0:05:16.56,0:05:17.21,Cap,,0,0,0,,{\c&H00FFFFFF}Efficiency
+Dialogue: 0,0:05:17.97,0:05:18.51,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}owns {\c&H8CFFFFFF}the {\c&H8CFFFFFF}volume
+Dialogue: 0,0:05:18.51,0:05:18.82,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}owns {\c&H8CFFFFFF}the {\c&H8CFFFFFF}volume
+Dialogue: 0,0:05:18.82,0:05:18.90,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}owns {\c&H00FFFFFF}the {\c&H8CFFFFFF}volume
+Dialogue: 0,0:05:18.90,0:05:19.39,Cap,,0,0,0,,{\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}owns {\c&H00FFFFFF}the {\c&H00FFFFFF}volume
+Dialogue: 0,0:05:20.15,0:05:20.70,Cap,,0,0,0,,{\c&H00FFFFFF}Goals
+Dialogue: 0,0:05:21.45,0:05:21.86,Cap,,0,0,0,,{\c&H00FFFFFF}Money
+Dialogue: 0,0:05:22.61,0:05:23.13,Cap,,0,0,0,,{\c&H00FFFFFF}Fame
+Dialogue: 0,0:05:23.89,0:05:24.58,Cap,,0,0,0,,{\c&H00FFFFFF}Hat-tricks
+Dialogue: 0,0:05:25.33,0:05:25.48,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}data {\c&H8CFFFFFF}does {\c&H8CFFFFFF}not
+Dialogue: 0,0:05:25.48,0:05:25.78,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}data {\c&H8CFFFFFF}does {\c&H8CFFFFFF}not
+Dialogue: 0,0:05:25.78,0:05:25.96,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}data {\c&H00FFFFFF}does {\c&H8CFFFFFF}not
+Dialogue: 0,0:05:25.96,0:05:26.16,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}data {\c&H00FFFFFF}does {\c&H00FFFFFF}not
+Dialogue: 0,0:05:26.12,0:05:26.33,Cap,,0,0,0,,{\c&H00FFFFFF}say {\c&H8CFFFFFF}who {\c&H8CFFFFFF}was {\c&H8CFFFFFF}greater
+Dialogue: 0,0:05:26.33,0:05:26.49,Cap,,0,0,0,,{\c&H00FFFFFF}say {\c&H00FFFFFF}who {\c&H8CFFFFFF}was {\c&H8CFFFFFF}greater
+Dialogue: 0,0:05:26.49,0:05:26.64,Cap,,0,0,0,,{\c&H00FFFFFF}say {\c&H00FFFFFF}who {\c&H00FFFFFF}was {\c&H8CFFFFFF}greater
+Dialogue: 0,0:05:26.64,0:05:27.10,Cap,,0,0,0,,{\c&H00FFFFFF}say {\c&H00FFFFFF}who {\c&H00FFFFFF}was {\c&H00FFFFFF}greater
+Dialogue: 0,0:05:27.86,0:05:28.05,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H8CFFFFFF}says {\c&H8CFFFFFF}who {\c&H8CFFFFFF}won
+Dialogue: 0,0:05:28.05,0:05:28.31,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}says {\c&H8CFFFFFF}who {\c&H8CFFFFFF}won
+Dialogue: 0,0:05:28.31,0:05:28.44,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}says {\c&H00FFFFFF}who {\c&H8CFFFFFF}won
+Dialogue: 0,0:05:28.44,0:05:28.78,Cap,,0,0,0,,{\c&H00FFFFFF}It {\c&H00FFFFFF}says {\c&H00FFFFFF}who {\c&H00FFFFFF}won
+Dialogue: 0,0:05:29.53,0:05:29.71,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}the {\c&H8CFFFFFF}belt {\c&H8CFFFFFF}goes
+Dialogue: 0,0:05:29.71,0:05:29.80,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H8CFFFFFF}belt {\c&H8CFFFFFF}goes
+Dialogue: 0,0:05:29.80,0:05:30.03,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}belt {\c&H8CFFFFFF}goes
+Dialogue: 0,0:05:30.03,0:05:30.26,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}the {\c&H00FFFFFF}belt {\c&H00FFFFFF}goes
+Dialogue: 0,0:05:30.27,0:05:30.36,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H8CFFFFFF}Ronaldo {\c&H8CFFFFFF}by {\c&H8CFFFFFF}a
+Dialogue: 0,0:05:30.36,0:05:31.05,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}Ronaldo {\c&H8CFFFFFF}by {\c&H8CFFFFFF}a
+Dialogue: 0,0:05:31.05,0:05:31.22,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}by {\c&H8CFFFFFF}a
+Dialogue: 0,0:05:31.22,0:05:31.42,Cap,,0,0,0,,{\c&H00FFFFFF}to {\c&H00FFFFFF}Ronaldo {\c&H00FFFFFF}by {\c&H00FFFFFF}a
+Dialogue: 0,0:05:31.30,0:05:31.66,Cap,,0,0,0,,{\c&H00FFFFFF}single {\c&H8CFFFFFF}point
+Dialogue: 0,0:05:31.66,0:05:32.08,Cap,,0,0,0,,{\c&H00FFFFFF}single {\c&H00FFFFFF}point
+Dialogue: 0,0:05:32.83,0:05:33.08,Cap,,0,0,0,,{\c&H00FFFFFF}Now {\c&H8CFFFFFF}the {\c&H8CFFFFFF}championship {\c&H8CFFFFFF}belt
+Dialogue: 0,0:05:33.08,0:05:33.16,Cap,,0,0,0,,{\c&H00FFFFFF}Now {\c&H00FFFFFF}the {\c&H8CFFFFFF}championship {\c&H8CFFFFFF}belt
+Dialogue: 0,0:05:33.16,0:05:33.72,Cap,,0,0,0,,{\c&H00FFFFFF}Now {\c&H00FFFFFF}the {\c&H00FFFFFF}championship {\c&H8CFFFFFF}belt
+Dialogue: 0,0:05:33.72,0:05:33.96,Cap,,0,0,0,,{\c&H00FFFFFF}Now {\c&H00FFFFFF}the {\c&H00FFFFFF}championship {\c&H00FFFFFF}belt
+Dialogue: 0,0:05:33.97,0:05:34.10,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H8CFFFFFF}his {\c&H8CFFFFFF}to {\c&H8CFFFFFF}defend
+Dialogue: 0,0:05:34.10,0:05:34.26,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}his {\c&H8CFFFFFF}to {\c&H8CFFFFFF}defend
+Dialogue: 0,0:05:34.26,0:05:34.34,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}his {\c&H00FFFFFF}to {\c&H8CFFFFFF}defend
+Dialogue: 0,0:05:34.34,0:05:34.84,Cap,,0,0,0,,{\c&H00FFFFFF}is {\c&H00FFFFFF}his {\c&H00FFFFFF}to {\c&H00FFFFFF}defend
+Dialogue: 0,0:05:35.60,0:05:35.76,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}you {\c&H8CFFFFFF}get {\c&H8CFFFFFF}to
+Dialogue: 0,0:05:35.76,0:05:35.85,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}you {\c&H8CFFFFFF}get {\c&H8CFFFFFF}to
+Dialogue: 0,0:05:35.85,0:05:36.02,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}you {\c&H00FFFFFF}get {\c&H8CFFFFFF}to
+Dialogue: 0,0:05:36.02,0:05:36.22,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}you {\c&H00FFFFFF}get {\c&H00FFFFFF}to
+Dialogue: 0,0:05:36.10,0:05:36.36,Cap,,0,0,0,,{\c&H00FFFFFF}choose {\c&H8CFFFFFF}the {\c&H8CFFFFFF}next {\c&H8CFFFFFF}contender
+Dialogue: 0,0:05:36.36,0:05:36.45,Cap,,0,0,0,,{\c&H00FFFFFF}choose {\c&H00FFFFFF}the {\c&H8CFFFFFF}next {\c&H8CFFFFFF}contender
+Dialogue: 0,0:05:36.45,0:05:36.72,Cap,,0,0,0,,{\c&H00FFFFFF}choose {\c&H00FFFFFF}the {\c&H00FFFFFF}next {\c&H8CFFFFFF}contender
+Dialogue: 0,0:05:36.72,0:05:37.30,Cap,,0,0,0,,{\c&H00FFFFFF}choose {\c&H00FFFFFF}the {\c&H00FFFFFF}next {\c&H00FFFFFF}contender
+Dialogue: 0,0:05:38.05,0:05:38.43,Cap,,0,0,0,,{\c&H00FFFFFF}Comment {\c&H8CFFFFFF}your {\c&H8CFFFFFF}pick
+Dialogue: 0,0:05:38.43,0:05:38.55,Cap,,0,0,0,,{\c&H00FFFFFF}Comment {\c&H00FFFFFF}your {\c&H8CFFFFFF}pick
+Dialogue: 0,0:05:38.55,0:05:38.91,Cap,,0,0,0,,{\c&H00FFFFFF}Comment {\c&H00FFFFFF}your {\c&H00FFFFFF}pick
+Dialogue: 0,0:05:39.67,0:05:39.86,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H8CFFFFFF}subscribe {\c&H8CFFFFFF}because {\c&H8CFFFFFF}every
+Dialogue: 0,0:05:39.86,0:05:40.50,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}subscribe {\c&H8CFFFFFF}because {\c&H8CFFFFFF}every
+Dialogue: 0,0:05:40.50,0:05:40.73,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}subscribe {\c&H00FFFFFF}because {\c&H8CFFFFFF}every
+Dialogue: 0,0:05:40.73,0:05:40.93,Cap,,0,0,0,,{\c&H00FFFFFF}And {\c&H00FFFFFF}subscribe {\c&H00FFFFFF}because {\c&H00FFFFFF}every
+Dialogue: 0,0:05:40.94,0:05:41.27,Cap,,0,0,0,,{\c&H00FFFFFF}title {\c&H8CFFFFFF}fight {\c&H8CFFFFFF}ends {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:41.27,0:05:41.56,Cap,,0,0,0,,{\c&H00FFFFFF}title {\c&H00FFFFFF}fight {\c&H8CFFFFFF}ends {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:41.56,0:05:41.75,Cap,,0,0,0,,{\c&H00FFFFFF}title {\c&H00FFFFFF}fight {\c&H00FFFFFF}ends {\c&H8CFFFFFF}the
+Dialogue: 0,0:05:41.75,0:05:41.95,Cap,,0,0,0,,{\c&H00FFFFFF}title {\c&H00FFFFFF}fight {\c&H00FFFFFF}ends {\c&H00FFFFFF}the
+Dialogue: 0,0:05:41.84,0:05:42.09,Cap,,0,0,0,,{\c&H00FFFFFF}same {\c&H8CFFFFFF}way {\c&H8CFFFFFF}here
+Dialogue: 0,0:05:42.09,0:05:42.26,Cap,,0,0,0,,{\c&H00FFFFFF}same {\c&H00FFFFFF}way {\c&H8CFFFFFF}here
+Dialogue: 0,0:05:42.26,0:05:42.69,Cap,,0,0,0,,{\c&H00FFFFFF}same {\c&H00FFFFFF}way {\c&H00FFFFFF}here
+Dialogue: 0,0:05:43.45,0:05:43.60,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H8CFFFFFF}numbers {\c&H8CFFFFFF}have {\c&H8CFFFFFF}spoken
+Dialogue: 0,0:05:43.60,0:05:43.93,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}numbers {\c&H8CFFFFFF}have {\c&H8CFFFFFF}spoken
+Dialogue: 0,0:05:43.93,0:05:44.05,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}numbers {\c&H00FFFFFF}have {\c&H8CFFFFFF}spoken
+Dialogue: 0,0:05:44.05,0:05:44.58,Cap,,0,0,0,,{\c&H00FFFFFF}The {\c&H00FFFFFF}numbers {\c&H00FFFFFF}have {\c&H00FFFFFF}spoken

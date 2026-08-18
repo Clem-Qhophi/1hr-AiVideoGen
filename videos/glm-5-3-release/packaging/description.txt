@@ -1,0 +1,20 @@
+Zhipu AI (Z.ai) just launched GLM-5.3 — a 743B-parameter flagship model trained on Huawei Ascend chips, surging past western frontier models on cybersecurity and software engineering benchmarks.
+
+In this breakdown, get the full verdict in under 3 minutes, followed by verified benchmarks, terminal agent performance, and the mandatory 2-week catch on open weights.
+
+Key Highlights:
+• 84.5% on CyberGym Vulnerability Discovery (beats Anthropic Mythos 5 & OpenAI GPT-5.6 Sol)
+• 66.9% on DeepSWE v1.1 (+20.7% leap over GLM-5.2)
+• 28.3 on Terminal-Bench 3.0 (over 6x jump in CLI autonomous execution)
+• 2,436 verified zero-day and critical security bugs uncovered across 269 open-source repositories
+• 1,000,000 token context window with 128,000 output tokens
+• ⚠️ The Catch: 2-week security delay before open weights release; ExploitBench active weapon generation lags at 54.4%
+
+Sources:
+• Zhipu AI / Z.ai Official Model Announcement (August 14, 2026)
+• CyberGym Benchmark Evaluation Suite
+• DeepSWE & Terminal-Bench 3.0 Leaderboard
+
+Subscribe to @AIUnder3Min for same-day, verified breakdowns of every major AI model release.
+
+#GLM5 #ZhipuAI #Zai #AI #Cybersecurity #AICoding #TechNews #OpenSourceAI

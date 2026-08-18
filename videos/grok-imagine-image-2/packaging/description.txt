@@ -1,0 +1,29 @@
+Grok Imagine 2.0 just opened at #2 on the LMArena text-to-image leaderboard — and #2 on the image-edit board too. But the ranking you're hearing about is not the whole story: this video shows you the exact numbers (1320 vs 1380 Elo), the vote counts behind them (2,500 vs 69,000 — that's why the #2 is provisional), and the one number nobody's reporting: on the quality tier, Grok Imagine is still sitting at #14.
+
+You'll see the real screenshots — the LMArena text-to-image board, the image-edit arena, xAI's own API pricing ($0.02 standard, $0.05 quality), and the the-decoder coverage — every claim source-cited on screen. Then the honest-gap beat this channel always keeps: where the fast one wins, where the quality one doesn't rank, and how to tell which version you're actually using before you pay for the wrong one.
+
+0:00 The #2 nobody's reporting
+0:24 Context: where Grok Imagine came from
+1:02 The fast one — and the #14 no one mentions
+1:09 The two leaderboards, side by side
+1:31 How the arena actually votes
+1:45 Who's below Grok on the board
+2:01 What Imagine 2.0 actually does (Magic Wand, segmentation, background removal)
+2:25 The workflow: Photoshop vs one sentence in Grok
+2:43 The verdict
+2:56 Evidence: the text-to-image board
+3:24 Evidence: the image-edit arena (5,931 vs 184,189 votes)
+3:46 The jump: #14 to #2 in twelve places
+3:53 Evidence: the announcement coverage
+4:10 Beyond images: templates and consistent worlds
+4:24 Where this channel covers releases the day they land
+4:38 Evidence: xAI's API pricing
+5:02 What the evidence actually says
+5:10 The honest catch: #2 is real, and provisional
+5:29 Still second — but watch the quality tier
+5:38 Why #14 is the number to watch
+5:57 The payoff: what to actually take from this
+6:10 Try it yourself in two steps
+6:27 The close
+
+Every number in this video comes from a page actually read and captured — LMArena, docs.x.ai, the-decoder — with the source shown on screen, as of August 7-8, 2026. If this is how you want your AI news — fast, sourced, and honest about the catch — subscribe. That's the whole channel.

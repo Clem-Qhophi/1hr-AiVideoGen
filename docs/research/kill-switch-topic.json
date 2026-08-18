@@ -1,0 +1,62 @@
+{
+ "topic": "AI kill switch bill tech companies asking government to slow AI development",
+ "niche": "ai-news",
+ "niche_target": [
+  3,
+  10
+ ],
+ "recent_window": "90d",
+ "long_only": false,
+ "generated": "2026-08-08T04:40:03+00:00",
+ "autocomplete": {
+  "topic": "ai kill switch bill tech companies asking government to slow ai development",
+  "self_suggest_chars": null,
+  "self_suggest_prefix": null,
+  "self_suggest_rank": null,
+  "topic_chars": 75,
+  "reach": null,
+  "head_suggestions": [],
+  "longtail": [],
+  "longtail_n": 0,
+  "probes": 23,
+  "probe_failures": 0
+ },
+ "year": {
+  "rows": [],
+  "total_results": 406
+ },
+ "recent": {
+  "rows": [],
+  "total_results": 292
+ },
+ "quota_units_used": 204,
+ "trends": {
+  "error": "SSLError: HTTPSConnectionPool(host='trends.google.com', port=443): Max retries exceeded with url: /?geo=US (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1077)')))"
+ },
+ "assessment": {
+  "scores": {
+   "demand": 0,
+   "performance": 0,
+   "freshness": 0,
+   "winnability": 1
+  },
+  "why": {
+   "demand": "YouTube never autocompletes this exact phrase, at any prefix — it is not a thing people type",
+   "performance": "nothing on this topic is being watched — best is 0 views/day",
+   "freshness": "nobody has published on this in 90d",
+   "winnability": "no small channel has broken out on this topic"
+  },
+  "total": 1,
+  "verdict": "NO-DEMAND",
+  "big_channel_share": 0.0,
+  "supply_saturated": false,
+  "freshness_ratio": null,
+  "drift": 1.0,
+  "strict_on_topic": false,
+  "downgrade": null,
+  "n_on_topic": 0,
+  "n_sampled": 0,
+  "small_breakouts": []
+ },
+ "angles": []
+}

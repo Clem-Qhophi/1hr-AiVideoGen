@@ -1,0 +1,75 @@
+{
+  "project": "glm-5-3-release",
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/glm-5-3-release/output/glm-5-3-release-captioned.mp4",
+    "out": "videos/glm-5-3-release/output/glm-5-3-release-sfx.mp4",
+    "end_s": 183.34,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.0,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -4,
+      "purpose": "cold open transition",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 5.5,
+      "sfx_id": "impact-soft",
+      "gain_db": -6,
+      "purpose": "cybergym benchmark reveal",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 9.8,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -6,
+      "purpose": "catch card reveal",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 29.5,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -4,
+      "purpose": "verdict section start",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 61.0,
+      "sfx_id": "impact-soft",
+      "gain_db": -6,
+      "purpose": "cve discovery reveal",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 82.0,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -4,
+      "purpose": "evidence section start",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 106.0,
+      "sfx_id": "launch-thump",
+      "gain_db": -6,
+      "purpose": "terminal-bench leap reveal",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 140.0,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -4,
+      "purpose": "honest gap section start",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 165.0,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -6,
+      "purpose": "close CTA transition",
+      "audible_test": "speech gap"
+    }
+  ]
+}

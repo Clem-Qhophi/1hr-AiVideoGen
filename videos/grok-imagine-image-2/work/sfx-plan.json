@@ -1,0 +1,212 @@
+{
+  "master": "videos/grok-imagine-image-2/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/grok-imagine-image-2/output/grok-imagine-image-2-captioned.mp4",
+    "out": "videos/grok-imagine-image-2/output/grok-imagine-image-2-sfx.mp4",
+    "end_s": 406.27,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 5.07,
+      "sfx_id": "pop-reveal",
+      "gain_db": -16,
+      "cue": "Hook title 'Grok Imagine 2.0' lands (GIIHook f152)"
+    },
+    {
+      "at_s": 8.26,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -16,
+      "cue": "'#2 IN THE WORLD' slam lands on word 'two' (GIIHook f218)"
+    },
+    {
+      "at_s": 61.79,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -20,
+      "optional": true,
+      "cue": "Cut into 'THE FAST ONE' shot"
+    },
+    {
+      "at_s": 62.92,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -16,
+      "cue": "'THE FAST ONE' slam (GIIFastOne f34)"
+    },
+    {
+      "at_s": 68.62,
+      "sfx_id": "stamp-hit",
+      "gain_db": -12,
+      "cue": "'#14' red stamp lands on word 'fourteen' (GIIFastOne f205)"
+    },
+    {
+      "at_s": 82.17,
+      "sfx_id": "pop-reveal",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Board number 1320 lands (GIIBoardNumbers f392)"
+    },
+    {
+      "at_s": 88.77,
+      "sfx_id": "pop-reveal",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Board number 1463 lands (GIIBoardNumbers f590)"
+    },
+    {
+      "at_s": 109.06,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Leaderboard row Reve 1302 drops in (GIIBelow f115)"
+    },
+    {
+      "at_s": 110.6,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Leaderboard row Muse 1283 (GIIBelow f161)"
+    },
+    {
+      "at_s": 112.67,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Leaderboard row Gemini 1263 (GIIBelow f223)"
+    },
+    {
+      "at_s": 115.17,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Leaderboard row Qwen 1258 (GIIBelow f298)"
+    },
+    {
+      "at_s": 120.87,
+      "sfx_id": "chime-reward",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "'running with the top two' - green payoff line"
+    },
+    {
+      "at_s": 128.29,
+      "sfx_id": "pop-reveal",
+      "gain_db": -16,
+      "cue": "Magic Wand feature pops on word 'Magic' (GIIFeatures f213)"
+    },
+    {
+      "at_s": 152.71,
+      "sfx_id": "ui-send",
+      "gain_db": -16,
+      "cue": "'one sentence in Grok' - chat send (GIIWorkflow f246)"
+    },
+    {
+      "at_s": 164.8,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -16,
+      "cue": "Verdict '#2' slam on word 'two' (GIIVerdict f41)"
+    },
+    {
+      "at_s": 176.1,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -20,
+      "optional": true,
+      "cue": "Cut into T2I evidence shot"
+    },
+    {
+      "at_s": 188.3,
+      "sfx_id": "pop-reveal",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "T2I evidence chip 1 'Grok Imagine 2.0 at 1320' lands (GIIEvidenceT2I f366)"
+    },
+    {
+      "at_s": 215.51,
+      "sfx_id": "pop-reveal",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Edit-arena vote chip 5,931 vs 184,189 lands (GIIEvidenceEdit f349)"
+    },
+    {
+      "at_s": 232.15,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -16,
+      "cue": "'#14 to #2 - opens at two' slam (GIIJump f181)"
+    },
+    {
+      "at_s": 238.58,
+      "sfx_id": "pop-reveal",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Decoder chip 'Magic Wand' pops on word 'Magic' (GIIEvidenceDecoder f157)"
+    },
+    {
+      "at_s": 261.2,
+      "sfx_id": "riser-soft",
+      "gain_db": -20,
+      "optional": true,
+      "cue": "Build into 'stepping stone to video' (GIIBeyond)"
+    },
+    {
+      "at_s": 263.03,
+      "sfx_id": "impact-deep-soft",
+      "gain_db": -16,
+      "cue": "'STEPPING STONE TO VIDEO' slam on word 'stepping' (GIIBeyond f364)"
+    },
+    {
+      "at_s": 270.11,
+      "sfx_id": "pop-reveal",
+      "gain_db": -16,
+      "cue": "Mid-roll SUBSCRIBE pill slams on word 'subscribe' (GIIMidroll f171)"
+    },
+    {
+      "at_s": 289.13,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Pricing chips $0.02/$0.05 land (GIIEvidenceAPI f342)"
+    },
+    {
+      "at_s": 305.0,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Checklist 2nd check 'second' lands (GIIEvidenceSays f91)"
+    },
+    {
+      "at_s": 313.83,
+      "sfx_id": "stamp-hit",
+      "gain_db": -12,
+      "optional": true,
+      "cue": "'PROVISIONAL' honest-pivot stamp on word 'provisional' (GIIHonestOpen f115)"
+    },
+    {
+      "at_s": 350.37,
+      "sfx_id": "glitch-zap",
+      "gain_db": -14,
+      "optional": true,
+      "cue": "'story could flip' - caveat glitch (GIIHonestThird f369)"
+    },
+    {
+      "at_s": 384.48,
+      "sfx_id": "stamp-hit",
+      "gain_db": -12,
+      "optional": true,
+      "cue": "'FIVE MINUTES' CTA stamp (GIICallToAction f429)"
+    },
+    {
+      "at_s": 395.83,
+      "sfx_id": "impact-soft",
+      "gain_db": -16,
+      "cue": "Outro SUBSCRIBE slam on word 'subscribe' (GIIOutro f258)"
+    },
+    {
+      "at_s": 406.2,
+      "sfx_id": "impact-soft",
+      "gain_db": -18,
+      "optional": true,
+      "cue": "Video end - closing impact"
+    }
+  ]
+}

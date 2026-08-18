@@ -1,0 +1,32 @@
+{
+  "master": "videos/qt-funded-ad/work/audio/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/qt-funded-ad/output/qt-funded-ad-preview.mp4",
+    "out": "videos/qt-funded-ad/output/qt-funded-ad-clean-sfx.mp4",
+    "end_s": 30.0,
+    "duck": true
+  },
+  "_note": "30s ad, near-continuous VO -> short-form calibration (EVOLUTION): whooshes -3, pops 0..+3, stamps/snaps 0..+7. 8 beats, slam/pop moments scored from shot-local frames converted to master seconds. Core set = the slams + transitions; pillars/chip/URL are optional texture. Verify each cue vs the captioned (pre-SFX) render with RMS diff.",
+  "events": [
+    {"at_s": 0.27, "sfx_id": "impact-deep-soft", "gain_db": 3, "shot": "QTHook", "cue": "EVERY TRADER HAS A PLAN. headline slam lands (local f8/57)"},
+    {"at_s": 2.43, "sfx_id": "stamp-hit", "gain_db": 4, "shot": "QTConsistency", "cue": "CONSISTENCY slams on the word (local f16/93; word 2.44)"},
+    {"at_s": 4.97, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTStructure", "cue": "transition into the pillars beat"},
+    {"at_s": 6.67, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTStructure", "cue": "pillar 1 pops (local f50)", "optional": true},
+    {"at_s": 8.17, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTStructure", "cue": "pillar 2 pops (local f95)", "optional": true},
+    {"at_s": 9.73, "sfx_id": "pop-reveal", "gain_db": 3, "shot": "QTStructure", "cue": "pillar 3 completes the stack (local f142)"},
+    {"at_s": 11.17, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTChoose", "cue": "transition into the program-selector beat"},
+    {"at_s": 11.67, "sfx_id": "impact-soft", "gain_db": 2, "shot": "QTChoose", "cue": "CHOOSE THE PATH slams (local f14; word 'Choose' 11.84)"},
+    {"at_s": 13.33, "sfx_id": "ui-click-soft", "gain_db": 6, "shot": "QTChoose", "cue": "URL chip rises (local f64; word 'strategy.' 13.11-13.57)", "optional": true},
+    {"at_s": 14.57, "sfx_id": "stamp-hit", "gain_db": 7, "shot": "QTDiscipline", "cue": "DISCIPLINE. slams (local f11; word 'Trade' 14.57)"},
+    {"at_s": 16.47, "sfx_id": "stamp-hit", "gain_db": 7, "shot": "QTDiscipline", "cue": "CONSISTENCY. slams (local f68; word 'Prove' 16.48)"},
+    {"at_s": 17.77, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTProgress", "cue": "transition into the simulated-account beat"},
+    {"at_s": 19.33, "sfx_id": "impact-soft", "gain_db": 2, "shot": "QTProgress", "cue": "SIMULATED FUNDED ACCOUNT slams (local f46; word 'simulated' 19.48)"},
+    {"at_s": 22.07, "sfx_id": "trap-snap", "gain_db": 0, "shot": "QTProgress", "cue": "legal chip snaps on (local f128; 'program rules' 21.71-22.48)"},
+    {"at_s": 25.47, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTEndCard", "cue": "transition into the end card"},
+    {"at_s": 27.50, "sfx_id": "impact-soft", "gain_db": 2, "shot": "QTEndCard", "cue": "SCALE WITH CONFIDENCE. slams (local f60; word 'Scale' 27.67)", "optional": true},
+    {"at_s": 28.70, "sfx_id": "chime-reward", "gain_db": 2, "shot": "QTEndCard", "cue": "CTA START YOUR EVALUATION pops on 'confidence.' (local f96)"}
+  ]
+}
+

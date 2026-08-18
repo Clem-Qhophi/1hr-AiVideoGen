@@ -1,0 +1,72 @@
+{
+  "master": "videos/neuralink-blindsight-silence/reference/master.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/neuralink-blindsight-silence/output/neuralink-blindsight-silence-cap.mp4",
+    "out": "videos/neuralink-blindsight-silence/output/neuralink-blindsight-silence-sfx.mp4",
+    "end_s": 321.94,
+    "duck": true
+  },
+  "events": [
+    { "at_s": 0.2, "sfx_id": "impact-soft", "gain_db": 1, "shot": "NBSHook", "cue": "$650,000,000 slams in" },
+    { "at_s": 7.33, "sfx_id": "stamp-hit", "gain_db": 3, "shot": "NBSHook", "cue": "you got played" },
+
+    { "at_s": 13.67, "sfx_id": "whoosh-soft", "gain_db": 2, "shot": "NBSContext", "cue": "cutaway into context" },
+    { "at_s": 14.77, "sfx_id": "ui-click-soft", "gain_db": 2, "shot": "NBSContext", "cue": "Sept 17 2024 date badge" },
+    { "at_s": 28.1, "sfx_id": "impact-soft", "gain_db": 2, "shot": "NBSContext", "cue": "that got headlines everywhere" },
+
+    { "at_s": 37.93, "sfx_id": "stamp-hit", "gain_db": 3, "shot": "NBSDesignation", "cue": "NOT FDA approval" },
+    { "at_s": 39.93, "sfx_id": "stamp-hit", "gain_db": 3, "shot": "NBSDesignation", "cue": "NOT proof it works" },
+    { "at_s": 42.9, "sfx_id": "chime-reward", "gain_db": 1, "shot": "NBSDesignation", "cue": "it's a fast lane, that's it", "optional": true },
+    { "at_s": 46.93, "sfx_id": "pop-reveal", "gain_db": 1, "shot": "NBSDesignation", "cue": "FDA quote card" },
+
+    { "at_s": 58.67, "sfx_id": "whoosh-soft", "gain_db": 2, "shot": "NBSEvidenceTrialStatus", "cue": "cutaway into central proof" },
+    { "at_s": 60.0, "sfx_id": "pop-reveal", "gain_db": 1, "shot": "NBSEvidenceTrialStatus", "cue": "screenshot fades in", "optional": true },
+    { "at_s": 65.67, "sfx_id": "chime-reward", "gain_db": 2, "shot": "NBSEvidenceTrialStatus", "cue": "motor: Active trial" },
+    { "at_s": 68.0, "sfx_id": "chime-reward", "gain_db": 1, "shot": "NBSEvidenceTrialStatus", "cue": "speech: Active trial", "optional": true },
+    { "at_s": 79.83, "sfx_id": "stamp-hit", "gain_db": 4, "shot": "NBSEvidenceTrialStatus", "cue": "vision: Upcoming trial (the turn)" },
+    { "at_s": 84.17, "sfx_id": "impact-deep-soft", "gain_db": 2, "shot": "NBSEvidenceTrialStatus", "cue": "16 months" },
+
+    { "at_s": 94.6, "sfx_id": "ui-click-soft", "gain_db": 2, "shot": "NBSWhyHarder", "cue": "a cursor needs" },
+    { "at_s": 97.1, "sfx_id": "ui-click-soft", "gain_db": 2, "shot": "NBSWhyHarder", "cue": "speech needs", "optional": true },
+    { "at_s": 99.55, "sfx_id": "stamp-hit", "gain_db": 3, "shot": "NBSWhyHarder", "cue": "vision needs (the hard one)" },
+    { "at_s": 109.4, "sfx_id": "glitch-zap", "gain_db": 1, "shot": "NBSWhyHarder", "cue": "Atari graphics", "optional": true },
+
+    { "at_s": 111.1, "sfx_id": "whoosh-soft", "gain_db": 2, "shot": "NBSExperts", "cue": "cutaway into expert quotes" },
+    { "at_s": 115.05, "sfx_id": "pop-reveal", "gain_db": 1, "shot": "NBSExperts", "cue": "Ione Fine quote" },
+    { "at_s": 130.83, "sfx_id": "pop-reveal", "gain_db": 1, "shot": "NBSExperts", "cue": "Philip Troyk quote" },
+
+    { "at_s": 138.75, "sfx_id": "whoosh-soft", "gain_db": 2, "shot": "NBSTrackRecord", "cue": "cutaway into track record" },
+    { "at_s": 150.01, "sfx_id": "stamp-hit", "gain_db": 3, "shot": "NBSTrackRecord", "cue": "ran out of money" },
+
+    { "at_s": 169.6, "sfx_id": "stamp-hit", "gain_db": 4, "shot": "NBSHonestVerdict", "cue": "zero human trials" },
+    { "at_s": 176.3, "sfx_id": "chime-reward", "gain_db": 2, "shot": "NBSHonestVerdict", "cue": "subscribe CTA card (mid-roll)" },
+
+    { "at_s": 183.06, "sfx_id": "whoosh-soft", "gain_db": 2, "shot": "NBSEvidenceRecap", "cue": "cutaway into evidence recap" },
+    { "at_s": 188.39, "sfx_id": "stamp-hit", "gain_db": 2, "shot": "NBSEvidenceRecap", "cue": "not a leak", "optional": true },
+    { "at_s": 190.06, "sfx_id": "stamp-hit", "gain_db": 2, "shot": "NBSEvidenceRecap", "cue": "not a rumor", "optional": true },
+    { "at_s": 192.39, "sfx_id": "chime-reward", "gain_db": 2, "shot": "NBSEvidenceRecap", "cue": "their own site, today" },
+
+    { "at_s": 204.1, "sfx_id": "whoosh-soft", "gain_db": 2, "shot": "NBSTimeline", "cue": "cutaway into timeline" },
+    { "at_s": 213.79, "sfx_id": "ui-click-soft", "gain_db": 2, "shot": "NBSTimeline", "cue": "Nov 2024 row", "optional": true },
+    { "at_s": 216.79, "sfx_id": "ui-click-soft", "gain_db": 2, "shot": "NBSTimeline", "cue": "May 2025 row", "optional": true },
+    { "at_s": 220.77, "sfx_id": "ui-click-soft", "gain_db": 2, "shot": "NBSTimeline", "cue": "Jun 2025 row", "optional": true },
+    { "at_s": 225.1, "sfx_id": "ui-click-soft", "gain_db": 2, "shot": "NBSTimeline", "cue": "Jan 2026 row", "optional": true },
+    { "at_s": 229.43, "sfx_id": "stamp-hit", "gain_db": 4, "shot": "NBSTimeline", "cue": "Blindsight alone stayed silent" },
+
+    { "at_s": 251.03, "sfx_id": "impact-deep-soft", "gain_db": 3, "shot": "NBSDagnelie", "cue": "trust us, we're Neuralink (payoff)" },
+
+    { "at_s": 256.47, "sfx_id": "whoosh-soft", "gain_db": 2, "shot": "NBSHonestGap1", "cue": "cutaway into honest-gap" },
+    { "at_s": 264.97, "sfx_id": "ui-click-soft", "gain_db": 2, "shot": "NBSHonestGap1", "cue": "could be technical", "optional": true },
+    { "at_s": 271.07, "sfx_id": "chime-reward", "gain_db": 1, "shot": "NBSHonestGap1", "cue": "silence isn't proof of failure" },
+
+    { "at_s": 278.73, "sfx_id": "ui-click-soft", "gain_db": 2, "shot": "NBSHonestGap2", "cue": "months", "optional": true },
+    { "at_s": 288.4, "sfx_id": "chime-reward", "gain_db": 1, "shot": "NBSHonestGap2", "cue": "floor, not a promise" },
+
+    { "at_s": 295.7, "sfx_id": "stamp-hit", "gain_db": 4, "shot": "NBSClose", "cue": "No. Not yet." },
+    { "at_s": 306.3, "sfx_id": "chime-reward", "gain_db": 1, "shot": "NBSClose", "cue": "checklist ticks", "optional": true },
+    { "at_s": 313.54, "sfx_id": "chime-reward", "gain_db": 2, "shot": "NBSClose", "cue": "SUBSCRIBE button (close CTA)" },
+    { "at_s": 319.08, "sfx_id": "ui-click-soft", "gain_db": 3, "shot": "NBSClose", "cue": "like/comment icons" }
+  ]
+}

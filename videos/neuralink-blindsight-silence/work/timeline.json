@@ -1,0 +1,28 @@
+{
+  "master": "videos/neuralink-blindsight-silence/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "NBSHook", "type": "cutaway", "master_in_s": 0.0, "master_out_s": 13.1, "cue": "cold-open: $650M raised, none into a trial, you got played" },
+    { "id": "NBSContext", "type": "cutaway", "master_in_s": 13.1, "master_out_s": 33.6, "cue": "context: Sept 2024 FDA designation, Musk's claims, then silence" },
+    { "id": "NBSDesignation", "type": "cutaway", "master_in_s": 33.6, "master_out_s": 58.0, "cue": "verdict pt1: what Breakthrough Device Designation means, FDA quote" },
+    { "id": "NBSEvidenceTrialStatus", "type": "cutaway", "master_in_s": 58.0, "master_out_s": 87.4, "cue": "verdict pt2 CENTRAL PROOF: Active/Active/Upcoming, 21 participants, 16 months" },
+    { "id": "NBSWhyHarder", "type": "cutaway", "master_in_s": 87.4, "master_out_s": 111.1, "cue": "verdict pt3: cursor vs speech vs vision difficulty, Atari-res" },
+    { "id": "NBSExperts", "type": "cutaway", "master_in_s": 111.1, "master_out_s": 138.75, "cue": "verdict pt4: Ione Fine + Philip Troyk quotes" },
+    { "id": "NBSTrackRecord", "type": "cutaway", "master_in_s": 138.75, "master_out_s": 161.1, "cue": "verdict pt5: prior vision-implant companies failed patients" },
+    { "id": "NBSHonestVerdict", "type": "cutaway", "master_in_s": 161.1, "master_out_s": 183.06, "cue": "verdict close + MANDATORY mid-roll CTA (55-57% of runtime)" },
+    { "id": "NBSEvidenceRecap", "type": "cutaway", "master_in_s": 183.06, "master_out_s": 204.1, "cue": "evidence pt1: reaffirm, their own site today" },
+    { "id": "NBSTimeline", "type": "cutaway", "master_in_s": 204.1, "master_out_s": 232.2, "cue": "evidence pt2: update-log timeline, Blindsight alone silent" },
+    { "id": "NBSDagnelie", "type": "cutaway", "master_in_s": 232.2, "master_out_s": 254.3, "cue": "evidence pt3 payoff: Dagnelie 'trust us, we're Neuralink'" },
+    { "id": "NBSHonestGap1", "type": "cutaway", "master_in_s": 254.3, "master_out_s": 276.4, "cue": "honest-gap pt1: why it stalled is unknown" },
+    { "id": "NBSHonestGap2", "type": "cutaway", "master_in_s": 276.4, "master_out_s": 293.0, "cue": "honest-gap pt2: real timeline unknown, floor not promise" },
+    { "id": "NBSClose", "type": "cutaway", "master_in_s": 293.0, "master_out_s": 321.94, "cue": "close: verdict recap + MANDATORY subscribe/like/comment" }
+  ],
+  "preview": {
+    "end_s": 321.94,
+    "out": "videos/neuralink-blindsight-silence/output/neuralink-blindsight-silence-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "render": {
+    "preview": "videos/openai-rogue-agents/output/openai-rogue-agents-preview.mp4",
+    "out": "videos/openai-rogue-agents/output/openai-rogue-agents-sfx.mp4",
+    "end_s": 457,
+    "duck": true
+  },
+  "events": [
+    { "at_s": 0.5, "sfx_id": "impact-soft", "gain_db": -3, "label": "hook open" },
+    { "at_s": 9, "sfx_id": "riser-soft", "gain_db": -6, "label": "stat reveal" },
+    { "at_s": 78, "sfx_id": "glitch-zap", "gain_db": -4, "label": "agent quote" },
+    { "at_s": 128, "sfx_id": "scan-hum", "gain_db": -6, "label": "timeline start" },
+    { "at_s": 133, "sfx_id": "impact-soft", "gain_db": -3, "label": "july 4" },
+    { "at_s": 138, "sfx_id": "glitch-zap", "gain_db": -3, "label": "july 8 rebuilt" },
+    { "at_s": 170, "sfx_id": "riser-soft", "gain_db": -5, "label": "attack chain" },
+    { "at_s": 176, "sfx_id": "impact-soft", "gain_db": -3, "label": "hugging face breached" },
+    { "at_s": 210, "sfx_id": "launch-thump", "gain_db": -4, "label": "17600 stat" },
+    { "at_s": 255, "sfx_id": "scan-hum", "gain_db": -6, "label": "cambrian explosion" },
+    { "at_s": 315, "sfx_id": "impact-soft", "gain_db": -3, "label": "dalton quote" },
+    { "at_s": 420, "sfx_id": "riser-soft", "gain_db": -5, "label": "close approach" }
+  ]
+}

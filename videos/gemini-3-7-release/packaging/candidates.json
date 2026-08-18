@@ -1,0 +1,302 @@
+[
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "This AI is So Fast It Feels Like Cheating (Gemini 3.7 Flash)",
+    "thumb_text": "INSANE SPEED",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Gemini 3.7 Flash logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 98,
+      "breakdown": {
+        "curiosity_gap": 23,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": true
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "RIP Claude? Google's New Model Just Destroyed Coding Benchmarks",
+    "thumb_text": "IT'S OVER",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Gemini 3.7 Flash with 65.3% badge",
+    "evaluation": {
+      "total_score": 90,
+      "breakdown": {
+        "curiosity_gap": 15,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": true
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "This AI is So Fast It Feels Like Cheating (Gemini 3.7 Flash)",
+    "thumb_text": "TOO FAST",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Gemini 3.7 Flash logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 88,
+      "breakdown": {
+        "curiosity_gap": 23,
+        "emotional_stakes": 10,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "The Fastest AI on Earth Just Changed Everything (Gemini 3.7 Flash)",
+    "thumb_text": "TOO FAST",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Gemini 3.7 Flash logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "The Fastest AI on Earth Just Changed Everything (Gemini 3.7 Flash)",
+    "thumb_text": "0.1s LATENCY",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Gemini 3.7 Flash logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "The Fastest AI on Earth Just Changed Everything (Gemini 3.7 Flash)",
+    "thumb_text": "INSANE SPEED",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Gemini 3.7 Flash logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "superhuman-speed",
+    "archetype_name": "Superhuman Speed / The Superhero Metaphor",
+    "title": "The Fastest AI on Earth Just Changed Everything (Gemini 3.7 Flash)",
+    "thumb_text": "THE FLASH AI",
+    "accent": "cyan",
+    "visual_concept": "Superhero lightning aura around Gemini 3.7 Flash logo with glowing speed meter and comparison badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "Google Just Ended Claude 3.5 Sonnet (Gemini 3.7 Flash)",
+    "thumb_text": "65% CODING",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Gemini 3.7 Flash with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "OpenAI Did Not Expect This... (Gemini 3.7 Flash Coding Test)",
+    "thumb_text": "OPENAI PANICS",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Gemini 3.7 Flash with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "OpenAI Did Not Expect This... (Gemini 3.7 Flash Coding Test)",
+    "thumb_text": "CLAUDE DESTROYED",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Gemini 3.7 Flash with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "RIP Claude? Google's New Model Just Destroyed Coding Benchmarks",
+    "thumb_text": "OPENAI PANICS",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Gemini 3.7 Flash with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "RIP Claude? Google's New Model Just Destroyed Coding Benchmarks",
+    "thumb_text": "65% CODING",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Gemini 3.7 Flash with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "industry-threat",
+    "archetype_name": "Industry Threat / Competitor Shock",
+    "title": "RIP Claude? Google's New Model Just Destroyed Coding Benchmarks",
+    "thumb_text": "CLAUDE DESTROYED",
+    "accent": "red",
+    "visual_concept": "Side-by-side battle split: Claude/OpenAI cracked logo vs glowing Gemini 3.7 Flash with 65.3% badge",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "benchmark-destruction",
+    "archetype_name": "David vs Goliath Benchmark Destruction",
+    "title": "The New Coding King is Here: Gemini 3.7 Flash Benchmark Deep Dive",
+    "thumb_text": "RECORD BROKEN",
+    "accent": "green",
+    "visual_concept": "Exploding benchmark bar chart where Gemini 3.7 Flash blows past Sonnet and GPT-4o with glowing green numbers",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  },
+  {
+    "archetype": "benchmark-destruction",
+    "archetype_name": "David vs Goliath Benchmark Destruction",
+    "title": "This 65% SWE-Bench Score Makes Zero Sense (Gemini 3.7 Flash)",
+    "thumb_text": "NEW #1 CODING",
+    "accent": "green",
+    "visual_concept": "Exploding benchmark bar chart where Gemini 3.7 Flash blows past Sonnet and GPT-4o with glowing green numbers",
+    "evaluation": {
+      "total_score": 87,
+      "breakdown": {
+        "curiosity_gap": 12,
+        "emotional_stakes": 20,
+        "glanceability": 20,
+        "visual_metaphor": 15,
+        "title_thumb_synergy": 10,
+        "entity_velocity": 10
+      },
+      "pass_90": false
+    }
+  }
+]

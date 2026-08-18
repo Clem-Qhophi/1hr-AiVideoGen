@@ -1,0 +1,30 @@
+{
+  "master": "videos/review-riskmarshal/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "RMHook", "master_in_s": 0, "master_out_s": 15, "type": "cutaway" },
+    { "id": "RMProblem", "master_in_s": 15, "master_out_s": 35, "type": "cutaway" },
+    { "id": "RMWhatIs", "master_in_s": 35, "master_out_s": 54, "type": "cutaway" },
+    { "id": "RMPromise", "master_in_s": 54, "master_out_s": 64, "type": "cutaway" },
+    { "id": "RMHowStep1", "master_in_s": 64, "master_out_s": 74, "type": "cutaway" },
+    { "id": "RMHowStep2", "master_in_s": 74, "master_out_s": 84, "type": "cutaway" },
+    { "id": "RMHowStep3", "master_in_s": 84, "master_out_s": 99, "type": "cutaway" },
+    { "id": "RMEnforcementLog", "master_in_s": 99, "master_out_s": 129, "type": "cutaway" },
+    { "id": "RMLotSize", "master_in_s": 129, "master_out_s": 139, "type": "cutaway" },
+    { "id": "RMDifferent", "master_in_s": 139, "master_out_s": 154, "type": "cutaway" },
+    { "id": "RMBehavioral", "master_in_s": 154, "master_out_s": 169, "type": "cutaway" },
+    { "id": "RMAccountability", "master_in_s": 169, "master_out_s": 179, "type": "cutaway" },
+    { "id": "RMDiscipline", "master_in_s": 179, "master_out_s": 194, "type": "cutaway" },
+    { "id": "RMLimitations", "master_in_s": 194, "master_out_s": 209, "type": "cutaway" },
+    { "id": "RMWhoFor", "master_in_s": 209, "master_out_s": 224, "type": "cutaway" },
+    { "id": "RMPricingCTA", "master_in_s": 224, "master_out_s": 238.7, "type": "cutaway" }
+  ],
+  "preview": {
+    "end_s": 238.73,
+    "out": "videos/review-riskmarshal/output/review-riskmarshal-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

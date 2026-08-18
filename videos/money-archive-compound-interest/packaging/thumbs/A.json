@@ -1,0 +1,32 @@
+{
+  "engine": "remotion-still",
+  "composition": "MoneyArchiveCompoundA",
+  "props": {
+    "headline": "10 YEARS WINS",
+    "emphasis": null,
+    "kicker": "SAME 200 A MONTH",
+    "sub": null,
+    "badge": "REAL SEC MATH",
+    "accent": "lime",
+    "variant": "versus",
+    "image": "thumbs/000-small-coin-stack-growing-0.jpg",
+    "image2": "thumbs/001-large-money-stack-tall-0.jpg",
+    "labelA": "10 YEARS IN",
+    "labelB": "30 YEARS IN",
+    "valueA": "$1.1M",
+    "valueB": "$545K",
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "left",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": null,
+    "faceAt": null,
+    "faceFocus": null,
+    "faceCutout": false
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\MoneyArchiveCompoundA.tsx"
+}

@@ -1,0 +1,16 @@
+{
+  "_note": "Paths are ABSOLUTE - yt_upload.py resolves relative plan paths against the parent of this repo folder. Single thumbnail only (A.jpg) per the 2026-08-04 standing preference - no B/C bets. PRIVACY IS PRIVATE - user must personally decide when this goes live per their one-video-public-per-day rule.",
+  "video": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/garden-pest-truth/output/garden-pest-truth-MASTER.mp4",
+  "title": "The Forgotten Secret to Keeping Pests Out of Your Garden Forever",
+  "description_file": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/garden-pest-truth/packaging/description.txt",
+  "thumbnail": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/videos/garden-pest-truth/packaging/thumbs/A.jpg",
+  "tags": [
+    "companion planting", "garden pests", "natural pest control",
+    "home hacks", "organic gardening", "garden tips",
+    "pest control tips", "old fixes", "gardening myths", "vegetable garden",
+    "companion planting science", "garden hacks"
+  ],
+  "categoryId": 26,
+  "privacy": "private",
+  "madeForKids": false
+}

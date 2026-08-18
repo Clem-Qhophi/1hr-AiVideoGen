@@ -1,0 +1,50 @@
+
+=== 24h — 2 videos ===
+  runtime: median 28 min  (p25 26 / p75 30)
+  titles: 0% use ALL-CAPS · 50% a number · 0% a parenthetical
+  recurring words: hacks, amish's, hydrogen, peroxide, replace, every, bottle, under, sink, cents, free, storage
+  top by views/day:
+          12/d   30m  Amish's 35 Hydrogen Peroxide Hacks  — Replace Every Bottle Under Y
+              Grandma's Survival Code            3 views, 0.2d old
+           8/d   25m  Free Storage Hacks: Amish Zero-Cost Container Secrets
+              Plain & Practical Homestead        2 views, 0.2d old
+
+=== 30d — 40 videos ===
+  runtime: median 25 min  (p25 22 / p75 31)
+  titles: 30% use ALL-CAPS · 67% a number · 7% a parenthetical
+  recurring words: hacks, trick, amish, roaches, ants, any, actually, old, home, remedies, were, power
+  top by views/day:
+       5,324/d   26m  Amish´s 35 White Vinegar Hacks To Get Rid Of Roaches, Ants, Spider
+              Eli Yoder Agriculture              124,084 views, 23.3d old
+       4,396/d   25m  20 Home Remedies That Were Everywhere in 1950 — And Completely Gon
+              Walter's Forgotten Remedies        39,726 views, 9.0d old
+       3,820/d   36m  20 WD-40 Hacks That Kill Roaches, Ants & Wasps — The $4 Can Exterm
+              Eli Yoder Secrets                  91,131 views, 23.9d old
+       2,990/d   37m  On Thanksgiving, I Returned Home And Found My Parents Treating My 
+              Revenge Future                     24,519 views, 8.2d old
+       2,703/d   70m  Remèdes de grand-mère : pourquoi ils marchent vraiment (médecine c
+              Nina Voit - Du Bon Sens            11,306 views, 4.2d old
+       1,646/d   23m  The $4 "Cool" Japanese Trick That Drops Any Room 15° — No AC, No P
+              Maya Sato                          1,792 views, 1.1d old
+
+=== 365d — 56 videos ===
+  runtime: median 27 min  (p25 24 / p75 33)
+  titles: 26% use ALL-CAPS · 82% a number · 10% a parenthetical
+  recurring words: amish, trick, hacks, old, any, home, keeps, summer, banned, bill, without, have
+  top by views/day:
+      28,601/d   27m  Why Buy A Generator? You Have One Parked In Your Driveway - Amish 
+              Eli Yoder Construction             858,485 views, 30.0d old
+      26,203/d   24m  KILL EVERY Mosquito The AMISH Way. SAFE For Honey Bees & Pets!
+              Elias Yoder                        1,983,935 views, 75.7d old
+      21,877/d   31m  The $4 Amish Fix for a Deadly Hot House (Save $3000 This Summer)
+              Elias Yoder                        1,686,314 views, 77.1d old
+      12,638/d   29m  20 Hydrogen Peroxide Hacks That Kill Roaches, Ants & Mice — The $1
+              Eli Yoder Secrets                  680,670 views, 53.9d old
+       9,053/d   29m  Amish's 25 BANNED Hydrogen Peroxide Hacks from the 60s That Scient
+              Eli Yoder Secrets                  949,316 views, 104.9d old
+       8,588/d   22m  Grandma's 25 BANNED Hydrogen Peroxide Hacks from 60s That INSTANTL
+              Saving Savers                      1,289,082 views, 150.1d old
+
+  -> docs/research/home-hacks.json
+
+Read these as PATTERNS to learn from, not titles to copy. Duplicating a title verbatim is how a channel gets flagged as derivative.

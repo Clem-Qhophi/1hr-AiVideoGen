@@ -1,0 +1,42 @@
+{
+  "master": "videos/video-ai-vscode/output/preview-tight.mp4",
+  "preview": {
+    "out": "videos/video-ai-vscode/output/final-master-ai-vscode.mp4",
+    "end_s": 28.0,
+    "fps": 30,
+    "width": 1920,
+    "height": 1080
+  },
+  "shots": [
+    {
+      "id": "video-ai-vscode-Scene1Hook",
+      "type": "cutaway",
+      "master_in_s": 0.0,
+      "master_out_s": 5.0
+    },
+    {
+      "id": "video-ai-vscode-Scene2Codeium",
+      "type": "cutaway",
+      "master_in_s": 5.0,
+      "master_out_s": 11.0
+    },
+    {
+      "id": "video-ai-vscode-Scene3GitLens",
+      "type": "cutaway",
+      "master_in_s": 11.0,
+      "master_out_s": 17.0
+    },
+    {
+      "id": "video-ai-vscode-Scene4Antigravity",
+      "type": "cutaway",
+      "master_in_s": 17.0,
+      "master_out_s": 23.0
+    },
+    {
+      "id": "video-ai-vscode-Scene5Outro",
+      "type": "cutaway",
+      "master_in_s": 23.0,
+      "master_out_s": 28.0
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+ "niche": "ai-news",
+ "output": {
+  "w": 1920,
+  "h": 1080,
+  "fps": 30,
+  "out": "output/grok-bot-release-visuals.mp4"
+ },
+ "audio": "work/audio/voiceover.mp3",
+ "beats": [
+  {
+   "image": "work/images/PENDING-000.jpg",
+   "image_query": "cold-open-claim",
+   "image_prompt": "cold-open-claim, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 0.0,
+   "end_s": 2.42,
+   "move": "auto",
+   "cue": "[HOOK CLAIM] Today, xAI gave Grok its own computer. You give it a job, close your laptop, and it signs into yo"
+  },
+  {
+   "image": "work/images/PENDING-001.jpg",
+   "image_query": "cold-open-claim",
+   "image_prompt": "cold-open-claim, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 2.42,
+   "end_s": 4.84,
+   "move": "auto",
+   "cue": "[HOOK CLAIM] Today, xAI gave Grok its own computer. You give it a job, close your laptop, and it signs into yo"
+  },
+  {
+   "image": "work/images/PENDING-002.jpg",
+   "image_query": "cold-open-claim",
+   "image_prompt": "cold-open-claim, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 4.84,
+   "end_s": 7.26,
+   "move": "auto",
+   "cue": "[HOOK CLAIM] Today, xAI gave Grok its own computer. You give it a job, close your laptop, and it signs into yo"
+  },
+  {
+   "image": "work/images/PENDING-003.jpg",
+   "image_query": "cold-open-claim",
+   "image_prompt": "cold-open-claim, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 7.26,
+   "end_s": 9.68,
+   "move": "auto",
+   "cue": "[HOOK CLAIM] Today, xAI gave Grok its own computer. You give it a job, close your laptop, and it signs into yo"
+  },
+  {
+   "image": "work/images/PENDING-004.jpg",
+   "image_query": "cold-open-claim",
+   "image_prompt": "cold-open-claim, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 9.68,
+   "end_s": 12.1,
+   "move": "auto",
+   "cue": "[HOOK CLAIM] Today, xAI gave Grok its own computer. You give it a job, close your laptop, and it signs into yo"
+  },
+  {
+   "image": "work/images/PENDING-005.jpg",
+   "image_query": "cold-open-claim",
+   "image_prompt": "cold-open-claim, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 12.1,
+   "end_s": 14.52,
+   "move": "auto",
+   "cue": "[HOOK CLAIM] Today, xAI gave Grok its own computer. You give it a job, close your laptop, and it signs into yo"
+  },
+  {
+   "image": "work/images/PENDING-006.jpg",
+   "image_query": "cold-open-claim",
+   "image_prompt": "cold-open-claim, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 14.52,
+   "end_s": 16.93,
+   "move": "auto",
+   "cue": "[HOOK CLAIM] Today, xAI gave Grok its own computer. You give it a job, close your laptop, and it signs into yo"
+  },
+  {
+   "image": "work/images/PENDING-007.jpg",
+   "image_query": "cold-open-claim",
+   "image_prompt": "cold-open-claim, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 16.93,
+   "end_s": 19.81,
+   "move": "auto",
+   "cue": "[HOOK CLAIM] Today, xAI gave Grok its own computer. You give it a job, close your laptop, and it signs into yo"
+  },
+  {
+   "image": "work/images/PENDING-008.jpg",
+   "image_query": "context",
+   "image_prompt": "context, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 19.81,
+   "end_s": 22.38,
+   "move": "auto",
+   "cue": "Because the always-on worker was already shipped. Anthropic's Claude Cowork, back in January: hand it a task, "
+  },
+  {
+   "image": "work/images/PENDING-009.jpg",
+   "image_query": "context",
+   "image_prompt": "context, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 22.38,
+   "end_s": 24.96,
+   "move": "auto",
+   "cue": "Because the always-on worker was already shipped. Anthropic's Claude Cowork, back in January: hand it a task, "
+  },
+  {
+   "image": "work/images/PENDING-010.jpg",
+   "image_query": "context",
+   "image_prompt": "context, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 24.96,
+   "end_s": 27.54,
+   "move": "auto",
+   "cue": "Because the always-on worker was already shipped. Anthropic's Claude Cowork, back in January: hand it a task, "
+  },
+  {
+   "image": "work/images/PENDING-011.jpg",
+   "image_query": "context",
+   "image_prompt": "context, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 27.54,
+   "end_s": 30.12,
+   "move": "auto",
+   "cue": "Because the always-on worker was already shipped. Anthropic's Claude Cowork, back in January: hand it a task, "
+  },
+  {
+   "image": "work/images/PENDING-012.jpg",
+   "image_query": "context",
+   "image_prompt": "context, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 30.12,
+   "end_s": 32.7,
+   "move": "auto",
+   "cue": "Because the always-on worker was already shipped. Anthropic's Claude Cowork, back in January: hand it a task, "
+  },
+  {
+   "image": "work/images/PENDING-013.jpg",
+   "image_query": "context",
+   "image_prompt": "context, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 32.7,
+   "end_s": 35.28,
+   "move": "auto",
+   "cue": "Because the always-on worker was already shipped. Anthropic's Claude Cowork, back in January: hand it a task, "
+  },
+  {
+   "image": "work/images/PENDING-014.jpg",
+   "image_query": "context",
+   "image_prompt": "context, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 35.28,
+   "end_s": 38.45,
+   "move": "auto",
+   "cue": "Because the always-on worker was already shipped. Anthropic's Claude Cowork, back in January: hand it a task, "
+  },
+  {
+   "image": "work/images/PENDING-015.jpg",
+   "image_query": "context-2",
+   "image_prompt": "context-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 38.45,
+   "end_s": 46.48,
+   "move": "auto",
+   "cue": "Related: we covered Grok Imagine 2.0's number-two ranking on this channel last week. Same company. Today's pro"
+  },
+  {
+   "image": "work/images/PENDING-016.jpg",
+   "image_query": "verdict",
+   "image_prompt": "verdict, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 46.48,
+   "end_s": 51.46,
+   "move": "auto",
+   "cue": "[HOOK LINE] Grok Bot is a small team of always-on agents. Each one has its own computer in the cloud, works in"
+  },
+  {
+   "image": "work/images/PENDING-017.jpg",
+   "image_query": "verdict",
+   "image_prompt": "verdict, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 51.46,
+   "end_s": 56.99,
+   "move": "auto",
+   "cue": "[HOOK LINE] Grok Bot is a small team of always-on agents. Each one has its own computer in the cloud, works in"
+  },
+  {
+   "image": "work/images/PENDING-018.jpg",
+   "image_query": "verdict-2",
+   "image_prompt": "verdict-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 56.99,
+   "end_s": 62.03,
+   "move": "auto",
+   "cue": "Here's what that means in practice. The bot signs into your tools: your email, your customer lists, your store"
+  },
+  {
+   "image": "work/images/PENDING-019.jpg",
+   "image_query": "verdict-2",
+   "image_prompt": "verdict-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 62.03,
+   "end_s": 67.08,
+   "move": "auto",
+   "cue": "Here's what that means in practice. The bot signs into your tools: your email, your customer lists, your store"
+  },
+  {
+   "image": "work/images/PENDING-020.jpg",
+   "image_query": "verdict-2",
+   "image_prompt": "verdict-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 67.08,
+   "end_s": 72.12,
+   "move": "auto",
+   "cue": "Here's what that means in practice. The bot signs into your tools: your email, your customer lists, your store"
+  },
+  {
+   "image": "work/images/PENDING-021.jpg",
+   "image_query": "verdict-2",
+   "image_prompt": "verdict-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 72.12,
+   "end_s": 77.81,
+   "move": "auto",
+   "cue": "Here's what that means in practice. The bot signs into your tools: your email, your customer lists, your store"
+  },
+  {
+   "image": "work/images/PENDING-022.jpg",
+   "image_query": "verdict-3",
+   "image_prompt": "verdict-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 77.81,
+   "end_s": 83.26,
+   "move": "auto",
+   "cue": "And it keeps working when you walk away. Close the laptop, the job continues. The bot only checks back when so"
+  },
+  {
+   "image": "work/images/PENDING-023.jpg",
+   "image_query": "verdict-3",
+   "image_prompt": "verdict-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 83.26,
+   "end_s": 89.19,
+   "move": "auto",
+   "cue": "And it keeps working when you walk away. Close the laptop, the job continues. The bot only checks back when so"
+  },
+  {
+   "image": "work/images/PENDING-024.jpg",
+   "image_query": "verdict-4",
+   "image_prompt": "verdict-4, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 89.19,
+   "end_s": 93.61,
+   "move": "auto",
+   "cue": "Then the part nothing else does. Multiple bots run as a team. They message each other, share threads, and hand"
+  },
+  {
+   "image": "work/images/PENDING-025.jpg",
+   "image_query": "verdict-4",
+   "image_prompt": "verdict-4, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 93.61,
+   "end_s": 98.03,
+   "move": "auto",
+   "cue": "Then the part nothing else does. Multiple bots run as a team. They message each other, share threads, and hand"
+  },
+  {
+   "image": "work/images/PENDING-026.jpg",
+   "image_query": "verdict-4",
+   "image_prompt": "verdict-4, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 98.03,
+   "end_s": 102.45,
+   "move": "auto",
+   "cue": "Then the part nothing else does. Multiple bots run as a team. They message each other, share threads, and hand"
+  },
+  {
+   "image": "work/images/PENDING-027.jpg",
+   "image_query": "verdict-4",
+   "image_prompt": "verdict-4, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 102.45,
+   "end_s": 107.25,
+   "move": "auto",
+   "cue": "Then the part nothing else does. Multiple bots run as a team. They message each other, share threads, and hand"
+  },
+  {
+   "image": "work/images/PENDING-028.jpg",
+   "image_query": "verdict-5",
+   "image_prompt": "verdict-5, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 107.25,
+   "end_s": 111.84,
+   "move": "auto",
+   "cue": "Where do you get it? Today, early beta, in three paid tiers. SuperGrok Heavy, Cursor Ultra at two hundred doll"
+  },
+  {
+   "image": "work/images/PENDING-029.jpg",
+   "image_query": "verdict-5",
+   "image_prompt": "verdict-5, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 111.84,
+   "end_s": 116.43,
+   "move": "auto",
+   "cue": "Where do you get it? Today, early beta, in three paid tiers. SuperGrok Heavy, Cursor Ultra at two hundred doll"
+  },
+  {
+   "image": "work/images/PENDING-030.jpg",
+   "image_query": "verdict-5",
+   "image_prompt": "verdict-5, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 116.43,
+   "end_s": 121.02,
+   "move": "auto",
+   "cue": "Where do you get it? Today, early beta, in three paid tiers. SuperGrok Heavy, Cursor Ultra at two hundred doll"
+  },
+  {
+   "image": "work/images/PENDING-031.jpg",
+   "image_query": "verdict-5",
+   "image_prompt": "verdict-5, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 121.02,
+   "end_s": 126.17,
+   "move": "auto",
+   "cue": "Where do you get it? Today, early beta, in three paid tiers. SuperGrok Heavy, Cursor Ultra at two hundred doll"
+  },
+  {
+   "image": "work/images/PENDING-032.jpg",
+   "image_query": "verdict-6",
+   "image_prompt": "verdict-6, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 126.17,
+   "end_s": 132.31,
+   "move": "auto",
+   "cue": "And here's the verdict. This is the first agent priced like a junior hire. Two hundred dollars a month for a w"
+  },
+  {
+   "image": "work/images/PENDING-033.jpg",
+   "image_query": "verdict-6",
+   "image_prompt": "verdict-6, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 132.31,
+   "end_s": 138.45,
+   "move": "auto",
+   "cue": "And here's the verdict. This is the first agent priced like a junior hire. Two hundred dollars a month for a w"
+  },
+  {
+   "image": "work/images/PENDING-034.jpg",
+   "image_query": "evidence-open",
+   "image_prompt": "evidence-open, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 138.45,
+   "end_s": 144.35,
+   "move": "auto",
+   "cue": "Let me show you the launch itself — day zero, numbers included.  [CAPTURE 1: grok-bot-announcement.png — @bot "
+  },
+  {
+   "image": "work/images/PENDING-035.jpg",
+   "image_query": "evidence-1",
+   "image_prompt": "evidence-1, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 144.35,
+   "end_s": 149.99,
+   "move": "auto",
+   "cue": "First, the announcement post, five oh nine PM eastern today: \"Introducing Grok Bot, now in early beta. Bots ar"
+  },
+  {
+   "image": "work/images/PENDING-036.jpg",
+   "image_query": "evidence-1",
+   "image_prompt": "evidence-1, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 149.99,
+   "end_s": 156.23,
+   "move": "auto",
+   "cue": "First, the announcement post, five oh nine PM eastern today: \"Introducing Grok Bot, now in early beta. Bots ar"
+  },
+  {
+   "image": "work/images/PENDING-037.jpg",
+   "image_query": "evidence-2",
+   "image_prompt": "evidence-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 156.23,
+   "end_s": 161.91,
+   "move": "auto",
+   "cue": "And the account's follow-up — the whole pitch in one line. \"Give them a task, shut your computer, and reach th"
+  },
+  {
+   "image": "work/images/PENDING-038.jpg",
+   "image_query": "evidence-2",
+   "image_prompt": "evidence-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 161.91,
+   "end_s": 167.84,
+   "move": "auto",
+   "cue": "And the account's follow-up — the whole pitch in one line. \"Give them a task, shut your computer, and reach th"
+  },
+  {
+   "image": "work/images/PENDING-039.jpg",
+   "image_query": "evidence-3",
+   "image_prompt": "evidence-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 167.84,
+   "end_s": 172.67,
+   "move": "auto",
+   "cue": "Musk's own post, five forty three PM: the beta widens once they fix basic issues, Grok 4.6 lands later this we"
+  },
+  {
+   "image": "work/images/PENDING-040.jpg",
+   "image_query": "evidence-3",
+   "image_prompt": "evidence-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 172.67,
+   "end_s": 177.97,
+   "move": "auto",
+   "cue": "Musk's own post, five forty three PM: the beta widens once they fix basic issues, Grok 4.6 lands later this we"
+  },
+  {
+   "image": "work/images/PENDING-041.jpg",
+   "image_query": "evidence-4",
+   "image_prompt": "evidence-4, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 177.97,
+   "end_s": 183.28,
+   "move": "auto",
+   "cue": "What's actually under the hood, from today's launch coverage: the bot runs inside apps that have no clean API,"
+  },
+  {
+   "image": "work/images/PENDING-042.jpg",
+   "image_query": "evidence-4",
+   "image_prompt": "evidence-4, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 183.28,
+   "end_s": 188.58,
+   "move": "auto",
+   "cue": "What's actually under the hood, from today's launch coverage: the bot runs inside apps that have no clean API,"
+  },
+  {
+   "image": "work/images/PENDING-043.jpg",
+   "image_query": "evidence-4",
+   "image_prompt": "evidence-4, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 188.58,
+   "end_s": 194.42,
+   "move": "auto",
+   "cue": "What's actually under the hood, from today's launch coverage: the bot runs inside apps that have no clean API,"
+  },
+  {
+   "image": "work/images/PENDING-044.jpg",
+   "image_query": "evidence-5",
+   "image_prompt": "evidence-5, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 194.42,
+   "end_s": 199.59,
+   "move": "auto",
+   "cue": "xAI says the bots are already at work inside their own company. Overnight sales research, with replies in the "
+  },
+  {
+   "image": "work/images/PENDING-045.jpg",
+   "image_query": "evidence-5",
+   "image_prompt": "evidence-5, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 199.59,
+   "end_s": 204.76,
+   "move": "auto",
+   "cue": "xAI says the bots are already at work inside their own company. Overnight sales research, with replies in the "
+  },
+  {
+   "image": "work/images/PENDING-046.jpg",
+   "image_query": "evidence-5",
+   "image_prompt": "evidence-5, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 204.76,
+   "end_s": 210.44,
+   "move": "auto",
+   "cue": "xAI says the bots are already at work inside their own company. Overnight sales research, with replies in the "
+  },
+  {
+   "image": "work/images/PENDING-047.jpg",
+   "image_query": "mid-roll-cta",
+   "image_prompt": "mid-roll-cta, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 210.44,
+   "end_s": 214.35,
+   "move": "auto",
+   "cue": "If you want every AI release broken down the day it lands — sourced, catches included — subscribe. Verdict in "
+  },
+  {
+   "image": "work/images/PENDING-048.jpg",
+   "image_query": "mid-roll-cta",
+   "image_prompt": "mid-roll-cta, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 214.35,
+   "end_s": 218.7,
+   "move": "auto",
+   "cue": "If you want every AI release broken down the day it lands — sourced, catches included — subscribe. Verdict in "
+  },
+  {
+   "image": "work/images/PENDING-049.jpg",
+   "image_query": "evidence-6",
+   "image_prompt": "evidence-6, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 218.7,
+   "end_s": 223.8,
+   "move": "auto",
+   "cue": "The pricing story. Cursor Ultra: two hundred dollars a month, the bot's own computer and tool sign-ins include"
+  },
+  {
+   "image": "work/images/PENDING-050.jpg",
+   "image_query": "evidence-6",
+   "image_prompt": "evidence-6, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 223.8,
+   "end_s": 228.9,
+   "move": "auto",
+   "cue": "The pricing story. Cursor Ultra: two hundred dollars a month, the bot's own computer and tool sign-ins include"
+  },
+  {
+   "image": "work/images/PENDING-051.jpg",
+   "image_query": "evidence-6",
+   "image_prompt": "evidence-6, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 228.9,
+   "end_s": 234.5,
+   "move": "auto",
+   "cue": "The pricing story. Cursor Ultra: two hundred dollars a month, the bot's own computer and tool sign-ins include"
+  },
+  {
+   "image": "work/images/PENDING-052.jpg",
+   "image_query": "evidence-7",
+   "image_prompt": "evidence-7, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 234.5,
+   "end_s": 238.82,
+   "move": "auto",
+   "cue": "Then distribution. Grok Bot ships inside Cursor — the coding platform SpaceX is acquiring for sixty billion do"
+  },
+  {
+   "image": "work/images/PENDING-053.jpg",
+   "image_query": "evidence-7",
+   "image_prompt": "evidence-7, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 238.82,
+   "end_s": 243.14,
+   "move": "auto",
+   "cue": "Then distribution. Grok Bot ships inside Cursor — the coding platform SpaceX is acquiring for sixty billion do"
+  },
+  {
+   "image": "work/images/PENDING-054.jpg",
+   "image_query": "evidence-7",
+   "image_prompt": "evidence-7, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 243.14,
+   "end_s": 247.89,
+   "move": "auto",
+   "cue": "Then distribution. Grok Bot ships inside Cursor — the coding platform SpaceX is acquiring for sixty billion do"
+  },
+  {
+   "image": "work/images/PENDING-055.jpg",
+   "image_query": "honest-gap",
+   "image_prompt": "honest-gap, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 247.89,
+   "end_s": 253.12,
+   "move": "auto",
+   "cue": "Here's where I'm straight with you. The phrase you'll hear everywhere, \"no agent has ever done this,\" is wrong"
+  },
+  {
+   "image": "work/images/PENDING-056.jpg",
+   "image_query": "honest-gap",
+   "image_prompt": "honest-gap, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 253.12,
+   "end_s": 258.35,
+   "move": "auto",
+   "cue": "Here's where I'm straight with you. The phrase you'll hear everywhere, \"no agent has ever done this,\" is wrong"
+  },
+  {
+   "image": "work/images/PENDING-057.jpg",
+   "image_query": "honest-gap",
+   "image_prompt": "honest-gap, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 258.35,
+   "end_s": 264.09,
+   "move": "auto",
+   "cue": "Here's where I'm straight with you. The phrase you'll hear everywhere, \"no agent has ever done this,\" is wrong"
+  },
+  {
+   "image": "work/images/PENDING-058.jpg",
+   "image_query": "honest-gap-2",
+   "image_prompt": "honest-gap-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 264.09,
+   "end_s": 269.79,
+   "move": "auto",
+   "cue": "What Grok Bot truly does first is specific: a dedicated cloud computer, tool use with no API, self-coordinatin"
+  },
+  {
+   "image": "work/images/PENDING-059.jpg",
+   "image_query": "honest-gap-2",
+   "image_prompt": "honest-gap-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 269.79,
+   "end_s": 275.9,
+   "move": "auto",
+   "cue": "What Grok Bot truly does first is specific: a dedicated cloud computer, tool use with no API, self-coordinatin"
+  },
+  {
+   "image": "work/images/PENDING-060.jpg",
+   "image_query": "honest-gap-3",
+   "image_prompt": "honest-gap-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 275.9,
+   "end_s": 281.36,
+   "move": "auto",
+   "cue": "And it's a beta with known problems — Elon said so himself hours before you saw the hype. The big one nobody's"
+  },
+  {
+   "image": "work/images/PENDING-061.jpg",
+   "image_query": "honest-gap-3",
+   "image_prompt": "honest-gap-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 281.36,
+   "end_s": 286.82,
+   "move": "auto",
+   "cue": "And it's a beta with known problems — Elon said so himself hours before you saw the hype. The big one nobody's"
+  },
+  {
+   "image": "work/images/PENDING-062.jpg",
+   "image_query": "honest-gap-3",
+   "image_prompt": "honest-gap-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 286.82,
+   "end_s": 292.28,
+   "move": "auto",
+   "cue": "And it's a beta with known problems — Elon said so himself hours before you saw the hype. The big one nobody's"
+  },
+  {
+   "image": "work/images/PENDING-063.jpg",
+   "image_query": "honest-gap-3",
+   "image_prompt": "honest-gap-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 292.28,
+   "end_s": 298.14,
+   "move": "auto",
+   "cue": "And it's a beta with known problems — Elon said so himself hours before you saw the hype. The big one nobody's"
+  },
+  {
+   "image": "work/images/PENDING-064.jpg",
+   "image_query": "close",
+   "image_prompt": "close, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 298.14,
+   "end_s": 302.58,
+   "move": "auto",
+   "cue": "[HOOK PAYOFF] So here's the catch, in one line: Grok Bot is not the first agent that never sleeps. But it is t"
+  },
+  {
+   "image": "work/images/PENDING-065.jpg",
+   "image_query": "close",
+   "image_prompt": "close, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 302.58,
+   "end_s": 307.46,
+   "move": "auto",
+   "cue": "[HOOK PAYOFF] So here's the catch, in one line: Grok Bot is not the first agent that never sleeps. But it is t"
+  },
+  {
+   "image": "work/images/PENDING-066.jpg",
+   "image_query": "close-2",
+   "image_prompt": "close-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 307.46,
+   "end_s": 312.13,
+   "move": "auto",
+   "cue": "What you can do today. If you already pay for Cursor Ultra or Teams Premium, you're in the beta: give it one r"
+  },
+  {
+   "image": "work/images/PENDING-067.jpg",
+   "image_query": "close-2",
+   "image_prompt": "close-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 312.13,
+   "end_s": 316.81,
+   "move": "auto",
+   "cue": "What you can do today. If you already pay for Cursor Ultra or Teams Premium, you're in the beta: give it one r"
+  },
+  {
+   "image": "work/images/PENDING-068.jpg",
+   "image_query": "close-2",
+   "image_prompt": "close-2, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 316.81,
+   "end_s": 322.0,
+   "move": "auto",
+   "cue": "What you can do today. If you already pay for Cursor Ultra or Teams Premium, you're in the beta: give it one r"
+  },
+  {
+   "image": "work/images/PENDING-069.jpg",
+   "image_query": "close-3",
+   "image_prompt": "close-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 322.0,
+   "end_s": 326.28,
+   "move": "auto",
+   "cue": "We cut this the day it dropped. That's this channel's promise: releases land, the verdict lands here first, ca"
+  },
+  {
+   "image": "work/images/PENDING-070.jpg",
+   "image_query": "close-3",
+   "image_prompt": "close-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 326.28,
+   "end_s": 330.56,
+   "move": "auto",
+   "cue": "We cut this the day it dropped. That's this channel's promise: releases land, the verdict lands here first, ca"
+  },
+  {
+   "image": "work/images/PENDING-071.jpg",
+   "image_query": "close-3",
+   "image_prompt": "close-3, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 330.56,
+   "end_s": 335.41,
+   "move": "auto",
+   "cue": "We cut this the day it dropped. That's this channel's promise: releases land, the verdict lands here first, ca"
+  },
+  {
+   "image": "work/images/PENDING-072.jpg",
+   "image_query": "close-4",
+   "image_prompt": "close-4, clean product/UI screenshots, benchmark charts, dark technical palette",
+   "start_s": 335.41,
+   "end_s": 341.46,
+   "move": "auto",
+   "cue": "Watch for Grok 4.6 later this week — the beta widens with it. We'll be here. See you on the next one.  ---  **"
+  }
+ ]
+}

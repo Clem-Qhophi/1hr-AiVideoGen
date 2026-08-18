@@ -1,0 +1,184 @@
+[
+  {
+    "id": "headline-300",
+    "type": "compare",
+    "kicker": "$400K · 30-YR · 6.66% (REAL CURRENT RATE)",
+    "left": { "value": "30 yrs", "label": "scheduled payoff, no extra payments", "accent": "warn" },
+    "right": { "value": "22 yrs, 5 mo", "label": "with +$300/month from day one", "accent": "signal" },
+    "foot": "Calculator.net Mortgage Payoff Calculator, computed 2026-08-04",
+    "match": ["card-headline-300"]
+  },
+  {
+    "id": "current-rate",
+    "type": "stat",
+    "kicker": "30-YEAR FIXED MORTGAGE, NATIONAL AVERAGE",
+    "stat": "6.66%",
+    "unit": "week ending Jul 30, 2026",
+    "label": "a real, weekly-updated survey rate, not a personal quote",
+    "foot": "Freddie Mac PMMS, via FRED (MORTGAGE30US)",
+    "accent": "accent",
+    "match": ["card-current-rate"]
+  },
+  {
+    "id": "amortization-def",
+    "type": "quote",
+    "kicker": "AMORTIZATION, PLAIN",
+    "stat": "One fixed payment. Two shifting pieces.",
+    "label": "interest and principal — the split changes every month, the payment does not",
+    "foot": "The Money Archive — mechanism explainer",
+    "match": ["card-amortization-def"]
+  },
+  {
+    "id": "payoff-300",
+    "type": "stat",
+    "kicker": "+$300/MONTH, FROM THE FIRST PAYMENT",
+    "stat": "$155,461",
+    "unit": "interest saved",
+    "label": "30% less total interest, loan paid off 7 yrs 7 mo early",
+    "foot": "Calculator.net Mortgage Payoff Calculator",
+    "accent": "signal",
+    "match": ["card-payoff-300"]
+  },
+  {
+    "id": "payoff-annual",
+    "type": "compare",
+    "kicker": "SAME LOAN · ONE EXTRA PAYMENT A YEAR INSTEAD",
+    "left": { "value": "$2,571", "label": "once a year (the '13th payment')", "accent": "accent" },
+    "right": { "value": "$117,987", "label": "interest saved, 5 yrs 9 mo early", "accent": "signal" },
+    "foot": "Calculator.net Mortgage Payoff Calculator",
+    "match": ["card-payoff-annual"]
+  },
+  {
+    "id": "why-early-wins",
+    "type": "compare",
+    "kicker": "OVER 22.5 YEARS, SAME $300/MO EXTRA",
+    "left": { "value": "~$81,000", "label": "total extra paid in", "accent": "accent" },
+    "right": { "value": "$155,461", "label": "interest actually saved", "accent": "signal" },
+    "foot": "The saving is bigger than the extra money put in",
+    "match": ["card-why-early-wins"]
+  },
+  {
+    "id": "snowball-reverse",
+    "type": "quote",
+    "kicker": "COMPOUND INTEREST, IN REVERSE",
+    "stat": "A loan balance is a snowball rolling the wrong way.",
+    "label": "an early extra payment shrinks it before it can pick up more interest",
+    "foot": "The Money Archive",
+    "match": ["card-snowball-reverse"]
+  },
+  {
+    "id": "payoff-250k",
+    "type": "stat",
+    "kicker": "SMALLER LOAN: $250K · 30-YR · 6.66% · +$200/MO",
+    "stat": "$101,429",
+    "unit": "interest saved",
+    "label": "payoff 7 yrs 11 mo early — the mechanism scales down too",
+    "foot": "Calculator.net Mortgage Payoff Calculator",
+    "accent": "signal",
+    "match": ["card-payoff-250k"]
+  },
+  {
+    "id": "payoff-biweekly",
+    "type": "stat",
+    "kicker": "SAME LOAN, PAID BIWEEKLY INSTEAD OF MONTHLY",
+    "stat": "$120,479",
+    "unit": "interest saved",
+    "label": "26 half-payments a year = one extra full payment, automatically",
+    "foot": "Calculator.net Mortgage Payoff Calculator",
+    "accent": "signal",
+    "match": ["card-payoff-biweekly"]
+  },
+  {
+    "id": "other-debt",
+    "type": "quote",
+    "kicker": "NOT JUST MORTGAGES",
+    "stat": "Car loans, personal loans, and most student loans amortize the same way.",
+    "label": "front-loaded interest, same mechanism, different loan",
+    "foot": "The Money Archive",
+    "match": ["card-other-debt"]
+  },
+  {
+    "id": "honest-limits",
+    "type": "quote",
+    "kicker": "READ THIS BEFORE THE NEXT PART",
+    "stat": "This is general information, not personalized financial advice.",
+    "label": "where the math above does NOT automatically mean you should do it",
+    "foot": "The Money Archive — honesty guard",
+    "match": ["card-honest-limits"]
+  },
+  {
+    "id": "emergency-fund",
+    "type": "quote",
+    "kicker": "BEFORE EXTRA MORTGAGE PAYMENTS",
+    "stat": "An emergency fund comes first, for most people.",
+    "label": "mortgage principal is not easy to get back out in a real emergency",
+    "foot": "The Money Archive — honesty guard",
+    "match": ["card-emergency-fund"]
+  },
+  {
+    "id": "not-advice",
+    "type": "quote",
+    "kicker": "WHAT THIS VIDEO CANNOT KNOW",
+    "stat": "Your rate, your other debt, your risk tolerance, your timeline.",
+    "label": "general mechanics, not personalized advice about your own mortgage",
+    "foot": "The Money Archive — honesty guard",
+    "match": ["card-not-advice"]
+  },
+  {
+    "id": "peace-of-mind",
+    "type": "quote",
+    "kicker": "A VALUE THIS VIDEO CANNOT PUT A NUMBER ON",
+    "stat": "A paid-off house is real peace of mind.",
+    "label": "that counts, even when it is not the mathematically optimal choice",
+    "foot": "The Money Archive",
+    "match": ["card-peace-of-mind"]
+  },
+  {
+    "id": "tax-deduction",
+    "type": "quote",
+    "kicker": "ONE MORE VARIABLE",
+    "stat": "Mortgage interest is sometimes tax deductible.",
+    "label": "that can change your real after-tax rate — not tax advice, check your own return",
+    "foot": "The Money Archive — honesty guard",
+    "match": ["card-tax-deduction"]
+  },
+  {
+    "id": "how-to-checklist",
+    "type": "stat",
+    "kicker": "THIS WEEK",
+    "stat": "6",
+    "unit": "things to check",
+    "label": "using a free calculator and your own real numbers — no buying or selling required",
+    "foot": "See the description for the full checklist",
+    "match": ["card-how-to-checklist"]
+  },
+  {
+    "id": "checklist-calculator",
+    "type": "stat",
+    "kicker": "STEP 2 OF 6",
+    "stat": "Run your own numbers",
+    "unit": "free, public payoff calculator",
+    "label": "try the monthly version and the once-a-year version, see what your budget can sustain",
+    "foot": "The Money Archive",
+    "match": ["card-checklist-calculator"]
+  },
+  {
+    "id": "checklist-advisor",
+    "type": "stat",
+    "kicker": "STEP 6 OF 6",
+    "stat": "Fee-only advisor",
+    "unit": "if the tradeoff is unclear",
+    "label": "paid directly by you, not by commission on a product they sell you",
+    "foot": "The Money Archive",
+    "match": ["card-checklist-advisor"]
+  },
+  {
+    "id": "close-recap",
+    "type": "quote",
+    "kicker": "THE MONEY ARCHIVE",
+    "stat": "Go run your own numbers.",
+    "label": "general information, not personalized financial advice",
+    "foot": "The Money Archive — plain mechanics, sourced numbers, no hype",
+    "match": ["card-close-recap"]
+  }
+]

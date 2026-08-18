@@ -1,0 +1,18 @@
+Google just released Gemini 3.7 Flash — a major update optimized for coding, agentic workflows, and document reasoning.
+
+In this video, we break down the core verdict in under 3 minutes, followed by the verified benchmarks, token pricing, and the fine-print catch you need to know before building on it.
+
+Key Takeaways:
+• 65.3% score on DeepSWE v1.1 coding benchmark (up from 49.0% on 3.6 Flash)
+• 43.6% on FrontierCode 1.1 Main (+9.2 points)
+• 1588 Elo on WebDev Arena Leaderboard
+• Introductory API pricing of $0.75 / 1M input tokens and $3.75 / 1M output tokens through Dec 31, 2026
+• Pricing doubles on Jan 1, 2027 ($1.50 / $7.50)
+
+Sources:
+• Google DeepMind Technical Announcement (August 13, 2026)
+• Google AI Studio & Vertex AI Documentation
+
+Subscribe to @AIUnder3Min for same-day, verified breakdowns of every major AI model release.
+
+#Gemini #GoogleAI #AI #Coding #TechNews

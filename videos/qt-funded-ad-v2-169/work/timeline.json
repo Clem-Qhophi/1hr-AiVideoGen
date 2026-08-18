@@ -1,0 +1,71 @@
+{
+  "master": "videos/qt-funded-ad-v2-169/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "QTHookV2169",
+      "type": "cutaway",
+      "master_in_s": 0.0,
+      "master_out_s": 4.6,
+      "cue": "Every trader has a plan. But consistency is what moves you forward."
+    },
+    {
+      "id": "QTPathV2169",
+      "type": "cutaway",
+      "master_in_s": 4.6,
+      "master_out_s": 13.9,
+      "cue": "QT Funded gives traders a structured evaluation, clear requirements, and tools to track their progress. Choose the path that fits your strategy."
+    },
+    {
+      "id": "QTDisciplineV2169",
+      "type": "cutaway",
+      "master_in_s": 13.9,
+      "master_out_s": 21.7,
+      "cue": "No noise. No guesswork. Just the next rule, and the next. Trade with discipline."
+    },
+    {
+      "id": "QTRiskV2169",
+      "type": "cutaway",
+      "master_in_s": 21.7,
+      "master_out_s": 28.6,
+      "cue": "Manage your risk. Size your position. Follow your own plan, not the market's mood."
+    },
+    {
+      "id": "QTConsistencyV2169",
+      "type": "cutaway",
+      "master_in_s": 28.6,
+      "master_out_s": 37.0,
+      "cue": "Prove your consistency, one session at a time. That's the whole idea -- progress you can see, not promises you can't check."
+    },
+    {
+      "id": "QTPlatformsV2169",
+      "type": "cutaway",
+      "master_in_s": 37.0,
+      "master_out_s": 42.1,
+      "cue": "Then progress toward a simulated funded account, subject to the program rules."
+    },
+    {
+      "id": "QTEndCardV2169",
+      "type": "cutaway",
+      "master_in_s": 42.1,
+      "master_out_s": 56.0,
+      "cue": "Real accounts. Real rules. Real progress. Discover QT Funded. Trade with discipline. Scale with confidence."
+    },
+    {
+      "id": "EmphasisCaptions-qt-funded-ad-v2-169",
+      "type": "overlay",
+      "master_in_s": 0.0,
+      "master_out_s": 56.0,
+      "cue": "emphasis captions (whole video)"
+    }
+  ],
+  "reframes": [],
+  "preview": {
+    "end_s": 56.0,
+    "out": "videos/qt-funded-ad-v2-169/output/qt-funded-ad-v2-169-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

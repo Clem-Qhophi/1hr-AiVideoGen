@@ -1,0 +1,69 @@
+{
+  "project": "housle-labs-showcase",
+  "title": "Housle Labs Featured Showcase",
+  "format": "longform",
+  "fps": 30,
+  "duration_seconds": 30,
+  "scenes": [
+    {
+      "id": "scene1",
+      "name": "The Hook",
+      "start_sec": 0,
+      "end_sec": 3,
+      "duration_sec": 3,
+      "text": ["Most ads are seen.", "Few are remembered."],
+      "asset": "scene1_macro_bottle.png",
+      "prompt": "Ultra realistic 8k macro luxury commercial shot of a matte-black skincare serum bottle emerging from dark background with soft rim lighting, glass texture, subtle water droplets, Dior Aesop commercial aesthetic"
+    },
+    {
+      "id": "scene2",
+      "name": "Product Beauty",
+      "start_sec": 3,
+      "end_sec": 7,
+      "duration_sec": 4,
+      "text": [],
+      "asset": "scene2_serum_droplet.png",
+      "prompt": "Macro close-up shot of a golden luxury serum droplet falling onto a glass bottle surface, soft studio lighting, high end skincare commercial 8k"
+    },
+    {
+      "id": "scene3",
+      "name": "Human Connection",
+      "start_sec": 7,
+      "end_sec": 14,
+      "duration_sec": 7,
+      "text": [],
+      "asset": "scene3_lifestyle_model.png",
+      "prompt": "Confident elegant woman in a white marble bathroom with warm morning sunlight, Rhode Aesop luxury skincare commercial style 8k"
+    },
+    {
+      "id": "scene4",
+      "name": "Benefits & Storytelling",
+      "start_sec": 14,
+      "end_sec": 20,
+      "duration_sec": 6,
+      "text": ["Hydrates.", "Protects.", "Restores."],
+      "asset": "scene4_skin_texture.png",
+      "prompt": "Close-up macro shot of radiant healthy skin texture with subtle warm sunlight glow, luxury campaign 8k"
+    },
+    {
+      "id": "scene5",
+      "name": "Lifestyle Transformation",
+      "start_sec": 20,
+      "end_sec": 26,
+      "duration_sec": 6,
+      "text": [],
+      "asset": "scene5_city_lifestyle.png",
+      "prompt": "A sophisticated person walking through a modern architectural city street in natural golden hour sunlight, Apple Tesla style luxury advert 8k"
+    },
+    {
+      "id": "scene6",
+      "name": "Final Brand Moment",
+      "start_sec": 26,
+      "end_sec": 30,
+      "duration_sec": 4,
+      "text": ["Better creative.", "Better connection.", "Better results.", "Created by Housle Labs."],
+      "asset": "scene6_final_product.png",
+      "prompt": "Centered matte-black skincare serum bottle on dark marble background with soft indigo halo lighting, luxury commercial closing shot 8k"
+    }
+  ]
+}

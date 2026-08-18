@@ -1,0 +1,39 @@
+{
+  "master": "videos\\sora-shutdown-2026/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "SoraHook", "type": "cutaway", "master_in_s": 0.0, "master_out_s": 18.0, "cue": "cold open: dies in 6 weeks, deleting clips, $1M/day vs $2.1M lifetime" },
+    { "id": "SoraContext", "type": "cutaway", "master_in_s": 18.0, "master_out_s": 34.36, "cue": "what Sora was: sentence to footage, GPT-1 moment" },
+    { "id": "SoraContext2", "type": "cutaway", "master_in_s": 34.36, "master_out_s": 47.59, "cue": "Dec 2024 public, Sep 2025 Sora 2, GPT-3.5 moment" },
+    { "id": "SoraDisney", "type": "cutaway", "master_in_s": 47.59, "master_out_s": 60.83, "cue": "Disney $1B / 200 characters, collapse, Sept 24 deadline" },
+    { "id": "SoraVerdict", "type": "cutaway", "master_in_s": 60.83, "master_out_s": 69.0, "cue": "the verdict: catastrophic" },
+    { "id": "SoraBurnRate", "type": "cutaway", "master_in_s": 69.0, "master_out_s": 86.64, "cue": "$1M/day vs $2.1M lifetime = two days of burn" },
+    { "id": "SoraUsers", "type": "cutaway", "master_in_s": 86.64, "master_out_s": 100.9, "cue": "users 1M to <500K, downloads 6.1M to 1.1M" },
+    { "id": "SoraBlindside", "type": "cutaway", "master_in_s": 100.9, "master_out_s": 118.62, "cue": "Disney blindsided, 200+ characters, rug-pull, no money changed hands" },
+    { "id": "SoraMeans", "type": "cutaway", "master_in_s": 118.62, "master_out_s": 134.43, "cue": "what it means for you: data deleted, clock not on your side" },
+    { "id": "SoraEvidence1", "type": "cutaway", "master_in_s": 134.43, "master_out_s": 156.99, "cue": "evidence 1: NBC sunset report, $10B raise, one decision" },
+    { "id": "SoraEvidence2", "type": "cutaway", "master_in_s": 156.99, "master_out_s": 176.48, "cue": "evidence 2: TechCrunch autopsy, $1M/day, expensive, coding+enterprise" },
+    { "id": "SoraEvidence3", "type": "cutaway", "master_in_s": 176.48, "master_out_s": 191.81, "cue": "evidence 3: Claude Code eating the lunch, side quests over" },
+    { "id": "SoraEvidence4", "type": "cutaway", "master_in_s": 191.81, "master_out_s": 212.83, "cue": "evidence 4: Verge/Sensor Tower download slide, 4.8M, 6.1M, 1.1M" },
+    { "id": "SoraEvidence5", "type": "cutaway", "master_in_s": 212.83, "master_out_s": 232.32, "cue": "evidence 5: Reuters deal dispute, 200+ chars, rug-pull (capture blocked, disclosure)" },
+    { "id": "SoraEvidence6", "type": "cutaway", "master_in_s": 232.32, "master_out_s": 252.58, "cue": "evidence 6: Vector market, MiniMax #1 half price, ByteDance" },
+    { "id": "SoraEvidence7", "type": "cutaway", "master_in_s": 252.58, "master_out_s": 273.92, "cue": "evidence 7: few $B/yr, 20%+, finished clips, no single modality" },
+    { "id": "SoraMidroll", "type": "cutaway", "master_in_s": 273.92, "master_out_s": 287.79, "cue": "mid-roll CTA: subscribe, verdict in first three minutes, comment" },
+    { "id": "SoraEvidenceSays", "type": "cutaway", "master_in_s": 287.79, "master_out_s": 301.68, "cue": "what the evidence says: compute, usage, competitors, IPO clock" },
+    { "id": "SoraHonest2", "type": "cutaway", "master_in_s": 301.68, "master_out_s": 316.64, "cue": "honest: estimates disagree, $1M/day is reported not bank statement" },
+    { "id": "SoraHonest3", "type": "cutaway", "master_in_s": 316.64, "master_out_s": 331.89, "cue": "honest: Sora 2 wasn't bad, world-simulation, robots" },
+    { "id": "SoraHonest4", "type": "cutaway", "master_in_s": 331.89, "master_out_s": 350.81, "cue": "honest: deletion not total, sora.chatgpt.com/sunset, the word if" },
+    { "id": "SoraHonest5", "type": "cutaway", "master_in_s": 350.81, "master_out_s": 360.33, "cue": "honest: side-quests quote is reporting not confession" },
+    { "id": "SoraClose", "type": "cutaway", "master_in_s": 360.33, "master_out_s": 374.84, "cue": "HOOK PAYOFF: the catch in one line, deleting the data" },
+    { "id": "SoraAction", "type": "cutaway", "master_in_s": 374.84, "master_out_s": 396.43, "cue": "act today: export now, watch migration, follow the money" },
+    { "id": "SoraOutro", "type": "cutaway", "master_in_s": 396.43, "master_out_s": 416.0, "cue": "EndCard: subscribe, like, comment, next topic" }
+  ],
+  "preview": {
+    "end_s": 416.0,
+    "out": "videos\\sora-shutdown-2026/output/sora-shutdown-2026-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

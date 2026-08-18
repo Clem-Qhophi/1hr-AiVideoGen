@@ -1,0 +1,74 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,39,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,0,0,3,2,0,2,60,60,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.19,0:00:00.43,Cap,,0,0,0,,{\c&H00FFFFFF}Every {\c&H8CFFFFFF}trader {\c&H8CFFFFFF}has {\c&H8CFFFFFF}a
+Dialogue: 0,0:00:00.43,0:00:00.81,Cap,,0,0,0,,{\c&H00FFFFFF}Every {\c&H00FFFFFF}trader {\c&H8CFFFFFF}has {\c&H8CFFFFFF}a
+Dialogue: 0,0:00:00.81,0:00:00.99,Cap,,0,0,0,,{\c&H00FFFFFF}Every {\c&H00FFFFFF}trader {\c&H00FFFFFF}has {\c&H8CFFFFFF}a
+Dialogue: 0,0:00:00.99,0:00:01.19,Cap,,0,0,0,,{\c&H00FFFFFF}Every {\c&H00FFFFFF}trader {\c&H00FFFFFF}has {\c&H00FFFFFF}a
+Dialogue: 0,0:00:01.07,0:00:01.27,Cap,,0,0,0,,{\c&H006ED7F5}plan.
+Dialogue: 0,0:00:02.34,0:00:02.44,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H8CFFFFFF}consistency {\c&H8CFFFFFF}is {\c&H8CFFFFFF}what
+Dialogue: 0,0:00:02.44,0:00:03.30,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H006ED7F5}consistency {\c&H8CFFFFFF}is {\c&H8CFFFFFF}what
+Dialogue: 0,0:00:03.30,0:00:03.40,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H006ED7F5}consistency {\c&H00FFFFFF}is {\c&H8CFFFFFF}what
+Dialogue: 0,0:00:03.40,0:00:03.62,Cap,,0,0,0,,{\c&H00FFFFFF}But {\c&H006ED7F5}consistency {\c&H00FFFFFF}is {\c&H00FFFFFF}what
+Dialogue: 0,0:00:03.62,0:00:03.88,Cap,,0,0,0,,{\c&H00FFFFFF}moves {\c&H8CFFFFFF}you {\c&H8CFFFFFF}forward.
+Dialogue: 0,0:00:03.88,0:00:03.96,Cap,,0,0,0,,{\c&H00FFFFFF}moves {\c&H00FFFFFF}you {\c&H8CFFFFFF}forward.
+Dialogue: 0,0:00:03.96,0:00:04.38,Cap,,0,0,0,,{\c&H00FFFFFF}moves {\c&H00FFFFFF}you {\c&H006ED7F5}forward.
+Dialogue: 0,0:00:05.33,0:00:05.73,Cap,,0,0,0,,{\c&H00FFFFFF}Q.T.
+Dialogue: 0,0:00:05.73,0:00:06.13,Cap,,0,0,0,,{\c&H006ED7F5}Funded {\c&H8CFFFFFF}gives {\c&H8CFFFFFF}traders {\c&H8CFFFFFF}a
+Dialogue: 0,0:00:06.13,0:00:06.37,Cap,,0,0,0,,{\c&H006ED7F5}Funded {\c&H00FFFFFF}gives {\c&H8CFFFFFF}traders {\c&H8CFFFFFF}a
+Dialogue: 0,0:00:06.37,0:00:06.77,Cap,,0,0,0,,{\c&H006ED7F5}Funded {\c&H00FFFFFF}gives {\c&H00FFFFFF}traders {\c&H8CFFFFFF}a
+Dialogue: 0,0:00:06.77,0:00:06.97,Cap,,0,0,0,,{\c&H006ED7F5}Funded {\c&H00FFFFFF}gives {\c&H00FFFFFF}traders {\c&H00FFFFFF}a
+Dialogue: 0,0:00:06.84,0:00:07.25,Cap,,0,0,0,,{\c&H00FFFFFF}structured {\c&H8CFFFFFF}evaluation, {\c&H8CFFFFFF}clear {\c&H8CFFFFFF}requirements,
+Dialogue: 0,0:00:07.25,0:00:08.28,Cap,,0,0,0,,{\c&H00FFFFFF}structured {\c&H00FFFFFF}evaluation, {\c&H8CFFFFFF}clear {\c&H8CFFFFFF}requirements,
+Dialogue: 0,0:00:08.28,0:00:08.52,Cap,,0,0,0,,{\c&H00FFFFFF}structured {\c&H00FFFFFF}evaluation, {\c&H00FFFFFF}clear {\c&H8CFFFFFF}requirements,
+Dialogue: 0,0:00:08.52,0:00:09.18,Cap,,0,0,0,,{\c&H00FFFFFF}structured {\c&H00FFFFFF}evaluation, {\c&H00FFFFFF}clear {\c&H006ED7F5}requirements,
+Dialogue: 0,0:00:09.34,0:00:09.49,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H8CFFFFFF}tools {\c&H8CFFFFFF}to {\c&H8CFFFFFF}track
+Dialogue: 0,0:00:09.49,0:00:09.82,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H00FFFFFF}tools {\c&H8CFFFFFF}to {\c&H8CFFFFFF}track
+Dialogue: 0,0:00:09.82,0:00:09.90,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H00FFFFFF}tools {\c&H00FFFFFF}to {\c&H8CFFFFFF}track
+Dialogue: 0,0:00:09.90,0:00:10.16,Cap,,0,0,0,,{\c&H00FFFFFF}and {\c&H00FFFFFF}tools {\c&H00FFFFFF}to {\c&H00FFFFFF}track
+Dialogue: 0,0:00:10.23,0:00:10.37,Cap,,0,0,0,,{\c&H00FFFFFF}their {\c&H8CFFFFFF}progress.
+Dialogue: 0,0:00:10.37,0:00:10.74,Cap,,0,0,0,,{\c&H00FFFFFF}their {\c&H00FFFFFF}progress.
+Dialogue: 0,0:00:11.83,0:00:12.14,Cap,,0,0,0,,{\c&H00FFFFFF}Choose {\c&H8CFFFFFF}the {\c&H8CFFFFFF}path {\c&H8CFFFFFF}that
+Dialogue: 0,0:00:12.14,0:00:12.23,Cap,,0,0,0,,{\c&H00FFFFFF}Choose {\c&H00FFFFFF}the {\c&H8CFFFFFF}path {\c&H8CFFFFFF}that
+Dialogue: 0,0:00:12.23,0:00:12.55,Cap,,0,0,0,,{\c&H00FFFFFF}Choose {\c&H00FFFFFF}the {\c&H00FFFFFF}path {\c&H8CFFFFFF}that
+Dialogue: 0,0:00:12.55,0:00:12.75,Cap,,0,0,0,,{\c&H00FFFFFF}Choose {\c&H00FFFFFF}the {\c&H00FFFFFF}path {\c&H00FFFFFF}that
+Dialogue: 0,0:00:12.73,0:00:12.96,Cap,,0,0,0,,{\c&H00FFFFFF}fits {\c&H8CFFFFFF}your {\c&H8CFFFFFF}strategy.
+Dialogue: 0,0:00:12.96,0:00:13.10,Cap,,0,0,0,,{\c&H00FFFFFF}fits {\c&H00FFFFFF}your {\c&H8CFFFFFF}strategy.
+Dialogue: 0,0:00:13.10,0:00:13.57,Cap,,0,0,0,,{\c&H00FFFFFF}fits {\c&H00FFFFFF}your {\c&H00FFFFFF}strategy.
+Dialogue: 0,0:00:14.56,0:00:14.88,Cap,,0,0,0,,{\c&H00FFFFFF}Trade {\c&H8CFFFFFF}with {\c&H8CFFFFFF}discipline.
+Dialogue: 0,0:00:14.88,0:00:15.04,Cap,,0,0,0,,{\c&H00FFFFFF}Trade {\c&H00FFFFFF}with {\c&H8CFFFFFF}discipline.
+Dialogue: 0,0:00:15.04,0:00:15.49,Cap,,0,0,0,,{\c&H00FFFFFF}Trade {\c&H00FFFFFF}with {\c&H006ED7F5}discipline.
+Dialogue: 0,0:00:16.47,0:00:16.73,Cap,,0,0,0,,{\c&H00FFFFFF}Prove {\c&H8CFFFFFF}your {\c&H8CFFFFFF}consistency.
+Dialogue: 0,0:00:16.73,0:00:16.83,Cap,,0,0,0,,{\c&H00FFFFFF}Prove {\c&H00FFFFFF}your {\c&H8CFFFFFF}consistency.
+Dialogue: 0,0:00:16.83,0:00:17.50,Cap,,0,0,0,,{\c&H00FFFFFF}Prove {\c&H00FFFFFF}your {\c&H00FFFFFF}consistency.
+Dialogue: 0,0:00:18.56,0:00:18.74,Cap,,0,0,0,,{\c&H00FFFFFF}Then {\c&H8CFFFFFF}progress {\c&H8CFFFFFF}toward {\c&H8CFFFFFF}a
+Dialogue: 0,0:00:18.74,0:00:19.22,Cap,,0,0,0,,{\c&H00FFFFFF}Then {\c&H00FFFFFF}progress {\c&H8CFFFFFF}toward {\c&H8CFFFFFF}a
+Dialogue: 0,0:00:19.22,0:00:19.44,Cap,,0,0,0,,{\c&H00FFFFFF}Then {\c&H00FFFFFF}progress {\c&H00FFFFFF}toward {\c&H8CFFFFFF}a
+Dialogue: 0,0:00:19.44,0:00:19.64,Cap,,0,0,0,,{\c&H00FFFFFF}Then {\c&H00FFFFFF}progress {\c&H00FFFFFF}toward {\c&H00FFFFFF}a
+Dialogue: 0,0:00:19.48,0:00:20.10,Cap,,0,0,0,,{\c&H006ED7F5}simulated {\c&H8CFFFFFF}funded {\c&H8CFFFFFF}account,
+Dialogue: 0,0:00:20.10,0:00:20.42,Cap,,0,0,0,,{\c&H006ED7F5}simulated {\c&H00FFFFFF}funded {\c&H8CFFFFFF}account,
+Dialogue: 0,0:00:20.42,0:00:20.83,Cap,,0,0,0,,{\c&H006ED7F5}simulated {\c&H00FFFFFF}funded {\c&H00FFFFFF}account,
+Dialogue: 0,0:00:21.08,0:00:21.55,Cap,,0,0,0,,{\c&H00FFFFFF}subject {\c&H8CFFFFFF}to {\c&H8CFFFFFF}the {\c&H8CFFFFFF}program
+Dialogue: 0,0:00:21.55,0:00:21.63,Cap,,0,0,0,,{\c&H00FFFFFF}subject {\c&H00FFFFFF}to {\c&H8CFFFFFF}the {\c&H8CFFFFFF}program
+Dialogue: 0,0:00:21.63,0:00:21.71,Cap,,0,0,0,,{\c&H00FFFFFF}subject {\c&H00FFFFFF}to {\c&H00FFFFFF}the {\c&H8CFFFFFF}program
+Dialogue: 0,0:00:21.71,0:00:22.19,Cap,,0,0,0,,{\c&H00FFFFFF}subject {\c&H00FFFFFF}to {\c&H00FFFFFF}the {\c&H00FFFFFF}program
+Dialogue: 0,0:00:22.19,0:00:22.48,Cap,,0,0,0,,{\c&H006ED7F5}rules.
+Dialogue: 0,0:00:23.54,0:00:24.04,Cap,,0,0,0,,{\c&H00FFFFFF}Discover {\c&H8CFFFFFF}Q.T.
+Dialogue: 0,0:00:24.04,0:00:24.44,Cap,,0,0,0,,{\c&H00FFFFFF}Discover {\c&H00FFFFFF}Q.T.
+Dialogue: 0,0:00:24.44,0:00:24.81,Cap,,0,0,0,,{\c&H006ED7F5}Funded.
+Dialogue: 0,0:00:25.79,0:00:26.11,Cap,,0,0,0,,{\c&H00FFFFFF}Trade {\c&H8CFFFFFF}with {\c&H8CFFFFFF}discipline.
+Dialogue: 0,0:00:26.11,0:00:26.27,Cap,,0,0,0,,{\c&H00FFFFFF}Trade {\c&H00FFFFFF}with {\c&H8CFFFFFF}discipline.
+Dialogue: 0,0:00:26.27,0:00:26.66,Cap,,0,0,0,,{\c&H00FFFFFF}Trade {\c&H00FFFFFF}with {\c&H006ED7F5}discipline.
+Dialogue: 0,0:00:27.67,0:00:28.13,Cap,,0,0,0,,{\c&H00FFFFFF}Scale {\c&H8CFFFFFF}with {\c&H8CFFFFFF}confidence.
+Dialogue: 0,0:00:28.13,0:00:28.36,Cap,,0,0,0,,{\c&H00FFFFFF}Scale {\c&H00FFFFFF}with {\c&H8CFFFFFF}confidence.
+Dialogue: 0,0:00:28.36,0:00:28.84,Cap,,0,0,0,,{\c&H00FFFFFF}Scale {\c&H00FFFFFF}with {\c&H006ED7F5}confidence.

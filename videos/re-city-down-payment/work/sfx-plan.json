@@ -1,0 +1,56 @@
+{
+    "_note":  "Low density, hero-moments-only per niches/real-estate.json sound.sfx_density. 7 events over 622s (~0.68/min).",
+    "master":  "videos/re-city-down-payment/output/re-city-down-payment-visuals.mp4",
+    "master_fps":  30,
+    "catalog":  "media/library/sfx/catalog.json",
+    "render":  {
+                   "preview":  "videos/re-city-down-payment/output/re-city-down-payment-FINAL.mp4",
+                   "out":  "videos/re-city-down-payment/output/re-city-down-payment-sfx.mp4",
+                   "duck":  true,
+                   "end_s":  622.4
+               },
+    "events":  [
+                   {
+                       "at_s":  0.2,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "cold open: the viral myth claim"
+                   },
+                   {
+                       "at_s":  12.1,
+                       "sfx_id":  "warm-shimmer",
+                       "gain_db":  -9,
+                       "cue":  "\u0027That is not how any of this works\u0027 -- the correction"
+                   },
+                   {
+                       "at_s":  161.9,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-southbend-math lands: 20% forgivable"
+                   },
+                   {
+                       "at_s":  209.6,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-baltimore-math lands: $5,000 lottery"
+                   },
+                   {
+                       "at_s":  262.3,
+                       "sfx_id":  "page-flip",
+                       "gain_db":  -11,
+                       "cue":  "card-newark-math lands: $20,000 at 0% interest"
+                   },
+                   {
+                       "at_s":  322.2,
+                       "sfx_id":  "warm-shimmer",
+                       "gain_db":  -9,
+                       "cue":  "mid-roll CTA: \u0027digging past a viral claim...\u0027"
+                   },
+                   {
+                       "at_s":  620.5,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-close-recap lands -- final beat"
+                   }
+               ]
+}

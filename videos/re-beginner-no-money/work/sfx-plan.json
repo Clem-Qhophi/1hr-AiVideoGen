@@ -1,0 +1,62 @@
+{
+    "_note":  "Low density, hero-moments-only per niches/real-estate.json sound.sfx_density: this channel earns trust by being heard rarely. 8 events over 682s (~0.7/min), all cue times pulled directly from work/edited-transcript.json word starts and work/beats.json card start_s -- never estimated. All 4 palette sounds (page-flip, impact-soft, warm-shimmer, ui-click-soft) reused from media/library/sfx/catalog.json, nothing generated.",
+    "master":  "videos/re-beginner-no-money/output/re-beginner-no-money-visuals.mp4",
+    "master_fps":  30,
+    "catalog":  "media/library/sfx/catalog.json",
+    "render":  {
+                   "preview":  "videos/re-beginner-no-money/output/re-beginner-no-money-FINAL.mp4",
+                   "out":  "videos/re-beginner-no-money/output/re-beginner-no-money-sfx.mp4",
+                   "duck":  true,
+                   "end_s":  682.2
+               },
+    "events":  [
+                   {
+                       "at_s":  2.1,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "cold open: \u0027Zero dollars\u0027 -- the number the whole video hangs on"
+                   },
+                   {
+                       "at_s":  19.7,
+                       "sfx_id":  "warm-shimmer",
+                       "gain_db":  -9,
+                       "cue":  "\u0027There are five real ways to start\u0027 -- the roadmap promise"
+                   },
+                   {
+                       "at_s":  169.8,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-loan-downpayments lands: 0% vs 3.5%"
+                   },
+                   {
+                       "at_s":  282.9,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "\u0027You never own the house\u0027 -- the wholesaling reveal, first half of the retention-loop payoff"
+                   },
+                   {
+                       "at_s":  300.3,
+                       "sfx_id":  "page-flip",
+                       "gain_db":  -11,
+                       "cue":  "card-wholesale-fee lands: $13,000 avg"
+                   },
+                   {
+                       "at_s":  413.6,
+                       "sfx_id":  "warm-shimmer",
+                       "gain_db":  -9,
+                       "cue":  "\u0027the catch I promised you\u0027 -- retention-loop payoff, the leverage-risk warning begins"
+                   },
+                   {
+                       "at_s":  452.0,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-homeowner-regret lands: 45%"
+                   },
+                   {
+                       "at_s":  680.2,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-close-recap lands: $0 vs $13K avg -- final beat"
+                   }
+               ]
+}

@@ -1,0 +1,46 @@
+{
+  "format": "longform-images",
+  "niche": "ai-news",
+  "runtime": {
+    "target_min": 4.0,
+    "tolerance": 0.08
+  },
+  "video": {
+    "aspect": "16:9",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  },
+  "source": "generated",
+  "voice": {
+    "engine": "edge-tts",
+    "name": "en-US-AndrewNeural"
+  },
+  "captions": {
+    "enabled": true,
+    "style": "burned",
+    "emphasis": true,
+    "font_px": null
+  },
+  "motion": {
+    "kind": "ken-burns",
+    "beat_seconds": 5.0
+  },
+  "sfx": {
+    "enabled": true,
+    "density": "medium"
+  },
+  "music": {
+    "enabled": true,
+    "bed": "tech-pulse",
+    "gain_db": -6
+  },
+  "evidence": {
+    "required": true,
+    "min_on_screen": 2
+  },
+  "master": {
+    "lufs": -14.0,
+    "true_peak": -1.0
+  }
+}

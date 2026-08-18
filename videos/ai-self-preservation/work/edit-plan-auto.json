@@ -1,0 +1,20 @@
+{
+  "project": "ai-self-preservation",
+  "source": {
+    "words": 1010,
+    "sentences": 1,
+    "length_s": 450.6,
+    "cut_joins": 0,
+    "had_cuts_json": false
+  },
+  "reframes": [],
+  "graphics": [
+    {
+      "at_s": 0.0,
+      "until_s": 9.0,
+      "kind": "comparison",
+      "why": "a versus/against framing wants both sides on screen at once",
+      "line": "This will cost you In April 2026 researchers at UC Berkeley asked GPT52 to shut down another AI model It refused Not because of a safety filter Not because of a"
+    }
+  ]
+}

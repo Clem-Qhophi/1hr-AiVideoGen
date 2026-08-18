@@ -1,0 +1,26 @@
+{
+  "master": "videos/weathernext-cyclones/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "WNHook", "type": "cutaway", "master_in_s": 0.0, "master_out_s": 29.25, "cue": "your life, your money, 1.4 trillion, 5 days, one extra day, strangest part teaser" },
+    { "id": "WNContext", "type": "cutaway", "master_in_s": 29.25, "master_out_s": 64.64, "cue": "700k deaths, track vs intensity tradeoff, rapid intensification" },
+    { "id": "WNVerdict", "type": "cutaway", "master_in_s": 64.64, "master_out_s": 87.64, "cue": "the claim: 3-day = old 2-day, +24h, decade of progress" },
+    { "id": "WNMelissa", "type": "cutaway", "master_in_s": 87.64, "master_out_s": 126.20, "cue": "NHC ran it live, Melissa Cat5, 80% confidence, NHC report top model" },
+    { "id": "WNScale", "type": "cutaway", "master_in_s": 126.20, "master_out_s": 157.03, "cue": "15 days, 1000 futures, under a minute, open source" },
+    { "id": "WNEvidence", "type": "cutaway", "master_in_s": 157.03, "master_out_s": 223.67, "cue": "100km, 11kt, NHC report details, season stats" },
+    { "id": "WNCTA", "type": "cutaway", "master_in_s": 223.67, "master_out_s": 240.00, "cue": "mid-roll subscribe CTA" },
+    { "id": "WNHow", "type": "cutaway", "master_in_s": 240.00, "master_out_s": 285.40, "cue": "20TB, 5000 storms, FGN, 1000 futures, 28x28, 100x coarser, mini 111km" },
+    { "id": "WNOpen", "type": "cutaway", "master_in_s": 285.40, "master_out_s": 312.46, "cue": "BigQuery, Earth Engine, Weather Lab, GitHub, partner agencies" },
+    { "id": "WNHonest", "type": "cutaway", "master_in_s": 312.46, "master_out_s": 360.35, "cue": "open question payoff, decision support, intensity hard, TPU cost, short record" },
+    { "id": "WNClose", "type": "cutaway", "master_in_s": 360.35, "master_out_s": 399.50, "cue": "verdict, subscribe, like + comment" }
+  ],
+  "reframes": [],
+  "preview": {
+    "end_s": 399.46,
+    "out": "videos/weathernext-cyclones/output/weathernext-cyclones-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

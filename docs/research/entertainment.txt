@@ -1,0 +1,58 @@
+
+=== 24h — 13 videos ===
+  runtime: median 36 min  (p25 23 / p75 41)
+  titles: 38% use ALL-CAPS · 30% a number · 23% a parenthetical
+  recurring words: untold, years, story, vanished, birth, changed, everything, took, one, nearly, got, lled
+  top by views/day:
+       1,637/d   40m  How I nearly got k!LLED in Ashongman Estate by my bestfriend 😰💔
+               CAESAR SHOW                       1,597 views, 1.0d old
+          92/d   25m  Eight Years After He Vanished, She Saved His Life in the OR — And 
+              Hidden Desire Stories              23 views, 0.2d old
+          16/d   20m  😱 The Untold Story of ENDURANCE | Shackleton's Impossible Survival
+              Rashid Kohistani                   4 views, 0.2d old
+          12/d   63m  Young Midwife Vanished in 1994 — 21 Years Later, A Birth Certifica
+              Missing Stories                    3 views, 0.2d old
+          11/d   36m  نجات دو کودک از مرگ. Saving Two Children from Death
+              Untold stories-ناگفته ها           11 views, 1.0d old
+           9/d   47m  The Black Outlaw the U S  Government Tried to Erase  The Untold St
+              Dark Legacy                        3 views, 0.3d old
+
+=== 30d — 48 videos ===
+  runtime: median 51 min  (p25 34 / p75 95)
+  titles: 27% use ALL-CAPS · 50% a number · 2% a parenthetical
+  recurring words: years, story, until, untold, nobody, noticed, she, was, disappeared, later, her, worth
+  top by views/day:
+      78,450/d   38m  She Vanished 44 Years Ago...Did We Just Find Her?? | The Search fo
+              DOUG BISHOP                        316,743 views, 4.0d old
+      66,274/d   34m  Her Killer was the Last Person Anyone Suspected
+              Othram Studios                     1,608,271 views, 24.3d old
+      32,499/d   95m  【FULL】He Searched For 3 Years… Never Guessed The “Clown” By His Si
+              Whisper of Romantic                68,267 views, 2.1d old
+      25,444/d  126m  CM Punk talks return, untold stories & relationship w/ Steph | Wha
+              What's Your Story? With Steph McMa 513,557 views, 20.2d old
+      22,628/d   59m  Untold Stories from the War in Afghanistan
+              Wartime Stories                    359,610 views, 15.9d old
+      19,517/d   56m  Billionaire Heiress Gave Black Janitor Her Late Father's Rusty Car
+              Soren Speaks                       236,375 views, 12.1d old
+
+=== 365d — 60 videos ===
+  runtime: median 44 min  (p25 31 / p75 71)
+  titles: 23% use ALL-CAPS · 46% a number · 8% a parenthetical
+  recurring words: until, years, worth, nobody, story, noticed, was, after, true, too, later, she
+  top by views/day:
+      66,273/d   34m  Her Killer was the Last Person Anyone Suspected
+              Othram Studios                     1,608,271 views, 24.3d old
+      44,511/d   23m  Vasuki the Serpent King: The Secret Behind Shiva’s Snake (Full Myt
+              True Realms                        6,965,638 views, 156.5d old
+      23,833/d   41m  Kimberly Langwell's Hidden Grave | Full Episode
+              48 Hours                           2,557,477 views, 107.3d old
+      23,732/d  107m  Watch This After Dhurandhar 2 - Honsla Eendhan Badla Podcast 🔥 I A
+              Ranveer Allahbadia                 3,254,594 views, 137.1d old
+      22,355/d   30m  Mystery of Dwarka | The Real History || Full Documentary
+              Divya Katha                        7,873,361 views, 352.2d old
+      21,456/d   50m  A Case Too Disturbing To Make It To Netflix
+              The Decoder                        7,530,599 views, 351.0d old
+
+  -> docs/research/entertainment.json
+
+Read these as PATTERNS to learn from, not titles to copy. Duplicating a title verbatim is how a channel gets flagged as derivative.

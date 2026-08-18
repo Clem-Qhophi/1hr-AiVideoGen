@@ -1,0 +1,10 @@
+{
+  "video": "videos/ai-agent-company/output/ai-agent-company-preview-tech-pulse-MASTER.mp4",
+  "title": "I Used 100 Autonomous AI Agents To Run A Million Dollar Company Solo",
+  "description": "What if you could run an entire company with zero employees? Solo founders are building million-dollar businesses using armies of AI agents.\n\nIn this video, we break down:\n- The architecture: how 100 specialized AI agents work together\n- Real examples: Pieter Levels ($420K/mo), Base44 ($80M exit), Marc Lou ($1M/yr)\n- The frameworks: CrewAI ($18M Series A), AutoGen, LangGraph\n- The cost math: $3K-12K/year vs $200K+ for human teams\n- The honest limitations: error rates, orchestration complexity\n\nThis isn't theoretical. It's happening right now.\n\nSources:\n- Pieter Levels: levels.io/blog\n- CrewAI: docs.crewai.com\n- Microsoft AutoGen: autogen.microsoft.com\n- Forbes: AI Agents Reshaping Solopreneur Economy\n- ACM: Multi-Agent Systems Survey\n- MarkTechPost: AI Agent Swarms Revolution\n- Base44: built without engineers, sold to Wix for $80M",
+  "tags": ["ai agents", "multi-agent", "autonomous agents", "crewai", "autogen", "solo founder", "ai company", "artificial intelligence", "ai automation", "langgraph", "ai swarms", "solopreneur", "ai business", "million dollar"],
+  "category": "Science & Technology",
+  "thumbnail": "videos/ai-agent-company/packaging/thumbs/A.jpg",
+  "privacy": "private",
+  "channel": "ai-news"
+}

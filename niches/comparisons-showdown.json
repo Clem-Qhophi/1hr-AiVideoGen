@@ -1,0 +1,174 @@
+{
+  "id": "comparisons-showdown",
+  "name": "The Comparison Arena — extreme scale & comparison showdowns",
+  "_channel": "The Comparison Arena (@TheComparisonArena). High-octane broadcast comparisons: 1v1 title-fights, 1-to-100 escalation ladders, and high-stakes auction bidding wars, narrated with the frantic energy of a football commentator and auctioneer. Tagline: 'Every scale pushed to the absolute limit.' Sign-off: 'And the numbers have settled it.'",
+  "_origin": "Created 2026-08-17 to power universal extreme comparison videos (richest, fastest, tallest, largest, aliens, cosmic scales, GOAT athletes, military showdowns).",
+  "audience": "global curious & competitive audience 16-35. Argumentative, thrill-seeking, data-fascinated, comment-active.",
+  "formats": {
+    "showdown_1v1": {
+      "format_name": "1v1 Showdown — Head-to-Head Clash (long-form 6-10 min, or Short 45-60s)",
+      "title": {
+        "formula": "[ENTITY A] vs [ENTITY B]: [extreme stakes clause]",
+        "ingredients": {
+          "stakes": ["The Final Showdown", "The Numbers Are Terrifying", "Nobody Expected This Winner", "The Data Settled It Forever", "When Titans Collide"]
+        }
+      },
+      "script": {
+        "target_minutes": [6, 10],
+        "structure": [
+          { "beat": "cold-open", "share": 0.06, "note": "High-octane opening stinger. Start at maximum tension with a score or lead change teaser. Zero generic intro." },
+          { "beat": "tale-of-the-tape", "share": 0.08, "note": "Establish combatants, arena parameters, and stakes in rapid commentator cadence." },
+          { "beat": "tier-1-foundation", "share": 0.15, "note": "Initial baseline comparison. Fast pace, rapid stat punch." },
+          { "beat": "tier-2-escalation", "share": 0.20, "note": "Escalation round where combatants push into extreme territory. First lead change / tension spike." },
+          { "beat": "tier-3-marquee", "share": 0.25, "note": "The most contested category (insane metric). High drama, auctioneer staccato pacing." },
+          { "beat": "tier-4-climax", "share": 0.16, "note": "The mind-bending ultimate metric. Double stakes. Crowning moment." },
+          { "beat": "verdict-cta", "share": 0.10, "note": "Commentator recap, belt handover, subscribe CTA + 'Who should fight next?' comment prompt. Sign-off." }
+        ]
+      }
+    },
+    "escalation_ladder": {
+      "format_name": "The Escalation Ladder — 1-to-100 Scale Climb (long-form 8-15 min, or Short 50-60s)",
+      "title": {
+        "formula": "[CATEGORY] Size / Wealth / Speed Comparison: [Level 1 to Level 100]",
+        "ingredients": {
+          "stakes": ["Level 100 Is Terrifying", "From $1 to $1,000,000,000,000", "Human to Multiverse", "Slowest to Light Speed", "From Microscopic to Cosmic Scale"]
+        }
+      },
+      "script": {
+        "target_minutes": [8, 15],
+        "structure": [
+          { "beat": "hook-roadmap", "share": 0.05, "note": "15-second FOMO hook: 'Level 1 starts simple, but by Level 8 things get illegal, and Level 10 will break your brain.'" },
+          { "beat": "tier-low", "share": 0.20, "note": "Levels 1-3: Relatable human scale. Rapid-fire commentary." },
+          { "beat": "tier-mid", "share": 0.25, "note": "Levels 4-6: Global/planetary scale. Rising tempo, dynamic speedup." },
+          { "beat": "tier-high", "share": 0.25, "note": "Levels 7-9: Insane, mind-bending territory. Staccato delivery." },
+          { "beat": "tier-ultimate", "share": 0.15, "note": "Level 10 / Final Form: Beyond human comprehension. Extreme climax." },
+          { "beat": "verdict-cta", "share": 0.10, "note": "Scale recap, CTA to subscribe, question of the day." }
+        ]
+      }
+    },
+    "auction_bidding_war": {
+      "format_name": "The High-Stakes Auction — Net Worth & Price Showdown (long-form 5-8 min, or Short 45-60s)",
+      "title": {
+        "formula": "[ASSET / ENTITY] Bidding War: [The Insane Price Race]",
+        "ingredients": {
+          "stakes": ["Going Once, Going Twice, SOLD!", "The $500 Billion War", "The Most Expensive Asset on Earth", "Who Outbids Everyone?"]
+        }
+      },
+      "script": {
+        "target_minutes": [5, 8],
+        "structure": [
+          { "beat": "auction-gavel-open", "share": 0.06, "note": "Gavel strike open: 'Ladies and gentlemen, welcome to the floor. Today we auction the rarest, richest assets in the galaxy!'" },
+          { "beat": "opening-bid", "share": 0.14, "note": "First item/combatant on the block. Fast auctioneer cadence." },
+          { "beat": "bidding-frenzy", "share": 0.35, "note": "Escalating bids, counter-bids, rapid numbers climbing on screen." },
+          { "beat": "final-call", "share": 0.25, "note": "The billionaire clash. Gavel warning: 'Fair warning... going once... going twice...'" },
+          { "beat": "gavel-slam-verdict", "share": 0.20, "note": "SOLD! Final evaluation, winner takes all, viewer CTA." }
+        ]
+      }
+    }
+  },
+  "moment_classes": {
+    "_note": "THE COMMENTARY IP. Keyed by data conditions to trigger specific commentator and auctioneer delivery registers.",
+    "C0_COLD_OPEN": {
+      "trigger": "Opening 10-15 seconds of the video",
+      "delivery": "Intense, ominous, building thunder",
+      "phrases": [
+        "Welcome to the ultimate arena. The numbers are in, and what you are about to witness is insane.",
+        "They said this comparison was impossible. They were wrong. Let's run the data!",
+        "Level one looks harmless. Level ten will shatter everything you think you know.",
+        "Ladies and gentlemen, take your seats. The greatest showdown in history starts RIGHT NOW!"
+      ]
+    },
+    "C1_AUCTION_BID": {
+      "trigger": "Rapid price/metric climb or bidding war",
+      "delivery": "Auctioneer staccato, fast syllables, rhythmic chant",
+      "phrases": [
+        "Fifty billion on the left, do I hear seventy-five? Seventy-five to Apple, now one hundred billion!",
+        "Going up, climbing fast! Look at the ticker race past two hundred million!",
+        "Can anybody match that bid? We have three hundred billion on the board and climbing!",
+        "Going once! Going twice! The numbers are skyrocketing!"
+      ]
+    },
+    "C2_LADDER_CLIMB": {
+      "trigger": "Stepping up to the next tier of scale",
+      "delivery": "Rising urgency, accelerating tempo",
+      "phrases": [
+        "You thought that was big? We are just getting started. Step up to Level [N]!",
+        "Now we enter insane territory. Look at how small the last level looks compared to THIS.",
+        "The scale just exploded. Multiply that by ten thousand and you get [NAME]!",
+        "We have officially left human comprehension behind!"
+      ]
+    },
+    "C3_GOAL_CLIMAX": {
+      "trigger": "Sudden breakthrough, overtake, or decisive score",
+      "delivery": "Football commentator peak roar, maximum volume and energy",
+      "phrases": [
+        "AND HE BREAKS AWAY! LOOK AT THE NUMBERS CLIMB — IT'S IN! UNBELIEVABLE!",
+        "OVERTAKE! [NAME] STORMS INTO FIRST PLACE WITH PURE MOMENTUM!",
+        "WHAT A STRIKE! The competition is left in the dust!",
+        "IT'S A GOAL! ABSOLUTE SCENES IN THE ARENA AS [NAME] TAKES THE LEAD!"
+      ]
+    },
+    "C4_MIND_BENDER": {
+      "trigger": "An incomprehensibly vast statistic or scale ratio",
+      "delivery": "Whisper to crescendo shock",
+      "phrases": [
+        "Put this into perspective. If you stacked every single one end to end, it would reach the Moon and back twice.",
+        "If you spent a million dollars every single day since the dawn of human history, you still wouldn't match [NAME].",
+        "That is not just a lead — that is an entire universe of difference.",
+        "Let that number sink in. Look at the chart. It doesn't even fit on the screen!"
+      ]
+    },
+    "C5_GAVEL_SLAM": {
+      "trigger": "Final round, round win, or auction conclusion",
+      "delivery": "Ceremonial punch, gavel strike sync",
+      "phrases": [
+        "GOING ONCE... GOING TWICE... SOLD TO [NAME] AT [VALUE]!",
+        "THE GAVEL COMES DOWN! The champion has been crowned!",
+        "THAT IS THE FINAL WHISTLE! The debate is officially over!",
+        "And the numbers have settled it."
+      ]
+    },
+    "C6_PHOTO_FINISH": {
+      "trigger": "Separation between top two is under 2%",
+      "delivery": "Frantic, breathless suspense",
+      "phrases": [
+        "Look at the margin! They are neck and neck, separated by a razor-thin fraction!",
+        "Too close to call! We are going down to the final millimeter!",
+        "A photo finish! In twenty years of broadcasting, we have never seen a race this tight!"
+      ]
+    },
+    "C7_UPSET_SHOCK": {
+      "trigger": "Underdog overtakes the giant",
+      "delivery": "Disbelief, rapid exclamation",
+      "phrases": [
+        "WAIT A SECOND! Look at the chaser! THE GIANT HAS BEEN TOPPLED!",
+        "NOBODY SAW THIS COMING! The underdog just destroyed the record book!",
+        "THE CROWD IS IN SHOCK! [NAME] takes down the undisputed titan!"
+      ]
+    }
+  },
+  "voice_rules": [
+    "Permanent channel voice: 'THE ARENA COMMENTATOR' — energetic, sharp, lightning-fast articulation.",
+    "Target voiceover pace: 4.5 to 6.5 words per second during action sequences; 3.5 words/sec during dramatic pauses.",
+    "Dynamic silence: 0.3s to 0.7s before major reveals and gavel strikes.",
+    "Number rounding in speech: Round to 3 significant digits in speech ('342 billion', '9.4 million'), while on-screen charts render full precision.",
+    "Every video enforces the Two-Source Rule for verified data points."
+  ],
+  "sound": {
+    "music_bed": "high-octane-arena-pulse",
+    "bed_gain_db": -7,
+    "sfx_density": "high",
+    "sfx_palette": [
+      "gavel-strike", "crowd-roar", "stadium-chant", "whistle-blast",
+      "cash-register", "speedometer-rev", "countdown-tick", "bass-drop",
+      "sonic-boom", "confetti-burst", "camera-flash"
+    ]
+  },
+  "packaging": {
+    "thumbnail": {
+      "template": "High-contrast split arena, glowing scale bar or vs badge, vibrant combatant silhouettes, 3 elements maximum.",
+      "colors": { "neon_yellow": "#FFE600", "electric_cyan": "#00F0FF", "hot_red": "#FF2A55", "arena_dark": "#0B0E17" }
+    },
+    "viral_gate": "Candidate packaging must score >= 90/100 on viral_packaging_engine.py."
+  }
+}

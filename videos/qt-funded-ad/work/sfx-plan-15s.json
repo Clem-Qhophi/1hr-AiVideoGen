@@ -1,0 +1,25 @@
+{
+  "master": "videos/qt-funded-ad/work/audio/master-15s.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/qt-funded-ad/output/qt-funded-ad-15s-captioned.mp4",
+    "out": "videos/qt-funded-ad/output/qt-funded-ad-15s-sfx.mp4",
+    "end_s": 15.0,
+    "duck": true
+  },
+  "_note": "15s cutdown, near-continuous VO -> short-form calibration (EVOLUTION): whooshes -3, pops 0..+3, stamps 0..+7. Slams calibrated +6 per the qt-funded-ad lesson (duck eats gains under emphasized VO words). Same cue style as the 30s hero.",
+  "events": [
+    {"at_s": 0.30, "sfx_id": "impact-deep-soft", "gain_db": 3, "shot": "QTHook15", "cue": "CONSISTENCY slams (local f9; word 0.18-0.77)"},
+    {"at_s": 1.97, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTStructure15", "cue": "transition into the platform beat"},
+    {"at_s": 2.40, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTStructure15", "cue": "evidence browser appears (local f12)", "optional": true},
+    {"at_s": 3.60, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTStructure15", "cue": "structured evaluation line rises (local f48; word 'structured' 3.57)"},
+    {"at_s": 6.17, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTDiscipline15", "cue": "transition into the discipline beat"},
+    {"at_s": 6.57, "sfx_id": "stamp-hit", "gain_db": 6, "shot": "QTDiscipline15", "cue": "DISCIPLINE. slams (local f11; word 'Trade' 6.71)"},
+    {"at_s": 7.20, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTDiscipline15", "cue": "testimonials browser appears (local f30)", "optional": true},
+    {"at_s": 8.47, "sfx_id": "stamp-hit", "gain_db": 6, "shot": "QTDiscipline15", "cue": "CONSISTENCY. slams (local f68; word 'Prove' 8.56)"},
+    {"at_s": 9.97, "sfx_id": "whoosh-soft", "gain_db": -3, "shot": "cut->QTEndCard15", "cue": "transition into the end card"},
+    {"at_s": 10.27, "sfx_id": "impact-deep-soft", "gain_db": 4, "shot": "QTEndCard15", "cue": "QT FUNDED slams (local f8; word 'Discover' 10.49)"},
+    {"at_s": 11.07, "sfx_id": "pop-reveal", "gain_db": 2, "shot": "QTEndCard15", "cue": "evaluations browser appears (local f32)", "optional": true},{"at_s": 11.67, "sfx_id": "chime-reward", "gain_db": 2, "shot": "QTEndCard15", "cue": "CTA START YOUR EVALUATION pops (local f50)"}
+  ]
+}

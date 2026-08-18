@@ -1,0 +1,147 @@
+[
+  {
+    "id": "crossover-headline",
+    "type": "compare",
+    "kicker": "SAME $200/MO · SAME RATE · DIFFERENT START",
+    "left": { "value": "$1,106,809", "label": "Person A: 10 yrs, then stopped", "accent": "signal" },
+    "right": { "value": "$545,257", "label": "Person B: 30 yrs, never stopped", "accent": "warn" },
+    "foot": "SEC investor.gov Compound Interest Calculator, 10.87%/yr, computed 2026-08-04",
+    "match": ["card-crossover-headline"]
+  },
+  {
+    "id": "literacy-gap",
+    "type": "stat",
+    "kicker": "PERSONAL FINANCE COURSE REQUIRED TO GRADUATE",
+    "stat": "35/50",
+    "unit": "states, as of 2024",
+    "label": "12 of those states only added the requirement since 2022",
+    "foot": "Council for Economic Education, 2024 Survey of the States",
+    "accent": "warn",
+    "match": ["card-literacy-gap"]
+  },
+  {
+    "id": "definition",
+    "type": "quote",
+    "kicker": "COMPOUND INTEREST, PLAIN",
+    "stat": "Your gains start earning their own gains.",
+    "label": "interest paid on your original money, plus on every dollar of growth it already earned",
+    "foot": "The Money Archive — mechanism explainer",
+    "match": ["card-definition"]
+  },
+  {
+    "id": "rule-of-72",
+    "type": "stat",
+    "kicker": "THE RULE OF 72",
+    "stat": "72 ÷ rate",
+    "unit": "= years to double your money",
+    "label": "an 8% return doubles your money in about 9 years",
+    "foot": "Standard financial rule of thumb",
+    "accent": "accent",
+    "match": ["card-rule-of-72"]
+  },
+  {
+    "id": "sp500-rate",
+    "type": "compare",
+    "kicker": "S&P 500, 32-YEAR AVERAGE (1994-2026)",
+    "left": { "value": "10.87%/yr", "label": "nominal return, dividends reinvested", "accent": "signal" },
+    "right": { "value": "8.13%/yr", "label": "after inflation", "accent": "accent" },
+    "foot": "OfficialData.org, S&P 500 historical returns",
+    "match": ["card-sp500-rate", "card-real-vs-nominal"]
+  },
+  {
+    "id": "full-run",
+    "type": "stat",
+    "kicker": "$200/MO FOR 40 YEARS AT 10.87%/YR",
+    "stat": "$1,652,065",
+    "unit": "final balance",
+    "label": "only $96,000 of that was money you actually put in — the rest is growth",
+    "foot": "SEC investor.gov Compound Interest Calculator",
+    "accent": "signal",
+    "match": ["card-full-run"]
+  },
+  {
+    "id": "curve-bend",
+    "type": "compare",
+    "kicker": "SAME $2,400 CONTRIBUTED EACH YEAR",
+    "left": { "value": "+$123", "label": "account growth, year 1", "accent": "accent" },
+    "right": { "value": "+$171,703", "label": "account growth, year 40", "accent": "signal" },
+    "foot": "SEC investor.gov Compound Interest Calculator, year-by-year table",
+    "match": ["card-curve-bend"]
+  },
+  {
+    "id": "head-start",
+    "type": "stat",
+    "kicker": "PERSON A: AGE 25 TO 35, THEN STOPPED",
+    "stat": "$24,000",
+    "unit": "total ever contributed",
+    "label": "10 years of $200/month, then left untouched for 30 more years",
+    "foot": "SEC investor.gov Compound Interest Calculator",
+    "match": ["card-head-start"]
+  },
+  {
+    "id": "waited",
+    "type": "compare",
+    "kicker": "BOTH AGE 65 · SAME $200/MO · SAME RATE",
+    "left": { "value": "$1,106,809", "label": "Person A — 10 yrs, $24,000 in", "accent": "signal" },
+    "right": { "value": "$545,257", "label": "Person B — 30 yrs, $72,000 in", "accent": "warn" },
+    "foot": "SEC investor.gov Compound Interest Calculator",
+    "match": ["card-waited"]
+  },
+  {
+    "id": "why-it-works",
+    "type": "quote",
+    "kicker": "WHY TEN YEARS BEAT THIRTY",
+    "stat": "Time is the one input you cannot buy back later.",
+    "label": "a 10-year head start outcompeted 20 extra years of contributions",
+    "foot": "The Money Archive",
+    "match": ["card-why-it-works"]
+  },
+  {
+    "id": "person-c",
+    "type": "stat",
+    "kicker": "PERSON C: STARTED AT 45, 20 YEARS, $48,000 IN",
+    "stat": "$170,180",
+    "unit": "value at 65",
+    "label": "twice the cash Person A put in, less than a sixth of Person A's result",
+    "foot": "SEC investor.gov Compound Interest Calculator",
+    "accent": "danger",
+    "match": ["card-person-c"]
+  },
+  {
+    "id": "scales",
+    "type": "compare",
+    "kicker": "SAME 10.87%/YR, SAME 40 YEARS",
+    "left": { "value": "$50/mo", "label": "→ $413,016 at 65", "accent": "accent" },
+    "right": { "value": "$25/mo", "label": "→ $206,508 at 65", "accent": "accent" },
+    "foot": "Scaled from the $200/mo SEC calculator result — linear in contribution size",
+    "match": ["card-scales"]
+  },
+  {
+    "id": "honest-limits",
+    "type": "quote",
+    "kicker": "READ THIS BEFORE THE NEXT PART",
+    "stat": "This is general information, not personalized financial advice.",
+    "label": "past performance does not guarantee future results",
+    "foot": "The Money Archive — honesty guard",
+    "match": ["card-honest-limits"]
+  },
+  {
+    "id": "how-to-checklist",
+    "type": "stat",
+    "kicker": "THIS WEEK",
+    "stat": "6",
+    "unit": "things to check",
+    "label": "using a free calculator and your own real numbers — no buying or selling required",
+    "foot": "See the description for the full checklist",
+    "match": ["card-how-to-checklist"]
+  },
+  {
+    "id": "close-recap",
+    "type": "quote",
+    "kicker": "THE MONEY ARCHIVE",
+    "stat": "Go run your own numbers.",
+    "label": "general information, not personalized financial advice",
+    "foot": "The Money Archive — plain mechanics, sourced numbers, no hype",
+    "match": ["card-close-recap"]
+  }
+]

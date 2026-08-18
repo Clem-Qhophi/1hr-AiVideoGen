@@ -1,0 +1,61 @@
+{
+  "project": "gemini-3-7-release",
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/gemini-3-7-release/output/gemini-3-7-release-captioned.mp4",
+    "out": "videos/gemini-3-7-release/output/gemini-3-7-release-sfx.mp4",
+    "end_s": 222.7,
+    "duck": true
+  },
+  "events": [
+    {
+      "at_s": 0.0,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -4,
+      "purpose": "cold open transition",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 5.08,
+      "sfx_id": "impact-soft",
+      "gain_db": -6,
+      "purpose": "coding benchmark reveal",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 12.57,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -6,
+      "purpose": "price cut reveal",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 37.0,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -4,
+      "purpose": "verdict section start",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 110.0,
+      "sfx_id": "impact-soft",
+      "gain_db": -6,
+      "purpose": "evidence benchmark deep dive",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 168.0,
+      "sfx_id": "whoosh-soft",
+      "gain_db": -4,
+      "purpose": "honest gap section start",
+      "audible_test": "speech gap"
+    },
+    {
+      "at_s": 198.0,
+      "sfx_id": "ui-click-soft",
+      "gain_db": -6,
+      "purpose": "close CTA transition",
+      "audible_test": "speech gap"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "master": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\ai-agent-company/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    {
+      "id": "AAHook",
+      "master_in_s": 0,
+      "master_out_s": 30,
+      "type": "cutaway"
+    },
+    {
+      "id": "AAEvidenceLevels",
+      "master_in_s": 30,
+      "master_out_s": 65,
+      "type": "cutaway"
+    },
+    {
+      "id": "AAEvidenceForbes",
+      "master_in_s": 65,
+      "master_out_s": 95,
+      "type": "cutaway"
+    },
+    {
+      "id": "AAEvidenceCrewAI",
+      "master_in_s": 95,
+      "master_out_s": 130,
+      "type": "cutaway"
+    },
+    {
+      "id": "AAEvidenceAutoGen",
+      "master_in_s": 130,
+      "master_out_s": 160,
+      "type": "cutaway"
+    },
+    {
+      "id": "AAEvidenceFunding",
+      "master_in_s": 160,
+      "master_out_s": 190,
+      "type": "cutaway"
+    },
+    {
+      "id": "AAEvidenceSwarms",
+      "master_in_s": 190,
+      "master_out_s": 220,
+      "type": "cutaway"
+    },
+    {
+      "id": "AAEvidenceBase44",
+      "master_in_s": 220,
+      "master_out_s": 255,
+      "type": "cutaway"
+    },
+    {
+      "id": "AAHonestGap",
+      "master_in_s": 255,
+      "master_out_s": 280,
+      "type": "cutaway"
+    },
+    {
+      "id": "AACloseCTA",
+      "master_in_s": 280,
+      "master_out_s": 310,
+      "type": "cutaway"
+    }
+  ],
+  "preview": {
+    "end_s": 370.33,
+    "out": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\videos\\ai-agent-company/output/ai-agent-company-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

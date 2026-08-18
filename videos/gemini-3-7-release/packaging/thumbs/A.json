@@ -1,0 +1,32 @@
+{
+  "engine": "remotion-still",
+  "composition": "Gemini37Thumb",
+  "props": {
+    "headline": "65% CODING",
+    "emphasis": "HALF PRICE",
+    "kicker": null,
+    "sub": null,
+    "badge": "GEMINI 3.7",
+    "accent": "cyan",
+    "variant": "photo",
+    "image": "projects/gemini-3-7-release/evidence/deepmind-gemini-announcement.png",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "left",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": null,
+    "faceAt": null,
+    "faceFocus": null,
+    "faceCutout": false
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\Gemini37Thumb.tsx"
+}

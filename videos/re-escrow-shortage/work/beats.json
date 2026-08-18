@@ -1,0 +1,867 @@
+{
+ "niche": "real-estate",
+ "output": {
+  "w": 1920,
+  "h": 1080,
+  "fps": 30,
+  "out": "output/re-escrow-shortage-visuals.mp4"
+ },
+ "audio": "work/audio/voiceover.mp3",
+ "beats": [
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 0.0,
+   "end_s": 3.78,
+   "move": "auto",
+   "cue": "Same interest rate. Same loan. Same house.  And your mortgage payment went up anyway."
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 3.78,
+   "end_s": 8.45,
+   "move": "auto",
+   "cue": "Same interest rate. Same loan. Same house.  And your mortgage payment went up anyway."
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 8.45,
+   "end_s": 12.24,
+   "move": "auto",
+   "cue": "Almost every homeowner with a mortgage eventually gets a letter like this. Most people panic when they open it"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 12.24,
+   "end_s": 16.04,
+   "move": "auto",
+   "cue": "Almost every homeowner with a mortgage eventually gets a letter like this. Most people panic when they open it"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 16.04,
+   "end_s": 19.84,
+   "move": "auto",
+   "cue": "Almost every homeowner with a mortgage eventually gets a letter like this. Most people panic when they open it"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 19.84,
+   "end_s": 23.64,
+   "move": "auto",
+   "cue": "Almost every homeowner with a mortgage eventually gets a letter like this. Most people panic when they open it"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 23.64,
+   "end_s": 27.44,
+   "move": "auto",
+   "cue": "Almost every homeowner with a mortgage eventually gets a letter like this. Most people panic when they open it"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 27.44,
+   "end_s": 31.23,
+   "move": "auto",
+   "cue": "Almost every homeowner with a mortgage eventually gets a letter like this. Most people panic when they open it"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 31.23,
+   "end_s": 35.03,
+   "move": "auto",
+   "cue": "Almost every homeowner with a mortgage eventually gets a letter like this. Most people panic when they open it"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 35.03,
+   "end_s": 38.83,
+   "move": "auto",
+   "cue": "Almost every homeowner with a mortgage eventually gets a letter like this. Most people panic when they open it"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 38.83,
+   "end_s": 43.67,
+   "move": "auto",
+   "cue": "Almost every homeowner with a mortgage eventually gets a letter like this. Most people panic when they open it"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 43.67,
+   "end_s": 49.63,
+   "move": "auto",
+   "cue": "Here is why this catches people so off guard.  A fixed-rate mortgage is supposed to be the predictable one. Sa"
+  },
+  {
+   "image": "work\\images\\002-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 49.63,
+   "end_s": 56.76,
+   "move": "auto",
+   "cue": "Here is why this catches people so off guard.  A fixed-rate mortgage is supposed to be the predictable one. Sa"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 56.76,
+   "end_s": 63.25,
+   "move": "auto",
+   "cue": "So when the payment moves anyway, it feels like a betrayal. Like the one certain thing in your budget quietly "
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 63.25,
+   "end_s": 69.75,
+   "move": "auto",
+   "cue": "So when the payment moves anyway, it feels like a betrayal. Like the one certain thing in your budget quietly "
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 69.75,
+   "end_s": 76.25,
+   "move": "auto",
+   "cue": "So when the payment moves anyway, it feels like a betrayal. Like the one certain thing in your budget quietly "
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 76.25,
+   "end_s": 83.78,
+   "move": "auto",
+   "cue": "So when the payment moves anyway, it feels like a betrayal. Like the one certain thing in your budget quietly "
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 83.78,
+   "end_s": 91.92,
+   "move": "auto",
+   "cue": "The real reason has nothing to do with your rate, your credit, or your bank quietly changing the deal.  It is "
+  },
+  {
+   "image": "work\\images\\004-for-sale-sign-yard-0.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 91.92,
+   "end_s": 101.07,
+   "move": "auto",
+   "cue": "The real reason has nothing to do with your rate, your credit, or your bank quietly changing the deal.  It is "
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\cfpb-escrow-basics.png",
+   "image_query": "EVIDENCE-cfpb-escrow-basics",
+   "image_prompt": "EVIDENCE-cfpb-escrow-basics, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 101.07,
+   "end_s": 108.73,
+   "move": "none",
+   "cue": "So let's open the letter. What is actually going on.  Most mortgages include something called an escrow accoun",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\cfpb-escrow-basics.png",
+   "image_query": "EVIDENCE-cfpb-escrow-basics",
+   "image_prompt": "EVIDENCE-cfpb-escrow-basics, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 108.73,
+   "end_s": 116.38,
+   "move": "none",
+   "cue": "So let's open the letter. What is actually going on.  Most mortgages include something called an escrow accoun",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\cfpb-escrow-basics.png",
+   "image_query": "EVIDENCE-cfpb-escrow-basics",
+   "image_prompt": "EVIDENCE-cfpb-escrow-basics, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 116.38,
+   "end_s": 124.04,
+   "move": "none",
+   "cue": "So let's open the letter. What is actually going on.  Most mortgages include something called an escrow accoun",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\cfpb-escrow-basics.png",
+   "image_query": "EVIDENCE-cfpb-escrow-basics",
+   "image_prompt": "EVIDENCE-cfpb-escrow-basics, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 124.04,
+   "end_s": 131.7,
+   "move": "none",
+   "cue": "So let's open the letter. What is actually going on.  Most mortgages include something called an escrow accoun",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\cfpb-escrow-basics.png",
+   "image_query": "EVIDENCE-cfpb-escrow-basics",
+   "image_prompt": "EVIDENCE-cfpb-escrow-basics, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 131.7,
+   "end_s": 140.47,
+   "move": "none",
+   "cue": "So let's open the letter. What is actually going on.  Most mortgages include something called an escrow accoun",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 140.47,
+   "end_s": 148.19,
+   "move": "auto",
+   "cue": "Think of it like a subscription your lender manages for you. Instead of one huge tax bill and one huge insuran"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 148.19,
+   "end_s": 155.9,
+   "move": "auto",
+   "cue": "Think of it like a subscription your lender manages for you. Instead of one huge tax bill and one huge insuran"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 155.9,
+   "end_s": 164.78,
+   "move": "auto",
+   "cue": "Think of it like a subscription your lender manages for you. Instead of one huge tax bill and one huge insuran"
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\insurify-premium-rise.png",
+   "image_query": "EVIDENCE-insurify-premium-rise",
+   "image_prompt": "EVIDENCE-insurify-premium-rise, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 164.78,
+   "end_s": 172.31,
+   "move": "none",
+   "cue": "Until one of the two bills inside it jumps.  Start with insurance. Per Insurify's 2026 report, the average hom",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\insurify-premium-rise.png",
+   "image_query": "EVIDENCE-insurify-premium-rise",
+   "image_prompt": "EVIDENCE-insurify-premium-rise, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 172.31,
+   "end_s": 179.84,
+   "move": "none",
+   "cue": "Until one of the two bills inside it jumps.  Start with insurance. Per Insurify's 2026 report, the average hom",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\insurify-premium-rise.png",
+   "image_query": "EVIDENCE-insurify-premium-rise",
+   "image_prompt": "EVIDENCE-insurify-premium-rise, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 179.84,
+   "end_s": 188.59,
+   "move": "none",
+   "cue": "Until one of the two bills inside it jumps.  Start with insurance. Per Insurify's 2026 report, the average hom",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\attom-property-tax.png",
+   "image_query": "EVIDENCE-attom-property-tax",
+   "image_prompt": "EVIDENCE-attom-property-tax, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 188.59,
+   "end_s": 194.98,
+   "move": "none",
+   "cue": "Now property tax. Per ATTOM Data Solutions, the average single-family home's tax bill rose three percent in 20",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\attom-property-tax.png",
+   "image_query": "EVIDENCE-attom-property-tax",
+   "image_prompt": "EVIDENCE-attom-property-tax, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 194.98,
+   "end_s": 201.37,
+   "move": "none",
+   "cue": "Now property tax. Per ATTOM Data Solutions, the average single-family home's tax bill rose three percent in 20",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\attom-property-tax.png",
+   "image_query": "EVIDENCE-attom-property-tax",
+   "image_prompt": "EVIDENCE-attom-property-tax, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 201.37,
+   "end_s": 207.75,
+   "move": "none",
+   "cue": "Now property tax. Per ATTOM Data Solutions, the average single-family home's tax bill rose three percent in 20",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\attom-property-tax.png",
+   "image_query": "EVIDENCE-attom-property-tax",
+   "image_prompt": "EVIDENCE-attom-property-tax, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 207.75,
+   "end_s": 215.31,
+   "move": "none",
+   "cue": "Now property tax. Per ATTOM Data Solutions, the average single-family home's tax bill rose three percent in 20",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/escrow-math.png",
+   "image_query": "card-escrow-math",
+   "image_prompt": "card-escrow-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 215.31,
+   "end_s": 221.75,
+   "move": "none",
+   "cue": "Add those two bills together. Divide by twelve. That is the piece of your payment that can move, even though y",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/escrow-math.png",
+   "image_query": "card-escrow-math",
+   "image_prompt": "card-escrow-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 221.75,
+   "end_s": 228.19,
+   "move": "none",
+   "cue": "Add those two bills together. Divide by twelve. That is the piece of your payment that can move, even though y",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/escrow-math.png",
+   "image_query": "card-escrow-math",
+   "image_prompt": "card-escrow-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 228.19,
+   "end_s": 235.62,
+   "move": "none",
+   "cue": "Add those two bills together. Divide by twelve. That is the piece of your payment that can move, even though y",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 235.62,
+   "end_s": 243.05,
+   "move": "auto",
+   "cue": "So how does that show up as a sudden jump instead of a slow drift?  Once a year, federal rules require your le"
+  },
+  {
+   "image": "work\\images\\002-calculator-desk-paperwork-1.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 243.05,
+   "end_s": 251.55,
+   "move": "auto",
+   "cue": "So how does that show up as a sudden jump instead of a slow drift?  Once a year, federal rules require your le"
+  },
+  {
+   "image": "work/cards/shortage-rule.png",
+   "image_query": "card-shortage-rule",
+   "image_prompt": "card-shortage-rule, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 251.55,
+   "end_s": 258.27,
+   "move": "none",
+   "cue": "If they collected too little, that gap has a name. A shortage.  Per the same federal rule, if the shortage is ",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/shortage-rule.png",
+   "image_query": "card-shortage-rule",
+   "image_prompt": "card-shortage-rule, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 258.27,
+   "end_s": 264.99,
+   "move": "none",
+   "cue": "If they collected too little, that gap has a name. A shortage.  Per the same federal rule, if the shortage is ",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/shortage-rule.png",
+   "image_query": "card-shortage-rule",
+   "image_prompt": "card-shortage-rule, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 264.99,
+   "end_s": 271.72,
+   "move": "none",
+   "cue": "If they collected too little, that gap has a name. A shortage.  Per the same federal rule, if the shortage is ",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/shortage-rule.png",
+   "image_query": "card-shortage-rule",
+   "image_prompt": "card-shortage-rule, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 271.72,
+   "end_s": 278.44,
+   "move": "none",
+   "cue": "If they collected too little, that gap has a name. A shortage.  Per the same federal rule, if the shortage is ",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/shortage-rule.png",
+   "image_query": "card-shortage-rule",
+   "image_prompt": "card-shortage-rule, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 278.44,
+   "end_s": 285.16,
+   "move": "none",
+   "cue": "If they collected too little, that gap has a name. A shortage.  Per the same federal rule, if the shortage is ",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/shortage-rule.png",
+   "image_query": "card-shortage-rule",
+   "image_prompt": "card-shortage-rule, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 285.16,
+   "end_s": 291.89,
+   "move": "none",
+   "cue": "If they collected too little, that gap has a name. A shortage.  Per the same federal rule, if the shortage is ",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/shortage-rule.png",
+   "image_query": "card-shortage-rule",
+   "image_prompt": "card-shortage-rule, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 291.89,
+   "end_s": 299.64,
+   "move": "none",
+   "cue": "If they collected too little, that gap has a name. A shortage.  Per the same federal rule, if the shortage is ",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 299.64,
+   "end_s": 306.26,
+   "move": "auto",
+   "cue": "One more number worth knowing. Lenders are also allowed to hold a small cushion above what they think they wil"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 306.26,
+   "end_s": 312.88,
+   "move": "auto",
+   "cue": "One more number worth knowing. Lenders are also allowed to hold a small cushion above what they think they wil"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 312.88,
+   "end_s": 319.51,
+   "move": "auto",
+   "cue": "One more number worth knowing. Lenders are also allowed to hold a small cushion above what they think they wil"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 319.51,
+   "end_s": 326.13,
+   "move": "auto",
+   "cue": "One more number worth knowing. Lenders are also allowed to hold a small cushion above what they think they wil"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 326.13,
+   "end_s": 333.89,
+   "move": "auto",
+   "cue": "One more number worth knowing. Lenders are also allowed to hold a small cushion above what they think they wil"
+  },
+  {
+   "image": "work\\images\\010-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 333.89,
+   "end_s": 340.45,
+   "move": "auto",
+   "cue": "Now the honest part.  First, none of this is evenly spread across the country. Per Insurify, states like Calif"
+  },
+  {
+   "image": "work\\images\\011-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 340.45,
+   "end_s": 347.0,
+   "move": "auto",
+   "cue": "Now the honest part.  First, none of this is evenly spread across the country. Per Insurify, states like Calif"
+  },
+  {
+   "image": "work\\images\\010-residential-street-1.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 347.0,
+   "end_s": 353.56,
+   "move": "auto",
+   "cue": "Now the honest part.  First, none of this is evenly spread across the country. Per Insurify, states like Calif"
+  },
+  {
+   "image": "work\\images\\011-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 353.56,
+   "end_s": 361.3,
+   "move": "auto",
+   "cue": "Now the honest part.  First, none of this is evenly spread across the country. Per Insurify, states like Calif"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 361.3,
+   "end_s": 369.27,
+   "move": "auto",
+   "cue": "Second, not every mortgage has an escrow account at all. Some loans, especially with a large enough down payme"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 369.27,
+   "end_s": 377.24,
+   "move": "auto",
+   "cue": "Second, not every mortgage has an escrow account at all. Some loans, especially with a large enough down payme"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 377.24,
+   "end_s": 386.45,
+   "move": "auto",
+   "cue": "Second, not every mortgage has an escrow account at all. Some loans, especially with a large enough down payme"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 386.45,
+   "end_s": 393.16,
+   "move": "auto",
+   "cue": "Third, property tax appeal processes are real, but they vary enormously by county, including how long you actu"
+  },
+  {
+   "image": "work\\images\\002-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 393.16,
+   "end_s": 399.87,
+   "move": "auto",
+   "cue": "Third, property tax appeal processes are real, but they vary enormously by county, including how long you actu"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 399.87,
+   "end_s": 407.7,
+   "move": "auto",
+   "cue": "Third, property tax appeal processes are real, but they vary enormously by county, including how long you actu"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 407.7,
+   "end_s": 414.14,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how escrow accounts work un"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 414.14,
+   "end_s": 420.57,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how escrow accounts work un"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 420.57,
+   "end_s": 427.0,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how escrow accounts work un"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 427.0,
+   "end_s": 433.43,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how escrow accounts work un"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 433.43,
+   "end_s": 439.87,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how escrow accounts work un"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 439.87,
+   "end_s": 447.37,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about how escrow accounts work un"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 447.37,
+   "end_s": 453.68,
+   "move": "auto",
+   "cue": "So here is exactly what to do the next time that letter arrives.  One. Actually read the escrow analysis state"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 453.68,
+   "end_s": 459.98,
+   "move": "auto",
+   "cue": "So here is exactly what to do the next time that letter arrives.  One. Actually read the escrow analysis state"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 459.98,
+   "end_s": 466.29,
+   "move": "auto",
+   "cue": "So here is exactly what to do the next time that letter arrives.  One. Actually read the escrow analysis state"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 466.29,
+   "end_s": 473.62,
+   "move": "auto",
+   "cue": "So here is exactly what to do the next time that letter arrives.  One. Actually read the escrow analysis state"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 473.62,
+   "end_s": 480.41,
+   "move": "auto",
+   "cue": "Two. If you're offered a choice, compare the lump sum against the twelve-month spread honestly.  Paying the lu"
+  },
+  {
+   "image": "work\\images\\012-open-house-0.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 480.41,
+   "end_s": 487.19,
+   "move": "auto",
+   "cue": "Two. If you're offered a choice, compare the lump sum against the twelve-month spread honestly.  Paying the lu"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 487.19,
+   "end_s": 493.98,
+   "move": "auto",
+   "cue": "Two. If you're offered a choice, compare the lump sum against the twelve-month spread honestly.  Paying the lu"
+  },
+  {
+   "image": "work\\images\\012-open-house-1.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 493.98,
+   "end_s": 501.73,
+   "move": "auto",
+   "cue": "Two. If you're offered a choice, compare the lump sum against the twelve-month spread honestly.  Paying the lu"
+  },
+  {
+   "image": "work\\images\\002-calculator-desk-paperwork-1.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 501.73,
+   "end_s": 509.15,
+   "move": "auto",
+   "cue": "Three. Shop your homeowners insurance before you assume the increase is fixed.  Premiums climbed nationally, b"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 509.15,
+   "end_s": 516.57,
+   "move": "auto",
+   "cue": "Three. Shop your homeowners insurance before you assume the increase is fixed.  Premiums climbed nationally, b"
+  },
+  {
+   "image": "work\\images\\002-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 516.57,
+   "end_s": 525.22,
+   "move": "auto",
+   "cue": "Three. Shop your homeowners insurance before you assume the increase is fixed.  Premiums climbed nationally, b"
+  },
+  {
+   "image": "work\\images\\001-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 525.22,
+   "end_s": 532.35,
+   "move": "auto",
+   "cue": "Four. If your property tax jumped because of a reassessment, look up your own county's appeal window today, no"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 532.35,
+   "end_s": 540.62,
+   "move": "auto",
+   "cue": "Four. If your property tax jumped because of a reassessment, look up your own county's appeal window today, no"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 540.62,
+   "end_s": 547.51,
+   "move": "auto",
+   "cue": "Five. If you're now years into the loan with real equity built up, ask your lender whether you can drop the es"
+  },
+  {
+   "image": "work\\images\\002-calculator-desk-paperwork-1.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 547.51,
+   "end_s": 554.4,
+   "move": "auto",
+   "cue": "Five. If you're now years into the loan with real equity built up, ask your lender whether you can drop the es"
+  },
+  {
+   "image": "work\\images\\000-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 554.4,
+   "end_s": 561.29,
+   "move": "auto",
+   "cue": "Five. If you're now years into the loan with real equity built up, ask your lender whether you can drop the es"
+  },
+  {
+   "image": "work\\images\\002-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 561.29,
+   "end_s": 569.28,
+   "move": "auto",
+   "cue": "Five. If you're now years into the loan with real equity built up, ask your lender whether you can drop the es"
+  },
+  {
+   "image": "work/cards/escrow-math.png",
+   "image_query": "card-escrow-math",
+   "image_prompt": "card-escrow-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 569.28,
+   "end_s": 577.18,
+   "move": "none",
+   "cue": "So, quickly, what actually happened when that letter showed up.  Your rate did not move. Your loan did not cha",
+   "is_card": true
+  },
+  {
+   "image": "work/cards/escrow-math.png",
+   "image_query": "card-escrow-math",
+   "image_prompt": "card-escrow-math, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 577.18,
+   "end_s": 586.35,
+   "move": "none",
+   "cue": "So, quickly, what actually happened when that letter showed up.  Your rate did not move. Your loan did not cha",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\insurify-premium-rise.png",
+   "image_query": "EVIDENCE-insurify-premium-rise",
+   "image_prompt": "EVIDENCE-insurify-premium-rise, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 586.35,
+   "end_s": 592.35,
+   "move": "none",
+   "cue": "Insurance rose twelve percent in a single year. Property tax rose three percent, even as home values dipped. A",
+   "is_card": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-escrow-shortage\\evidence\\insurify-premium-rise.png",
+   "image_query": "EVIDENCE-insurify-premium-rise",
+   "image_prompt": "EVIDENCE-insurify-premium-rise, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 592.35,
+   "end_s": 599.48,
+   "move": "none",
+   "cue": "Insurance rose twelve percent in a single year. Property tax rose three percent, even as home values dipped. A",
+   "is_card": true
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 599.48,
+   "end_s": 606.2,
+   "move": "auto",
+   "cue": "Knowing that before the letter arrives beats being blindsided by it. If that is worth something to you, subscr"
+  },
+  {
+   "image": "work\\images\\004-for-sale-sign-yard-1.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 606.2,
+   "end_s": 612.92,
+   "move": "auto",
+   "cue": "Knowing that before the letter arrives beats being blindsided by it. If that is worth something to you, subscr"
+  },
+  {
+   "image": "work\\images\\003-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 612.92,
+   "end_s": 620.75,
+   "move": "auto",
+   "cue": "Knowing that before the letter arrives beats being blindsided by it. If that is worth something to you, subscr"
+  },
+  {
+   "image": "work/cards/close-recap.png",
+   "image_query": "card-close-recap",
+   "image_prompt": "card-close-recap, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 620.75,
+   "end_s": 623.03,
+   "move": "none",
+   "cue": "See you in the next one.",
+   "is_card": true
+  }
+ ]
+}

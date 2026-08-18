@@ -1,0 +1,24 @@
+{
+  "channel": "AI Enthusiast",
+  "token": ".youtube/token-ai-news.json",
+  "title": "YouTube Just Announced They Will Double Your Views on August 24: How You Can Use AI to Triple That",
+  "description_file": "videos/youtube-views-ai-playbook/description.txt",
+  "thumbnail": "videos/youtube-views-ai-playbook/thumbnail.jpg",
+  "video": "videos/youtube-views-ai-playbook/youtube_views_master.mp4",
+  "categoryId": 28,
+  "tags": [
+    "YouTube update",
+    "YouTube view count rule",
+    "YouTube August 24 2026",
+    "YouTube algorithm",
+    "Engaged views",
+    "YouTube studio analytics",
+    "AI YouTube automation",
+    "Remotion",
+    "Vision LLM",
+    "AI video editing",
+    "AI Enthusiast"
+  ],
+  "privacy": "private",
+  "madeForKids": false
+}

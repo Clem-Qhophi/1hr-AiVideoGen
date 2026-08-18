@@ -1,0 +1,47 @@
+[
+ {
+  "name": "grok-bot-announcement",
+  "file": "grok-bot-announcement.png",
+  "url": "https://x.com/bot/status/2087224798078517251",
+  "source": "@bot launch post on X, Aug 11 2026",
+  "selector": "article",
+  "crop": null,
+  "captured_at": "2026-08-11T21:39:17"
+ },
+ {
+  "name": "ie-grok-bot",
+  "file": "ie-grok-bot.png",
+  "url": "https://interestingengineering.com/ai-robotics/xai-grok-bot-computer-agent",
+  "source": "Interesting Engineering, Aug 11 2026",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-11T21:39:50"
+ },
+ {
+  "name": "uniteai-grok-bot",
+  "file": "uniteai-grok-bot.png",
+  "url": "https://www.unite.ai/xai-launches-grok-bot-always-on-ai-teammates-with-their-own-cloud-computers/",
+  "source": "Unite.AI, Aug 11 2026",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-11T21:40:01"
+ },
+ {
+  "name": "macrumors-grok-bot",
+  "file": "macrumors-grok-bot.png",
+  "url": "https://www.macrumors.com/2026/08/11/grok-bot-macos-ios/",
+  "source": "MacRumors, Aug 11 2026",
+  "selector": null,
+  "crop": null,
+  "captured_at": "2026-08-11T21:40:11"
+ },
+ {
+  "name": "musk-grok46-post",
+  "file": "musk-grok46-post.png",
+  "url": "https://x.com/elonmusk/status/2087233507370147920",
+  "source": "Elon Musk on X, Aug 11 2026",
+  "selector": "article",
+  "crop": null,
+  "captured_at": "2026-08-11T21:40:14"
+ }
+]

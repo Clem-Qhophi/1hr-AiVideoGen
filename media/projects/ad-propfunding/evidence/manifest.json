@@ -1,0 +1,66 @@
+[
+ {
+  "name": "hero",
+  "file": "hero.png",
+  "url": "https://propfunding.com",
+  "source": "propfunding.com, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T12:20:51"
+ },
+ {
+  "name": "howitworks",
+  "file": "howitworks.png",
+  "url": "https://propfunding.com/how-it-works",
+  "source": "propfunding.com/how-it-works, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T12:22:03"
+ },
+ {
+  "name": "leaderboard",
+  "file": "leaderboard.png",
+  "url": "https://propfunding.com/leaderboard",
+  "source": "propfunding.com/leaderboard, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T12:22:14"
+ },
+ {
+  "name": "stats",
+  "file": "stats.png",
+  "url": "https://propfunding.com/stats",
+  "source": "propfunding.com/stats, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T12:22:26"
+ },
+ {
+  "name": "_landing_recon",
+  "file": "_landing_recon.png",
+  "url": "https://propfunding.com",
+  "source": "propfunding.com",
+  "selector": null,
+  "captured_at": "2026-07-24T12:26:50"
+ },
+ {
+  "name": "features",
+  "file": "features.png",
+  "url": "https://propfunding.com",
+  "source": "propfunding.com, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T12:28:23"
+ },
+ {
+  "name": "challenge",
+  "file": "challenge.png",
+  "url": "https://propfunding.com",
+  "source": "propfunding.com, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T12:28:47"
+ },
+ {
+  "name": "markets",
+  "file": "markets.png",
+  "url": "https://propfunding.com",
+  "source": "propfunding.com FAQ, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-24T12:42:50"
+ }
+]

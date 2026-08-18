@@ -1,0 +1,11 @@
+[
+  {
+    "id": "close-recap",
+    "type": "compare",
+    "kicker": "2024 vs 2025 - LODESTAR YEAR-OVER-YEAR REPORT",
+    "left": { "value": "-2.9%", "label": "national closing costs, avg.", "accent": "signal" },
+    "right": { "value": "+4.5%", "label": "Delaware, same 12 months", "accent": "danger" },
+    "foot": "LodeStar Year-Over-Year Mortgage Closing Cost Report, June 30, 2026",
+    "match": ["card-close-recap"]
+  }
+]

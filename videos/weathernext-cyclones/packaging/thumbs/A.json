@@ -1,0 +1,32 @@
+{
+  "engine": "remotion-still",
+  "composition": "WNCThumb",
+  "props": {
+    "headline": "ONE EXTRA",
+    "emphasis": "DAY",
+    "kicker": null,
+    "sub": null,
+    "badge": "NHC CONFIRMED",
+    "accent": "cyan",
+    "variant": "photo",
+    "image": "thumbs/000-hurricane-from-space-satellite-1.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": null,
+    "align": "left",
+    "pos": "center",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": null,
+    "faceAt": null,
+    "faceFocus": null,
+    "faceCutout": false
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\WNCThumb.tsx"
+}

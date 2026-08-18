@@ -1,0 +1,68 @@
+{
+    "_note": "Low density, hero-moments-only per niches/home-hacks.json sound.sfx_density. 9 events over 800s (~0.68/min), matching the calm-explainer delivery. All cue times pulled directly from work/edited-transcript.json word starts (ms -> s). 2 foley cues (water-pour-soft, scrub-brush) from the library's home-hacks-friendly foley stock, rest from the niche palette (impact-soft/warm-shimmer/page-flip). All reused from media/library/sfx/catalog.json, nothing generated.",
+    "master": "videos/musty-basement-fix/output/musty-basement-fix-MASTER.mp4",
+    "master_fps": 30,
+    "catalog": "media/library/sfx/catalog.json",
+    "render": {
+        "preview": "videos/musty-basement-fix/output/musty-basement-fix-MASTER.mp4",
+        "out": "videos/musty-basement-fix/output/musty-basement-fix-sfx.mp4",
+        "duck": true,
+        "end_s": 800.0
+    },
+    "events": [
+        {
+            "at_s": 1.0,
+            "sfx_id": "impact-soft",
+            "gain_db": -10,
+            "cue": "cold open: 'Four dollars' -- the anchor number the whole video hangs on"
+        },
+        {
+            "at_s": 144.2,
+            "sfx_id": "warm-shimmer",
+            "gain_db": -11,
+            "cue": "the forgotten-fix thesis: 'You do not dry a wet house. You stop the house from getting wet.'"
+        },
+        {
+            "at_s": 232.2,
+            "sfx_id": "impact-soft",
+            "gain_db": -10,
+            "cue": "'the four dollar fix' -- step 2 lands"
+        },
+        {
+            "at_s": 260.7,
+            "sfx_id": "water-pour-soft",
+            "gain_db": -9,
+            "cue": "desiccant reveal: 'water collected in the bottom of that container'"
+        },
+        {
+            "at_s": 496.8,
+            "sfx_id": "scrub-brush",
+            "gain_db": -8,
+            "cue": "step 5: 'detergent and water with a scrub brush'"
+        },
+        {
+            "at_s": 510.1,
+            "sfx_id": "impact-soft",
+            "gain_db": -12,
+            "cue": "counterintuitive beat: 'bleach does not soak into porous materials' (EPA)"
+        },
+        {
+            "at_s": 553.4,
+            "sfx_id": "page-flip",
+            "gain_db": -11,
+            "cue": "objection section opens: 'the questions I know you are asking'"
+        },
+        {
+            "at_s": 567.7,
+            "sfx_id": "warm-shimmer",
+            "gain_db": -11,
+            "cue": "the honest answer: 'that is not magic, that is chemistry'"
+        },
+        {
+            "at_s": 797.6,
+            "sfx_id": "warm-shimmer",
+            "gain_db": -9,
+            "cue": "sign-off: 'That is the old way. Still works.'"
+        }
+    ]
+}

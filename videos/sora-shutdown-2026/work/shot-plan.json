@@ -1,0 +1,369 @@
+[
+ {
+  "shot": "SoraHook",
+  "beats": [
+   "cold-open-claim"
+  ],
+  "in": 0.0,
+  "out": 18.0,
+  "dur": 18.0,
+  "cues": {
+   "six weeks": 6,
+   "deleting your clips": 230,
+   "million dollars a day": 383,
+   "two point one million": 450
+  }
+ },
+ {
+  "shot": "SoraContext",
+  "beats": [
+   "context"
+  ],
+  "in": 18.0,
+  "out": 34.36,
+  "dur": 16.36,
+  "cues": {
+   "GPT-1 moment": 423,
+   "type a sentence": 308,
+   "get film-quality footage": 339
+  }
+ },
+ {
+  "shot": "SoraContext2",
+  "beats": [
+   "context-2"
+  ],
+  "in": 34.36,
+  "out": 47.59,
+  "dur": 13.23,
+  "cues": {
+   "went public": 52,
+   "sound, real physics": 156,
+   "star in your own clips": 243
+  }
+ },
+ {
+  "shot": "SoraDisney",
+  "beats": [
+   "context-3"
+  ],
+  "in": 47.59,
+  "out": 60.83,
+  "dur": 13.24,
+  "cues": {
+   "Disney signed on": 27,
+   "One billion dollars": 60,
+   "gets turned off": 366
+  }
+ },
+ {
+  "shot": "SoraVerdict",
+  "beats": [
+   "verdict"
+  ],
+  "in": 60.83,
+  "out": 69.0,
+  "dur": 8.17,
+  "cues": {
+   "verdict, right now": 2,
+   "catastrophic": 213
+  }
+ },
+ {
+  "shot": "SoraBurnRate",
+  "beats": [
+   "verdict-2"
+  ],
+  "in": 69.0,
+  "out": 86.64,
+  "dur": 17.64,
+  "cues": {
+   "roughly a million dollars a day": 101,
+   "two days of burn": 426,
+   "entire lifetime": 474
+  }
+ },
+ {
+  "shot": "SoraUsers",
+  "beats": [
+   "verdict-3"
+  ],
+  "in": 86.64,
+  "out": 100.9,
+  "dur": 14.26,
+  "cues": {
+   "around a million users": 89,
+   "below half a million": 148,
+   "six point one million in November": 279,
+   "one point one million by March": 341
+  }
+ },
+ {
+  "shot": "SoraBlindside",
+  "beats": [
+   "verdict-4"
+  ],
+  "in": 100.9,
+  "out": 118.62,
+  "dur": 17.72,
+  "cues": {
+   "Disney got blindsided": 7,
+   "two hundred characters": 79,
+   "big rug-pull": 411,
+   "No money ever changed hands": 481
+  }
+ },
+ {
+  "shot": "SoraMeans",
+  "beats": [
+   "verdict-5"
+  ],
+  "in": 118.62,
+  "out": 134.43,
+  "dur": 15.81,
+  "cues": {
+   "Here's what it means for you": 0,
+   "permanently deletes the data": 289,
+   "not on your side": 439
+  }
+ },
+ {
+  "shot": "SoraEvidence1",
+  "beats": [
+   "evidence-open",
+   "evidence-1"
+  ],
+  "in": 134.43,
+  "out": 156.99,
+  "dur": 22.56,
+  "cues": {
+   "show you the receipts": 5,
+   "goodbye to Sora": 200,
+   "ten billion dollars": 297,
+   "one decision": 481,
+   "IPO": 546
+  }
+ },
+ {
+  "shot": "SoraEvidence2",
+  "beats": [
+   "evidence-2"
+  ],
+  "in": 156.99,
+  "out": 176.48,
+  "dur": 19.49,
+  "cues": {
+   "the autopsy": 7,
+   "one million dollars a day": 180,
+   "expensive to run": 308,
+   "coding and enterprise": 476
+  }
+ },
+ {
+  "shot": "SoraEvidence3",
+  "beats": [
+   "evidence-3"
+  ],
+  "in": 176.48,
+  "out": 191.81,
+  "dur": 15.33,
+  "cues": {
+   "Claude Code": 0,
+   "eating OpenAI's lunch": 74,
+   "side quests are over": 423
+  }
+ },
+ {
+  "shot": "SoraEvidence4",
+  "beats": [
+   "evidence-4"
+  ],
+  "in": 191.81,
+  "out": 212.83,
+  "dur": 21.02,
+  "cues": {
+   "four point eight million": 118,
+   "six point one": 196,
+   "one point one by March": 336,
+   "went down anyway": 599
+  }
+ },
+ {
+  "shot": "SoraEvidence5",
+  "beats": [
+   "evidence-5"
+  ],
+  "in": 212.83,
+  "out": 232.32,
+  "dur": 19.49,
+  "cues": {
+   "And Disney": 0,
+   "more than two hundred characters": 134,
+   "a Monday evening": 358,
+   "big rug-pull": 556
+  }
+ },
+ {
+  "shot": "SoraEvidence6",
+  "beats": [
+   "evidence-6"
+  ],
+  "in": 232.32,
+  "out": 252.58,
+  "dur": 20.26,
+  "cues": {
+   "MiniMax": 264,
+   "half the price": 387,
+   "ByteDance": 452,
+   "own the moment": 579
+  }
+ },
+ {
+  "shot": "SoraEvidence7",
+  "beats": [
+   "evidence-7"
+  ],
+  "in": 252.58,
+  "out": 273.92,
+  "dur": 21.34,
+  "cues": {
+   "few billion dollars": 43,
+   "twenty percent": 138,
+   "finished clips": 450,
+   "left the one modality": 553
+  }
+ },
+ {
+  "shot": "SoraMidroll",
+  "beats": [
+   "mid-roll-cta"
+  ],
+  "in": 273.92,
+  "out": 287.79,
+  "dur": 13.87,
+  "cues": {
+   "subscribe": 104,
+   "verdict in the first three minutes": 207,
+   "drop it in the comments": 378
+  }
+ },
+ {
+  "shot": "SoraEvidenceSays",
+  "beats": [
+   "evidence-8"
+  ],
+  "in": 287.79,
+  "out": 301.68,
+  "dur": 13.89,
+  "cues": {
+   "four stacked ones": 121,
+   "brutal compute costs": 162,
+   "IPO clock": 299,
+   "they were fatal": 390
+  }
+ },
+ {
+  "shot": "SoraHonest2",
+  "beats": [
+   "honest-gap",
+   "honest-gap-2"
+  ],
+  "in": 301.68,
+  "out": 316.64,
+  "dur": 14.96,
+  "cues": {
+   "straight with you": 22,
+   "estimates": 82,
+   "several times higher": 253,
+   "reported number, not a bank statement": 381
+  }
+ },
+ {
+  "shot": "SoraHonest3",
+  "beats": [
+   "honest-gap-3"
+  ],
+  "in": 316.64,
+  "out": 331.89,
+  "dur": 15.25,
+  "cues": {
+   "Sora 2 wasn't bad": 18,
+   "world-simulation research": 182,
+   "robots that understand the physical world": 387
+  }
+ },
+ {
+  "shot": "SoraHonest4",
+  "beats": [
+   "honest-gap-4"
+  ],
+  "in": 331.89,
+  "out": 350.81,
+  "dur": 18.92,
+  "cues": {
+   "not total": 38,
+   "permanently deleted": 136,
+   "sora.chatgpt.com/sunset": 252,
+   "word if is doing real work": 517
+  }
+ },
+ {
+  "shot": "SoraHonest5",
+  "beats": [
+   "honest-gap-5"
+  ],
+  "in": 350.81,
+  "out": 360.33,
+  "dur": 9.52,
+  "cues": {
+   "side-quests quote": 27,
+   "not confirmed": 173,
+   "reporting, not confession": 233
+  }
+ },
+ {
+  "shot": "SoraClose",
+  "beats": [
+   "close"
+  ],
+  "in": 360.33,
+  "out": 374.84,
+  "dur": 14.51,
+  "cues": {
+   "catch, in one line": 5,
+   "two point one million": 183,
+   "deleting the data": 402
+  }
+ },
+ {
+  "shot": "SoraAction",
+  "beats": [
+   "close-2"
+  ],
+  "in": 374.84,
+  "out": 396.43,
+  "dur": 21.59,
+  "cues": {
+   "export it now": 139,
+   "migration deadline": 330,
+   "moving fastest": 611
+  }
+ },
+ {
+  "shot": "SoraOutro",
+  "beats": [
+   "close-3",
+   "close-4"
+  ],
+  "in": 396.43,
+  "out": 416.0,
+  "dur": 19.57,
+  "cues": {
+   "while the deadline still matters": 26,
+   "verdict lands here first": 182,
+   "two-million-versus-two-days": 306,
+   "MiniMax, ByteDance, or Google": 485,
+   "next one": 569
+  }
+ }
+]

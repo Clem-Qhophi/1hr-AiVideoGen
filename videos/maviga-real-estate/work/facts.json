@@ -1,0 +1,31 @@
+{
+  "project": "maviga-real-estate",
+  "client": "Maviga Real Estate",
+  "product": "Full plots of land (80x80 ft) at Dawhenya, view of Shai Mountains",
+  "source_docs": [
+    "assets/WhatsApp Image 2026-08-10 at 6.34.42 PM.jpeg (master flyer, client-approved)",
+    "assets/WhatsApp Image 2026-08-11 at 5.57.15 PM.jpeg (plot listing: Shai Hills/Dawhenya)",
+    "assets/WhatsApp Image 2026-08-11 at 5.57.34 PM.jpeg (plot listing: Dawhenya, 20 plots left)",
+    "assets/WhatsApp Image 2026-08-11 at 5.58.41 PM.jpeg (plot listing: Shai Hills/Dawhenya, duplicate)"
+  ],
+  "claims": [
+    {"claim": "Full plots, 80x80 ft", "source": "plot listings (5.57.15/5.57.34)", "status": "confirmed"},
+    {"claim": "Location: Dawhenya, after Central University, ~4 min drive, turn left", "source": "master flyer + plot listings", "status": "confirmed"},
+    {"claim": "View of the Shai Mountains", "source": "master flyer", "status": "confirmed"},
+    {"claim": "Site demarcated, road networks cleared", "source": "plot listing (5.57.34)", "status": "confirmed"},
+    {"claim": "Cash price GHC 30,000 (complete within 3 months)", "source": "master flyer, OPTION 3", "status": "confirmed"},
+    {"claim": "GHC 35,000: 5,000 deposit + 30,000 in 6 months", "source": "master flyer, OPTION 1", "status": "confirmed"},
+    {"claim": "GHC 40,000: 5,000 deposit + 35,000 in 12 months", "source": "master flyer, OPTION 2", "status": "confirmed"},
+    {"claim": "Only 20 plots left", "source": "plot listing (5.57.34)", "status": "confirmed-on-flyer, client to reconfirm before public"},
+    {"claim": "CALL/WHATSAPP 0540721425", "source": "master flyer contact strip", "status": "confirmed"},
+    {"claim": "High Investment Potential / Serene & Green Environment", "source": "master flyer", "status": "on-client-flyer, NOT used in VO, not claimed on screen"}
+  ],
+  "unconfirmed_placeholders": [
+    "actual site photos (none provided - building with flyer-derived visuals + slots)",
+    "map pin (none provided)",
+    "primary buyer segment (assumed local-first Ghanaian)",
+    "viewing service line (CTA = message us to visit the site, grounded in flyer directions)"
+  ],
+  "voice": {"selected": "en-NG-AbeoNeural (Male, Friendly/Positive - West African accent per region rule)", "alternate": "en-NG-EzinneNeural"},
+  "format": {"primary": "30s 9:16 captioned", "cutdown": "15s 9:16 (post-primary)", "aspect": "1080x1920@30"}
+}

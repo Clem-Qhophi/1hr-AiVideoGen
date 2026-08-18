@@ -1,0 +1,26 @@
+[
+ {
+  "name": "growperma-evidence",
+  "file": "growperma-evidence.png",
+  "url": "https://growperma.com/blog/the-science-of-companion-planting-what-actually-works",
+  "source": "growperma.com - Companion Planting Science: What Actually Works",
+  "selector": null,
+  "captured_at": "2026-08-07T22:38:50"
+ },
+ {
+  "name": "pmc-marigold-study",
+  "file": "pmc-marigold-study.png",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6396911/",
+  "source": "PMC (NIH) - Companion planting with French marigolds protects tomato plants from whiteflies",
+  "selector": null,
+  "captured_at": "2026-08-07T22:40:24"
+ },
+ {
+  "name": "ucdavis-alyssum",
+  "file": "ucdavis-alyssum.png",
+  "url": "https://www.ucdavis.edu/news/aphid-relief-sweet-alyssum",
+  "source": "UC Davis News - Aphid Relief from Sweet Alyssum",
+  "selector": null,
+  "captured_at": "2026-08-07T22:41:42"
+ }
+]

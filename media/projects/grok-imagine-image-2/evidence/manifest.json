@@ -1,0 +1,43 @@
+[
+ {
+  "name": "arena-t2i-overall",
+  "file": "arena-t2i-overall.png",
+  "url": "https://lmarena.ai/leaderboard/text-to-image",
+  "source": "LMArena Text-to-Image Arena, as of Aug 7 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T12:49:03"
+ },
+ {
+  "name": "arena-edit-overall",
+  "file": "arena-edit-overall.png",
+  "url": "https://lmarena.ai/leaderboard/image-edit",
+  "source": "LMArena Image Edit Arena, as of Aug 7 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T12:49:30"
+ },
+ {
+  "name": "xai-api-pricing",
+  "file": "xai-api-pricing.png",
+  "url": "https://docs.x.ai/developers/pricing",
+  "source": "docs.x.ai pricing page, Aug 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T12:49:52"
+ },
+ {
+  "name": "decoder-announcement",
+  "file": "decoder-announcement.png",
+  "url": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
+  "source": "the-decoder.com, Aug 8 2026",
+  "selector": null,
+  "captured_at": "2026-08-08T12:49:55"
+ },
+  {
+   "name": "grok-imagine-app",
+   "file": "grok-imagine-app.png",
+   "url": "https://grok.com/imagine",
+   "source": "grok.com/imagine, Aug 2026",
+   "selector": null,
+   "captured_at": "2026-08-08T12:50:19",
+   "status": "dropped-unusable"
+  }
+]

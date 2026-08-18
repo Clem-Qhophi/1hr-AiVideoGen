@@ -1,0 +1,81 @@
+{
+  "source": "videos/car-battery-backup-power/output/car-battery-backup-power-MASTER.mp4",
+  "clips": [
+    {
+      "id": "01",
+      "hook_text": "The Emergency Generator You Already Own",
+      "segments": [
+        {
+          "start": 0.11,
+          "end": 32.03
+        },
+        {
+          "start": 1153.84,
+          "end": 1181.12
+        }
+      ],
+      "loop": true,
+      "title": "The Emergency Generator You Already Own! 🚗⚡ (Power Outage Hack)",
+      "description": "Before spending $1,000 on a noisy gas generator, your car's alternator produces continuous 12V electricity! A simple power inverter runs your refrigerator and CPAP machine during blackouts.\n\n👉 WATCH THE FULL 20-MIN COMPLETE GUIDE: Search 'The Generator You Already Own' on our channel!\n\n🔔 Subscribe to The Forgotten Fix for smart emergency prep and DIY survival hacks!\n\n#Shorts #PowerOutage #EmergencyGenerator #CarBatteryHacks #DIYPower #TheForgottenFix",
+      "tags": [
+        "shorts",
+        "car battery inverter",
+        "emergency generator",
+        "power outage hacks",
+        "blackout prep",
+        "diy generator"
+      ]
+    },
+    {
+      "id": "02",
+      "hook_text": "How To Size A Power Inverter For A Refrigerator",
+      "start": 328.19,
+      "end": 438.76,
+      "loop": true,
+      "title": "How to Size a Power Inverter for Your Fridge! 🧊⚡",
+      "description": "Can a 400W cigarette lighter inverter run your fridge? No! You need at least 1,000W to handle the compressor surge, plus pure sine wave for CPAP and medical machines.\n\n👉 WATCH THE FULL BREAKDOWN on our channel!\n\n🔔 Subscribe to The Forgotten Fix for practical blackout survival tips!\n\n#Shorts #PowerInverter #WattageGuide #PureSineWave #BlackoutPrep #TheForgottenFix",
+      "tags": [
+        "shorts",
+        "power inverter wattage",
+        "pure sine wave vs modified",
+        "run fridge on inverter",
+        "emergency power",
+        "the forgotten fix"
+      ]
+    },
+    {
+      "id": "03",
+      "hook_text": "Why You MUST NEVER Backfeed An Inverter",
+      "start": 594.32,
+      "end": 653.89,
+      "loop": true,
+      "title": "Why You MUST NEVER Plug an Inverter into a Wall! ⚡⚠️ (Backfeeding Danger)",
+      "description": "Never use a suicide cord to backfeed your home's breaker panel with an inverter! Power flows backward onto power lines and electrocutes utility repair crews. Here is the safe way.\n\n👉 WATCH THE FULL 20-MIN SAFETY GUIDE on our channel!\n\n🔔 Subscribe to The Forgotten Fix for life-saving DIY electrical safety!\n\n#Shorts #ElectricalSafety #Backfeeding #PowerOutage #LinemanSafety #TheForgottenFix",
+      "tags": [
+        "shorts",
+        "backfeeding danger",
+        "suicide cord warning",
+        "inverter safety",
+        "power outage electrical",
+        "lineman safety"
+      ]
+    },
+    {
+      "id": "04",
+      "hook_text": "How To Survive A 3-Day Blackout With One Inverter",
+      "start": 1080.17,
+      "end": 1149.90,
+      "loop": true,
+      "title": "How to Survive a 3-Day Blackout With ONE Inverter! 📝🔋",
+      "description": "Don't try to power the whole house at once! Follow the 2-hour rotation schedule: fridge in the morning, phone charging afternoon, fridge before bed. Here is how to stretch your fuel.\n\n👉 WATCH THE FULL 20-MIN GUIDE on our channel!\n\n🔔 Subscribe to The Forgotten Fix for essential storm & outage prep!\n\n#Shorts #BlackoutSurvival #PowerOutage #EmergencyPlan #OffGridHacks #TheForgottenFix",
+      "tags": [
+        "shorts",
+        "blackout rotation",
+        "survive power outage",
+        "emergency power plan",
+        "car inverter hacks",
+        "the forgotten fix"
+      ]
+    }
+  ]
+}

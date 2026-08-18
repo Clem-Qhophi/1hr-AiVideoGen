@@ -1,0 +1,62 @@
+{
+  "clips": [
+    {
+      "id": "01",
+      "segments": [
+        {"start": 2.65, "end": 23.85},
+        {"start": 61.79, "end": 105.23}
+      ],
+      "hook_text": "The #2 image model isn't the one you think.",
+      "title": "The #2 AI Image Model Isn't The One You Think",
+      "description": "Grok Imagine 2.0 is ranked #2 in the world — but not by the model everyone assumes. Full breakdown, every number sourced: https://youtu.be/J9DTxa0TcXo #Shorts #AInews #Grok #xAI",
+      "tags": ["shorts", "ai news", "grok imagine", "xAI", "grok 2.0", "ai image generation", "lmarena"]
+    },
+    {
+      "id": "02",
+      "segments": [
+        {"start": 203.88, "end": 233.35},
+        {"start": 310.00, "end": 357.25}
+      ],
+      "loop": true,
+      "hook_text": "Everyone's quoting this ranking. Nobody read the fine print.",
+      "title": "Everyone's Quoting Grok's #2 Ranking. Nobody Checked The Votes.",
+      "description": "The #2 is real. The fine print: 5,931 votes vs 184,189 — and \"preliminary\" on both boards. Full verdict: https://youtu.be/J9DTxa0TcXo #Shorts #AInews #Grok #xAI",
+      "tags": ["shorts", "ai news", "grok imagine", "ai model ranking", "lmarena", "image benchmarks", "xAI"]
+    },
+    {
+      "id": "03",
+      "segments": [
+        {"start": 121.19, "end": 175.55},
+        {"start": 370.18, "end": 387.23}
+      ],
+      "loop": true,
+      "hook_text": "Point at it. Change it. Done.",
+      "title": "Grok Just Made Photoshop Optional",
+      "description": "Magic Wand, segmentation, background removal — and the 2-step test that proves it's a real design tool. Full breakdown: https://youtu.be/J9DTxa0TcXo #Shorts #AInews #Grok #AIimage",
+      "tags": ["shorts", "ai news", "grok imagine", "ai image editing", "photoshop alternative", "magic wand", "xAI"]
+    },
+    {
+      "id": "04",
+      "segments": [
+        {"start": 23.85, "end": 61.79},
+        {"start": 91.42, "end": 121.19}
+      ],
+      "hook_text": "How to actually read the AI image leaderboard.",
+      "title": "How To Actually Read The AI Image Leaderboard",
+      "description": "Elo, votes, and why \"preliminary\" changes everything — the 60-second version. Full breakdown: https://youtu.be/J9DTxa0TcXo #Shorts #AInews #AIimage",
+      "tags": ["shorts", "ai news", "ai image generation", "lmarena", "elo rating", "grok imagine", "xAI"]
+    },
+    {
+      "id": "05",
+      "segments": [
+        {"start": 121.19, "end": 144.51},
+        {"start": 250.43, "end": 264.41},
+        {"start": 277.73, "end": 301.97}
+      ],
+      "hook_text": "Developers: the #2 image model isn't in the API yet.",
+      "title": "The #2 AI Image Model Isn't In The API Yet",
+      "description": "Grok Imagine 2.0 is app-only. Until the API lands, devs get the old models — 2c/5c per image, 3 refs vs the app's 5. Full breakdown: https://youtu.be/J9DTxa0TcXo #Shorts #AInews #AIimage #API",
+      "tags": ["shorts", "ai news", "grok imagine", "xAI API", "ai image api", "developers", "xAI"]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_note": "Channel persona for The Comparison Arena — extreme scale, size, wealth, speed, and rival showdowns narrated with commentator and auctioneer energy.",
+  "channel_name": "The Comparison Arena",
+  "channel_handle": "@TheComparisonArena",
+  "channel_tagline": "The wildest comparisons, extreme scales, and title fights on Earth and beyond — settled by pure data.",
+
+  "delivery_mode": "commentator-auctioneer",
+  "_delivery_mode_options": ["commentator-auctioneer", "breaking-news", "calm-explainer", "authoritative"],
+  "_delivery_mode_note": "High-octane delivery (1.20x to 1.30x speed) with dynamic pacing, dramatic pauses, and explosive crescendos.",
+
+  "tone_flavor": "high-octane sports commentator meets frantic auctioneer; dramatic, fast-paced, hype-fueled yet strictly accurate to verified numbers",
+
+  "voice_id": "en-US-ChristopherNeural",
+  "voice_name": "Christopher (edge-tts, energetic / broadcast)",
+  "tts_speed": 1.25,
+  "tts_pitch": "+6Hz",
+  "_tts_speed_note": "Escalation sequences and bids run at 1.25x-1.30x; dramatic reveals use 1.05x with deliberate pauses.",
+
+  "audience": "global competitive, curious 16-35 audience (gaming, sports, tech, sci-fi, billionaire & extreme scale enthusiasts)",
+  "default_goal": "watch-time",
+  "default_conversion": "nothing",
+
+  "default_target_seconds": 480,
+  "_target_seconds_note": "Long-form defaults to 6-10 minutes (360-600s); Shorts default to 50-58s.",
+
+  "content_pillars": [
+    "Wealth & Corporate Showdowns — Richest people in history, trillion-dollar companies, billionaire assets bidding wars",
+    "Scale of the Universe & Extreme Sizes — Subatomic particles to galaxy superclusters, largest monsters/animals to mega-structures",
+    "Velocity & Power Faceoffs — Fastest jets, hypercars, animals, and cosmic phenomena compared side-by-side",
+    "GOAT & Warrior Rivalries — Prime athlete showdowns, historic army battles, sci-fi civilizations, alien tier lists"
+  ],
+
+  "notes": "Every video strictly obeys the Two-Source Rule for statistics. Pacing cuts every 3 to 5 seconds. Sound mix heavily features gavel strikes, stadium roars, and dynamic countdown beats."
+}

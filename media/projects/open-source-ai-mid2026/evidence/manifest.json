@@ -1,0 +1,42 @@
+[
+ {
+  "name": "test-aa",
+  "file": "test-aa.png",
+  "url": "https://artificialanalysis.ai/",
+  "source": "Artificial Analysis, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-23T14:40:08"
+ },
+ {
+  "name": "aa-open-weights",
+  "file": "aa-open-weights.png",
+  "url": "https://artificialanalysis.ai/models/open-source",
+  "source": "Artificial Analysis, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-23T14:42:12"
+ },
+ {
+  "name": "lmarena-text",
+  "file": "lmarena-text.png",
+  "url": "https://arena.ai/leaderboard",
+  "source": "LMArena, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-23T14:46:17"
+ },
+ {
+  "name": "aa-leaderboard",
+  "file": "aa-leaderboard.png",
+  "url": "https://artificialanalysis.ai/leaderboards/models",
+  "source": "Artificial Analysis, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-23T14:46:34"
+ },
+ {
+  "name": "qwen-blog",
+  "file": "qwen-blog.png",
+  "url": "https://qwenlm.github.io/blog/",
+  "source": "Qwen (Alibaba), Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-23T14:46:52"
+ }
+]

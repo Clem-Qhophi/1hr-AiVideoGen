@@ -1,0 +1,61 @@
+{
+  "id": "home-hacks",
+  "name": "US home hacks / old-ways practical tips",
+  "audience": "US homeowners, 45+, cost-conscious, distrustful of modern/expensive solutions, high RPM",
+  "reference_titles": [
+    "KILL EVERY Mosquito The AMISH Way. SAFE For Honey Bees & Pets!",
+    "The $4 Amish Fix for a Deadly Hot House (Save $3000 This Summer)",
+    "Cool ANY Room by 15 Degrees for Free. No Air Conditioner. No Fan. No Power Needed.",
+    "The $4 'Dry' Trick That Dehumidifies Any Room Forever... No Power Needed!",
+    "Why Buy A Generator? You Have One Parked In Your Driveway - Amish Secret (Eli Yoder Construction, 28,601 views/day, 365d window)",
+    "Amish's 25 BANNED Hydrogen Peroxide Hacks from the 60s That Scientists... (Eli Yoder Secrets, 9,053 views/day)"
+  ],
+  "_reference_titles_source": "VERIFIED live via tools/yt_research.py 2026-08-02 (--query 'amish home hack,old farmhouse trick,grandmothers home remedy,no ac cooling trick without power' --window all --long-only). Confirms the original (2026-07-31, saved-to-repo-late) titles were real: 2 of the 4 original entries showed up again independently as top-vpd hits. Raw data: docs/research/home-hacks.json / .txt. NEW pattern spotted that the current title formula doesn't cover: multi-hack LISTICLE titles ('35 Hydrogen Peroxide Hacks', '25 BANNED Hacks from the 60s') are now a strong recurring shape alongside the single-hack formula - consider adding a listicle variant to title.ingredients if a future video wants to batch several small fixes instead of one deep one. Runtime confirms the niche: 30d/365d medians both ~25-27 min, squarely inside the existing [12,30] target range - no change needed there.",
+  "title": {
+    "formula": "[cheap number anchor] + [absolute quantifier] + [negation stack] + [borrowed authority] + [parenthetical payoff]",
+    "ingredients": {
+      "number_anchor": ["$4", "$7", "15 degrees", "3-Minute", "One Jar"],
+      "quantifier": ["EVERY", "ANY", "Forever", "All Summer"],
+      "negation_stack": ["No Air Conditioner. No Fan. No Power Needed.", "No Chemicals. No Traps.", "No Tools. No Wiring."],
+      "authority": ["The Amish Way", "Old Farmhouse", "Depression-Era", "My Grandmother's"],
+      "reassurance": ["SAFE For Pets & Kids", "Safe For Honey Bees", "Won't Damage Your Walls"],
+      "payoff": ["(Save $3000 This Summer)", "(Works In Any Room)", "(Landlord Approved)"]
+    },
+    "rules": [
+      "Lead with the cheap number - it is the whole promise. VALIDATED 2026-08-02 by tools/yt_viral_analyze.py: a dollar anchor in the title correlated with breaking out in 53% of cases (10 of 19 videos) against a 33% baseline - the best-powered lever signal found across all 5 niches. This rule was originally written from a growth-coach's advice; it now has this channel's own outlier data behind it.",
+      "Borrowed authority (Amish / grandma / Depression-era) is TABLE STAKES, not an edge - measured 2026-08-02 at a 31% breakout rate against a 33% baseline, i.e. it performs exactly at par. Use it to compete, but never expect it to be the thing that makes a video travel; the number anchor and the contrarian turn (45%, 5 of 11) are what actually separate.",
+      "The negation stack pre-kills objections; use 2-3 short negations, not a sentence.",
+      "Borrowed authority beats personal authority in TITLE COPY in this niche - lean on 'Old Farmhouse/Depression-era/Grandmother's', not on naming the narrator. (Updated 2026-08-03: the channel now has a face - narrator persona 'Walt Combs', see channel-persona.home-hacks.json - but that's the on-screen avatar, not a title-copy lever; this rule about titles stands.)",
+      "Never use a question as the title. This audience wants a claim, not a puzzle."
+    ]
+  },
+  "script": {
+    "target_minutes": [12, 30],
+    "structure": [
+      { "beat": "cold-open-claim", "share": 0.03, "note": "State the payoff in the first 10 seconds, plainly. No channel intro, no 'welcome back'." },
+      { "beat": "stakes", "share": 0.10, "note": "What it costs them to keep doing it the current way. Money, health, comfort. Concrete numbers." },
+      { "beat": "the-old-way", "share": 0.12, "note": "The borrowed-authority origin story. Where this trick comes from and why it was forgotten." },
+      { "beat": "method", "share": 0.40, "note": "The actual steps, numbered, slow, repeated. This is the bulk. One idea per beat." },
+      { "beat": "objections", "share": 0.15, "note": "Answer the doubts out loud: does it smell, is it safe, will it work in humidity, does it need power." },
+      { "beat": "variations", "share": 0.12, "note": "Small rooms, big rooms, apartments, garages. Extends watch time honestly." },
+      { "beat": "close", "share": 0.08, "note": "Recap the numbers, one soft CTA. No hard sell." }
+    ],
+    "voice_rules": [
+      "Short sentences. One clause. This audience is often half-listening while doing something else.",
+      "Repeat the key number at least 4 times across the video.",
+      "Say 'you' constantly. Never 'one' or 'people'.",
+      "No hedging: 'this works', not 'this may help'. But never invent a fact to achieve that.",
+      "Plain words: 'damp' not 'humidity levels', 'cheap' not 'cost-effective'."
+    ],
+    "honesty_guard": "This niche rewards overclaiming, which is how channels get demonetised and sued. Every number in the script must be defensible. If a claim cannot be supported, soften the claim - do not fabricate a source."
+  },
+  "pacing": { "beat_seconds": 8.0, "beat_jitter": 2.0, "hook_beat_seconds": 4.0, "hook_seconds": 30 },
+  "images": {
+    "style": "warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+    "query_hints": ["farmhouse", "mason jar", "window sill", "old kitchen", "porch", "attic", "garden", "wooden table", "sunlight through curtains"],
+    "avoid": ["neon", "office", "corporate", "smartphone", "futuristic", "stock-photo smiling models"]
+  },
+  "sound": { "music_bed": "docu-pluck", "bed_gain_db": -5, "sfx_density": "low", "sfx_palette": ["page-flip", "impact-soft", "warm-shimmer", "clock-tick-soft"],
+   "_bed_gain_note": "Corrected 2026-07-30 (was -16, never measured). docu-pluck's own mean is -22.4dB; -16 put the effective bed near -38dB, inaudible against a ~-25dB speech-gap floor. -5 lands it at the validated -27dB target. Re-derive if the bed clip changes: bed_gain_db = -27 - <clip's measured mean dB>." },
+  "voice": { "tone": "calm, older, unhurried, trustworthy neighbour", "tts_voice_hint": "older-reading American male - see narrator_persona in channel-persona.home-hacks.json (persona 'Walt Combs', set 2026-08-03) for the specific voice, mannerisms and sign-off line every script must use" }
+}

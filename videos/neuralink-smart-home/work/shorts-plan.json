@@ -1,0 +1,56 @@
+{
+  "clips": [
+    {
+      "id": "01",
+      "segments": [
+        {"start": 0.0, "end": 33.6},
+        {"start": 220.1, "end": 248.0}
+      ],
+      "hook_text": "Smart speakers just lost their reason to exist",
+      "loop": true,
+      "title": "Alexa Is Obsolete. Here's Why.",
+      "description": "Neuralink's N3 chip responds to thought in 50ms and skips the hub entirely. Your smart speaker is about to become a museum piece.\n\nFull breakdown: https://youtu.be/n4S7fylrokk\n\n#neuralink #brainchip #smarthome #alexa #elonmusk",
+      "tags": ["neuralink", "brain chip", "smart home", "alexa", "elon musk", "bci", "future tech"]
+    },
+    {
+      "id": "02",
+      "start": 70.9,
+      "end": 148.5,
+      "hook_text": "Alexa takes 2 seconds. Neuralink takes 50 milliseconds.",
+      "title": "The Number That Kills Alexa",
+      "description": "2,000 milliseconds for your smart speaker. 50 for Neuralink's neural interface — that's the time it takes to blink.\n\nFull breakdown: https://youtu.be/n4S7fylrokk\n\n#neuralink #brainchip #smarthome #alexa #latency",
+      "tags": ["neuralink", "brain chip", "smart home", "alexa", "latency", "ai", "future tech"]
+    },
+    {
+      "id": "03",
+      "segments": [
+        {"start": 47.5, "end": 70.9},
+        {"start": 256.6, "end": 310.0}
+      ],
+      "hook_text": "Real people. Real implants. Right now.",
+      "title": "They Control Computers With Their Thoughts",
+      "description": "A father watches his kids at the park by thinking about where to look. This isn't theoretical — it's inside 21 people today.\n\nFull breakdown: https://youtu.be/n4S7fylrokk\n\n#neuralink #brainchip #bci #nolandarbaugh #tech",
+      "tags": ["neuralink", "brain chip", "bci", "neural interface", "noland arbaugh", "ai", "future tech"]
+    },
+    {
+      "id": "04",
+      "segments": [
+        {"start": 349.2, "end": 368.8},
+        {"start": 370.3, "end": 417.0}
+      ],
+      "hook_text": "Brain-to-brain telepathy? Not so fast.",
+      "title": "The Telepathy Promise vs The Reality",
+      "description": "Musk hinted at brain-to-brain communication. Here's what the reality check looks like: invasive surgery, FDA years away, insurance won't cover it.\n\nFull breakdown: https://youtu.be/n4S7fylrokk\n\n#neuralink #brainchip #telepathy #elonmusk #realitycheck",
+      "tags": ["neuralink", "brain chip", "telepathy", "elon musk", "ai", "future tech", "reality check"]
+    },
+    {
+      "id": "05",
+      "start": 149.8,
+      "end": 219.0,
+      "hook_text": "This robot does brain surgery. No human hands.",
+      "title": "Samsung Is Building The Brain Chip Factory",
+      "description": "The Austin factory is already producing N1 implants at volume — and the R1 robot threads electrodes with precision no human surgeon can match.\n\nFull breakdown: https://youtu.be/n4S7fylrokk\n\n#neuralink #samsung #brainchip #robotics #manufacturing",
+      "tags": ["neuralink", "samsung", "brain chip", "robotics", "manufacturing", "ai", "future tech"]
+    }
+  ]
+}

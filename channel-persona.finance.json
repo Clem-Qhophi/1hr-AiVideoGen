@@ -1,0 +1,41 @@
+{
+  "_note": "Per-channel persona for The Money Archive (finance niche). NOT the same file as channel-persona.json (that one is AI Under 3 Min's, live and in use — do not overwrite it, and do not let a finance video run read that file). This is the fix for the multi-channel cross-contamination risk flagged 2026-07-31: each channel gets its own suffixed persona file (channel-persona.<niche-id>.json), and /make-video should be told explicitly which one to read per run until the Director's Stage 0 is updated to select by niche id automatically.",
+
+  "channel_name": "The Money Archive",
+  "channel_handle": "@TheMoneyArchive",
+  "channel_tagline": "Plain-English money explainers, built to still be true in five years.",
+
+  "delivery_mode": "calm-explainer",
+  "_delivery_mode_options": ["breaking-news", "calm-explainer", "sarcastic-review", "authoritative"],
+  "_delivery_mode_note": "Never breaking-news - this channel is deliberately evergreen, the opposite positioning from AI Under 3 Min.",
+
+  "tone_flavor": "calm, plain-spoken, quietly credible - a knowledgeable friend explaining your own bank statement back to you, never a guru, never hype",
+
+  "voice_id": "en-US-GuyNeural",
+  "voice_name": "Guy (edge-tts, free) - per niches/voice-rates.json measured rate 162.3 wpm",
+  "_voice_note": "Distinct from AI Under 3 Min's Andrew voice so the two channels are audibly different if a viewer somehow lands on both.",
+
+  "audience": "mixed",
+  "_audience_options": ["beginners", "practitioners", "mixed"],
+
+  "default_goal": "authority",
+  "_default_goal_options": ["followers", "watch-time", "authority", "views-ctr"],
+
+  "default_conversion": "nothing",
+  "_default_conversion_note": "No course/product to push - this channel's entire trust proposition is that it has nothing to sell.",
+
+  "default_target_seconds": 1200,
+  "_target_seconds_note": "20 min target, within niches/finance.json's [15,25] min range - matches CLAUDE.md's 20-min-typical convention.",
+
+  "content_pillars": [
+    "Fee & mechanism explainers - the hidden cost or rule inside a common financial product (401k fees, mortgage points, minimum payments)",
+    "Myth vs. math - a common piece of financial folk wisdom checked against real numbers",
+    "How it actually works - a financial process (credit scoring, tax brackets, compound interest) demystified with a worked example"
+  ],
+
+  "notes": "Every video keeps an honest-limits beat (where this does NOT apply) and never phrases anything as personalized advice - see niches/finance.json honesty_guard. No invented numbers; every figure sourced on screen.",
+
+  "_shipped": [
+    { "slug": "money-archive-401k-fee", "date": "2026-07-31", "title": "The 1% 401(k) Fee That Can Cost You $64,000", "confirmed_accurate": "voice_id, delivery_mode, default_target_seconds, default_goal, and default_conversion all matched production as-shipped - no drift, no persona changes needed. See EVOLUTION.md entry same date." }
+  ]
+}

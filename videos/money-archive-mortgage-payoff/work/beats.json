@@ -1,0 +1,1530 @@
+{
+  "niche": "finance",
+  "output": {
+    "w": 1920,
+    "h": 1080,
+    "fps": 30,
+    "out": "output/money-archive-mortgage-payoff-visuals.mp4"
+  },
+  "audio": "work/audio/voiceover.mp3",
+  "beats": [
+    {
+      "image": "work\\images\\000-kitchen-table-bills-0.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 0.0,
+      "end_s": 4.27,
+      "move": "auto",
+      "cue": "Here is what an extra $300 a month can do to your mortgage, in real numbers, on a real current rate. Take a no"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-0.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 4.27,
+      "end_s": 8.35,
+      "move": "auto",
+      "cue": "Here is what an extra $300 a month can do to your mortgage, in real numbers, on a real current rate. Take a no"
+    },
+    {
+      "image": "work\\images\\000-kitchen-table-bills-1.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 8.35,
+      "end_s": 12.44,
+      "move": "auto",
+      "cue": "Here is what an extra $300 a month can do to your mortgage, in real numbers, on a real current rate. Take a no"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 12.44,
+      "end_s": 16.52,
+      "move": "auto",
+      "cue": "Here is what an extra $300 a month can do to your mortgage, in real numbers, on a real current rate. Take a no"
+    },
+    {
+      "image": "work\\images\\000-kitchen-table-bills-0.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 16.52,
+      "end_s": 21.67,
+      "move": "auto",
+      "cue": "Here is what an extra $300 a month can do to your mortgage, in real numbers, on a real current rate. Take a no"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 21.67,
+      "end_s": 25.67,
+      "move": "auto",
+      "cue": "That is not the part that should surprise you. Here is the part that should. It also saves you $155,461 in int"
+    },
+    {
+      "image": "work\\images\\007-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 25.67,
+      "end_s": 29.66,
+      "move": "auto",
+      "cue": "That is not the part that should surprise you. Here is the part that should. It also saves you $155,461 in int"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 29.66,
+      "end_s": 33.65,
+      "move": "auto",
+      "cue": "That is not the part that should surprise you. Here is the part that should. It also saves you $155,461 in int"
+    },
+    {
+      "image": "work\\images\\007-receipt-macro-1.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 33.65,
+      "end_s": 38.81,
+      "move": "auto",
+      "cue": "That is not the part that should surprise you. Here is the part that should. It also saves you $155,461 in int"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-0.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 38.81,
+      "end_s": 45.86,
+      "move": "auto",
+      "cue": "I ran this on a real amortization calculator. Amortization just means the schedule that splits every payment y"
+    },
+    {
+      "image": "work\\images\\006-bank-statement-close-up-0.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 45.86,
+      "end_s": 52.9,
+      "move": "auto",
+      "cue": "I ran this on a real amortization calculator. Amortization just means the schedule that splits every payment y"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 52.9,
+      "end_s": 59.95,
+      "move": "auto",
+      "cue": "I ran this on a real amortization calculator. Amortization just means the schedule that splits every payment y"
+    },
+    {
+      "image": "work\\images\\006-bank-statement-close-up-1.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 59.95,
+      "end_s": 67.98,
+      "move": "auto",
+      "cue": "I ran this on a real amortization calculator. Amortization just means the schedule that splits every payment y"
+    },
+    {
+      "image": "work\\images\\004-bank-statement-close-up-0.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 67.98,
+      "end_s": 74.14,
+      "move": "auto",
+      "cue": "Here is the uncomfortable part first. On a typical thirty year mortgage, your early payments are mostly intere"
+    },
+    {
+      "image": "work\\images\\000-kitchen-table-bills-1.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 74.14,
+      "end_s": 80.29,
+      "move": "auto",
+      "cue": "Here is the uncomfortable part first. On a typical thirty year mortgage, your early payments are mostly intere"
+    },
+    {
+      "image": "work\\images\\004-bank-statement-close-up-1.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 80.29,
+      "end_s": 87.63,
+      "move": "auto",
+      "cue": "Here is the uncomfortable part first. On a typical thirty year mortgage, your early payments are mostly intere"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-0.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 87.63,
+      "end_s": 96.01,
+      "move": "auto",
+      "cue": "Nobody hides this from you. It is on your amortization schedule, a real document you can request or already ha"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 96.01,
+      "end_s": 105.36,
+      "move": "auto",
+      "cue": "Nobody hides this from you. It is on your amortization schedule, a real document you can request or already ha"
+    },
+    {
+      "image": "work\\images\\003-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 105.36,
+      "end_s": 112.07,
+      "move": "auto",
+      "cue": "That split is exactly why an extra payment early in the loan is worth so much more than the same extra payment"
+    },
+    {
+      "image": "work\\images\\003-coins-on-table-0.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 112.07,
+      "end_s": 119.83,
+      "move": "auto",
+      "cue": "That split is exactly why an extra payment early in the loan is worth so much more than the same extra payment"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 119.83,
+      "end_s": 125.76,
+      "move": "auto",
+      "cue": "And to be clear up front, this video is not telling you to pay extra on your mortgage. It is explaining the me"
+    },
+    {
+      "image": "work\\images\\005-budget-notebook-0.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 125.76,
+      "end_s": 131.69,
+      "move": "auto",
+      "cue": "And to be clear up front, this video is not telling you to pay extra on your mortgage. It is explaining the me"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 131.69,
+      "end_s": 138.69,
+      "move": "auto",
+      "cue": "And to be clear up front, this video is not telling you to pay extra on your mortgage. It is explaining the me"
+    },
+    {
+      "image": "work/cards/amortization-def.png",
+      "image_query": "card-amortization-def",
+      "image_prompt": "card-amortization-def, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 138.69,
+      "end_s": 146.72,
+      "move": "none",
+      "cue": "First, the term. Amortization, that just means the schedule that splits every fixed payment you make into two ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/amortization-def.png",
+      "image_query": "card-amortization-def",
+      "image_prompt": "card-amortization-def, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 146.72,
+      "end_s": 154.75,
+      "move": "none",
+      "cue": "First, the term. Amortization, that just means the schedule that splits every fixed payment you make into two ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/amortization-def.png",
+      "image_query": "card-amortization-def",
+      "image_prompt": "card-amortization-def, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 154.75,
+      "end_s": 163.82,
+      "move": "none",
+      "cue": "First, the term. Amortization, that just means the schedule that splits every fixed payment you make into two ",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\006-bank-statement-close-up-0.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 163.82,
+      "end_s": 169.39,
+      "move": "auto",
+      "cue": "That is the whole mechanism. Your payment does not change, in a fixed rate loan. The split inside it does, aut"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 169.39,
+      "end_s": 175.95,
+      "move": "auto",
+      "cue": "That is the whole mechanism. Your payment does not change, in a fixed rate loan. The split inside it does, aut"
+    },
+    {
+      "image": "work\\images\\006-bank-statement-close-up-1.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 175.95,
+      "end_s": 183.27,
+      "move": "auto",
+      "cue": "Put a real number on that. On the four hundred thousand dollar loan from a moment ago, in the very first month"
+    },
+    {
+      "image": "work\\images\\003-receipt-macro-1.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 183.27,
+      "end_s": 190.58,
+      "move": "auto",
+      "cue": "Put a real number on that. On the four hundred thousand dollar loan from a moment ago, in the very first month"
+    },
+    {
+      "image": "work\\images\\004-bank-statement-close-up-0.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 190.58,
+      "end_s": 198.95,
+      "move": "auto",
+      "cue": "Put a real number on that. On the four hundred thousand dollar loan from a moment ago, in the very first month"
+    },
+    {
+      "image": "work/cards/amortization-def.png",
+      "image_query": "card-amortization-def",
+      "image_prompt": "card-amortization-def, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 198.95,
+      "end_s": 205.54,
+      "move": "none",
+      "cue": "Which means an extra dollar of principal paid early does something an extra dollar paid late cannot fully do. ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/amortization-def.png",
+      "image_query": "card-amortization-def",
+      "image_prompt": "card-amortization-def, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 205.54,
+      "end_s": 212.14,
+      "move": "none",
+      "cue": "Which means an extra dollar of principal paid early does something an extra dollar paid late cannot fully do. ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/amortization-def.png",
+      "image_query": "card-amortization-def",
+      "image_prompt": "card-amortization-def, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 212.14,
+      "end_s": 219.89,
+      "move": "none",
+      "cue": "Which means an extra dollar of principal paid early does something an extra dollar paid late cannot fully do. ",
+      "is_card": true
+    },
+    {
+      "image": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/media/projects/money-archive-mortgage-payoff/evidence/freddiemac-30yr-rate.png",
+      "image_query": "card-current-rate",
+      "image_prompt": "card-current-rate, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 219.89,
+      "end_s": 226.55,
+      "move": "none",
+      "cue": "Every number ahead uses one real, current, sourced rate. Not a guess. As of the week ending July 30th, 2026, t",
+      "is_card": true
+    },
+    {
+      "image": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/media/projects/money-archive-mortgage-payoff/evidence/freddiemac-30yr-rate.png",
+      "image_query": "card-current-rate",
+      "image_prompt": "card-current-rate, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 226.55,
+      "end_s": 233.22,
+      "move": "none",
+      "cue": "Every number ahead uses one real, current, sourced rate. Not a guess. As of the week ending July 30th, 2026, t",
+      "is_card": true
+    },
+    {
+      "image": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/media/projects/money-archive-mortgage-payoff/evidence/freddiemac-30yr-rate.png",
+      "image_query": "card-current-rate",
+      "image_prompt": "card-current-rate, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 233.22,
+      "end_s": 240.85,
+      "move": "none",
+      "cue": "Every number ahead uses one real, current, sourced rate. Not a guess. As of the week ending July 30th, 2026, t",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 240.85,
+      "end_s": 248.0,
+      "move": "auto",
+      "cue": "That survey is a national average, not a personal quote. Your own rate depends on your credit, your loan type,"
+    },
+    {
+      "image": "work\\images\\005-budget-notebook-1.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 248.0,
+      "end_s": 256.24,
+      "move": "auto",
+      "cue": "That survey is a national average, not a personal quote. Your own rate depends on your credit, your loan type,"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-0.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 256.24,
+      "end_s": 262.17,
+      "move": "auto",
+      "cue": "Now the actual math. Four hundred thousand dollars borrowed, thirty years, six point six six percent, the real"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 262.17,
+      "end_s": 270.74,
+      "move": "auto",
+      "cue": "Now the actual math. Four hundred thousand dollars borrowed, thirty years, six point six six percent, the real"
+    },
+    {
+      "image": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/media/projects/money-archive-mortgage-payoff/evidence/payoff-300-per-month.png",
+      "image_query": "card-payoff-300",
+      "image_prompt": "card-payoff-300, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 270.74,
+      "end_s": 277.78,
+      "move": "none",
+      "cue": "Add three hundred dollars to that every single month, starting from the very first payment, and change nothing",
+      "is_card": true
+    },
+    {
+      "image": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/media/projects/money-archive-mortgage-payoff/evidence/payoff-300-per-month.png",
+      "image_query": "card-payoff-300",
+      "image_prompt": "card-payoff-300, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 277.78,
+      "end_s": 286.11,
+      "move": "none",
+      "cue": "Add three hundred dollars to that every single month, starting from the very first payment, and change nothing",
+      "is_card": true
+    },
+    {
+      "image": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/media/projects/money-archive-mortgage-payoff/evidence/payoff-300-per-month.png",
+      "image_query": "card-payoff-300",
+      "image_prompt": "card-payoff-300, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 286.11,
+      "end_s": 293.25,
+      "move": "none",
+      "cue": "Total interest on the original schedule: five hundred twenty five thousand three hundred eighty three dollars.",
+      "is_card": true
+    },
+    {
+      "image": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/media/projects/money-archive-mortgage-payoff/evidence/payoff-300-per-month.png",
+      "image_query": "card-payoff-300",
+      "image_prompt": "card-payoff-300, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 293.25,
+      "end_s": 300.39,
+      "move": "none",
+      "cue": "Total interest on the original schedule: five hundred twenty five thousand three hundred eighty three dollars.",
+      "is_card": true
+    },
+    {
+      "image": "C:/Users/O M E N/Downloads/claude-youtube-editor-main/claude-youtube-editor-main/media/projects/money-archive-mortgage-payoff/evidence/payoff-300-per-month.png",
+      "image_query": "card-payoff-300",
+      "image_prompt": "card-payoff-300, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 300.39,
+      "end_s": 308.66,
+      "move": "none",
+      "cue": "Total interest on the original schedule: five hundred twenty five thousand three hundred eighty three dollars.",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-annual.png",
+      "image_query": "card-payoff-annual",
+      "image_prompt": "card-payoff-annual, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 308.66,
+      "end_s": 316.22,
+      "move": "none",
+      "cue": "Three hundred dollars a month is not the only way to do this, and it may not fit your budget the same way ever",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-annual.png",
+      "image_query": "card-payoff-annual",
+      "image_prompt": "card-payoff-annual, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 316.22,
+      "end_s": 323.79,
+      "move": "none",
+      "cue": "Three hundred dollars a month is not the only way to do this, and it may not fit your budget the same way ever",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-annual.png",
+      "image_query": "card-payoff-annual",
+      "image_prompt": "card-payoff-annual, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 323.79,
+      "end_s": 332.35,
+      "move": "none",
+      "cue": "Three hundred dollars a month is not the only way to do this, and it may not fit your budget the same way ever",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-annual.png",
+      "image_query": "card-payoff-annual",
+      "image_prompt": "card-payoff-annual, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 332.35,
+      "end_s": 340.0,
+      "move": "none",
+      "cue": "That single extra payment a year, sometimes called a thirteenth payment, pays the loan off in twenty four year",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-annual.png",
+      "image_query": "card-payoff-annual",
+      "image_prompt": "card-payoff-annual, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 340.0,
+      "end_s": 347.66,
+      "move": "none",
+      "cue": "That single extra payment a year, sometimes called a thirteenth payment, pays the loan off in twenty four year",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-annual.png",
+      "image_query": "card-payoff-annual",
+      "image_prompt": "card-payoff-annual, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 347.66,
+      "end_s": 356.48,
+      "move": "none",
+      "cue": "That single extra payment a year, sometimes called a thirteenth payment, pays the loan off in twenty four year",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\004-piggy-bank-close-up-0.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 356.48,
+      "end_s": 364.06,
+      "move": "auto",
+      "cue": "Neither version requires a windfall or a bonus check. Three hundred dollars a month is a real, ongoing budget "
+    },
+    {
+      "image": "work\\images\\003-coins-on-table-1.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 364.06,
+      "end_s": 371.65,
+      "move": "auto",
+      "cue": "Neither version requires a windfall or a bonus check. Three hundred dollars a month is a real, ongoing budget "
+    },
+    {
+      "image": "work\\images\\004-piggy-bank-close-up-1.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 371.65,
+      "end_s": 380.2,
+      "move": "auto",
+      "cue": "Neither version requires a windfall or a bonus check. Three hundred dollars a month is a real, ongoing budget "
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 380.2,
+      "end_s": 387.83,
+      "move": "auto",
+      "cue": "Both versions use the identical mechanism from the amortization section. More principal paid earlier means few"
+    },
+    {
+      "image": "work\\images\\007-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 387.83,
+      "end_s": 396.56,
+      "move": "auto",
+      "cue": "Both versions use the identical mechanism from the amortization section. More principal paid earlier means few"
+    },
+    {
+      "image": "work/cards/payoff-biweekly.png",
+      "image_query": "card-payoff-biweekly",
+      "image_prompt": "card-payoff-biweekly, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 396.56,
+      "end_s": 402.47,
+      "move": "none",
+      "cue": "There is a third common version of this, worth naming because you have probably heard of it. Some people pay t",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-biweekly.png",
+      "image_query": "card-payoff-biweekly",
+      "image_prompt": "card-payoff-biweekly, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 402.47,
+      "end_s": 409.41,
+      "move": "none",
+      "cue": "There is a third common version of this, worth naming because you have probably heard of it. Some people pay t",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-biweekly.png",
+      "image_query": "card-payoff-biweekly",
+      "image_prompt": "card-payoff-biweekly, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 409.41,
+      "end_s": 415.8,
+      "move": "none",
+      "cue": "On the same four hundred thousand dollar loan, biweekly payments pay it off in twenty four years and two month",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-biweekly.png",
+      "image_query": "card-payoff-biweekly",
+      "image_prompt": "card-payoff-biweekly, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 415.8,
+      "end_s": 422.19,
+      "move": "none",
+      "cue": "On the same four hundred thousand dollar loan, biweekly payments pay it off in twenty four years and two month",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-biweekly.png",
+      "image_query": "card-payoff-biweekly",
+      "image_prompt": "card-payoff-biweekly, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 422.19,
+      "end_s": 429.64,
+      "move": "none",
+      "cue": "On the same four hundred thousand dollar loan, biweekly payments pay it off in twenty four years and two month",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 429.64,
+      "end_s": 436.82,
+      "move": "auto",
+      "cue": "A year has fifty two weeks in it, not exactly forty eight. Paying half your mortgage every two weeks means twe"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 436.82,
+      "end_s": 444.01,
+      "move": "auto",
+      "cue": "A year has fifty two weeks in it, not exactly forty eight. Paying half your mortgage every two weeks means twe"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 444.01,
+      "end_s": 452.49,
+      "move": "auto",
+      "cue": "A year has fifty two weeks in it, not exactly forty eight. Paying half your mortgage every two weeks means twe"
+    },
+    {
+      "image": "work/cards/payoff-250k.png",
+      "image_query": "card-payoff-250k",
+      "image_prompt": "card-payoff-250k, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 452.49,
+      "end_s": 458.83,
+      "move": "none",
+      "cue": "Four hundred thousand dollars is not everyone's loan. Here is the same mechanism on a smaller, more ordinary o",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-250k.png",
+      "image_query": "card-payoff-250k",
+      "image_prompt": "card-payoff-250k, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 458.83,
+      "end_s": 466.19,
+      "move": "none",
+      "cue": "Four hundred thousand dollars is not everyone's loan. Here is the same mechanism on a smaller, more ordinary o",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-250k.png",
+      "image_query": "card-payoff-250k",
+      "image_prompt": "card-payoff-250k, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 466.19,
+      "end_s": 474.54,
+      "move": "none",
+      "cue": "An extra two hundred dollars a month, a smaller add on than the earlier example, pays that loan off in twenty ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/payoff-250k.png",
+      "image_query": "card-payoff-250k",
+      "image_prompt": "card-payoff-250k, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 474.54,
+      "end_s": 483.93,
+      "move": "none",
+      "cue": "An extra two hundred dollars a month, a smaller add on than the earlier example, pays that loan off in twenty ",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\006-budget-notebook-0.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 483.93,
+      "end_s": 490.54,
+      "move": "auto",
+      "cue": "The loan size changed. The extra payment size changed. The shape of the result did not. A smaller, earlier dol"
+    },
+    {
+      "image": "work\\images\\011-piggy-bank-close-up-0.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 490.54,
+      "end_s": 498.23,
+      "move": "auto",
+      "cue": "The loan size changed. The extra payment size changed. The shape of the result did not. A smaller, earlier dol"
+    },
+    {
+      "image": "work/cards/why-early-wins.png",
+      "image_query": "card-why-early-wins",
+      "image_prompt": "card-why-early-wins, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 498.23,
+      "end_s": 505.66,
+      "move": "none",
+      "cue": "Here is the part worth sitting with. Three hundred dollars a month, over twenty two and a half years, adds up ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/why-early-wins.png",
+      "image_query": "card-why-early-wins",
+      "image_prompt": "card-why-early-wins, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 505.66,
+      "end_s": 513.1,
+      "move": "none",
+      "cue": "Here is the part worth sitting with. Three hundred dollars a month, over twenty two and a half years, adds up ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/why-early-wins.png",
+      "image_query": "card-why-early-wins",
+      "image_prompt": "card-why-early-wins, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 513.1,
+      "end_s": 520.54,
+      "move": "none",
+      "cue": "Here is the part worth sitting with. Three hundred dollars a month, over twenty two and a half years, adds up ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/why-early-wins.png",
+      "image_query": "card-why-early-wins",
+      "image_prompt": "card-why-early-wins, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 520.54,
+      "end_s": 529.0,
+      "move": "none",
+      "cue": "Here is the part worth sitting with. Three hundred dollars a month, over twenty two and a half years, adds up ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/why-early-wins.png",
+      "image_query": "card-why-early-wins",
+      "image_prompt": "card-why-early-wins, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 529.0,
+      "end_s": 535.95,
+      "move": "none",
+      "cue": "That is not a typo, and it is not magic. It is the flip side of compound interest, which means interest that e",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/why-early-wins.png",
+      "image_query": "card-why-early-wins",
+      "image_prompt": "card-why-early-wins, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 535.95,
+      "end_s": 542.89,
+      "move": "none",
+      "cue": "That is not a typo, and it is not magic. It is the flip side of compound interest, which means interest that e",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/why-early-wins.png",
+      "image_query": "card-why-early-wins",
+      "image_prompt": "card-why-early-wins, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 542.89,
+      "end_s": 549.84,
+      "move": "none",
+      "cue": "That is not a typo, and it is not magic. It is the flip side of compound interest, which means interest that e",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/why-early-wins.png",
+      "image_query": "card-why-early-wins",
+      "image_prompt": "card-why-early-wins, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 549.84,
+      "end_s": 557.83,
+      "move": "none",
+      "cue": "That is not a typo, and it is not magic. It is the flip side of compound interest, which means interest that e",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 557.83,
+      "end_s": 564.04,
+      "move": "auto",
+      "cue": "Think of a normal compounding snowball, money rolling downhill, picking up more as it goes. A mortgage balance"
+    },
+    {
+      "image": "work\\images\\006-budget-notebook-1.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 564.04,
+      "end_s": 570.25,
+      "move": "auto",
+      "cue": "Think of a normal compounding snowball, money rolling downhill, picking up more as it goes. A mortgage balance"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 570.25,
+      "end_s": 577.58,
+      "move": "auto",
+      "cue": "Think of a normal compounding snowball, money rolling downhill, picking up more as it goes. A mortgage balance"
+    },
+    {
+      "image": "work/cards/snowball-reverse.png",
+      "image_query": "card-snowball-reverse",
+      "image_prompt": "card-snowball-reverse, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 577.58,
+      "end_s": 584.17,
+      "move": "none",
+      "cue": "An extra principal payment does not just slow that snowball. It shrinks it, immediately, which means every mon",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/snowball-reverse.png",
+      "image_query": "card-snowball-reverse",
+      "image_prompt": "card-snowball-reverse, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 584.17,
+      "end_s": 590.76,
+      "move": "none",
+      "cue": "An extra principal payment does not just slow that snowball. It shrinks it, immediately, which means every mon",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/snowball-reverse.png",
+      "image_query": "card-snowball-reverse",
+      "image_prompt": "card-snowball-reverse, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 590.76,
+      "end_s": 598.44,
+      "move": "none",
+      "cue": "An extra principal payment does not just slow that snowball. It shrinks it, immediately, which means every mon",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/other-debt.png",
+      "image_query": "card-other-debt",
+      "image_prompt": "card-other-debt, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 598.44,
+      "end_s": 606.45,
+      "move": "none",
+      "cue": "This video used a mortgage because the numbers are large enough to see clearly, but amortization is not a mort",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/other-debt.png",
+      "image_query": "card-other-debt",
+      "image_prompt": "card-other-debt, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 606.45,
+      "end_s": 615.53,
+      "move": "none",
+      "cue": "This video used a mortgage because the numbers are large enough to see clearly, but amortization is not a mort",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 615.53,
+      "end_s": 622.18,
+      "move": "auto",
+      "cue": "The same logic applies to those. Extra principal paid early on a car loan or a student loan cancels future int"
+    },
+    {
+      "image": "work\\images\\007-receipt-macro-1.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 622.18,
+      "end_s": 628.84,
+      "move": "auto",
+      "cue": "The same logic applies to those. Extra principal paid early on a car loan or a student loan cancels future int"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 628.84,
+      "end_s": 635.5,
+      "move": "auto",
+      "cue": "The same logic applies to those. Extra principal paid early on a car loan or a student loan cancels future int"
+    },
+    {
+      "image": "work\\images\\003-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 635.5,
+      "end_s": 642.16,
+      "move": "auto",
+      "cue": "The same logic applies to those. Extra principal paid early on a car loan or a student loan cancels future int"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 642.16,
+      "end_s": 649.71,
+      "move": "auto",
+      "cue": "The same logic applies to those. Extra principal paid early on a car loan or a student loan cancels future int"
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 649.71,
+      "end_s": 657.7,
+      "move": "none",
+      "cue": "Now the part every finance video owes you, and most skip. Where does this math not automatically mean you shou",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\005-budget-notebook-0.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 657.7,
+      "end_s": 664.32,
+      "move": "auto",
+      "cue": "First, and biggest. Every dollar you send toward extra mortgage principal is a dollar you did not invest somew"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-0.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 664.32,
+      "end_s": 670.95,
+      "move": "auto",
+      "cue": "First, and biggest. Every dollar you send toward extra mortgage principal is a dollar you did not invest somew"
+    },
+    {
+      "image": "work\\images\\005-budget-notebook-1.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 670.95,
+      "end_s": 677.57,
+      "move": "auto",
+      "cue": "First, and biggest. Every dollar you send toward extra mortgage principal is a dollar you did not invest somew"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 677.57,
+      "end_s": 684.19,
+      "move": "auto",
+      "cue": "First, and biggest. Every dollar you send toward extra mortgage principal is a dollar you did not invest somew"
+    },
+    {
+      "image": "work\\images\\006-budget-notebook-0.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 684.19,
+      "end_s": 691.91,
+      "move": "auto",
+      "cue": "First, and biggest. Every dollar you send toward extra mortgage principal is a dollar you did not invest somew"
+    },
+    {
+      "image": "work\\images\\004-bank-statement-close-up-1.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 691.91,
+      "end_s": 698.78,
+      "move": "auto",
+      "cue": "Second, that comparison is not risk free in either direction. A mortgage payoff is a guaranteed result. You kn"
+    },
+    {
+      "image": "work\\images\\003-receipt-macro-1.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 698.78,
+      "end_s": 705.65,
+      "move": "auto",
+      "cue": "Second, that comparison is not risk free in either direction. A mortgage payoff is a guaranteed result. You kn"
+    },
+    {
+      "image": "work\\images\\006-bank-statement-close-up-0.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 705.65,
+      "end_s": 712.52,
+      "move": "auto",
+      "cue": "Second, that comparison is not risk free in either direction. A mortgage payoff is a guaranteed result. You kn"
+    },
+    {
+      "image": "work\\images\\007-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 712.52,
+      "end_s": 720.46,
+      "move": "auto",
+      "cue": "Second, that comparison is not risk free in either direction. A mortgage payoff is a guaranteed result. You kn"
+    },
+    {
+      "image": "work/cards/emergency-fund.png",
+      "image_query": "card-emergency-fund",
+      "image_prompt": "card-emergency-fund, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 720.46,
+      "end_s": 726.57,
+      "move": "none",
+      "cue": "Third, an emergency fund comes before extra mortgage payments, for most people. Money paid toward your mortgag",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/emergency-fund.png",
+      "image_query": "card-emergency-fund",
+      "image_prompt": "card-emergency-fund, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 726.57,
+      "end_s": 732.69,
+      "move": "none",
+      "cue": "Third, an emergency fund comes before extra mortgage payments, for most people. Money paid toward your mortgag",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/emergency-fund.png",
+      "image_query": "card-emergency-fund",
+      "image_prompt": "card-emergency-fund, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 732.69,
+      "end_s": 739.95,
+      "move": "none",
+      "cue": "Third, an emergency fund comes before extra mortgage payments, for most people. Money paid toward your mortgag",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 739.95,
+      "end_s": 746.33,
+      "move": "auto",
+      "cue": "Fourth, check your loan for a prepayment penalty before sending extra principal anywhere. Most modern mortgage"
+    },
+    {
+      "image": "work\\images\\006-budget-notebook-1.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 746.33,
+      "end_s": 752.71,
+      "move": "auto",
+      "cue": "Fourth, check your loan for a prepayment penalty before sending extra principal anywhere. Most modern mortgage"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 752.71,
+      "end_s": 760.09,
+      "move": "auto",
+      "cue": "Fourth, check your loan for a prepayment penalty before sending extra principal anywhere. Most modern mortgage"
+    },
+    {
+      "image": "work/cards/not-advice.png",
+      "image_query": "card-not-advice",
+      "image_prompt": "card-not-advice, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 760.09,
+      "end_s": 768.08,
+      "move": "none",
+      "cue": "Fifth, this is general information about a mechanism, not personalized advice about your own mortgage, your ow",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/not-advice.png",
+      "image_query": "card-not-advice",
+      "image_prompt": "card-not-advice, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 768.08,
+      "end_s": 777.21,
+      "move": "none",
+      "cue": "Fifth, this is general information about a mechanism, not personalized advice about your own mortgage, your ow",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/peace-of-mind.png",
+      "image_query": "card-peace-of-mind",
+      "image_prompt": "card-peace-of-mind, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 777.21,
+      "end_s": 784.28,
+      "move": "none",
+      "cue": "Sixth, the math in this video is not the only value some people place on this decision, and that is worth sayi",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/peace-of-mind.png",
+      "image_query": "card-peace-of-mind",
+      "image_prompt": "card-peace-of-mind, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 784.28,
+      "end_s": 791.35,
+      "move": "none",
+      "cue": "Sixth, the math in this video is not the only value some people place on this decision, and that is worth sayi",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/peace-of-mind.png",
+      "image_query": "card-peace-of-mind",
+      "image_prompt": "card-peace-of-mind, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 791.35,
+      "end_s": 798.42,
+      "move": "none",
+      "cue": "Sixth, the math in this video is not the only value some people place on this decision, and that is worth sayi",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/peace-of-mind.png",
+      "image_query": "card-peace-of-mind",
+      "image_prompt": "card-peace-of-mind, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 798.42,
+      "end_s": 806.58,
+      "move": "none",
+      "cue": "Sixth, the math in this video is not the only value some people place on this decision, and that is worth sayi",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 806.58,
+      "end_s": 812.8,
+      "move": "auto",
+      "cue": "Seventh, none of this math accounts for refinancing, which is a separate lever entirely. If your own rate is m"
+    },
+    {
+      "image": "work\\images\\007-receipt-macro-1.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 812.8,
+      "end_s": 819.02,
+      "move": "auto",
+      "cue": "Seventh, none of this math accounts for refinancing, which is a separate lever entirely. If your own rate is m"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 819.02,
+      "end_s": 825.23,
+      "move": "auto",
+      "cue": "Seventh, none of this math accounts for refinancing, which is a separate lever entirely. If your own rate is m"
+    },
+    {
+      "image": "work\\images\\003-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 825.23,
+      "end_s": 832.54,
+      "move": "auto",
+      "cue": "Seventh, none of this math accounts for refinancing, which is a separate lever entirely. If your own rate is m"
+    },
+    {
+      "image": "work/cards/tax-deduction.png",
+      "image_query": "card-tax-deduction",
+      "image_prompt": "card-tax-deduction, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 832.54,
+      "end_s": 838.97,
+      "move": "none",
+      "cue": "And finally, mortgage interest is sometimes tax deductible, depending on how you file and how large your loan ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/tax-deduction.png",
+      "image_query": "card-tax-deduction",
+      "image_prompt": "card-tax-deduction, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 838.97,
+      "end_s": 845.39,
+      "move": "none",
+      "cue": "And finally, mortgage interest is sometimes tax deductible, depending on how you file and how large your loan ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/tax-deduction.png",
+      "image_query": "card-tax-deduction",
+      "image_prompt": "card-tax-deduction, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 845.39,
+      "end_s": 852.78,
+      "move": "none",
+      "cue": "And finally, mortgage interest is sometimes tax deductible, depending on how you file and how large your loan ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/how-to-checklist.png",
+      "image_query": "card-how-to-checklist",
+      "image_prompt": "card-how-to-checklist, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 852.78,
+      "end_s": 864.31,
+      "move": "none",
+      "cue": "So what can you actually go check, this week? Nothing here is an instruction to send your lender money today. ",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-0.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 864.31,
+      "end_s": 870.71,
+      "move": "auto",
+      "cue": "One. Find your loan's actual interest rate and remaining balance on your most recent statement. Not this video"
+    },
+    {
+      "image": "work\\images\\006-bank-statement-close-up-1.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 870.71,
+      "end_s": 877.11,
+      "move": "auto",
+      "cue": "One. Find your loan's actual interest rate and remaining balance on your most recent statement. Not this video"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-1.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 877.11,
+      "end_s": 884.52,
+      "move": "auto",
+      "cue": "One. Find your loan's actual interest rate and remaining balance on your most recent statement. Not this video"
+    },
+    {
+      "image": "work/cards/checklist-calculator.png",
+      "image_query": "card-checklist-calculator",
+      "image_prompt": "card-checklist-calculator, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 884.52,
+      "end_s": 891.19,
+      "move": "none",
+      "cue": "Two. Run your own numbers on a real payoff calculator, the same kind used in this video, free and public. Try ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/checklist-calculator.png",
+      "image_query": "card-checklist-calculator",
+      "image_prompt": "card-checklist-calculator, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 891.19,
+      "end_s": 897.87,
+      "move": "none",
+      "cue": "Two. Run your own numbers on a real payoff calculator, the same kind used in this video, free and public. Try ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/checklist-calculator.png",
+      "image_query": "card-checklist-calculator",
+      "image_prompt": "card-checklist-calculator, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 897.87,
+      "end_s": 905.69,
+      "move": "none",
+      "cue": "Two. Run your own numbers on a real payoff calculator, the same kind used in this video, free and public. Try ",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 905.69,
+      "end_s": 912.78,
+      "move": "auto",
+      "cue": "Three. Call your loan servicer, or check your account portal, and confirm there is no prepayment penalty, and "
+    },
+    {
+      "image": "work\\images\\005-budget-notebook-0.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 912.78,
+      "end_s": 919.86,
+      "move": "auto",
+      "cue": "Three. Call your loan servicer, or check your account portal, and confirm there is no prepayment penalty, and "
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 919.86,
+      "end_s": 926.94,
+      "move": "auto",
+      "cue": "Three. Call your loan servicer, or check your account portal, and confirm there is no prepayment penalty, and "
+    },
+    {
+      "image": "work\\images\\005-budget-notebook-1.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 926.94,
+      "end_s": 936.43,
+      "move": "auto",
+      "cue": "Three. Call your loan servicer, or check your account portal, and confirm there is no prepayment penalty, and "
+    },
+    {
+      "image": "work\\images\\003-receipt-macro-1.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 936.43,
+      "end_s": 943.55,
+      "move": "auto",
+      "cue": "Four. Make sure you have an emergency fund you are comfortable with before directing extra money at the mortga"
+    },
+    {
+      "image": "work\\images\\005-coins-on-table-0.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 943.55,
+      "end_s": 952.56,
+      "move": "auto",
+      "cue": "Four. Make sure you have an emergency fund you are comfortable with before directing extra money at the mortga"
+    },
+    {
+      "image": "work\\images\\000-kitchen-table-bills-0.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 952.56,
+      "end_s": 959.75,
+      "move": "auto",
+      "cue": "Five. Compare your mortgage rate to what you could reasonably expect from putting the same money into the mark"
+    },
+    {
+      "image": "work\\images\\004-bank-statement-close-up-0.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 959.75,
+      "end_s": 966.93,
+      "move": "auto",
+      "cue": "Five. Compare your mortgage rate to what you could reasonably expect from putting the same money into the mark"
+    },
+    {
+      "image": "work\\images\\000-kitchen-table-bills-1.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 966.93,
+      "end_s": 974.11,
+      "move": "auto",
+      "cue": "Five. Compare your mortgage rate to what you could reasonably expect from putting the same money into the mark"
+    },
+    {
+      "image": "work\\images\\004-bank-statement-close-up-1.jpg",
+      "image_query": "bank statement close up",
+      "image_prompt": "bank statement close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 974.11,
+      "end_s": 982.32,
+      "move": "auto",
+      "cue": "Five. Compare your mortgage rate to what you could reasonably expect from putting the same money into the mark"
+    },
+    {
+      "image": "work/cards/checklist-advisor.png",
+      "image_query": "card-checklist-advisor",
+      "image_prompt": "card-checklist-advisor, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 982.32,
+      "end_s": 989.38,
+      "move": "none",
+      "cue": "Six. Not sure which side of that tradeoff makes sense for your specific situation? That is a fair question for",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/checklist-advisor.png",
+      "image_query": "card-checklist-advisor",
+      "image_prompt": "card-checklist-advisor, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 989.38,
+      "end_s": 996.45,
+      "move": "none",
+      "cue": "Six. Not sure which side of that tradeoff makes sense for your specific situation? That is a fair question for",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/checklist-advisor.png",
+      "image_query": "card-checklist-advisor",
+      "image_prompt": "card-checklist-advisor, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 996.45,
+      "end_s": 1004.54,
+      "move": "none",
+      "cue": "Six. Not sure which side of that tradeoff makes sense for your specific situation? That is a fair question for",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/headline-300.png",
+      "image_query": "card-headline-300",
+      "image_prompt": "card-headline-300, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1004.54,
+      "end_s": 1012.18,
+      "move": "none",
+      "cue": "So here is the number worth remembering. Three hundred dollars a month, on a real current rate, on an ordinary",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/headline-300.png",
+      "image_query": "card-headline-300",
+      "image_prompt": "card-headline-300, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1012.18,
+      "end_s": 1019.83,
+      "move": "none",
+      "cue": "So here is the number worth remembering. Three hundred dollars a month, on a real current rate, on an ordinary",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/headline-300.png",
+      "image_query": "card-headline-300",
+      "image_prompt": "card-headline-300, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1019.83,
+      "end_s": 1028.53,
+      "move": "none",
+      "cue": "So here is the number worth remembering. Three hundred dollars a month, on a real current rate, on an ordinary",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1028.53,
+      "end_s": 1035.14,
+      "move": "auto",
+      "cue": "That math is not hidden. It is sitting in your own amortization schedule right now, a document you likely alre"
+    },
+    {
+      "image": "work\\images\\001-calculator-desk-0.jpg",
+      "image_query": "calculator desk",
+      "image_prompt": "calculator desk, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1035.14,
+      "end_s": 1042.83,
+      "move": "auto",
+      "cue": "That math is not hidden. It is sitting in your own amortization schedule right now, a document you likely alre"
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1042.83,
+      "end_s": 1050.78,
+      "move": "none",
+      "cue": "This video does not know your rate, your balance, or whether extra payments beat the market for your specific ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/honest-limits.png",
+      "image_query": "card-honest-limits",
+      "image_prompt": "card-honest-limits, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1050.78,
+      "end_s": 1059.75,
+      "move": "none",
+      "cue": "This video does not know your rate, your balance, or whether extra payments beat the market for your specific ",
+      "is_card": true
+    },
+    {
+      "image": "work\\images\\006-budget-notebook-0.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1059.75,
+      "end_s": 1066.92,
+      "move": "auto",
+      "cue": "It is worth sitting with why a mechanism this large stays this quiet. An amortization schedule is not designed"
+    },
+    {
+      "image": "work\\images\\004-piggy-bank-close-up-0.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1066.92,
+      "end_s": 1074.08,
+      "move": "auto",
+      "cue": "It is worth sitting with why a mechanism this large stays this quiet. An amortization schedule is not designed"
+    },
+    {
+      "image": "work\\images\\006-budget-notebook-1.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1074.08,
+      "end_s": 1082.3,
+      "move": "auto",
+      "cue": "It is worth sitting with why a mechanism this large stays this quiet. An amortization schedule is not designed"
+    },
+    {
+      "image": "work\\images\\002-ledger-book-0.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1082.3,
+      "end_s": 1088.33,
+      "move": "auto",
+      "cue": "None of the six or seven strategies in this video required refinancing, a new loan, or a financial advisor to "
+    },
+    {
+      "image": "work\\images\\007-receipt-macro-0.jpg",
+      "image_query": "receipt macro",
+      "image_prompt": "receipt macro, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1088.33,
+      "end_s": 1094.36,
+      "move": "auto",
+      "cue": "None of the six or seven strategies in this video required refinancing, a new loan, or a financial advisor to "
+    },
+    {
+      "image": "work\\images\\002-ledger-book-1.jpg",
+      "image_query": "ledger book",
+      "image_prompt": "ledger book, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1094.36,
+      "end_s": 1101.48,
+      "move": "auto",
+      "cue": "None of the six or seven strategies in this video required refinancing, a new loan, or a financial advisor to "
+    },
+    {
+      "image": "work\\images\\005-coins-on-table-1.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1101.48,
+      "end_s": 1108.91,
+      "move": "auto",
+      "cue": "And if you watched the earlier video on this channel about compound interest, you already have everything you "
+    },
+    {
+      "image": "work\\images\\000-kitchen-table-bills-0.jpg",
+      "image_query": "kitchen table bills",
+      "image_prompt": "kitchen table bills, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1108.91,
+      "end_s": 1116.35,
+      "move": "auto",
+      "cue": "And if you watched the earlier video on this channel about compound interest, you already have everything you "
+    },
+    {
+      "image": "work\\images\\003-coins-on-table-0.jpg",
+      "image_query": "coins on table",
+      "image_prompt": "coins on table, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1116.35,
+      "end_s": 1124.79,
+      "move": "auto",
+      "cue": "And if you watched the earlier video on this channel about compound interest, you already have everything you "
+    },
+    {
+      "image": "work\\images\\004-piggy-bank-close-up-1.jpg",
+      "image_query": "piggy bank close up",
+      "image_prompt": "piggy bank close up, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1124.79,
+      "end_s": 1130.38,
+      "move": "auto",
+      "cue": "The channel is called The Money Archive, plain mechanics, sourced numbers, no hype, still just as true five ye"
+    },
+    {
+      "image": "work\\images\\005-budget-notebook-0.jpg",
+      "image_query": "budget notebook",
+      "image_prompt": "budget notebook, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1130.38,
+      "end_s": 1137.08,
+      "move": "auto",
+      "cue": "The channel is called The Money Archive, plain mechanics, sourced numbers, no hype, still just as true five ye"
+    },
+    {
+      "image": "work/cards/close-recap.png",
+      "image_query": "card-close-recap",
+      "image_prompt": "card-close-recap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1137.08,
+      "end_s": 1143.94,
+      "move": "none",
+      "cue": "And if this number changed how you are thinking about your own mortgage, say so in the comments. It genuinely ",
+      "is_card": true
+    },
+    {
+      "image": "work/cards/close-recap.png",
+      "image_query": "card-close-recap",
+      "image_prompt": "card-close-recap, muted editorial photography, paper and ledger textures, real currency macro shots, everyday financial moments - a kitchen-table bill pile, a paycheck stub, a calculator, a bank statement",
+      "start_s": 1143.94,
+      "end_s": 1152.06,
+      "move": "none",
+      "cue": "And if this number changed how you are thinking about your own mortgage, say so in the comments. It genuinely ",
+      "is_card": true
+    }
+  ]
+}

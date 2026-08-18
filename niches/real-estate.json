@@ -1,0 +1,56 @@
+{
+  "id": "real-estate",
+  "name": "Real estate & home-buying/selling explainers",
+  "_channel": "Channel name not yet locked - 5th of the 5-channel lineup, picked 2026-07-31 for RPM (see yt-automation-research-findings / multi-channel-expansion-plan): published 2026 data puts real estate at $15-30 RPM, second only to finance. Deliberately paired with finance as the two premium-RPM channels; kept structurally distinct (see title/voice below) so the portfolio doesn't sound like one channel wearing two skins.",
+  "reference_titles": [
+    "Mortgage Expert: 5 Quiet Mistakes First Time Buyers MUST Avoid (Nathan Udomsri, 331 views/day)",
+    "New Construction Homes: 7 Mistakes That Cost Buyers $50,000 (Living in El Paso Texas)",
+    "What I'd Tell My Sister If She Was Buying Her First Home (Javier Vidana, 238 views/day)",
+    "The Fed's Last Ditch Effort To Save The Housing Market (Mortgage Rates) (Reventure Consulting, 405 views/day)"
+  ],
+  "_reference_titles_source": "BACKFILLED live via tools/yt_research.py 2026-08-02 (--query 'closing costs explained,real estate commission explained,first time home buyer mistakes,mortgage rate points explained' --window all --long-only), resolving the _reference_titles_todo flag this field replaced. Raw data: docs/research/real-estate.json / .txt. Confirms a numbered 'X mistakes that cost you $Y' shape is at least as strong as this niche's existing negation/mechanism formula - worth treating as an equally valid title pattern, not just the single-figure formula already documented. 'What I'd Tell My Sister...' is the closest real match to this channel's own voice.tone (a friend who just went through it) and is worth studying for structure, not just title shape. Runtime finding worth flagging to the user before committing: 30d/365d medians came in at 33 min, above this niche's current [15,25] target_minutes ceiling (some real winners ran 48-86 min) - real audience appetite in this space may support longer videos than currently planned; this is a proposal to consider, not something changed here unilaterally (CLAUDE.md: length is always proposed, never assumed).",
+  "audience": "US first-time homebuyers, current owners considering selling/refinancing, and small-scale property investors, 30-60, wary of being outmaneuvered by agents/banks in the biggest transaction of their life",
+  "title": {
+    "formula": "[specific dollar/percent figure from a real transaction] + [the mechanism nobody volunteers] + [negation of the common myth]",
+    "ingredients": {
+      "outcome": ["$15,000 in Closing Costs", "6% Commission", "Your Home's Real Value", "3 Points on Your Rate"],
+      "mechanism": ["Nobody Explains Before You Sign", "The Bank Doesn't Volunteer", "Zillow Won't Show You"],
+      "negation": ["It's Not What Your Agent Told You", "It Has Nothing To Do With The Market", "You Don't Need A Realtor For This Part"]
+    },
+    "rules": [
+      "Lead with a real, sourced dollar or percent figure - never a rounded 'save thousands' vague claim.",
+      "Never promise a flip/investment outcome as guaranteed - 'how the math works' beats 'how much you'll make'.",
+      "Resolve the claim in the title, same as finance - this is a high-stakes decision niche, not a curiosity niche.",
+      "Borrowed authority (county records, Fed rate data, Zillow/Redwin data) beats personal/agent authority - the channel has no face and makes no commission."
+    ]
+  },
+  "script": {
+    "target_minutes": [10, 40],
+    "_target_minutes_note": "FLOOR LOWERED 2026-08-03 from 20 to 10. The [20,40] range came from NICHE-level research (niche-wide median 33 min) and was then applied to an individual topic that wanted something completely different: `validate_topic.py` measured 'closing costs' long-form winners at a median of 11 min (range 2-22, n=17), and re-closing-costs shipped at 32 min - longer than the longest winner on its own topic. Both numbers are real; they answer different questions. A niche range is the ENVELOPE across many topics, not a per-video target. Always run `validate_topic.py` and set length from the TOPIC's winners; the range only says what is plausible for the channel. PRIOR NOTE (still applies to the upper end): WIDENED 2026-08-02 from [15,25] on the user's explicit call, to match live yt_research data (docs/research/real-estate.json). Real winners ran a median of 33 min in BOTH the 30d and 365d windows (p25 25 min, p75 49-53 min) - the old 25-min ceiling sat at the p25, i.e. we were planning at the bottom quartile of what performs. The new range spans p25 to just above median; the ~50 min p75 tail is not chased (same cost reasoning as entertainment, see docs/IMPROVEMENT-QUEUE.md R6). Note the 24h window showed a 48-min median but on a 2-video sample - ignored as noise, the 30d/365d agreement at 33 min is the real signal. Default proposal is 33 min (channel-persona.real-estate.json default_target_seconds 1980). COST REALITY, state it when proposing: 33 min = ~5,851 narration words and ~283 visual beats at the current 7.0s cadence (verified via `plan_runtime.py budget 33 --niche real-estate`). Per CLAUDE.md, still propose the specific runtime per video and get it confirmed - this range is the envelope, not an automatic 33 min.",
+    "structure": [
+      { "beat": "cold-open-claim", "share": 0.05, "note": "The number and what it means for the viewer, first 10-15 seconds. No channel intro." },
+      { "beat": "stakes", "share": 0.10, "note": "What not knowing this actually costs over a real transaction or the life of a loan. Concrete dollars." },
+      { "beat": "mechanism", "share": 0.40, "note": "The actual explanation - how the fee/rate/process really works, worked example with real numbers." },
+      { "beat": "honest-limits", "share": 0.15, "note": "Where this varies - state law, local market, loan type. Real estate is jurisdiction-heavy; never present a state-specific rule as universal." },
+      { "beat": "how-to-apply", "share": 0.15, "note": "What to actually ask/check/request this week - concrete, never a specific legal or investment instruction." },
+      { "beat": "close", "share": 0.15, "note": "Recap the number, one soft CTA. No 'work with my preferred agent/lender' pitch - that's exactly the incentive-misaligned pattern this channel is positioned against." }
+    ],
+    "voice_rules": [
+      "Plain words: 'the fee you pay at closing' not 'settlement costs', unless defining the term on purpose.",
+      "Cite as you speak: 'per Freddie Mac's own rate data', 'per your county recorder's office' - a bare number is a liability here.",
+      "Never phrase anything as legal or investment advice - mechanics and worked examples only, the viewer applies it to their own transaction.",
+      "Warm and practical, like a friend who just went through this and is telling you what they wish they'd known - not a lecture, not a sales pitch."
+    ],
+    "honesty_guard": "High compliance risk, same tier as finance: never state a specific legal, contractual, or investment recommendation. Real estate law and process vary heavily by US state - flag jurisdiction-dependent claims explicitly rather than presenting one state's rule as universal. Rates and local market data go stale in months, not years - state the data's own date on screen ('as of Q3 2026 rate data') so the claim doesn't quietly become false after upload. If a claim can't be sourced, soften it, never fabricate a source."
+  },
+  "pacing": { "beat_seconds": 7.0, "beat_jitter": 2.0, "hook_beat_seconds": 4.0, "hook_seconds": 25 },
+  "images": {
+    "style": "real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+    "query_hints": ["for sale sign yard", "house keys door", "moving boxes living room", "residential street", "closing table documents", "mortgage paperwork", "open house", "suburban house exterior"],
+    "avoid": ["luxury mansion cliche", "realtor headshot stock photo", "handshake over contract", "generic corporate office", "gold house icon clip art"],
+    "_facts_go_on_cards": "Every dollar figure, rate, and percentage belongs on a code-rendered stat card, never spoken over an unrelated house photo - same discipline as finance and robotics-news."
+  },
+  "sound": { "music_bed": "lofi-warm", "bed_gain_db": -5.4, "sfx_density": "low", "sfx_palette": ["page-flip", "impact-soft", "warm-shimmer", "ui-click-soft"],
+   "_bed_gain_note": "-1.4 is the PER-VIDEO derived value from re-closing-costs (2026-08-03), not a universal constant — start here but re-derive per video. lofi-warm's own mean is -21.6 dB. The generic formula (bed = -27 dB target) gives -5.4, and that was tried first: it lifted this video's speech gaps only +2.2 dB, because the gaps here are NOT digital silence — their measured floor is -27.1 dB, so a -27 dB bed sits exactly AT the floor and disappears. Re-derived against the real floor (aim ~4-6 dB above it): -23 dB effective -> gain -1.4, which measured +4.0 dB in the gap and only +0.8 dB under speech. This is R5 in docs/IMPROVEMENT-QUEUE.md confirmed a second time, on a second niche: MEASURE THIS VIDEO'S GAP FLOOR (ffmpeg volumedetect over a real inter-word gap from edited-transcript.json), then set bed gain = (floor + 4 to 6) - clip_mean. A fixed -27 dB target is only right when the gaps are true silence." },
+  "voice": { "tone": "warm, practical, a friend who just closed on a house telling you what they wish they'd known - not a realtor, not a lecture", "tts_voice_hint": "clear neutral adult, unhurried rate, matches finance's voice family for portfolio consistency" }
+}

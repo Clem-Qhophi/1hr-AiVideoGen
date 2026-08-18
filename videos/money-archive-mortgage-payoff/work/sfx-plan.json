@@ -1,0 +1,23 @@
+{
+  "_note": "Long-form Ken-Burns pipeline: cues sync to card-reveal moments in work/beats.json (is_card beats), cued ~0.6s before the nominal beat start to land in the pre-word pause rather than on continuous-speech onset (per EVOLUTION.md 2026-07-31 SFX lesson). Density kept LOW per niches/finance.json sound.sfx_density - hero moments only, not every card. Library-first: all 4 clips already exist in media/library/sfx/catalog.json, no generation needed.",
+  "master": "videos/money-archive-mortgage-payoff/output/money-archive-mortgage-payoff-visuals-cap.mp4",
+  "master_fps": 30,
+  "catalog": "media/library/sfx/catalog.json",
+  "render": {
+    "preview": "videos/money-archive-mortgage-payoff/output/money-archive-mortgage-payoff-visuals-cap.mp4",
+    "out": "videos/money-archive-mortgage-payoff/output/money-archive-mortgage-payoff-sfx.mp4",
+    "duck": true
+  },
+  "events": [
+    { "at_s": 138.09, "sfx_id": "page-flip", "gain_db": -8, "cue": "amortization-def card: the mechanism definition" },
+    { "at_s": 219.29, "sfx_id": "ui-click-soft", "gain_db": -8, "cue": "current-rate card: 6.66% sourced rate" },
+    { "at_s": 270.14, "sfx_id": "impact-soft", "gain_db": -10, "cue": "payoff-300 card: $155,461 saved", "note": "hero beat - first big number" },
+    { "at_s": 308.06, "sfx_id": "impact-soft", "gain_db": -10, "cue": "payoff-annual card: $117,987 saved", "note": "hero beat - second scenario" },
+    { "at_s": 497.63, "sfx_id": "impact-soft", "gain_db": -10, "cue": "why-early-wins card: saving bigger than money put in", "note": "hero beat - the surprising insight" },
+    { "at_s": 576.98, "sfx_id": "page-flip", "gain_db": -8, "cue": "snowball-reverse card: the analogy" },
+    { "at_s": 649.11, "sfx_id": "page-flip", "gain_db": -8, "cue": "honest-limits card: section turn" },
+    { "at_s": 852.18, "sfx_id": "ui-click-soft", "gain_db": -8, "cue": "how-to-checklist card: section turn to action" },
+    { "at_s": 1003.94, "sfx_id": "impact-soft", "gain_db": -10, "cue": "headline-300 card: final recap number", "note": "hero beat" },
+    { "at_s": 1136.48, "sfx_id": "warm-shimmer", "gain_db": -9, "cue": "close-recap card: channel sign-off" }
+  ]
+}

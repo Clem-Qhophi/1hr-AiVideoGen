@@ -1,0 +1,50 @@
+{
+    "_note":  "Low density, hero-moments-only per niches/real-estate.json sound.sfx_density. 6 events over 623s (~0.58/min), matching the established cadence for this channel.",
+    "master":  "videos/re-escrow-shortage/output/re-escrow-shortage-visuals.mp4",
+    "master_fps":  30,
+    "catalog":  "media/library/sfx/catalog.json",
+    "render":  {
+                   "preview":  "videos/re-escrow-shortage/output/re-escrow-shortage-FINAL.mp4",
+                   "out":  "videos/re-escrow-shortage/output/re-escrow-shortage-sfx.mp4",
+                   "duck":  true,
+                   "end_s":  622.7
+               },
+    "events":  [
+                   {
+                       "at_s":  0.5,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "cold open: \u0027same rate, same loan, same house... payment went up anyway\u0027"
+                   },
+                   {
+                       "at_s":  200.8,
+                       "sfx_id":  "warm-shimmer",
+                       "gain_db":  -9,
+                       "cue":  "the twist: home value fell, tax bill rose anyway"
+                   },
+                   {
+                       "at_s":  215.3,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-escrow-math lands: $2,948 insurance + $4,427 tax"
+                   },
+                   {
+                       "at_s":  251.6,
+                       "sfx_id":  "page-flip",
+                       "gain_db":  -11,
+                       "cue":  "card-shortage-rule lands: 1/6 cushion cap"
+                   },
+                   {
+                       "at_s":  321.9,
+                       "sfx_id":  "warm-shimmer",
+                       "gain_db":  -9,
+                       "cue":  "mid-roll CTA: \u0027digging past the confusing letter...\u0027"
+                   },
+                   {
+                       "at_s":  620.7,
+                       "sfx_id":  "impact-soft",
+                       "gain_db":  -10,
+                       "cue":  "card-close-recap lands: +12% insurance vs +3% tax -- final beat"
+                   }
+               ]
+}

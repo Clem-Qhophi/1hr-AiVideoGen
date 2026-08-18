@@ -1,0 +1,432 @@
+{
+ "master": "videos/burnt-pan-truth/output/burnt-pan-truth-visuals-cap.mp4",
+ "catalog": "media/library/sfx/catalog.json",
+ "render": {
+  "preview": "videos/burnt-pan-truth/output/burnt-pan-truth-visuals-cap.mp4",
+  "out": "videos/burnt-pan-truth/output/burnt-pan-truth-visuals-sfx.mp4",
+  "end_s": 785.5,
+  "duck": true
+ },
+ "events": [
+  {
+   "at_s": 0.4,
+   "sfx_id": "pot-clang-soft",
+   "gain_db": -10,
+   "cue": "hook: the pan you threw away lands"
+  },
+  {
+   "at_s": 3.8,
+   "sfx_id": "impact-soft",
+   "gain_db": -12,
+   "cue": "hook payoff 'most people have'"
+  },
+  {
+   "at_s": 6.4,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -15,
+   "cue": "cut to trash beat"
+  },
+  {
+   "at_s": 13.8,
+   "sfx_id": "impact-deep-soft",
+   "gain_db": -10,
+   "cue": "'twenty-five to a hundred fifty dollar mistake'"
+  },
+  {
+   "at_s": 16.1,
+   "sfx_id": "pot-clang-soft",
+   "gain_db": -12,
+   "cue": "beat: pan-falling-trash (180)"
+  },
+  {
+   "at_s": 20.7,
+   "sfx_id": "pot-clang-soft",
+   "gain_db": -12,
+   "cue": "beat: pan-falling-trash (180)"
+  },
+  {
+   "at_s": 25.2,
+   "sfx_id": "salt-sprinkle",
+   "gain_db": -13,
+   "cue": "beat: pouring salt into pan"
+  },
+  {
+   "at_s": 29.4,
+   "sfx_id": "salt-sprinkle",
+   "gain_db": -13,
+   "cue": "beat: salt into pan"
+  },
+  {
+   "at_s": 36.2,
+   "sfx_id": "stamp-hit",
+   "gain_db": -10,
+   "cue": "EVIDENCE-lodge-price: 'twenty-five dollars'"
+  },
+  {
+   "at_s": 42.5,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -15,
+   "cue": "cut to store aisle"
+  },
+  {
+   "at_s": 49.3,
+   "sfx_id": "ui-click-soft",
+   "gain_db": -14,
+   "cue": "price tags beat"
+  },
+  {
+   "at_s": 70.9,
+   "sfx_id": "riser-soft",
+   "gain_db": -14,
+   "optional": true,
+   "cue": "old-way setup"
+  },
+  {
+   "at_s": 91.7,
+   "sfx_id": "page-flip",
+   "gain_db": -13,
+   "cue": "'This trick is older than you think'"
+  },
+  {
+   "at_s": 97.8,
+   "sfx_id": "scrub-brush",
+   "gain_db": -12,
+   "cue": "beat: scooping sand hands"
+  },
+  {
+   "at_s": 103.4,
+   "sfx_id": "whoosh-reverse",
+   "gain_db": -16,
+   "cue": "history rewind"
+  },
+  {
+   "at_s": 127.6,
+   "sfx_id": "page-flip",
+   "gain_db": -13,
+   "cue": "'cookbooks from those years' old book"
+  },
+  {
+   "at_s": 138.2,
+   "sfx_id": "water-pour-soft",
+   "gain_db": -14,
+   "cue": "beat: filling pan at sink"
+  },
+  {
+   "at_s": 146.6,
+   "sfx_id": "water-pour-soft",
+   "gain_db": -14,
+   "cue": "beat: filling pan at sink"
+  },
+  {
+   "at_s": 164.2,
+   "sfx_id": "soap-dispenser-thock",
+   "gain_db": -11,
+   "cue": "beat: pouring dish soap"
+  },
+  {
+   "at_s": 167.6,
+   "sfx_id": "ui-toggle-on",
+   "gain_db": -16,
+   "optional": true,
+   "cue": "mechanism turn"
+  },
+  {
+   "at_s": 178.3,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -15,
+   "cue": "cut to soak"
+  },
+  {
+   "at_s": 193.8,
+   "sfx_id": "impact-soft",
+   "gain_db": -13,
+   "cue": "'This is where the science lives' + ATK evidence"
+  },
+  {
+   "at_s": 205.6,
+   "sfx_id": "ui-click-soft",
+   "gain_db": -16,
+   "cue": "EVIDENCE-atk: hot soapy water wins"
+  },
+  {
+   "at_s": 220.3,
+   "sfx_id": "water-pour-soft",
+   "gain_db": -14,
+   "cue": "beat: pouring water into pan"
+  },
+  {
+   "at_s": 231.8,
+   "sfx_id": "steam-hiss-soft",
+   "gain_db": -12,
+   "cue": "beat: steam rising off pan"
+  },
+  {
+   "at_s": 244.3,
+   "sfx_id": "water-simmer-bubbles",
+   "gain_db": -13,
+   "cue": "the 15-minute soak simmer"
+  },
+  {
+   "at_s": 257.8,
+   "sfx_id": "metal-scrape-clean",
+   "gain_db": -11,
+   "cue": "beat: stirring with wood spoon (loosening)"
+  },
+  {
+   "at_s": 269.8,
+   "sfx_id": "salt-sprinkle",
+   "gain_db": -13,
+   "cue": "beat: sprinkling salt cooking"
+  },
+  {
+   "at_s": 281.8,
+   "sfx_id": "scrub-brush",
+   "gain_db": -11,
+   "cue": "beat: scrubbing pan sponge"
+  },
+  {
+   "at_s": 287.8,
+   "sfx_id": "impact-soft",
+   "gain_db": -13,
+   "cue": "'make a paste' method reveal"
+  },
+  {
+   "at_s": 292.9,
+   "sfx_id": "soap-dispenser-thock",
+   "gain_db": -12,
+   "cue": "beat: cleaning pan paste"
+  },
+  {
+   "at_s": 298.0,
+   "sfx_id": "aluminum-foil-scrunch",
+   "gain_db": -11,
+   "cue": "EVIDENCE-kitchn: foil ball"
+  },
+  {
+   "at_s": 306.7,
+   "sfx_id": "stamp-hit",
+   "gain_db": -11,
+   "cue": "'heavy option' for stainless"
+  },
+  {
+   "at_s": 321.9,
+   "sfx_id": "trap-snap",
+   "gain_db": -12,
+   "cue": "'I know about the dishwasher tablet trick'"
+  },
+  {
+   "at_s": 327.7,
+   "sfx_id": "water-simmer-bubbles",
+   "gain_db": -13,
+   "cue": "beat: dishwasher tablet in water"
+  },
+  {
+   "at_s": 343.5,
+   "sfx_id": "water-simmer-bubbles",
+   "gain_db": -13,
+   "cue": "beat: tablet dissolving"
+  },
+  {
+   "at_s": 351.1,
+   "sfx_id": "water-pour-soft",
+   "gain_db": -14,
+   "cue": "beat: rinsing pan"
+  },
+  {
+   "at_s": 355.2,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -15,
+   "cue": "'Step five. Dry it.'"
+  },
+  {
+   "at_s": 370.0,
+   "sfx_id": "cupboard-close-soft",
+   "gain_db": -12,
+   "cue": "stainless drying beat"
+  },
+  {
+   "at_s": 389.0,
+   "sfx_id": "scrub-brush",
+   "gain_db": -12,
+   "cue": "beat: soap + chainmail scrub"
+  },
+  {
+   "at_s": 408.1,
+   "sfx_id": "stamp-hit",
+   "gain_db": -11,
+   "cue": "'Wash it by hand. Every single time.' cast iron rule"
+  },
+  {
+   "at_s": 421.2,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -16,
+   "optional": true,
+   "cue": "black-flakes beat"
+  },
+  {
+   "at_s": 435.3,
+   "sfx_id": "pot-clang-soft",
+   "gain_db": -13,
+   "cue": "cast iron on burner"
+  },
+  {
+   "at_s": 443.3,
+   "sfx_id": "page-flip",
+   "gain_db": -15,
+   "optional": true,
+   "cue": "EVIDENCE-lecreuset: care guide"
+  },
+  {
+   "at_s": 449.4,
+   "sfx_id": "water-simmer-bubbles",
+   "gain_db": -14,
+   "cue": "enameled 8-10 min simmer"
+  },
+  {
+   "at_s": 452.7,
+   "sfx_id": "pot-clang-soft",
+   "gain_db": -13,
+   "cue": "beat: dutch oven in kitchen"
+  },
+  {
+   "at_s": 463.6,
+   "sfx_id": "riser-soft",
+   "gain_db": -15,
+   "optional": true,
+   "cue": "aluminum caution"
+  },
+  {
+   "at_s": 489.7,
+   "sfx_id": "stamp-hit",
+   "gain_db": -11,
+   "cue": "'do not buy it: replace it' nonstick verdict"
+  },
+  {
+   "at_s": 497.6,
+   "sfx_id": "whoosh-reverse",
+   "gain_db": -16,
+   "cue": "cut into honest warning"
+  },
+  {
+   "at_s": 505.1,
+   "sfx_id": "impact-soft",
+   "gain_db": -14,
+   "cue": "EVIDENCE-ewg: coating breaks down"
+  },
+  {
+   "at_s": 512.5,
+   "sfx_id": "steam-hiss-soft",
+   "gain_db": -14,
+   "cue": "overheated pan fallback"
+  },
+  {
+   "at_s": 539.0,
+   "sfx_id": "chime-reward",
+   "gain_db": -11,
+   "cue": "'Every other pan, you can bring it back'"
+  },
+  {
+   "at_s": 558.4,
+   "sfx_id": "scrub-brush",
+   "gain_db": -11,
+   "cue": "beat: scrubbing pan sink"
+  },
+  {
+   "at_s": 568.5,
+   "sfx_id": "water-simmer-bubbles",
+   "gain_db": -13,
+   "cue": "beat: boiling water pot"
+  },
+  {
+   "at_s": 581.6,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -16,
+   "cue": "'Will boiling crack my pan?'"
+  },
+  {
+   "at_s": 602.7,
+   "sfx_id": "stamp-hit",
+   "gain_db": -12,
+   "cue": "'pennies, versus twenty-five'"
+  },
+  {
+   "at_s": 614.0,
+   "sfx_id": "pot-clang-soft",
+   "gain_db": -13,
+   "cue": "beat-agnostic: stove beat"
+  },
+  {
+   "at_s": 627.6,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -16,
+   "optional": true,
+   "cue": "stove types"
+  },
+  {
+   "at_s": 650.6,
+   "sfx_id": "aluminum-foil-scrunch",
+   "gain_db": -13,
+   "cue": "'don't believe everything online'"
+  },
+  {
+   "at_s": 668.8,
+   "sfx_id": "pot-clang-soft",
+   "gain_db": -13,
+   "cue": "beat: baking sheet"
+  },
+  {
+   "at_s": 677.5,
+   "sfx_id": "scrub-brush",
+   "gain_db": -13,
+   "cue": "beat: oven rack sink"
+  },
+  {
+   "at_s": 691.9,
+   "sfx_id": "water-simmer-bubbles",
+   "gain_db": -13,
+   "cue": "beat: cast-iron skillet cooking"
+  },
+  {
+   "at_s": 701.4,
+   "sfx_id": "steam-hiss-soft",
+   "gain_db": -13,
+   "cue": "beat: cast-iron skillet cooking"
+  },
+  {
+   "at_s": 706.3,
+   "sfx_id": "warm-shimmer",
+   "gain_db": -11,
+   "cue": "'seasoning comes back' redemption"
+  },
+  {
+   "at_s": 722.9,
+   "sfx_id": "scrub-brush",
+   "gain_db": -12,
+   "cue": "beat: small kitchen scrub"
+  },
+  {
+   "at_s": 743.6,
+   "sfx_id": "whoosh-soft",
+   "gain_db": -15,
+   "cue": "one-breath recap"
+  },
+  {
+   "at_s": 768.4,
+   "sfx_id": "chime-reward",
+   "gain_db": -11,
+   "cue": "CTA: subscribe for more fixes"
+  },
+  {
+   "at_s": 777.3,
+   "sfx_id": "pot-clang-soft",
+   "gain_db": -12,
+   "cue": "'I've got a pan waiting on me' confession"
+  },
+  {
+   "at_s": 782.5,
+   "sfx_id": "warm-shimmer",
+   "gain_db": -11,
+   "cue": "outro: 'That's the old way. Still works.'"
+  }
+ ]
+}

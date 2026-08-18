@@ -1,0 +1,43 @@
+{
+  "slug": "gpt56-cyber",
+  "stages": {
+    "intake": {
+      "status": "done",
+      "provider": "intake (plan.json present)"
+    },
+    "assets": {
+      "status": "done"
+    },
+    "script": {
+      "status": "done"
+    },
+    "voiceover": {
+      "status": "done",
+      "provider": "voiceover via edge-tts (free fallback)"
+    },
+    "word_timing": {
+      "status": "done",
+      "provider": "word_timing: AssemblyAI (pro) \u2014 not wired in Slice 1; falls through to proportional"
+    },
+    "master": {
+      "status": "done",
+      "provider": "master via make_master.py"
+    },
+    "shots": {
+      "status": "pending"
+    },
+    "bake": {
+      "status": "pending"
+    },
+    "sfx": {
+      "status": "pending"
+    },
+    "packaging": {
+      "status": "pending"
+    },
+    "upload": {
+      "status": "pending"
+    }
+  },
+  "cost_usd": 0
+}

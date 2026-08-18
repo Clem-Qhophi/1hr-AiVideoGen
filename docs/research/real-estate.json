@@ -1,0 +1,970 @@
+{
+ "queries": [
+  "closing costs explained",
+  "real estate commission explained",
+  "first time home buyer mistakes",
+  "mortgage rate points explained"
+ ],
+ "rows": [
+  {
+   "title": "What Home Inspectors see that Buyers miss!  Avoid Costly Mistakes",
+   "channel": "LetsUunderstand",
+   "views": 2,
+   "age_days": 0.2,
+   "vpd": 8,
+   "dur_s": 3732,
+   "url": "https://youtu.be/-OLlAUDMAyw",
+   "window": "24h"
+  },
+  {
+   "title": "Before You Buy Land: 6 Costly Mistakes That Could Ruin Your Dream Home. ",
+   "channel": "Brick & Brain",
+   "views": 3,
+   "age_days": 0.5,
+   "vpd": 6,
+   "dur_s": 2057,
+   "url": "https://youtu.be/Q0TbogpOhMM",
+   "window": "24h"
+  },
+  {
+   "title": "Mortgage Expert: 5 Quiet Mistakes First Time Buyers MUST Avoid",
+   "channel": "Nathan Udomsri",
+   "views": 7007,
+   "age_days": 21.2,
+   "vpd": 331,
+   "dur_s": 1530,
+   "url": "https://youtu.be/_fQET12WKy8",
+   "window": "30d"
+  },
+  {
+   "title": "5 of the Biggest Mistakes People Make When Relocating to El Paso, TX | Living in El Paso Texas",
+   "channel": "Living in El Paso Texas",
+   "views": 799,
+   "age_days": 14.1,
+   "vpd": 57,
+   "dur_s": 1511,
+   "url": "https://youtu.be/oQGyiQwt7So",
+   "window": "30d"
+  },
+  {
+   "title": "New Construction Homes: 7 Mistakes That Cost Buyers $50,000 | Living in El Paso, Texas",
+   "channel": "Living in El Paso Texas",
+   "views": 450,
+   "age_days": 7.9,
+   "vpd": 57,
+   "dur_s": 1667,
+   "url": "https://youtu.be/o5o1EwhnbN4",
+   "window": "30d"
+  },
+  {
+   "title": "Podcast 65 | Newcomers Ki Sabse Mehengi Home Buying Mistakes 🇨🇦 | CSA Talks",
+   "channel": "Chander Shekhar Arya",
+   "views": 229,
+   "age_days": 8.2,
+   "vpd": 28,
+   "dur_s": 3146,
+   "url": "https://youtu.be/QQuWXn1Kjig",
+   "window": "30d"
+  },
+  {
+   "title": "Portugal Property Costs Explained: New IMT Rules, Taxes, FX Transfers & Buying Mistakes to Avoid",
+   "channel": "Expats Portugal",
+   "views": 351,
+   "age_days": 14.0,
+   "vpd": 25,
+   "dur_s": 2921,
+   "url": "https://youtu.be/xTxU6hVtCs4",
+   "window": "30d"
+  },
+  {
+   "title": "How to Buy Land: Financing, Down Payments, Loans, and Mistakes to Avoid",
+   "channel": "Kevin Jefferson - The People's Lender",
+   "views": 92,
+   "age_days": 5.2,
+   "vpd": 18,
+   "dur_s": 1917,
+   "url": "https://youtu.be/CiQbqECuLPg",
+   "window": "30d"
+  },
+  {
+   "title": "10 HDB Resale Buying Mistakes",
+   "channel": "Tony Soh Property",
+   "views": 327,
+   "age_days": 20.5,
+   "vpd": 16,
+   "dur_s": 1361,
+   "url": "https://youtu.be/QQGsetyBZEA",
+   "window": "30d"
+  },
+  {
+   "title": "Is Now the Right Time to Buy or Cash Out in the Inland Empire? (Live with Our Preferred Lender)",
+   "channel": "Living in the Inland Empire",
+   "views": 64,
+   "age_days": 4.2,
+   "vpd": 15,
+   "dur_s": 2949,
+   "url": "https://youtu.be/DeBy_VyZAIs",
+   "window": "30d"
+  },
+  {
+   "title": "Texas Real Estate Documents Explained | IABS, Consumer Protection Notice & MLS Compliance (2026)",
+   "channel": "JLA Realty - Omnia Elevate | Your Texas REALTORS®",
+   "views": 25,
+   "age_days": 2.1,
+   "vpd": 12,
+   "dur_s": 2127,
+   "url": "https://youtu.be/6PFYAXY5T8k",
+   "window": "30d"
+  },
+  {
+   "title": "Everything You Need to Know Before Buying Your First Home | Kamlesh Hirani | Klassy Talk Podcast",
+   "channel": "Klassy Talk with Nittz & Prii",
+   "views": 269,
+   "age_days": 22.3,
+   "vpd": 12,
+   "dur_s": 2648,
+   "url": "https://youtu.be/MqJV09Z-dM8",
+   "window": "30d"
+  },
+  {
+   "title": "I Wouldn't Buy a House in Colorado Until I Knew This 2026",
+   "channel": "Moving to Colorado - Taylor Ratliff",
+   "views": 179,
+   "age_days": 15.9,
+   "vpd": 11,
+   "dur_s": 2037,
+   "url": "https://youtu.be/IYCiTEtEKR8",
+   "window": "30d"
+  },
+  {
+   "title": "How to Choose a Quality First Home: A Buyers Agent's Checklist",
+   "channel": "First Home Unlocked ",
+   "views": 106,
+   "age_days": 11.7,
+   "vpd": 9,
+   "dur_s": 3739,
+   "url": "https://youtu.be/tRtLeIBKQo8",
+   "window": "30d"
+  },
+  {
+   "title": "First Time Homebuyer Secrets Canadians Needs to Know",
+   "channel": "8Twelve Mortgage",
+   "views": 161,
+   "age_days": 18.9,
+   "vpd": 8,
+   "dur_s": 3324,
+   "url": "https://youtu.be/fLp-t5isHeg",
+   "window": "30d"
+  },
+  {
+   "title": "Beware of these False Claims when buying a Home",
+   "channel": "Relai ",
+   "views": 71,
+   "age_days": 9.3,
+   "vpd": 8,
+   "dur_s": 1249,
+   "url": "https://youtu.be/1bNe_GWq2Cs",
+   "window": "30d"
+  },
+  {
+   "title": "Key Conversations | #25 - Mortgage Questions Every Home Buyer Should Ask | Allison Larson",
+   "channel": "Norman Homes | CJ & Katy Norman",
+   "views": 158,
+   "age_days": 25.3,
+   "vpd": 6,
+   "dur_s": 2997,
+   "url": "https://youtu.be/rJyYFEfsQKU",
+   "window": "30d"
+  },
+  {
+   "title": "Jason Mata - Sacramento Home Loans",
+   "channel": "Jason Mata",
+   "views": 143,
+   "age_days": 23.1,
+   "vpd": 6,
+   "dur_s": 4508,
+   "url": "https://youtu.be/2kQtYZApXXI",
+   "window": "30d"
+  },
+  {
+   "title": "Everything You Need to Know Before Moving Out",
+   "channel": "Island Federal",
+   "views": 92,
+   "age_days": 26.0,
+   "vpd": 4,
+   "dur_s": 2249,
+   "url": "https://youtu.be/FGzdx0AfGwM",
+   "window": "30d"
+  },
+  {
+   "title": "Buying a Home in Hawaii? Here's What Military Families Need to Know",
+   "channel": "Larry the LO | Hawaii VA & Mortgage Expert",
+   "views": 74,
+   "age_days": 17.4,
+   "vpd": 4,
+   "dur_s": 3823,
+   "url": "https://youtu.be/2xHYswZoGsc",
+   "window": "30d"
+  },
+  {
+   "title": "How Realtors Get Paid - Explained (Without the Sales Pitch)",
+   "channel": "Moving to Utah",
+   "views": 68,
+   "age_days": 22.9,
+   "vpd": 3,
+   "dur_s": 1467,
+   "url": "https://youtu.be/e9EdBhs0658",
+   "window": "30d"
+  },
+  {
+   "title": "First-Time Homebuyer Masterclass | Everything You Need to Know Before Buying a Home",
+   "channel": "Mike Belfor Mortgage Chat",
+   "views": 20,
+   "age_days": 13.5,
+   "vpd": 1,
+   "dur_s": 1530,
+   "url": "https://youtu.be/qhWnD_9Ow7c",
+   "window": "30d"
+  },
+  {
+   "title": "The Mortgage Process Explained | From Pre-Approval to Closing Day",
+   "channel": "Mike Belfor Mortgage Chat",
+   "views": 9,
+   "age_days": 18.0,
+   "vpd": 1,
+   "dur_s": 1838,
+   "url": "https://youtu.be/039XLMVjG8s",
+   "window": "30d"
+  },
+  {
+   "title": "First-Time Homebuyers: Mortgage Myths Explained | Friends of Franklin Ep. 1",
+   "channel": "J Franklin Lloyd",
+   "views": 5,
+   "age_days": 6.8,
+   "vpd": 1,
+   "dur_s": 1666,
+   "url": "https://youtu.be/Ip618S4YQJw",
+   "window": "30d"
+  },
+  {
+   "title": "Pennsylvania Real Estate Exam STUDY GUIDE | Commission and Licensure Explained (Part 01)",
+   "channel": "StateExamsPrep",
+   "views": 30,
+   "age_days": 29.9,
+   "vpd": 1,
+   "dur_s": 1451,
+   "url": "https://youtu.be/uDEls120bl4",
+   "window": "30d"
+  },
+  {
+   "title": "Massachusetts Real Estate Exam Study Guide | Licensing Rules Explained",
+   "channel": "StateExamsPrep",
+   "views": 26,
+   "age_days": 26.9,
+   "vpd": 1,
+   "dur_s": 1578,
+   "url": "https://youtu.be/74oqdM6_kjQ",
+   "window": "30d"
+  },
+  {
+   "title": "Mastering Texas Real Estate Agency: 72 Essential Questions & Answers Explained",
+   "channel": "Actual Exam Quizzes",
+   "views": 6,
+   "age_days": 6.8,
+   "vpd": 1,
+   "dur_s": 1483,
+   "url": "https://youtu.be/GDVbFY-T7QQ",
+   "window": "30d"
+  },
+  {
+   "title": "Mortgage Lender Secrets: Rates, Grants & Buyer Mistakes to Avoid | Real Estate w/ the Resnicks Ep. 4",
+   "channel": "Community Title Network",
+   "views": 22,
+   "age_days": 26.1,
+   "vpd": 1,
+   "dur_s": 1476,
+   "url": "https://youtu.be/m2m9-qtGUyw",
+   "window": "30d"
+  },
+  {
+   "title": "How Mortgages Really Work for First Time Buyers",
+   "channel": "Banq Official",
+   "views": 9,
+   "age_days": 25.3,
+   "vpd": 0,
+   "dur_s": 1505,
+   "url": "https://youtu.be/E_8hcmn9mqs",
+   "window": "30d"
+  },
+  {
+   "title": "First-Time Home Buyer Guide: Loans, Down Payments & Closing Explained (Springfield, MO)",
+   "channel": "Albers Real Estate Group",
+   "views": 5,
+   "age_days": 16.1,
+   "vpd": 0,
+   "dur_s": 3207,
+   "url": "https://youtu.be/zhChna0SRrU",
+   "window": "30d"
+  },
+  {
+   "title": "Mortgage Protection Insurance Is A Trap — Here's The $62,000 Mistake Most Homeowners Make\"",
+   "channel": "Wealth Starter",
+   "views": 3,
+   "age_days": 19.3,
+   "vpd": 0,
+   "dur_s": 1200,
+   "url": "https://youtu.be/-lJBRZoGRlw",
+   "window": "30d"
+  },
+  {
+   "title": "Builder Incentives Explained: Rate Buy Downs, Closing Cost Credits, and More",
+   "channel": "The Tartan Team",
+   "views": 3,
+   "age_days": 11.2,
+   "vpd": 0,
+   "dur_s": 3587,
+   "url": "https://youtu.be/HH0GjE09kBg",
+   "window": "30d"
+  },
+  {
+   "title": "Real Estate Commission Trap | Keep More of Your Money",
+   "channel": "Jared Frost | Build a Real Estate Business You Own",
+   "views": 4,
+   "age_days": 13.1,
+   "vpd": 0,
+   "dur_s": 1293,
+   "url": "https://youtu.be/w_fHRQWRxaE",
+   "window": "30d"
+  },
+  {
+   "title": "Georgia Real Estate Exam Prep Mock Test 4: Pass Fast with Real Questions & Explanations!",
+   "channel": "onlineexamprep",
+   "views": 4,
+   "age_days": 13.1,
+   "vpd": 0,
+   "dur_s": 4108,
+   "url": "https://youtu.be/98te0_ovRK8",
+   "window": "30d"
+  },
+  {
+   "title": "Florida Real Estate Exam Prep 2026: 200 Hardest Practice Questions & Answers Explained",
+   "channel": "Actual Exam Quizzes",
+   "views": 0,
+   "age_days": 6.8,
+   "vpd": 0,
+   "dur_s": 3743,
+   "url": "https://youtu.be/mc-2s-TEEgc",
+   "window": "30d"
+  },
+  {
+   "title": "Treasury Yields Fell, but Borrowing Is Still Expensive—What This Means for Your Money",
+   "channel": "MICUPING",
+   "views": 1,
+   "age_days": 6.0,
+   "vpd": 0,
+   "dur_s": 4321,
+   "url": "https://youtu.be/ERxyd_NE_DI",
+   "window": "30d"
+  },
+  {
+   "title": "2026 Tesla Buyers Have Huge Regrets | Don't Make a Mistake",
+   "channel": "Ryan Shaw",
+   "views": 481280,
+   "age_days": 183.1,
+   "vpd": 2629,
+   "dur_s": 1848,
+   "url": "https://youtu.be/bNykmt0pFYA",
+   "window": "365d"
+  },
+  {
+   "title": "100 Questions with Answers to Pass the REAL ESTATE EXAM in 2026. Test Question Review. #realestate",
+   "channel": "Jonathan Goforth Show",
+   "views": 122244,
+   "age_days": 196.1,
+   "vpd": 623,
+   "dur_s": 5212,
+   "url": "https://youtu.be/1Gbz0009B2M",
+   "window": "365d"
+  },
+  {
+   "title": "The Fed's last ditch effort to save the housing market (Mortgage Rates drop to 3-year low)",
+   "channel": "Reventure Consulting",
+   "views": 129043,
+   "age_days": 318.9,
+   "vpd": 405,
+   "dur_s": 3176,
+   "url": "https://youtu.be/7uFJ2JgvQaU",
+   "window": "365d"
+  },
+  {
+   "title": "Mortgage Expert: 5 Quiet Mistakes First Time Buyers MUST Avoid",
+   "channel": "Nathan Udomsri",
+   "views": 7007,
+   "age_days": 21.2,
+   "vpd": 331,
+   "dur_s": 1530,
+   "url": "https://youtu.be/_fQET12WKy8",
+   "window": "365d"
+  },
+  {
+   "title": "What I'd Tell My Sister If She Was Buying Her First Home",
+   "channel": "Javier Vidana",
+   "views": 13954,
+   "age_days": 58.7,
+   "vpd": 238,
+   "dur_s": 1218,
+   "url": "https://youtu.be/oX4VTGnJkdo",
+   "window": "365d"
+  },
+  {
+   "title": "2026 National Real Estate Exam Prep | 111 Most Missed Questions Explained",
+   "channel": "Exam Prep - by Birdsy",
+   "views": 21974,
+   "age_days": 116.9,
+   "vpd": 188,
+   "dur_s": 5101,
+   "url": "https://youtu.be/Al5TD5dNCsY",
+   "window": "365d"
+  },
+  {
+   "title": "Buying a House on $70K? Don't Make These Debt Mistakes",
+   "channel": "LEND2USA",
+   "views": 5289,
+   "age_days": 31.1,
+   "vpd": 170,
+   "dur_s": 1304,
+   "url": "https://youtu.be/B3H7wfYlpwU",
+   "window": "365d"
+  },
+  {
+   "title": "Real Estate Business Success Story | Brokerage, Rental Income & Property Deals Explained | Kannada",
+   "channel": "Boss Wallah (Kannada)",
+   "views": 31349,
+   "age_days": 239.2,
+   "vpd": 131,
+   "dur_s": 4745,
+   "url": "https://youtu.be/wEHCK9Ek-1Q",
+   "window": "365d"
+  },
+  {
+   "title": "Property Buying Mistakes Every Indian Must Avoid | Sanjeev Singh | The Founder's Dream",
+   "channel": "The Founder's Dream | Abhishek vyas",
+   "views": 41186,
+   "age_days": 333.2,
+   "vpd": 124,
+   "dur_s": 2626,
+   "url": "https://youtu.be/iAacp1eSTmo",
+   "window": "365d"
+  },
+  {
+   "title": "2026 FHA Loan Requirements (What's ACTUALLY Required?)",
+   "channel": "Win The House You Love",
+   "views": 10673,
+   "age_days": 87.0,
+   "vpd": 123,
+   "dur_s": 2109,
+   "url": "https://youtu.be/4RV0B0FSKEA",
+   "window": "365d"
+  },
+  {
+   "title": "How to Become a Realtor in Canada | First Time Home Buyer Guide & Market Forecast 🇨🇦",
+   "channel": "The Punjabi Lounge",
+   "views": 19832,
+   "age_days": 178.1,
+   "vpd": 111,
+   "dur_s": 2613,
+   "url": "https://youtu.be/2Vft_UOFNPo",
+   "window": "365d"
+  },
+  {
+   "title": "Mortgage Renewal Shock: What Homeowners Need to Know for 2026 | Ron Butler",
+   "channel": "Debt Free in 30",
+   "views": 20495,
+   "age_days": 190.2,
+   "vpd": 108,
+   "dur_s": 2103,
+   "url": "https://youtu.be/2O6zz6aU2XE",
+   "window": "365d"
+  },
+  {
+   "title": "Top 8 Mistakes First-Time Home Buyers Make",
+   "channel": "Ina Andolong - Chavenia",
+   "views": 5496,
+   "age_days": 59.8,
+   "vpd": 92,
+   "dur_s": 1634,
+   "url": "https://youtu.be/i0-O_TlAt5k",
+   "window": "365d"
+  },
+  {
+   "title": "Do NOT Buy a Home in USA Without This Guide | Satish Chigullapally | Home Buying 101 - Part 1",
+   "channel": "SumanTV",
+   "views": 25682,
+   "age_days": 316.1,
+   "vpd": 81,
+   "dur_s": 2198,
+   "url": "https://youtu.be/BI3zHgyHMfo",
+   "window": "365d"
+  },
+  {
+   "title": "“The Real Cost of Pre-Construction Homes in Ontario (Complete Buyer Guide)”  |  EPISODE 2",
+   "channel": "Rising Sun TV",
+   "views": 14875,
+   "age_days": 240.8,
+   "vpd": 62,
+   "dur_s": 1950,
+   "url": "https://youtu.be/NyJR148rW98",
+   "window": "365d"
+  },
+  {
+   "title": "First-Time Homebuyer Struggles Unfolding",
+   "channel": "Sachs Realty",
+   "views": 15672,
+   "age_days": 290.8,
+   "vpd": 54,
+   "dur_s": 1843,
+   "url": "https://youtu.be/oSeffpMajdQ",
+   "window": "365d"
+  },
+  {
+   "title": "He bought the wrong house and lost everything ",
+   "channel": "LEND2USA",
+   "views": 13146,
+   "age_days": 339.9,
+   "vpd": 39,
+   "dur_s": 1405,
+   "url": "https://youtu.be/H_-n-N6-R6E",
+   "window": "365d"
+  },
+  {
+   "title": "Buying A Toronto Condo | Huge Mistakes To Avoid (2026)",
+   "channel": "Tom Storey",
+   "views": 7390,
+   "age_days": 230.1,
+   "vpd": 32,
+   "dur_s": 1207,
+   "url": "https://youtu.be/nd0CI15E8jM",
+   "window": "365d"
+  },
+  {
+   "title": "THE COSTLY MISTAKES LANDED BUYERS ALWAYS MAKE",
+   "channel": "ItsClearHomes",
+   "views": 2405,
+   "age_days": 78.2,
+   "vpd": 31,
+   "dur_s": 2884,
+   "url": "https://youtu.be/pmG1EJaJeDI",
+   "window": "365d"
+  },
+  {
+   "title": "Portugal Property Costs Explained: New IMT Rules, Taxes, FX Transfers & Buying Mistakes to Avoid",
+   "channel": "Expats Portugal",
+   "views": 351,
+   "age_days": 14.0,
+   "vpd": 25,
+   "dur_s": 2921,
+   "url": "https://youtu.be/xTxU6hVtCs4",
+   "window": "365d"
+  },
+  {
+   "title": "Buying a Home? Real Estate Scams, Title Insurance & Costly Mistakes Explained.",
+   "channel": "The Haitian Kings Podcast",
+   "views": 4521,
+   "age_days": 184.7,
+   "vpd": 24,
+   "dur_s": 6456,
+   "url": "https://youtu.be/zQfgcjif41Q",
+   "window": "365d"
+  },
+  {
+   "title": "🏠💰Real Estate Commissions Explained + Condo vs House for First-Time Buyers",
+   "channel": "Move Smartly",
+   "views": 3358,
+   "age_days": 163.0,
+   "vpd": 21,
+   "dur_s": 2271,
+   "url": "https://youtu.be/F4VyvNabD2Q",
+   "window": "365d"
+  },
+  {
+   "title": "২০২৬ সালের নতুন বাড়ি with Closing cost $40,000/ 3.5% -4.5% interest!! Wesley Chapel, Florida",
+   "channel": "Manjur Ahmed",
+   "views": 3897,
+   "age_days": 213.6,
+   "vpd": 18,
+   "dur_s": 1341,
+   "url": "https://youtu.be/UWCH-X1jOBk",
+   "window": "365d"
+  },
+  {
+   "title": "The Homebuying Process Explained From Start to Finish",
+   "channel": "DC Maryland Living",
+   "views": 861,
+   "age_days": 47.9,
+   "vpd": 18,
+   "dur_s": 1511,
+   "url": "https://youtu.be/laQwexlJsq0",
+   "window": "365d"
+  },
+  {
+   "title": "Why So Many People REGRET Buying a Home (Hidden Costs Exposed)",
+   "channel": "Make Gains",
+   "views": 3160,
+   "age_days": 178.0,
+   "vpd": 18,
+   "dur_s": 1303,
+   "url": "https://youtu.be/dj0C_tTGliU",
+   "window": "365d"
+  },
+  {
+   "title": "Contract Updates Texas TREC July 2026 | What Every Texas Real Estate Agent Needs to Know",
+   "channel": "Real Estate Training - Andrew Morin",
+   "views": 591,
+   "age_days": 38.6,
+   "vpd": 15,
+   "dur_s": 1682,
+   "url": "https://youtu.be/gDh_FiZcY_A",
+   "window": "365d"
+  },
+  {
+   "title": "New TREC and TXR Forms",
+   "channel": "KWAustinOne",
+   "views": 541,
+   "age_days": 54.9,
+   "vpd": 10,
+   "dur_s": 2574,
+   "url": "https://youtu.be/riZ3iPrPsAw",
+   "window": "365d"
+  },
+  {
+   "title": "5 Mistakes First-Time NYC Buyers Make (And How to Avoid Them)",
+   "channel": "Dewey Moss | Manhattan Real Estate",
+   "views": 2808,
+   "age_days": 277.1,
+   "vpd": 10,
+   "dur_s": 1633,
+   "url": "https://youtu.be/e5c1do6r0M0",
+   "window": "365d"
+  },
+  {
+   "title": "Buying Property in Portugal - Part 1 - AVOID These Mistakes!",
+   "channel": "Nations Without Borders",
+   "views": 2724,
+   "age_days": 321.9,
+   "vpd": 8,
+   "dur_s": 1735,
+   "url": "https://youtu.be/B4CO0GBXdcE",
+   "window": "365d"
+  },
+  {
+   "title": "Gastos de Cierre en Puerto Rico: Quién Paga Qué al Comprar Casa",
+   "channel": "INCANTO Real Estate & Relocation | Puerto Rico",
+   "views": 1373,
+   "age_days": 204.9,
+   "vpd": 7,
+   "dur_s": 1743,
+   "url": "https://youtu.be/AO-WMU0GDTc",
+   "window": "365d"
+  },
+  {
+   "title": "Residential Listing Agreement Explained",
+   "channel": "Real Estate Resource with Kyle Estrada",
+   "views": 1088,
+   "age_days": 149.8,
+   "vpd": 7,
+   "dur_s": 4098,
+   "url": "https://youtu.be/Cw2upULjgbs",
+   "window": "365d"
+  },
+  {
+   "title": "🔑 Title and Escrow Explained for the Real Estate Exam",
+   "channel": "Exam Prep - by Birdsy",
+   "views": 1946,
+   "age_days": 321.1,
+   "vpd": 6,
+   "dur_s": 2845,
+   "url": "https://youtu.be/i5noRg1J724",
+   "window": "365d"
+  },
+  {
+   "title": "Florida Closing Costs Explained: Real Loan Estimate Walkthrough for Home Buyers",
+   "channel": "Interconnect Mortgage Inc | Toni Taylor Gozza",
+   "views": 654,
+   "age_days": 110.2,
+   "vpd": 6,
+   "dur_s": 1264,
+   "url": "https://youtu.be/FitZJ4cPl_c",
+   "window": "365d"
+  },
+  {
+   "title": "You Bought a $347,000 House and Had $900 Left",
+   "channel": "Boardroom POV",
+   "views": 473,
+   "age_days": 98.0,
+   "vpd": 5,
+   "dur_s": 1460,
+   "url": "https://youtu.be/Ts9a6GbAHjM",
+   "window": "365d"
+  },
+  {
+   "title": "Is Forney Texas the Best Affordable Suburb Near Dallas? | Forney TX Explained",
+   "channel": "Zak Schmidt- Dallas Texas New Construction Homes",
+   "views": 1399,
+   "age_days": 268.8,
+   "vpd": 5,
+   "dur_s": 1422,
+   "url": "https://youtu.be/GwjqlulVUnc",
+   "window": "365d"
+  },
+  {
+   "title": "Our SECRET Strategy to Closing $130,000 In One Week (Explained)",
+   "channel": "Tony Mont",
+   "views": 1310,
+   "age_days": 314.0,
+   "vpd": 4,
+   "dur_s": 1958,
+   "url": "https://youtu.be/YqKVxN_gYDM",
+   "window": "365d"
+  },
+  {
+   "title": "First-Time Homebuyer Masterclass | Step-by-Step Guide to Buying Your First Home",
+   "channel": "DSLD Mortgage",
+   "views": 351,
+   "age_days": 129.0,
+   "vpd": 3,
+   "dur_s": 2950,
+   "url": "https://youtu.be/vLxDk0weFMc",
+   "window": "365d"
+  },
+  {
+   "title": "Texas Home Purchase Contract Explained: What Every DFW Buyer Must Know Before Signing",
+   "channel": "Paragon Realty Advisors",
+   "views": 830,
+   "age_days": 320.9,
+   "vpd": 3,
+   "dur_s": 1576,
+   "url": "https://youtu.be/CCqWWZ1qTcE",
+   "window": "365d"
+  },
+  {
+   "title": "Why Everyone’s Moving to Celina Texas | Affordability, Growth and New Construction Explained",
+   "channel": "Zak Schmidt- Dallas Texas New Construction Homes",
+   "views": 711,
+   "age_days": 275.8,
+   "vpd": 3,
+   "dur_s": 1747,
+   "url": "https://youtu.be/lwL3GdMck7A",
+   "window": "365d"
+  },
+  {
+   "title": "Buyer Representation Agreement Explained | Austin, Texas",
+   "channel": "Brigid Schlegel, Austin Texas Real Estate",
+   "views": 599,
+   "age_days": 201.0,
+   "vpd": 3,
+   "dur_s": 1236,
+   "url": "https://youtu.be/1_A70MBR-FU",
+   "window": "365d"
+  },
+  {
+   "title": "New Buyer Agent Commission Rules Explained: 14 Months of Real Data",
+   "channel": "Achmaa Vaan",
+   "views": 615,
+   "age_days": 270.8,
+   "vpd": 2,
+   "dur_s": 1694,
+   "url": "https://youtu.be/kmDEFRtx7jA",
+   "window": "365d"
+  },
+  {
+   "title": "This Agent Made $700k+ in Real Estate Commissions from YouTube in 2025",
+   "channel": "Passive Prospecting | YouTube For Real Estate",
+   "views": 426,
+   "age_days": 209.0,
+   "vpd": 2,
+   "dur_s": 3971,
+   "url": "https://youtu.be/omqjLF37yqc",
+   "window": "365d"
+  },
+  {
+   "title": "Behind This Week’s 6.51% Mortgage Rate: The 19-Year Treasury Surge and What It Means for Buyers",
+   "channel": "Realtor.com",
+   "views": 127,
+   "age_days": 72.9,
+   "vpd": 2,
+   "dur_s": 1482,
+   "url": "https://youtu.be/TeIBokINmdc",
+   "window": "365d"
+  },
+  {
+   "title": "Florida Title Insurance Explained - What Buyers MUST Know Before Closing",
+   "channel": "Casey Joiner",
+   "views": 288,
+   "age_days": 244.0,
+   "vpd": 1,
+   "dur_s": 1963,
+   "url": "https://youtu.be/z_2D2D6Cusc",
+   "window": "365d"
+  },
+  {
+   "title": "Complete Guide to the RPA Part 8: Split the Bill Right — Allocation of Costs Explained",
+   "channel": "Real Estate Resource with Kyle Estrada",
+   "views": 176,
+   "age_days": 296.9,
+   "vpd": 1,
+   "dur_s": 3101,
+   "url": "https://youtu.be/p76j7A_ifdI",
+   "window": "365d"
+  },
+  {
+   "title": "Mastering the Vacant Land Purchase Agreement in California | C.A.R. Forms Explained",
+   "channel": "Upthink Real Estate",
+   "views": 481,
+   "age_days": 337.0,
+   "vpd": 1,
+   "dur_s": 3730,
+   "url": "https://youtu.be/vVh8KFvlpTs",
+   "window": "365d"
+  },
+  {
+   "title": "How to fill out the TREC One to Four family contract",
+   "channel": "Kiani Komeizi",
+   "views": 303,
+   "age_days": 261.7,
+   "vpd": 1,
+   "dur_s": 2550,
+   "url": "https://youtu.be/UjT1h3bsybc",
+   "window": "365d"
+  },
+  {
+   "title": "The Truth About Mortgage Rates \"Good Debt\" and Buying in 2026 - EP 02",
+   "channel": "LIFTED",
+   "views": 169,
+   "age_days": 143.8,
+   "vpd": 1,
+   "dur_s": 3613,
+   "url": "https://youtu.be/2Kcf6lccrh8",
+   "window": "365d"
+  },
+  {
+   "title": "The Mortgage Mistake Costing Homebuyers $100,000+",
+   "channel": "Shaun Surgener | Wealth, Business & Investing",
+   "views": 150,
+   "age_days": 241.1,
+   "vpd": 1,
+   "dur_s": 2842,
+   "url": "https://youtu.be/3c3IsRacu0g",
+   "window": "365d"
+  },
+  {
+   "title": "Why the Fed Cut Rates But Your Mortgage Went Up: The Japan Liquidity Drain",
+   "channel": "Finance Deciphered",
+   "views": 134,
+   "age_days": 231.1,
+   "vpd": 1,
+   "dur_s": 1275,
+   "url": "https://youtu.be/TUWv8rGyYec",
+   "window": "365d"
+  },
+  {
+   "title": "What REALLY Drives Mortgage Rates (Explained Simply)",
+   "channel": "Real Estate _Financial Solution",
+   "views": 113,
+   "age_days": 204.1,
+   "vpd": 1,
+   "dur_s": 2001,
+   "url": "https://youtu.be/mvFDicHmS6k",
+   "window": "365d"
+  },
+  {
+   "title": "Connecticut Mortgage Rates Explained in 2026 | Should You Wait to Buy a House? 🏡📉",
+   "channel": "Living in Central Connecticut",
+   "views": 61,
+   "age_days": 77.9,
+   "vpd": 1,
+   "dur_s": 1603,
+   "url": "https://youtu.be/OYSlhsEn5xc",
+   "window": "365d"
+  },
+  {
+   "title": "Mortgage Lender Secrets: Rates, Grants & Buyer Mistakes to Avoid | Real Estate w/ the Resnicks Ep. 4",
+   "channel": "Community Title Network",
+   "views": 22,
+   "age_days": 26.1,
+   "vpd": 1,
+   "dur_s": 1476,
+   "url": "https://youtu.be/m2m9-qtGUyw",
+   "window": "365d"
+  },
+  {
+   "title": "Florida Title Insurance & Closing Process Explained | Must-Know Tips for Realtors",
+   "channel": "Purchase Ready Lab",
+   "views": 175,
+   "age_days": 352.5,
+   "vpd": 0,
+   "dur_s": 5389,
+   "url": "https://youtu.be/28OA9jCZgig",
+   "window": "365d"
+  },
+  {
+   "title": "Fed Rate Cut Explained: What It Means for Mortgage Rates in the Next 12 Months",
+   "channel": "Get in the Cashflow Game with K&K",
+   "views": 54,
+   "age_days": 311.1,
+   "vpd": 0,
+   "dur_s": 1416,
+   "url": "https://youtu.be/165ywej1Wdc",
+   "window": "365d"
+  },
+  {
+   "title": "What is a Rate Buy Down and How Does It Help Me?",
+   "channel": "Move Me To 406",
+   "views": 30,
+   "age_days": 88.9,
+   "vpd": 0,
+   "dur_s": 1729,
+   "url": "https://youtu.be/rxAYN6282Qg",
+   "window": "365d"
+  },
+  {
+   "title": "How Are Mortgage Rates Determined: What Actually Affects Yours",
+   "channel": "Fox and Cents",
+   "views": 28,
+   "age_days": 64.8,
+   "vpd": 0,
+   "dur_s": 2306,
+   "url": "https://youtu.be/4R3yKNLKtQo",
+   "window": "365d"
+  },
+  {
+   "title": "Mortgage Closing Costs Explained: Down Payment vs. Cash to Close, Escrows, Points & Earnest Money",
+   "channel": "Ideal Mortgage Group",
+   "views": 28,
+   "age_days": 212.6,
+   "vpd": 0,
+   "dur_s": 1218,
+   "url": "https://youtu.be/TbIHlB7IyqY",
+   "window": "365d"
+  },
+  {
+   "title": "Everything You Need To Know About Mortgages in 2026",
+   "channel": "Odigo Club",
+   "views": 19,
+   "age_days": 184.9,
+   "vpd": 0,
+   "dur_s": 3344,
+   "url": "https://youtu.be/mM9kTIPX1Eg",
+   "window": "365d"
+  },
+  {
+   "title": "LIVE: FED Cuts, Mortgage Rates, & Housing Shifts Realtors Must Know",
+   "channel": "Mike Mills | Podcast & Education",
+   "views": 18,
+   "age_days": 324.4,
+   "vpd": 0,
+   "dur_s": 4011,
+   "url": "https://youtu.be/c3gnNaUKwgA",
+   "window": "365d"
+  }
+ ]
+}

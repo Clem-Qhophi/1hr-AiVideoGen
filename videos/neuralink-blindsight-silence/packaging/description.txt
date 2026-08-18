@@ -1,0 +1,29 @@
+Neuralink raised $650 million this year. None of it has gone toward getting their brain-implant vision device, Blindsight, into an actual human trial — even though the FDA fast-tracked it back in September 2024.
+
+This video checks the primary source: Neuralink's own clinical trials page (live today) lists their motor and speech programs as "Active trial" with 21 real participants, while Blindsight still says "Upcoming trial." Sixteen months of official silence on the one program that was supposed to restore sight, while everything else got real updates. Named experts on record — Ione Fine (University of Washington) and Philip Troyk (Illinois Tech) — explain why vision is a genuinely harder problem than motor control or speech, and a vision scientist at Johns Hopkins has a blunt read on what Neuralink has actually shown so far.
+
+The goal is real. The science is real. What hasn't happened yet is the human trial the headlines already claimed.
+
+👍 Like if this saved you from repeating a headline that wasn't true
+💬 Comment: would you volunteer for a trial like this, or wait for the data?
+🔔 Subscribe for AI stories checked against the primary source, not the headline
+
+Sources cited in this video:
+- Neuralink, "Neuralink Receives Breakthrough Device Designation for Blindsight" (Sep 17, 2024) — neuralink.com/updates
+- Neuralink Clinical Trials page — neuralink.com/trials
+- IEEE Spectrum, "Neuralink's Blindsight Device Is Likely to Disappoint" by Greg Uyeno (Sep 27, 2024)
+
+Timestamps:
+0:00 $650M raised, zero into a Blindsight trial
+0:13 The September 2024 FDA designation
+0:34 What "Breakthrough Device Designation" actually means
+0:58 Their own site, today: Active, Active, Upcoming
+1:27 Why vision is the harder problem
+1:51 Named experts on the record
+2:19 The track record: prior vision-implant companies failed
+2:41 The honest verdict (and why you should subscribe)
+3:03 Every number in this video, sourced
+3:24 Their own update log: everyone else got news
+3:52 "Trust us, we're Neuralink"
+4:14 What this video can't tell you
+4:36 Has anyone actually connected a brain to see through a chip?

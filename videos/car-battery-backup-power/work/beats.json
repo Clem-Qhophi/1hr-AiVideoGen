@@ -1,0 +1,1371 @@
+{
+ "niche": "home-hacks",
+ "output": {
+  "w": 1920,
+  "h": 1080,
+  "fps": 30,
+  "out": "output/car-battery-backup-power-visuals.mp4"
+ },
+ "audio": "work/audio/voiceover.mp3",
+ "beats": [
+  {
+   "image": "work/images/072-storm-clouds-power-lines-0.jpg",
+   "image_query": "storm clouds power lines",
+   "image_prompt": "storm clouds power lines, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 0.0,
+   "end_s": 3.96,
+   "move": "auto",
+   "cue": "When the power goes out, you've got about four hours before the food in your fridge starts to turn.  A full fr"
+  },
+  {
+   "image": "work/images/015-dark-house-exterior-0.jpg",
+   "image_query": "dark house exterior",
+   "image_prompt": "dark house exterior, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 3.96,
+   "end_s": 7.81,
+   "move": "auto",
+   "cue": "When the power goes out, you've got about four hours before the food in your fridge starts to turn.  A full fr"
+  },
+  {
+   "image": "work/images/072-storm-clouds-power-lines-1.jpg",
+   "image_query": "storm clouds power lines",
+   "image_prompt": "storm clouds power lines, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 7.81,
+   "end_s": 11.65,
+   "move": "auto",
+   "cue": "When the power goes out, you've got about four hours before the food in your fridge starts to turn.  A full fr"
+  },
+  {
+   "image": "work/images/015-dark-house-exterior-1.jpg",
+   "image_query": "dark house exterior",
+   "image_prompt": "dark house exterior, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 11.65,
+   "end_s": 15.5,
+   "move": "auto",
+   "cue": "When the power goes out, you've got about four hours before the food in your fridge starts to turn.  A full fr"
+  },
+  {
+   "image": "work/images/072-storm-clouds-power-lines-0.jpg",
+   "image_query": "storm clouds power lines",
+   "image_prompt": "storm clouds power lines, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 15.5,
+   "end_s": 19.78,
+   "move": "auto",
+   "cue": "When the power goes out, you've got about four hours before the food in your fridge starts to turn.  A full fr"
+  },
+  {
+   "image": "work/images/007-car-parked-driveway-0.jpg",
+   "image_query": "car parked driveway",
+   "image_prompt": "car parked driveway, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 19.78,
+   "end_s": 23.86,
+   "move": "auto",
+   "cue": "Here's what I want you to know before that happens to you.  The car sitting in your driveway right now can kee"
+  },
+  {
+   "image": "work/images/028-garage-exterior-0.jpg",
+   "image_query": "garage exterior",
+   "image_prompt": "garage exterior, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 23.86,
+   "end_s": 27.94,
+   "move": "auto",
+   "cue": "Here's what I want you to know before that happens to you.  The car sitting in your driveway right now can kee"
+  },
+  {
+   "image": "work/images/007-car-parked-driveway-1.jpg",
+   "image_query": "car parked driveway",
+   "image_prompt": "car parked driveway, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 27.94,
+   "end_s": 32.62,
+   "move": "auto",
+   "cue": "Here's what I want you to know before that happens to you.  The car sitting in your driveway right now can kee"
+  },
+  {
+   "image": "work/images/059-power-inverter-closeup-0.jpg",
+   "image_query": "power inverter closeup",
+   "image_prompt": "power inverter closeup, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 32.62,
+   "end_s": 40.83,
+   "move": "auto",
+   "cue": "But there are two ways people try this that can genuinely hurt somebody. And almost nobody selling you the equ"
+  },
+  {
+   "image": "work/images/059-power-inverter-closeup-1.jpg",
+   "image_query": "power inverter closeup",
+   "image_prompt": "power inverter closeup, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 40.83,
+   "end_s": 49.55,
+   "move": "auto",
+   "cue": "But there are two ways people try this that can genuinely hurt somebody. And almost nobody selling you the equ"
+  },
+  {
+   "image": "work/images/016-dark-kitchen-flashlight-0.jpg",
+   "image_query": "dark kitchen flashlight",
+   "image_prompt": "dark kitchen flashlight, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 49.55,
+   "end_s": 61.1,
+   "move": "auto",
+   "cue": "Here's why this catches people off guard.  The power goes out. Maybe a storm. Maybe just an old grid on a hot "
+  },
+  {
+   "image": "work/images/070-spoiled-food-trash-0.jpg",
+   "image_query": "spoiled food trash",
+   "image_prompt": "spoiled food trash, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 61.1,
+   "end_s": 70.12,
+   "move": "auto",
+   "cue": "Then six hours pass. Then twelve.  Everything in your fridge and freezer is now a math problem. Meat. Milk. Wh"
+  },
+  {
+   "image": "work/images/054-open-refrigerator-empty-0.jpg",
+   "image_query": "open refrigerator empty",
+   "image_prompt": "open refrigerator empty, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 70.12,
+   "end_s": 79.62,
+   "move": "auto",
+   "cue": "Then six hours pass. Then twelve.  Everything in your fridge and freezer is now a math problem. Meat. Milk. Wh"
+  },
+  {
+   "image": "work/images/031-grocery-receipt-kitchen-counter-0.jpg",
+   "image_query": "grocery receipt kitchen counter",
+   "image_prompt": "grocery receipt kitchen counter, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 79.62,
+   "end_s": 91.41,
+   "move": "auto",
+   "cue": "Think about the last time you filled a cart at the grocery store. Now picture setting that whole bag on the cu"
+  },
+  {
+   "image": "work/images/057-phone-dead-battery-0.jpg",
+   "image_query": "phone dead battery",
+   "image_prompt": "phone dead battery, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 91.41,
+   "end_s": 103.03,
+   "move": "auto",
+   "cue": "Your phone dies next. And your phone isn't just a phone anymore.  It's how you find out when the power's comin"
+  },
+  {
+   "image": "work/images/044-medical-device-oxygen-0.jpg",
+   "image_query": "medical device oxygen",
+   "image_prompt": "medical device oxygen, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 103.03,
+   "end_s": 113.29,
+   "move": "auto",
+   "cue": "And for some of you, this isn't an inconvenience. It's dangerous.  A CPAP machine. A medical device that needs"
+  },
+  {
+   "image": "work/images/024-family-living-room-candles-dark-0.jpg",
+   "image_query": "family living room candles dark",
+   "image_prompt": "family living room candles dark, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 113.29,
+   "end_s": 122.45,
+   "move": "auto",
+   "cue": "There's a quieter cost too, one that doesn't show up on a receipt. Kids scared of the dark. A house that's too"
+  },
+  {
+   "image": "work/images/024-family-living-room-candles-dark-1.jpg",
+   "image_query": "family living room candles dark",
+   "image_prompt": "family living room candles dark, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 122.45,
+   "end_s": 132.09,
+   "move": "auto",
+   "cue": "There's a quieter cost too, one that doesn't show up on a receipt. Kids scared of the dark. A house that's too"
+  },
+  {
+   "image": "work/images/049-neighborhood-power-lines-repair-crew-0.jpg",
+   "image_query": "neighborhood power lines repair crew",
+   "image_prompt": "neighborhood power lines repair crew, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 132.09,
+   "end_s": 140.41,
+   "move": "auto",
+   "cue": "And here's the part that makes it worse. You often don't know when it's coming back. Could be twenty minutes. "
+  },
+  {
+   "image": "work/images/049-neighborhood-power-lines-repair-crew-1.jpg",
+   "image_query": "neighborhood power lines repair crew",
+   "image_prompt": "neighborhood power lines repair crew, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 140.41,
+   "end_s": 149.28,
+   "move": "auto",
+   "cue": "And here's the part that makes it worse. You often don't know when it's coming back. Could be twenty minutes. "
+  },
+  {
+   "image": "work/images/071-standby-generator-installed-0.jpg",
+   "image_query": "standby generator installed",
+   "image_prompt": "standby generator installed, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 149.28,
+   "end_s": 157.08,
+   "move": "auto",
+   "cue": "Now, the answer everybody assumes is buy a generator.  A real standby generator, the kind wired into your hous"
+  },
+  {
+   "image": "work/images/062-price-tag-0.jpg",
+   "image_query": "price tag",
+   "image_prompt": "price tag, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 157.08,
+   "end_s": 165.43,
+   "move": "auto",
+   "cue": "Now, the answer everybody assumes is buy a generator.  A real standby generator, the kind wired into your hous"
+  },
+  {
+   "image": "work/images/058-portable-generator-garage-0.jpg",
+   "image_query": "portable generator garage",
+   "image_prompt": "portable generator garage, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 165.43,
+   "end_s": 177.76,
+   "move": "auto",
+   "cue": "Even a portable gas generator, the kind you'd wheel out and start by hand, still costs several hundred dollars"
+  },
+  {
+   "image": "work/images/007-car-parked-driveway-0.jpg",
+   "image_query": "car parked driveway",
+   "image_prompt": "car parked driveway, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 177.76,
+   "end_s": 189.41,
+   "move": "auto",
+   "cue": "Here's the part that should annoy you a little.  You already own a generator. It's parked outside. It has a fu"
+  },
+  {
+   "image": "work/images/052-old-farmhouse-workshop-0.jpg",
+   "image_query": "old farmhouse workshop",
+   "image_prompt": "old farmhouse workshop, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 189.41,
+   "end_s": 198.4,
+   "move": "auto",
+   "cue": "I've been fixing things around a house for longer than I've had gray in this beard.  And the truth is, this is"
+  },
+  {
+   "image": "work/images/005-car-engine-bay-0.jpg",
+   "image_query": "car engine bay",
+   "image_prompt": "car engine bay, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 198.4,
+   "end_s": 209.38,
+   "move": "auto",
+   "cue": "Before every house had central air and a generator waiting in the garage, people used what they had.  And what"
+  },
+  {
+   "image": "work/images/068-rural-house-night-0.jpg",
+   "image_query": "rural house night",
+   "image_prompt": "rural house night, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 209.38,
+   "end_s": 215.39,
+   "move": "auto",
+   "cue": "I've done it this way more times than I can count. Storm knocks the power out, I walk to the driveway, not the"
+  },
+  {
+   "image": "work/images/033-headlights-driveway-0.jpg",
+   "image_query": "headlights driveway",
+   "image_prompt": "headlights driveway, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 215.39,
+   "end_s": 222.0,
+   "move": "auto",
+   "cue": "I've done it this way more times than I can count. Storm knocks the power out, I walk to the driveway, not the"
+  },
+  {
+   "image": "work/images/030-grandparents-generation-photo-style-0.jpg",
+   "image_query": "grandparents generation photo style",
+   "image_prompt": "grandparents generation photo style, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 222.0,
+   "end_s": 229.6,
+   "move": "auto",
+   "cue": "Our grandparents didn't have a name for this. It was just common sense. You used the biggest battery on the pr"
+  },
+  {
+   "image": "work/images/030-grandparents-generation-photo-style-1.jpg",
+   "image_query": "grandparents generation photo style",
+   "image_prompt": "grandparents generation photo style, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 229.6,
+   "end_s": 237.7,
+   "move": "auto",
+   "cue": "Our grandparents didn't have a name for this. It was just common sense. You used the biggest battery on the pr"
+  },
+  {
+   "image": "work/images/053-old-truck-farmhouse-barn-0.jpg",
+   "image_query": "old truck farmhouse barn",
+   "image_prompt": "old truck farmhouse barn, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 237.7,
+   "end_s": 246.92,
+   "move": "auto",
+   "cue": "I remember a neighbor of mine, years back, who kept an old truck parked by the barn for exactly this. Never dr"
+  },
+  {
+   "image": "work/images/053-old-truck-farmhouse-barn-1.jpg",
+   "image_query": "old truck farmhouse barn",
+   "image_prompt": "old truck farmhouse barn, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 246.92,
+   "end_s": 256.68,
+   "move": "auto",
+   "cue": "I remember a neighbor of mine, years back, who kept an old truck parked by the barn for exactly this. Never dr"
+  },
+  {
+   "image": "work/images/045-modern-family-car-driveway-0.jpg",
+   "image_query": "modern family car driveway",
+   "image_prompt": "modern family car driveway, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 256.68,
+   "end_s": 269.11,
+   "move": "auto",
+   "cue": "You don't need an old truck kept just for this. The car you already drive to work every day does the exact sam"
+  },
+  {
+   "image": "work/images/061-power-inverter-product-closeup-0.jpg",
+   "image_query": "power inverter product closeup",
+   "image_prompt": "power inverter product closeup, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 269.11,
+   "end_s": 276.06,
+   "move": "auto",
+   "cue": "The only piece you're missing is one part. A power inverter.  Here's the plain version of what that word means"
+  },
+  {
+   "image": "work/images/061-power-inverter-product-closeup-1.jpg",
+   "image_query": "power inverter product closeup",
+   "image_prompt": "power inverter product closeup, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 276.06,
+   "end_s": 283.01,
+   "move": "auto",
+   "cue": "The only piece you're missing is one part. A power inverter.  Here's the plain version of what that word means"
+  },
+  {
+   "image": "work/images/061-power-inverter-product-closeup-0.jpg",
+   "image_query": "power inverter product closeup",
+   "image_prompt": "power inverter product closeup, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 283.01,
+   "end_s": 290.38,
+   "move": "auto",
+   "cue": "The only piece you're missing is one part. A power inverter.  Here's the plain version of what that word means"
+  },
+  {
+   "image": "work/images/EVIDENCE-inverter-product.png",
+   "image_query": "EVIDENCE-inverter-product",
+   "image_prompt": "EVIDENCE-inverter-product, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 290.38,
+   "end_s": 297.92,
+   "move": "none",
+   "cue": "This one right here is built exactly for this. Ampeak, one thousand watts, tested and certified, and the listi"
+  },
+  {
+   "image": "work/images/EVIDENCE-inverter-product.png",
+   "image_query": "EVIDENCE-inverter-product",
+   "image_prompt": "EVIDENCE-inverter-product, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 297.92,
+   "end_s": 305.45,
+   "move": "none",
+   "cue": "This one right here is built exactly for this. Ampeak, one thousand watts, tested and certified, and the listi"
+  },
+  {
+   "image": "work/images/EVIDENCE-inverter-product.png",
+   "image_query": "EVIDENCE-inverter-product",
+   "image_prompt": "EVIDENCE-inverter-product, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 305.45,
+   "end_s": 312.98,
+   "move": "none",
+   "cue": "This one right here is built exactly for this. Ampeak, one thousand watts, tested and certified, and the listi"
+  },
+  {
+   "image": "work/images/EVIDENCE-inverter-product.png",
+   "image_query": "EVIDENCE-inverter-product",
+   "image_prompt": "EVIDENCE-inverter-product, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 312.98,
+   "end_s": 321.12,
+   "move": "none",
+   "cue": "This one right here is built exactly for this. Ampeak, one thousand watts, tested and certified, and the listi"
+  },
+  {
+   "image": "work/images/036-inverter-box-hands-0.jpg",
+   "image_query": "inverter box hands",
+   "image_prompt": "inverter box hands, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 321.12,
+   "end_s": 324.66,
+   "move": "auto",
+   "cue": "Alright. Let's actually do this. Step by step."
+  },
+  {
+   "image": "work/images/066-refrigerator-nameplate-label-0.jpg",
+   "image_query": "refrigerator nameplate label",
+   "image_prompt": "refrigerator nameplate label, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 324.66,
+   "end_s": 330.92,
+   "move": "auto",
+   "cue": "First, before you buy anything, you need one number. How many watts does what you want to run actually need?"
+  },
+  {
+   "image": "work/images/EVIDENCE-fridge-wattage.png",
+   "image_query": "EVIDENCE-fridge-wattage",
+   "image_prompt": "EVIDENCE-fridge-wattage, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 330.92,
+   "end_s": 338.53,
+   "move": "none",
+   "cue": "Your fridge is the big one, so let's start there. A typical refrigerator uses three hundred to eight hundred w"
+  },
+  {
+   "image": "work/images/EVIDENCE-fridge-wattage.png",
+   "image_query": "EVIDENCE-fridge-wattage",
+   "image_prompt": "EVIDENCE-fridge-wattage, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 338.53,
+   "end_s": 346.14,
+   "move": "none",
+   "cue": "Your fridge is the big one, so let's start there. A typical refrigerator uses three hundred to eight hundred w"
+  },
+  {
+   "image": "work/images/EVIDENCE-fridge-wattage.png",
+   "image_query": "EVIDENCE-fridge-wattage",
+   "image_prompt": "EVIDENCE-fridge-wattage, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 346.14,
+   "end_s": 354.29,
+   "move": "none",
+   "cue": "Your fridge is the big one, so let's start there. A typical refrigerator uses three hundred to eight hundred w"
+  },
+  {
+   "image": "work/images/060-power-inverter-closeup-dial-0.jpg",
+   "image_query": "power inverter closeup dial",
+   "image_prompt": "power inverter closeup dial, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 354.29,
+   "end_s": 364.58,
+   "move": "auto",
+   "cue": "So for a fridge alone, you want an inverter rated at least a thousand watts. That gives you room for the fridg"
+  },
+  {
+   "image": "work/images/056-phone-charger-cable-0.jpg",
+   "image_query": "phone charger cable",
+   "image_prompt": "phone charger cable, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 364.58,
+   "end_s": 374.22,
+   "move": "auto",
+   "cue": "A phone charger is tiny. Maybe ten watts. A lamp with an LED bulb, another ten or fifteen.  A CPAP machine usu"
+  },
+  {
+   "image": "work/images/042-led-lamp-0.jpg",
+   "image_query": "led lamp",
+   "image_prompt": "led lamp, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 374.22,
+   "end_s": 384.49,
+   "move": "auto",
+   "cue": "A phone charger is tiny. Maybe ten watts. A lamp with an LED bulb, another ten or fifteen.  A CPAP machine usu"
+  },
+  {
+   "image": "work/images/035-inverter-box-features-label-0.jpg",
+   "image_query": "inverter box features label",
+   "image_prompt": "inverter box features label, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 384.49,
+   "end_s": 391.85,
+   "move": "auto",
+   "cue": "Second, look for a few specific features on the box before you buy. A model with built-in protections is worth"
+  },
+  {
+   "image": "work/images/035-inverter-box-features-label-1.jpg",
+   "image_query": "inverter box features label",
+   "image_prompt": "inverter box features label, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 391.85,
+   "end_s": 399.21,
+   "move": "auto",
+   "cue": "Second, look for a few specific features on the box before you buy. A model with built-in protections is worth"
+  },
+  {
+   "image": "work/images/035-inverter-box-features-label-0.jpg",
+   "image_query": "inverter box features label",
+   "image_prompt": "inverter box features label, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 399.21,
+   "end_s": 407.16,
+   "move": "auto",
+   "cue": "Second, look for a few specific features on the box before you buy. A model with built-in protections is worth"
+  },
+  {
+   "image": "work/images/037-inverter-box-specs-comparison-0.jpg",
+   "image_query": "inverter box specs comparison",
+   "image_prompt": "inverter box specs comparison, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 407.16,
+   "end_s": 416.12,
+   "move": "auto",
+   "cue": "You'll also see the words pure sine wave on some boxes, and modified sine wave on others. Here's the plain ver"
+  },
+  {
+   "image": "work/images/037-inverter-box-specs-comparison-1.jpg",
+   "image_query": "inverter box specs comparison",
+   "image_prompt": "inverter box specs comparison, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 416.12,
+   "end_s": 425.08,
+   "move": "auto",
+   "cue": "You'll also see the words pure sine wave on some boxes, and modified sine wave on others. Here's the plain ver"
+  },
+  {
+   "image": "work/images/037-inverter-box-specs-comparison-0.jpg",
+   "image_query": "inverter box specs comparison",
+   "image_prompt": "inverter box specs comparison, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 425.08,
+   "end_s": 434.05,
+   "move": "auto",
+   "cue": "You'll also see the words pure sine wave on some boxes, and modified sine wave on others. Here's the plain ver"
+  },
+  {
+   "image": "work/images/037-inverter-box-specs-comparison-1.jpg",
+   "image_query": "inverter box specs comparison",
+   "image_prompt": "inverter box specs comparison, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 434.05,
+   "end_s": 443.61,
+   "move": "auto",
+   "cue": "You'll also see the words pure sine wave on some boxes, and modified sine wave on others. Here's the plain ver"
+  },
+  {
+   "image": "work/images/009-car-parked-outside-driveway-night-0.jpg",
+   "image_query": "car parked outside driveway night",
+   "image_prompt": "car parked outside driveway night, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 443.61,
+   "end_s": 451.93,
+   "move": "auto",
+   "cue": "Third step. Where you park matters as much as what you buy.  This is the first of the two rules I promised you"
+  },
+  {
+   "image": "work/images/EVIDENCE-co-safety.png",
+   "image_query": "EVIDENCE-co-safety",
+   "image_prompt": "EVIDENCE-co-safety, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 451.93,
+   "end_s": 460.85,
+   "move": "none",
+   "cue": "Never run this with the car inside a garage. Not even with the door open.  The CDC is blunt about this, and I'"
+  },
+  {
+   "image": "work/images/EVIDENCE-co-safety.png",
+   "image_query": "EVIDENCE-co-safety",
+   "image_prompt": "EVIDENCE-co-safety, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 460.85,
+   "end_s": 469.77,
+   "move": "none",
+   "cue": "Never run this with the car inside a garage. Not even with the door open.  The CDC is blunt about this, and I'"
+  },
+  {
+   "image": "work/images/EVIDENCE-co-safety.png",
+   "image_query": "EVIDENCE-co-safety",
+   "image_prompt": "EVIDENCE-co-safety, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 469.77,
+   "end_s": 479.3,
+   "move": "none",
+   "cue": "Never run this with the car inside a garage. Not even with the door open.  The CDC is blunt about this, and I'"
+  },
+  {
+   "image": "work/images/017-driveway-open-space-car-0.jpg",
+   "image_query": "driveway open space car",
+   "image_prompt": "driveway open space car, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 479.3,
+   "end_s": 486.13,
+   "move": "auto",
+   "cue": "So park in the open driveway. Not the garage, even with the door up. Not tucked against the side of the house "
+  },
+  {
+   "image": "work/images/017-driveway-open-space-car-1.jpg",
+   "image_query": "driveway open space car",
+   "image_prompt": "driveway open space car, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 486.13,
+   "end_s": 493.55,
+   "move": "auto",
+   "cue": "So park in the open driveway. Not the garage, even with the door up. Not tucked against the side of the house "
+  },
+  {
+   "image": "work/images/001-battery-terminals-close-jumper-clamps-0.jpg",
+   "image_query": "battery terminals close jumper clamps",
+   "image_prompt": "battery terminals close jumper clamps, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 493.55,
+   "end_s": 504.29,
+   "move": "auto",
+   "cue": "Fourth step. Connecting the inverter.  Smaller inverters, the kind under maybe four hundred watts, can often j"
+  },
+  {
+   "image": "work/images/038-inverter-cables-battery-direct-0.jpg",
+   "image_query": "inverter cables battery direct",
+   "image_prompt": "inverter cables battery direct, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 504.29,
+   "end_s": 511.82,
+   "move": "auto",
+   "cue": "But once you're up around a thousand watts, like we need for a fridge, that little outlet isn't built for the "
+  },
+  {
+   "image": "work/images/038-inverter-cables-battery-direct-1.jpg",
+   "image_query": "inverter cables battery direct",
+   "image_prompt": "inverter cables battery direct, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 511.82,
+   "end_s": 519.36,
+   "move": "auto",
+   "cue": "But once you're up around a thousand watts, like we need for a fridge, that little outlet isn't built for the "
+  },
+  {
+   "image": "work/images/038-inverter-cables-battery-direct-0.jpg",
+   "image_query": "inverter cables battery direct",
+   "image_prompt": "inverter cables battery direct, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 519.36,
+   "end_s": 527.36,
+   "move": "auto",
+   "cue": "But once you're up around a thousand watts, like we need for a fridge, that little outlet isn't built for the "
+  },
+  {
+   "image": "work/images/039-inverter-power-button-on-0.jpg",
+   "image_query": "inverter power button on",
+   "image_prompt": "inverter power button on, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 527.36,
+   "end_s": 535.08,
+   "move": "auto",
+   "cue": "Turn the inverter on only after it's connected. Most have a simple switch and a light that tells you it's work"
+  },
+  {
+   "image": "work/images/039-inverter-power-button-on-1.jpg",
+   "image_query": "inverter power button on",
+   "image_prompt": "inverter power button on, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 535.08,
+   "end_s": 543.36,
+   "move": "auto",
+   "cue": "Turn the inverter on only after it's connected. Most have a simple switch and a light that tells you it's work"
+  },
+  {
+   "image": "work/images/019-extension-cord-kitchen-window-0.jpg",
+   "image_query": "extension cord kitchen window",
+   "image_prompt": "extension cord kitchen window, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 543.36,
+   "end_s": 554.41,
+   "move": "auto",
+   "cue": "Fifth step. Getting the power into your house.  Run a heavy-duty outdoor extension cord from the inverter, thr"
+  },
+  {
+   "image": "work/images/023-extension-cord-thick-gauge-0.jpg",
+   "image_query": "extension cord thick gauge",
+   "image_prompt": "extension cord thick gauge, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 554.41,
+   "end_s": 561.51,
+   "move": "auto",
+   "cue": "Use a real outdoor-rated cord, the thick kind, not a thin one meant for a desk lamp. A thin cord run at high w"
+  },
+  {
+   "image": "work/images/023-extension-cord-thick-gauge-1.jpg",
+   "image_query": "extension cord thick gauge",
+   "image_prompt": "extension cord thick gauge, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 561.51,
+   "end_s": 569.1,
+   "move": "auto",
+   "cue": "Use a real outdoor-rated cord, the thick kind, not a thin one meant for a desk lamp. A thin cord run at high w"
+  },
+  {
+   "image": "work/images/020-extension-cord-length-coiled-0.jpg",
+   "image_query": "extension cord length coiled",
+   "image_prompt": "extension cord length coiled, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 569.1,
+   "end_s": 577.34,
+   "move": "auto",
+   "cue": "Length matters too. The longer the cord, the more power it loses along the way, especially at higher wattage. "
+  },
+  {
+   "image": "work/images/020-extension-cord-length-coiled-1.jpg",
+   "image_query": "extension cord length coiled",
+   "image_prompt": "extension cord length coiled, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 577.34,
+   "end_s": 586.06,
+   "move": "auto",
+   "cue": "Length matters too. The longer the cord, the more power it loses along the way, especially at higher wattage. "
+  },
+  {
+   "image": "work/images/021-extension-cord-refrigerator-plug-0.jpg",
+   "image_query": "extension cord refrigerator plug",
+   "image_prompt": "extension cord refrigerator plug, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 586.06,
+   "end_s": 594.32,
+   "move": "auto",
+   "cue": "Plug the fridge directly into that cord. Plug your lamp directly into that cord. One device, one cord, wheneve"
+  },
+  {
+   "image": "work/images/013-circuit-breaker-panel-warning-0.jpg",
+   "image_query": "circuit breaker panel warning",
+   "image_prompt": "circuit breaker panel warning, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 594.32,
+   "end_s": 599.07,
+   "move": "auto",
+   "cue": "And now, the second rule. The one that matters even more than the first."
+  },
+  {
+   "image": "work/images/EVIDENCE-backfeed-danger.png",
+   "image_query": "EVIDENCE-backfeed-danger",
+   "image_prompt": "EVIDENCE-backfeed-danger, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 599.07,
+   "end_s": 607.86,
+   "move": "none",
+   "cue": "Never, under any circumstances, plug this inverter into a wall outlet to try to power your whole house at once"
+  },
+  {
+   "image": "work/images/EVIDENCE-backfeed-danger.png",
+   "image_query": "EVIDENCE-backfeed-danger",
+   "image_prompt": "EVIDENCE-backfeed-danger, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 607.86,
+   "end_s": 616.65,
+   "move": "none",
+   "cue": "Never, under any circumstances, plug this inverter into a wall outlet to try to power your whole house at once"
+  },
+  {
+   "image": "work/images/EVIDENCE-backfeed-danger.png",
+   "image_query": "EVIDENCE-backfeed-danger",
+   "image_prompt": "EVIDENCE-backfeed-danger, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 616.65,
+   "end_s": 625.44,
+   "move": "none",
+   "cue": "Never, under any circumstances, plug this inverter into a wall outlet to try to power your whole house at once"
+  },
+  {
+   "image": "work/images/EVIDENCE-backfeed-danger.png",
+   "image_query": "EVIDENCE-backfeed-danger",
+   "image_prompt": "EVIDENCE-backfeed-danger, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 625.44,
+   "end_s": 634.23,
+   "move": "none",
+   "cue": "Never, under any circumstances, plug this inverter into a wall outlet to try to power your whole house at once"
+  },
+  {
+   "image": "work/images/EVIDENCE-backfeed-danger.png",
+   "image_query": "EVIDENCE-backfeed-danger",
+   "image_prompt": "EVIDENCE-backfeed-danger, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 634.23,
+   "end_s": 643.62,
+   "move": "none",
+   "cue": "Never, under any circumstances, plug this inverter into a wall outlet to try to power your whole house at once"
+  },
+  {
+   "image": "work/images/022-extension-cord-single-appliance-0.jpg",
+   "image_query": "extension cord single appliance",
+   "image_prompt": "extension cord single appliance, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 643.62,
+   "end_s": 654.37,
+   "move": "auto",
+   "cue": "So keep it simple, and keep it safe. This method never touches your breaker panel. Ever.  One cord, one applia"
+  },
+  {
+   "image": "work/images/075-subscribe-reminder-soft-0.jpg",
+   "image_query": "subscribe reminder soft",
+   "image_prompt": "subscribe reminder soft, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 654.37,
+   "end_s": 660.39,
+   "move": "auto",
+   "cue": "If a fix like this, the real mechanism, not just the headline, is useful to you, consider subscribing. It mean"
+  },
+  {
+   "image": "work/images/075-subscribe-reminder-soft-1.jpg",
+   "image_query": "subscribe reminder soft",
+   "image_prompt": "subscribe reminder soft, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 660.39,
+   "end_s": 666.97,
+   "move": "auto",
+   "cue": "If a fix like this, the real mechanism, not just the headline, is useful to you, consider subscribing. It mean"
+  },
+  {
+   "image": "work/images/027-fridge-running-kitchen-night-0.jpg",
+   "image_query": "fridge running kitchen night",
+   "image_prompt": "fridge running kitchen night, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 666.97,
+   "end_s": 675.99,
+   "move": "auto",
+   "cue": "Sixth step, and the last one. Let it run.  A fridge doesn't run its motor constantly. It cycles on and off to "
+  },
+  {
+   "image": "work/images/027-fridge-running-kitchen-night-1.jpg",
+   "image_query": "fridge running kitchen night",
+   "image_prompt": "fridge running kitchen night, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 675.99,
+   "end_s": 685.54,
+   "move": "auto",
+   "cue": "Sixth step, and the last one. Let it run.  A fridge doesn't run its motor constantly. It cycles on and off to "
+  },
+  {
+   "image": "work/images/006-car-engine-running-exterior-0.jpg",
+   "image_query": "car engine running exterior",
+   "image_prompt": "car engine running exterior, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 685.54,
+   "end_s": 697.33,
+   "move": "auto",
+   "cue": "Let the engine idle while it's connected. Check on it every so often. That's really it.  You've just kept a fr"
+  },
+  {
+   "image": "work/images/003-calendar-storm-season-checklist-0.jpg",
+   "image_query": "calendar storm season checklist",
+   "image_prompt": "calendar storm season checklist, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 697.33,
+   "end_s": 707.33,
+   "move": "auto",
+   "cue": "One more thing, and this one saves people the most grief. Test this setup once before you ever need it. Not du"
+  },
+  {
+   "image": "work/images/003-calendar-storm-season-checklist-1.jpg",
+   "image_query": "calendar storm season checklist",
+   "image_prompt": "calendar storm season checklist, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 707.33,
+   "end_s": 717.79,
+   "move": "auto",
+   "cue": "One more thing, and this one saves people the most grief. Test this setup once before you ever need it. Not du"
+  },
+  {
+   "image": "work/images/029-gas-tank-gauge-dashboard-0.jpg",
+   "image_query": "gas tank gauge dashboard",
+   "image_prompt": "gas tank gauge dashboard, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 717.79,
+   "end_s": 726.27,
+   "move": "auto",
+   "cue": "People also ask how much gas this actually burns. An idling engine, just keeping itself running without drivin"
+  },
+  {
+   "image": "work/images/029-gas-tank-gauge-dashboard-1.jpg",
+   "image_query": "gas tank gauge dashboard",
+   "image_prompt": "gas tank gauge dashboard, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 726.27,
+   "end_s": 734.74,
+   "move": "auto",
+   "cue": "People also ask how much gas this actually burns. An idling engine, just keeping itself running without drivin"
+  },
+  {
+   "image": "work/images/029-gas-tank-gauge-dashboard-0.jpg",
+   "image_query": "gas tank gauge dashboard",
+   "image_prompt": "gas tank gauge dashboard, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 734.74,
+   "end_s": 743.74,
+   "move": "auto",
+   "cue": "People also ask how much gas this actually burns. An idling engine, just keeping itself running without drivin"
+  },
+  {
+   "image": "work/images/063-question-mark-graphic-simple-0.jpg",
+   "image_query": "question mark graphic simple",
+   "image_prompt": "question mark graphic simple, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 743.74,
+   "end_s": 750.38,
+   "move": "auto",
+   "cue": "Now let's answer the questions I know you're already asking. Because a trick that skips your doubts isn't actu"
+  },
+  {
+   "image": "work/images/004-car-battery-gauge-dashboard-0.jpg",
+   "image_query": "car battery gauge dashboard",
+   "image_prompt": "car battery gauge dashboard, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 750.38,
+   "end_s": 758.83,
+   "move": "auto",
+   "cue": "Will this drain my battery, or wreck my alternator?  Not while the engine is running. Your alternator is alrea"
+  },
+  {
+   "image": "work/images/004-car-battery-gauge-dashboard-1.jpg",
+   "image_query": "car battery gauge dashboard",
+   "image_prompt": "car battery gauge dashboard, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 758.83,
+   "end_s": 767.27,
+   "move": "auto",
+   "cue": "Will this drain my battery, or wreck my alternator?  Not while the engine is running. Your alternator is alrea"
+  },
+  {
+   "image": "work/images/004-car-battery-gauge-dashboard-0.jpg",
+   "image_query": "car battery gauge dashboard",
+   "image_prompt": "car battery gauge dashboard, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 767.27,
+   "end_s": 776.29,
+   "move": "auto",
+   "cue": "Will this drain my battery, or wreck my alternator?  Not while the engine is running. Your alternator is alrea"
+  },
+  {
+   "image": "work/images/043-legal-document-checkmark-0.jpg",
+   "image_query": "legal document checkmark",
+   "image_prompt": "legal document checkmark, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 776.29,
+   "end_s": 783.0,
+   "move": "auto",
+   "cue": "Is this even legal?  Yes. Here's exactly why, in plain terms. The danger with generators is backfeeding into y"
+  },
+  {
+   "image": "work/images/043-legal-document-checkmark-1.jpg",
+   "image_query": "legal document checkmark",
+   "image_prompt": "legal document checkmark, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 783.0,
+   "end_s": 789.7,
+   "move": "auto",
+   "cue": "Is this even legal?  Yes. Here's exactly why, in plain terms. The danger with generators is backfeeding into y"
+  },
+  {
+   "image": "work/images/043-legal-document-checkmark-0.jpg",
+   "image_query": "legal document checkmark",
+   "image_prompt": "legal document checkmark, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 789.7,
+   "end_s": 796.88,
+   "move": "auto",
+   "cue": "Is this even legal?  Yes. Here's exactly why, in plain terms. The danger with generators is backfeeding into y"
+  },
+  {
+   "image": "work/images/064-rain-storm-window-0.jpg",
+   "image_query": "rain storm window",
+   "image_prompt": "rain storm window, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 796.88,
+   "end_s": 805.49,
+   "move": "auto",
+   "cue": "What if it's raining, or the storm's still going?  Keep the inverter and the connection dry. A cheap plastic t"
+  },
+  {
+   "image": "work/images/064-rain-storm-window-1.jpg",
+   "image_query": "rain storm window",
+   "image_prompt": "rain storm window, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 805.49,
+   "end_s": 814.57,
+   "move": "auto",
+   "cue": "What if it's raining, or the storm's still going?  Keep the inverter and the connection dry. A cheap plastic t"
+  },
+  {
+   "image": "work/images/014-cpap-machine-bedside-0.jpg",
+   "image_query": "cpap machine bedside",
+   "image_prompt": "cpap machine bedside, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 814.57,
+   "end_s": 821.26,
+   "move": "auto",
+   "cue": "What about my CPAP, or another medical device?  Check the wattage printed right on the machine or its power br"
+  },
+  {
+   "image": "work/images/014-cpap-machine-bedside-1.jpg",
+   "image_query": "cpap machine bedside",
+   "image_prompt": "cpap machine bedside, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 821.26,
+   "end_s": 827.95,
+   "move": "auto",
+   "cue": "What about my CPAP, or another medical device?  Check the wattage printed right on the machine or its power br"
+  },
+  {
+   "image": "work/images/014-cpap-machine-bedside-0.jpg",
+   "image_query": "cpap machine bedside",
+   "image_prompt": "cpap machine bedside, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 827.95,
+   "end_s": 835.11,
+   "move": "auto",
+   "cue": "What about my CPAP, or another medical device?  Check the wattage printed right on the machine or its power br"
+  },
+  {
+   "image": "work/images/050-neighbors-houses-street-night-0.jpg",
+   "image_query": "neighbors houses street night",
+   "image_prompt": "neighbors houses street night, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 835.11,
+   "end_s": 842.41,
+   "move": "auto",
+   "cue": "Will running my car like this bother the neighbors?  An idling engine makes some noise, but it's the same nois"
+  },
+  {
+   "image": "work/images/050-neighbors-houses-street-night-1.jpg",
+   "image_query": "neighbors houses street night",
+   "image_prompt": "neighbors houses street night, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 842.41,
+   "end_s": 849.71,
+   "move": "auto",
+   "cue": "Will running my car like this bother the neighbors?  An idling engine makes some noise, but it's the same nois"
+  },
+  {
+   "image": "work/images/050-neighbors-houses-street-night-0.jpg",
+   "image_query": "neighbors houses street night",
+   "image_prompt": "neighbors houses street night, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 849.71,
+   "end_s": 857.55,
+   "move": "auto",
+   "cue": "Will running my car like this bother the neighbors?  An idling engine makes some noise, but it's the same nois"
+  },
+  {
+   "image": "work/images/047-multiple-inverters-sizes-0.jpg",
+   "image_query": "multiple inverters sizes",
+   "image_prompt": "multiple inverters sizes, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 857.55,
+   "end_s": 866.75,
+   "move": "auto",
+   "cue": "What size inverter do I actually need, in plain terms?  If it's just phones, lamps, and small electronics, a t"
+  },
+  {
+   "image": "work/images/047-multiple-inverters-sizes-1.jpg",
+   "image_query": "multiple inverters sizes",
+   "image_prompt": "multiple inverters sizes, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 866.75,
+   "end_s": 875.96,
+   "move": "auto",
+   "cue": "What size inverter do I actually need, in plain terms?  If it's just phones, lamps, and small electronics, a t"
+  },
+  {
+   "image": "work/images/047-multiple-inverters-sizes-0.jpg",
+   "image_query": "multiple inverters sizes",
+   "image_prompt": "multiple inverters sizes, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 875.96,
+   "end_s": 885.65,
+   "move": "auto",
+   "cue": "What size inverter do I actually need, in plain terms?  If it's just phones, lamps, and small electronics, a t"
+  },
+  {
+   "image": "work/images/000-apartment-building-exterior-0.jpg",
+   "image_query": "apartment building exterior",
+   "image_prompt": "apartment building exterior, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 885.65,
+   "end_s": 892.69,
+   "move": "auto",
+   "cue": "What if I don't have a car, or I live somewhere I can't park by my own outlet?  Fair question, and I'm not goi"
+  },
+  {
+   "image": "work/images/000-apartment-building-exterior-1.jpg",
+   "image_query": "apartment building exterior",
+   "image_prompt": "apartment building exterior, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 892.69,
+   "end_s": 899.72,
+   "move": "auto",
+   "cue": "What if I don't have a car, or I live somewhere I can't park by my own outlet?  Fair question, and I'm not goi"
+  },
+  {
+   "image": "work/images/000-apartment-building-exterior-0.jpg",
+   "image_query": "apartment building exterior",
+   "image_prompt": "apartment building exterior, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 899.72,
+   "end_s": 906.76,
+   "move": "auto",
+   "cue": "What if I don't have a car, or I live somewhere I can't park by my own outlet?  Fair question, and I'm not goi"
+  },
+  {
+   "image": "work/images/000-apartment-building-exterior-1.jpg",
+   "image_query": "apartment building exterior",
+   "image_prompt": "apartment building exterior, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 906.76,
+   "end_s": 914.21,
+   "move": "auto",
+   "cue": "What if I don't have a car, or I live somewhere I can't park by my own outlet?  Fair question, and I'm not goi"
+  },
+  {
+   "image": "work/images/018-electric-vehicle-charging-port-0.jpg",
+   "image_query": "electric vehicle charging port",
+   "image_prompt": "electric vehicle charging port, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 914.21,
+   "end_s": 922.96,
+   "move": "auto",
+   "cue": "Does this work with an electric vehicle?  Not the way I've described it here. This method relies on a gas engi"
+  },
+  {
+   "image": "work/images/018-electric-vehicle-charging-port-1.jpg",
+   "image_query": "electric vehicle charging port",
+   "image_prompt": "electric vehicle charging port, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 922.96,
+   "end_s": 931.71,
+   "move": "auto",
+   "cue": "Does this work with an electric vehicle?  Not the way I've described it here. This method relies on a gas engi"
+  },
+  {
+   "image": "work/images/018-electric-vehicle-charging-port-0.jpg",
+   "image_query": "electric vehicle charging port",
+   "image_prompt": "electric vehicle charging port, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 931.71,
+   "end_s": 941.0,
+   "move": "auto",
+   "cue": "Does this work with an electric vehicle?  Not the way I've described it here. This method relies on a gas engi"
+  },
+  {
+   "image": "work/images/011-check-engine-light-dashboard-0.jpg",
+   "image_query": "check engine light dashboard",
+   "image_prompt": "check engine light dashboard, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 941.0,
+   "end_s": 948.94,
+   "move": "auto",
+   "cue": "Is idling like this bad for my car?  Modern engines are built to idle for extended periods without harm; that'"
+  },
+  {
+   "image": "work/images/011-check-engine-light-dashboard-1.jpg",
+   "image_query": "check engine light dashboard",
+   "image_prompt": "check engine light dashboard, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 948.94,
+   "end_s": 956.88,
+   "move": "auto",
+   "cue": "Is idling like this bad for my car?  Modern engines are built to idle for extended periods without harm; that'"
+  },
+  {
+   "image": "work/images/011-check-engine-light-dashboard-0.jpg",
+   "image_query": "check engine light dashboard",
+   "image_prompt": "check engine light dashboard, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 956.88,
+   "end_s": 965.33,
+   "move": "auto",
+   "cue": "Is idling like this bad for my car?  Modern engines are built to idle for extended periods without harm; that'"
+  },
+  {
+   "image": "work/images/032-hardware-store-rental-counter-0.jpg",
+   "image_query": "hardware store rental counter",
+   "image_prompt": "hardware store rental counter, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 965.33,
+   "end_s": 973.03,
+   "move": "auto",
+   "cue": "Do I have to buy one, or can I borrow or rent it?  Some hardware and tool rental stores carry inverters for sh"
+  },
+  {
+   "image": "work/images/032-hardware-store-rental-counter-1.jpg",
+   "image_query": "hardware store rental counter",
+   "image_prompt": "hardware store rental counter, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 973.03,
+   "end_s": 980.73,
+   "move": "auto",
+   "cue": "Do I have to buy one, or can I borrow or rent it?  Some hardware and tool rental stores carry inverters for sh"
+  },
+  {
+   "image": "work/images/032-hardware-store-rental-counter-0.jpg",
+   "image_query": "hardware store rental counter",
+   "image_prompt": "hardware store rental counter, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 980.73,
+   "end_s": 988.44,
+   "move": "auto",
+   "cue": "Do I have to buy one, or can I borrow or rent it?  Some hardware and tool rental stores carry inverters for sh"
+  },
+  {
+   "image": "work/images/032-hardware-store-rental-counter-1.jpg",
+   "image_query": "hardware store rental counter",
+   "image_prompt": "hardware store rental counter, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 988.44,
+   "end_s": 996.7,
+   "move": "auto",
+   "cue": "Do I have to buy one, or can I borrow or rent it?  Some hardware and tool rental stores carry inverters for sh"
+  },
+  {
+   "image": "work/images/048-neighbor-helping-elderly-0.jpg",
+   "image_query": "neighbor helping elderly",
+   "image_prompt": "neighbor helping elderly, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 996.7,
+   "end_s": 1004.91,
+   "move": "auto",
+   "cue": "What if my neighbor doesn't have a car, or is elderly and living alone?  This is worth thinking about before a"
+  },
+  {
+   "image": "work/images/048-neighbor-helping-elderly-1.jpg",
+   "image_query": "neighbor helping elderly",
+   "image_prompt": "neighbor helping elderly, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1004.91,
+   "end_s": 1013.12,
+   "move": "auto",
+   "cue": "What if my neighbor doesn't have a car, or is elderly and living alone?  This is worth thinking about before a"
+  },
+  {
+   "image": "work/images/048-neighbor-helping-elderly-0.jpg",
+   "image_query": "neighbor helping elderly",
+   "image_prompt": "neighbor helping elderly, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1013.12,
+   "end_s": 1021.92,
+   "move": "auto",
+   "cue": "What if my neighbor doesn't have a car, or is elderly and living alone?  This is worth thinking about before a"
+  },
+  {
+   "image": "work/images/069-small-apartment-kitchen-0.jpg",
+   "image_query": "small apartment kitchen",
+   "image_prompt": "small apartment kitchen, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1021.92,
+   "end_s": 1027.53,
+   "move": "auto",
+   "cue": "Let's talk about how this changes depending on your situation, because your house isn't my house."
+  },
+  {
+   "image": "work/images/073-studio-apartment-window-0.jpg",
+   "image_query": "studio apartment window",
+   "image_prompt": "studio apartment window, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1027.53,
+   "end_s": 1036.26,
+   "move": "auto",
+   "cue": "If you're in a small apartment with off-street parking nearby, the same idea can work. Run the cord through a "
+  },
+  {
+   "image": "work/images/073-studio-apartment-window-1.jpg",
+   "image_query": "studio apartment window",
+   "image_prompt": "studio apartment window, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1036.26,
+   "end_s": 1045.45,
+   "move": "auto",
+   "cue": "If you're in a small apartment with off-street parking nearby, the same idea can work. Run the cord through a "
+  },
+  {
+   "image": "work/images/041-large-family-kitchen-multiple-0.jpg",
+   "image_query": "large family kitchen multiple",
+   "image_prompt": "large family kitchen multiple, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1045.45,
+   "end_s": 1055.18,
+   "move": "auto",
+   "cue": "If you've got a bigger household, more people, more must-run devices, don't try to stretch one inverter across"
+  },
+  {
+   "image": "work/images/041-large-family-kitchen-multiple-1.jpg",
+   "image_query": "large family kitchen multiple",
+   "image_prompt": "large family kitchen multiple, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1055.18,
+   "end_s": 1065.58,
+   "move": "auto",
+   "cue": "If you've got a bigger household, more people, more must-run devices, don't try to stretch one inverter across"
+  },
+  {
+   "image": "work/images/077-two-cars-driveway-0.jpg",
+   "image_query": "two cars driveway",
+   "image_prompt": "two cars driveway, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1065.58,
+   "end_s": 1072.59,
+   "move": "auto",
+   "cue": "If your household has two vehicles, that's actually an advantage. Run the fridge off one car's inverter, and r"
+  },
+  {
+   "image": "work/images/077-two-cars-driveway-1.jpg",
+   "image_query": "two cars driveway",
+   "image_prompt": "two cars driveway, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1072.59,
+   "end_s": 1080.17,
+   "move": "auto",
+   "cue": "If your household has two vehicles, that's actually an advantage. Run the fridge off one car's inverter, and r"
+  },
+  {
+   "image": "work/images/046-multi-day-storm-calendar-0.jpg",
+   "image_query": "multi day storm calendar",
+   "image_prompt": "multi day storm calendar, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1080.17,
+   "end_s": 1087.66,
+   "move": "auto",
+   "cue": "If the outage runs multiple days, not hours, rotate. Run the fridge for a few hours to bring the temperature b"
+  },
+  {
+   "image": "work/images/046-multi-day-storm-calendar-1.jpg",
+   "image_query": "multi day storm calendar",
+   "image_prompt": "multi day storm calendar, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1087.66,
+   "end_s": 1095.76,
+   "move": "auto",
+   "cue": "If the outage runs multiple days, not hours, rotate. Run the fridge for a few hours to bring the temperature b"
+  },
+  {
+   "image": "work/images/051-notepad-schedule-kitchen-counter-0.jpg",
+   "image_query": "notepad schedule kitchen counter",
+   "image_prompt": "notepad schedule kitchen counter, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1095.76,
+   "end_s": 1104.88,
+   "move": "auto",
+   "cue": "It helps to actually write the rotation down on a notepad stuck to the fridge. Fridge, seven to nine in the mo"
+  },
+  {
+   "image": "work/images/051-notepad-schedule-kitchen-counter-1.jpg",
+   "image_query": "notepad schedule kitchen counter",
+   "image_prompt": "notepad schedule kitchen counter, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1104.88,
+   "end_s": 1114.66,
+   "move": "auto",
+   "cue": "It helps to actually write the rotation down on a notepad stuck to the fridge. Fridge, seven to nine in the mo"
+  },
+  {
+   "image": "work/images/079-winter-snow-storm-house-0.jpg",
+   "image_query": "winter snow storm house",
+   "image_prompt": "winter snow storm house, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1114.66,
+   "end_s": 1122.87,
+   "move": "auto",
+   "cue": "In winter, this same setup can run a small space heater in one room instead of a fridge. Use that swap if the "
+  },
+  {
+   "image": "work/images/079-winter-snow-storm-house-1.jpg",
+   "image_query": "winter snow storm house",
+   "image_prompt": "winter snow storm house, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1122.87,
+   "end_s": 1131.57,
+   "move": "auto",
+   "cue": "In winter, this same setup can run a small space heater in one room instead of a fridge. Use that swap if the "
+  },
+  {
+   "image": "work/images/067-rural-house-isolated-0.jpg",
+   "image_query": "rural house isolated",
+   "image_prompt": "rural house isolated, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1131.57,
+   "end_s": 1140.73,
+   "move": "auto",
+   "cue": "And if you're further out, rural, where the power can be out for days instead of hours, this is worth practici"
+  },
+  {
+   "image": "work/images/067-rural-house-isolated-1.jpg",
+   "image_query": "rural house isolated",
+   "image_prompt": "rural house isolated, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1140.73,
+   "end_s": 1150.38,
+   "move": "auto",
+   "cue": "And if you're further out, rural, where the power can be out for days instead of hours, this is worth practici"
+  },
+  {
+   "image": "work/images/008-car-parked-driveway-daylight-0.jpg",
+   "image_query": "car parked driveway daylight",
+   "image_prompt": "car parked driveway daylight, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1150.38,
+   "end_s": 1157.39,
+   "move": "auto",
+   "cue": "So here's what actually matters, if you remember nothing else.  The generator you need might already be parked"
+  },
+  {
+   "image": "work/images/008-car-parked-driveway-daylight-1.jpg",
+   "image_query": "car parked driveway daylight",
+   "image_prompt": "car parked driveway daylight, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1157.39,
+   "end_s": 1165.06,
+   "move": "auto",
+   "cue": "So here's what actually matters, if you remember nothing else.  The generator you need might already be parked"
+  },
+  {
+   "image": "work/images/EVIDENCE-co-safety.png",
+   "image_query": "EVIDENCE-co-safety",
+   "image_prompt": "EVIDENCE-co-safety, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1165.06,
+   "end_s": 1173.99,
+   "move": "none",
+   "cue": "But two rules aren't optional. Never run it inside a garage, even with the door open. Carbon monoxide doesn't "
+  },
+  {
+   "image": "work/images/EVIDENCE-backfeed-danger.png",
+   "image_query": "EVIDENCE-backfeed-danger",
+   "image_prompt": "EVIDENCE-backfeed-danger, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1173.99,
+   "end_s": 1181.6,
+   "move": "none",
+   "cue": "And never plug it into your wall to power the whole house. One appliance, one cord, straight from the inverter"
+  },
+  {
+   "image": "work/images/026-fridge-kitchen-warm-light-0.jpg",
+   "image_query": "fridge kitchen warm light",
+   "image_prompt": "fridge kitchen warm light, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1181.6,
+   "end_s": 1189.65,
+   "move": "auto",
+   "cue": "Everything else follows from those two rules. The fridge running quietly through a storm. The lamp still on. T"
+  },
+  {
+   "image": "work/images/078-walt-sign-off-warm-0.jpg",
+   "image_query": "walt sign off warm",
+   "image_prompt": "walt sign off warm, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1189.65,
+   "end_s": 1191.96,
+   "move": "auto",
+   "cue": "That's the old way. Still works."
+  },
+  {
+   "image": "work/images/074-subscribe-like-comment-card-0.jpg",
+   "image_query": "subscribe like comment card",
+   "image_prompt": "subscribe like comment card, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1191.96,
+   "end_s": 1199.96,
+   "move": "auto",
+   "cue": "If this is the kind of fix you want more of, the real mechanism, not just the headline, subscribe. That's the "
+  },
+  {
+   "image": "work/images/074-subscribe-like-comment-card-1.jpg",
+   "image_query": "subscribe like comment card",
+   "image_prompt": "subscribe like comment card, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1199.96,
+   "end_s": 1208.44,
+   "move": "auto",
+   "cue": "If this is the kind of fix you want more of, the real mechanism, not just the headline, subscribe. That's the "
+  },
+  {
+   "image": "work/images/012-checklist-card-driveway-0.jpg",
+   "image_query": "checklist card driveway",
+   "image_prompt": "checklist card driveway, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1208.44,
+   "end_s": 1217.17,
+   "move": "auto",
+   "cue": "Before the next storm shows up on the forecast, do three things now, while the power's still on. Find your jum"
+  },
+  {
+   "image": "work/images/012-checklist-card-driveway-1.jpg",
+   "image_query": "checklist card driveway",
+   "image_prompt": "checklist card driveway, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1217.17,
+   "end_s": 1226.44,
+   "move": "auto",
+   "cue": "Before the next storm shows up on the forecast, do three things now, while the power's still on. Find your jum"
+  },
+  {
+   "image": "work/images/034-house-lights-on-night-storm-passed-0.jpg",
+   "image_query": "house lights on night storm passed",
+   "image_prompt": "house lights on night storm passed, warm, domestic, natural light, lived-in American home, no people's faces, no modern tech",
+   "start_s": 1226.44,
+   "end_s": 1233.3,
+   "move": "auto",
+   "cue": "Twenty minutes of testing on a calm afternoon buys you a lot of peace of mind on the night it actually matters"
+  }
+ ]
+}

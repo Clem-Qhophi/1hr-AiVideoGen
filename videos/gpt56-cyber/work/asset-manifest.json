@@ -1,0 +1,51 @@
+{
+  "project": "gpt56-cyber",
+  "assets": [
+    {
+      "id": "openai-announcement-95pct",
+      "kind": "screenshot",
+      "purpose": "primary source: the announcement with the 95.0/1.5/2.0/57.3 completion-rate table, zero-day findings, CVE-2026-15903, access requirements",
+      "source_url": "https://openai.com/blog/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "source_label": "OpenAI News, Aug 10 2026",
+      "capture": "auto",
+      "status": "captured",
+      "validated": "blank",
+      "note": "bot-blocked (blank across 3 attempts, waits up to 25s). Wire as EvidenceFrame with on-screen disclosure 'live capture blocked - source text verified directly'.",
+      "path": "media/projects/gpt56-cyber/evidence/openai-announcement-95pct.png"
+    },
+    {
+      "id": "daybreak-page",
+      "kind": "screenshot",
+      "purpose": "primary source: Daybreak page - Red tier access requirements, hardware security keys from Sept 1, Blue vs Red split",
+      "source_url": "https://openai.com/daybreak/",
+      "source_label": "OpenAI Daybreak, Aug 10 2026",
+      "capture": "auto",
+      "status": "captured",
+      "validated": "blank",
+      "note": "bot-blocked (blank across 3 attempts). Wire as EvidenceFrame with on-screen disclosure.",
+      "path": "media/projects/gpt56-cyber/evidence/daybreak-page-v8.png"
+    },
+    {
+      "id": "model-page-pricing",
+      "kind": "screenshot",
+      "purpose": "primary source: pricing - $12.50 in / $75 out per M tokens",
+      "source_url": "https://developers.openai.com/",
+      "source_label": "OpenAI model page, Aug 11 2026",
+      "capture": "auto",
+      "status": "captured",
+      "validated": "ok",
+      "path": "media/projects/gpt56-cyber/evidence/model-page-pricing.png"
+    },
+    {
+      "id": "cve-2026-15903-v8",
+      "kind": "screenshot",
+      "purpose": "independent confirmation: NVD entry for CVE-2026-15903 - V8 bounds check skip, high severity, Chrome before 136",
+      "source_url": "https://nvd.nist.gov/vuln/detail/CVE-2026-15903",
+      "source_label": "NVD / NIST, Aug 2026",
+      "capture": "auto",
+      "status": "captured",
+      "validated": "ok",
+      "path": "media/projects/gpt56-cyber/evidence/cve-2026-15903-v8.png"
+    }
+  ]
+}

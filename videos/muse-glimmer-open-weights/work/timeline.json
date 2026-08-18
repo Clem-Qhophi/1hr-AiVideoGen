@@ -1,0 +1,35 @@
+{
+  "master": "videos/muse-glimmer-open-weights/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "GLHook", "type": "cutaway", "master_in_s": 0, "master_out_s": 17.0, "cue": "August tenth / undercuts your bill / one table Qwen still wins" },
+    { "id": "GLBill", "type": "cutaway", "master_in_s": 17.0, "master_out_s": 38.0, "cue": "paying per token / $0 local / one table where Qwen still wins" },
+    { "id": "GLContext", "type": "cutaway", "master_in_s": 38.0, "master_out_s": 69.0, "cue": "Muse Spark closed / show us the weights / four months later / Spark 1.2 soon" },
+    { "id": "GLVerdict", "type": "cutaway", "master_in_s": 69.0, "master_out_s": 80.0, "cue": "Muse Glimmer / 30B / vision / tool calls / retries" },
+    { "id": "GLSpecs", "type": "cutaway", "master_in_s": 80.0, "master_out_s": 87.0, "cue": "HF model card: 30B Apache 2.0 distilled from Spark" },
+    { "id": "GLSize", "type": "cutaway", "master_in_s": 87.0, "master_out_s": 102.0, "cue": "55GB to under 20GB / 24GB card / one GPU / always-on agent" },
+    { "id": "GLSpeed", "type": "cutaway", "master_in_s": 102.0, "master_out_s": 117.0, "cue": "DFlash / 233 tok/s RTX 5090 / M5 Max 50" },
+    { "id": "GLBench", "type": "cutaway", "master_in_s": 117.0, "master_out_s": 137.0, "cue": "MCP Atlas 75.5 / DeepSearch 74.6 / SWE-Bench Pro 51.2 / AIME 94.7" },
+    { "id": "GLMeans", "type": "cutaway", "master_in_s": 137.0, "master_out_s": 146.0, "cue": "free / open / local / your data" },
+    { "id": "GLPolitics", "type": "cutaway", "master_in_s": 146.0, "master_out_s": 165.0, "cue": "Zuck on X: US falling behind China / Kimi K3 Qwen DeepSeek" },
+    { "id": "GLContextWin", "type": "cutaway", "master_in_s": 165.0, "master_out_s": 183.0, "cue": "context window 131,072+ (HF card)" },
+    { "id": "GLQuant", "type": "cutaway", "master_in_s": 183.0, "master_out_s": 196.0, "cue": "4-bit ~1% avg degradation 15 benchmarks" },
+    { "id": "GLLicense", "type": "cutaway", "master_in_s": 196.0, "master_out_s": 208.0, "cue": "Apache 2.0 / use commercially modify ship" },
+    { "id": "GLCTA", "type": "cutaway", "master_in_s": 208.0, "master_out_s": 218.0, "cue": "mid-roll: hit subscribe / verdict first 3 min" },
+    { "id": "GLRollout", "type": "cutaway", "master_in_s": 218.0, "master_out_s": 240.0, "cue": "HF today / vLLM SGLang day one / llama.cpp MLX ExecuTorch coming days" },
+    { "id": "GLReuters", "type": "cutaway", "master_in_s": 240.0, "master_out_s": 251.0, "cue": "HF rogue-agent breach / Reuters capture blocked disclosure" },
+    { "id": "GLCatch", "type": "cutaway", "master_in_s": 251.0, "master_out_s": 277.0, "cue": "Qwen wins GDPVal 1141v953 OSWorld 75.6v65.9 SWE-Bench TerminalBench" },
+    { "id": "GLFrontier", "type": "cutaway", "master_in_s": 277.0, "master_out_s": 296.0, "cue": "30B != frontier / open license = open risk" },
+    { "id": "GLSpark12", "type": "cutaway", "master_in_s": 296.0, "master_out_s": 317.0, "cue": "Spark 1.2 weights soon / appetizer" },
+    { "id": "GLVerdict2", "type": "cutaway", "master_in_s": 317.0, "master_out_s": 340.0, "cue": "verdict: the wait ended / Apache 2.0" },
+    { "id": "GLClose", "type": "cutaway", "master_in_s": 340.0, "master_out_s": 388.0, "cue": "subscribe / Spark 1.2 / rogue-agents cross-link / next one" }
+  ],
+  "preview": {
+    "end_s": 388.0,
+    "out": "videos/muse-glimmer-open-weights/output/muse-glimmer-open-weights-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

@@ -1,0 +1,1099 @@
+{
+ "niche": "real-estate",
+ "output": {
+  "w": 1920,
+  "h": 1080,
+  "fps": 30,
+  "out": "output/re-closing-costs-visuals.mp4"
+ },
+ "audio": "work/audio/voiceover.mp3",
+ "beats": [
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-0.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 0.0,
+   "end_s": 7.99,
+   "move": "auto",
+   "cue": "Four thousand, six hundred and sixty one dollars.  That is what the average American pays in closing costs. It"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 7.99,
+   "end_s": 11.71,
+   "move": "auto",
+   "cue": "Four thousand, six hundred and sixty one dollars.  That is what the average American pays in closing costs. It"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-1.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 11.71,
+   "end_s": 15.42,
+   "move": "auto",
+   "cue": "Four thousand, six hundred and sixty one dollars.  That is what the average American pays in closing costs. It"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 15.42,
+   "end_s": 20.17,
+   "move": "auto",
+   "cue": "Four thousand, six hundred and sixty one dollars.  That is what the average American pays in closing costs. It"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 20.17,
+   "end_s": 24.38,
+   "move": "auto",
+   "cue": "Here is what makes it strange.  Last year, closing costs across America went down. Two point nine percent.  Bu"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 24.38,
+   "end_s": 28.59,
+   "move": "auto",
+   "cue": "Here is what makes it strange.  Last year, closing costs across America went down. Two point nine percent.  Bu"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 28.59,
+   "end_s": 32.8,
+   "move": "auto",
+   "cue": "Here is what makes it strange.  Last year, closing costs across America went down. Two point nine percent.  Bu"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 32.8,
+   "end_s": 37.01,
+   "move": "auto",
+   "cue": "Here is what makes it strange.  Last year, closing costs across America went down. Two point nine percent.  Bu"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-2.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 37.01,
+   "end_s": 41.22,
+   "move": "auto",
+   "cue": "Here is what makes it strange.  Last year, closing costs across America went down. Two point nine percent.  Bu"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-2.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 41.22,
+   "end_s": 45.43,
+   "move": "auto",
+   "cue": "Here is what makes it strange.  Last year, closing costs across America went down. Two point nine percent.  Bu"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 45.43,
+   "end_s": 49.64,
+   "move": "auto",
+   "cue": "Here is what makes it strange.  Last year, closing costs across America went down. Two point nine percent.  Bu"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 49.64,
+   "end_s": 54.93,
+   "move": "auto",
+   "cue": "Here is what makes it strange.  Last year, closing costs across America went down. Two point nine percent.  Bu"
+  },
+  {
+   "image": "work\\images\\004-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 54.93,
+   "end_s": 62.54,
+   "move": "auto",
+   "cue": "Here is why this catches people.  You save for years. You get approved. You watch mortgage rates like the weat"
+  },
+  {
+   "image": "work\\images\\005-open-house-0.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 62.54,
+   "end_s": 71.17,
+   "move": "auto",
+   "cue": "Here is why this catches people.  You save for years. You get approved. You watch mortgage rates like the weat"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 71.17,
+   "end_s": 77.4,
+   "move": "auto",
+   "cue": "On a typical home, closing costs run two to five percent of the price.  On a four hundred thousand dollar hous"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 77.4,
+   "end_s": 83.63,
+   "move": "auto",
+   "cue": "On a typical home, closing costs run two to five percent of the price.  On a four hundred thousand dollar hous"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-1.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 83.63,
+   "end_s": 89.87,
+   "move": "auto",
+   "cue": "On a typical home, closing costs run two to five percent of the price.  On a four hundred thousand dollar hous"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-2.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 89.87,
+   "end_s": 97.29,
+   "move": "auto",
+   "cue": "On a typical home, closing costs run two to five percent of the price.  On a four hundred thousand dollar hous"
+  },
+  {
+   "image": "work\\images\\007-moving-boxes-living-room-0.jpg",
+   "image_query": "moving boxes living room",
+   "image_prompt": "moving boxes living room, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 97.29,
+   "end_s": 104.34,
+   "move": "auto",
+   "cue": "Most of it is not negotiable.  It does not matter how hard you negotiated the price. It does not matter how go"
+  },
+  {
+   "image": "work\\images\\008-moving-boxes-truck-0.jpg",
+   "image_query": "moving boxes truck",
+   "image_prompt": "moving boxes truck, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 104.34,
+   "end_s": 111.39,
+   "move": "auto",
+   "cue": "Most of it is not negotiable.  It does not matter how hard you negotiated the price. It does not matter how go"
+  },
+  {
+   "image": "work\\images\\007-moving-boxes-living-room-1.jpg",
+   "image_query": "moving boxes living room",
+   "image_prompt": "moving boxes living room, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 111.39,
+   "end_s": 118.43,
+   "move": "auto",
+   "cue": "Most of it is not negotiable.  It does not matter how hard you negotiated the price. It does not matter how go"
+  },
+  {
+   "image": "work\\images\\008-moving-boxes-truck-1.jpg",
+   "image_query": "moving boxes truck",
+   "image_prompt": "moving boxes truck, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 118.43,
+   "end_s": 125.48,
+   "move": "auto",
+   "cue": "Most of it is not negotiable.  It does not matter how hard you negotiated the price. It does not matter how go"
+  },
+  {
+   "image": "work\\images\\007-moving-boxes-living-room-2.jpg",
+   "image_query": "moving boxes living room",
+   "image_prompt": "moving boxes living room, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 125.48,
+   "end_s": 133.62,
+   "move": "auto",
+   "cue": "Most of it is not negotiable.  It does not matter how hard you negotiated the price. It does not matter how go"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-2.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 133.62,
+   "end_s": 142.55,
+   "move": "auto",
+   "cue": "And here is the part that should annoy you.  That number is knowable. Weeks in advance. If you know where to l"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 142.55,
+   "end_s": 148.75,
+   "move": "auto",
+   "cue": "So what is actually inside that number?  It is not one fee. It is three buckets of fees that happen to land on"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 148.75,
+   "end_s": 156.1,
+   "move": "auto",
+   "cue": "So what is actually inside that number?  It is not one fee. It is three buckets of fees that happen to land on"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 156.1,
+   "end_s": 163.5,
+   "move": "auto",
+   "cue": "Bucket one is what the bank charges you.  A fee for creating the loan. That is called origination, which means"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-2.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 163.5,
+   "end_s": 170.9,
+   "move": "auto",
+   "cue": "Bucket one is what the bank charges you.  A fee for creating the loan. That is called origination, which means"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-2.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 170.9,
+   "end_s": 178.29,
+   "move": "auto",
+   "cue": "Bucket one is what the bank charges you.  A fee for creating the loan. That is called origination, which means"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 178.29,
+   "end_s": 185.69,
+   "move": "auto",
+   "cue": "Bucket one is what the bank charges you.  A fee for creating the loan. That is called origination, which means"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 185.69,
+   "end_s": 194.24,
+   "move": "auto",
+   "cue": "Bucket one is what the bank charges you.  A fee for creating the loan. That is called origination, which means"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-2.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 194.24,
+   "end_s": 201.8,
+   "move": "auto",
+   "cue": "Bucket two is fees that are not really your bank's at all.  Title insurance, which is protection in case someo"
+  },
+  {
+   "image": "work\\images\\004-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 201.8,
+   "end_s": 209.35,
+   "move": "auto",
+   "cue": "Bucket two is fees that are not really your bank's at all.  Title insurance, which is protection in case someo"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 209.35,
+   "end_s": 216.91,
+   "move": "auto",
+   "cue": "Bucket two is fees that are not really your bank's at all.  Title insurance, which is protection in case someo"
+  },
+  {
+   "image": "work\\images\\004-house-keys-door-2.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 216.91,
+   "end_s": 225.52,
+   "move": "auto",
+   "cue": "Bucket two is fees that are not really your bank's at all.  Title insurance, which is protection in case someo"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-2.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 225.52,
+   "end_s": 232.93,
+   "move": "auto",
+   "cue": "Bucket three is money that is actually still yours.  Lenders usually make you pre-pay a year of home insurance"
+  },
+  {
+   "image": "work\\images\\009-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 232.93,
+   "end_s": 240.33,
+   "move": "auto",
+   "cue": "Bucket three is money that is actually still yours.  Lenders usually make you pre-pay a year of home insurance"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 240.33,
+   "end_s": 248.9,
+   "move": "auto",
+   "cue": "Bucket three is money that is actually still yours.  Lenders usually make you pre-pay a year of home insurance"
+  },
+  {
+   "image": "work\\images\\009-residential-street-1.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 248.9,
+   "end_s": 255.34,
+   "move": "auto",
+   "cue": "Now back to that transfer tax. Because it is the one that swings.  Think of it as sales tax. But for a house. "
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 255.34,
+   "end_s": 261.78,
+   "move": "auto",
+   "cue": "Now back to that transfer tax. Because it is the one that swings.  Think of it as sales tax. But for a house. "
+  },
+  {
+   "image": "work\\images\\009-residential-street-2.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 261.78,
+   "end_s": 268.22,
+   "move": "auto",
+   "cue": "Now back to that transfer tax. Because it is the one that swings.  Think of it as sales tax. But for a house. "
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-2.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 268.22,
+   "end_s": 275.69,
+   "move": "auto",
+   "cue": "Now back to that transfer tax. Because it is the one that swings.  Think of it as sales tax. But for a house. "
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-closing-costs\\evidence\\housingwire-lodestar-yoy.png",
+   "image_query": "EVIDENCE-housingwire-lodestar-yoy",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 275.69,
+   "end_s": 283.37,
+   "move": "none",
+   "cue": "Here is what the newest industry report found, comparing 2024 to 2025.  Nationally, closing costs fell two poi",
+   "is_evidence": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-closing-costs\\evidence\\housingwire-lodestar-yoy.png",
+   "image_query": "EVIDENCE-housingwire-lodestar-yoy",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 283.37,
+   "end_s": 291.06,
+   "move": "none",
+   "cue": "Here is what the newest industry report found, comparing 2024 to 2025.  Nationally, closing costs fell two poi",
+   "is_evidence": true
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 291.06,
+   "end_s": 298.74,
+   "move": "auto",
+   "cue": "Here is what the newest industry report found, comparing 2024 to 2025.  Nationally, closing costs fell two poi"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 298.74,
+   "end_s": 307.58,
+   "move": "auto",
+   "cue": "Here is what the newest industry report found, comparing 2024 to 2025.  Nationally, closing costs fell two poi"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 307.58,
+   "end_s": 314.03,
+   "move": "auto",
+   "cue": "Now Delaware.  Delaware went up four and a half percent. The biggest increase in the country. In the exact sam"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 314.03,
+   "end_s": 320.48,
+   "move": "auto",
+   "cue": "Now Delaware.  Delaware went up four and a half percent. The biggest increase in the country. In the exact sam"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-2.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 320.48,
+   "end_s": 326.93,
+   "move": "auto",
+   "cue": "Now Delaware.  Delaware went up four and a half percent. The biggest increase in the country. In the exact sam"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-2.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 326.93,
+   "end_s": 333.38,
+   "move": "auto",
+   "cue": "Now Delaware.  Delaware went up four and a half percent. The biggest increase in the country. In the exact sam"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 333.38,
+   "end_s": 340.89,
+   "move": "auto",
+   "cue": "Now Delaware.  Delaware went up four and a half percent. The biggest increase in the country. In the exact sam"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 340.89,
+   "end_s": 347.5,
+   "move": "auto",
+   "cue": "And here is the twist I promised you.  Washington D.C. fell twenty one percent. The steepest drop anywhere in "
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 347.5,
+   "end_s": 354.1,
+   "move": "auto",
+   "cue": "And here is the twist I promised you.  Washington D.C. fell twenty one percent. The steepest drop anywhere in "
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 354.1,
+   "end_s": 360.71,
+   "move": "auto",
+   "cue": "And here is the twist I promised you.  Washington D.C. fell twenty one percent. The steepest drop anywhere in "
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-2.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 360.71,
+   "end_s": 368.33,
+   "move": "auto",
+   "cue": "And here is the twist I promised you.  Washington D.C. fell twenty one percent. The steepest drop anywhere in "
+  },
+  {
+   "image": "work\\images\\009-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 368.33,
+   "end_s": 375.79,
+   "move": "auto",
+   "cue": "Now the good news, if you live in the right place.  Sixteen states charge no state transfer tax at all.  Alask"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 375.79,
+   "end_s": 383.26,
+   "move": "auto",
+   "cue": "Now the good news, if you live in the right place.  Sixteen states charge no state transfer tax at all.  Alask"
+  },
+  {
+   "image": "work\\images\\005-open-house-1.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 383.26,
+   "end_s": 390.72,
+   "move": "auto",
+   "cue": "Now the good news, if you live in the right place.  Sixteen states charge no state transfer tax at all.  Alask"
+  },
+  {
+   "image": "work\\images\\009-residential-street-1.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 390.72,
+   "end_s": 398.18,
+   "move": "auto",
+   "cue": "Now the good news, if you live in the right place.  Sixteen states charge no state transfer tax at all.  Alask"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 398.18,
+   "end_s": 405.64,
+   "move": "auto",
+   "cue": "Now the good news, if you live in the right place.  Sixteen states charge no state transfer tax at all.  Alask"
+  },
+  {
+   "image": "work\\images\\005-open-house-2.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 405.64,
+   "end_s": 413.1,
+   "move": "auto",
+   "cue": "Now the good news, if you live in the right place.  Sixteen states charge no state transfer tax at all.  Alask"
+  },
+  {
+   "image": "work\\images\\009-residential-street-2.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 413.1,
+   "end_s": 421.73,
+   "move": "auto",
+   "cue": "Now the good news, if you live in the right place.  Sixteen states charge no state transfer tax at all.  Alask"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-1.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 421.73,
+   "end_s": 428.81,
+   "move": "auto",
+   "cue": "Let me make all of this concrete.  Say you are buying a four hundred thousand dollar house.  Bucket one, the b"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 428.81,
+   "end_s": 435.88,
+   "move": "auto",
+   "cue": "Let me make all of this concrete.  Say you are buying a four hundred thousand dollar house.  Bucket one, the b"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-2.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 435.88,
+   "end_s": 442.95,
+   "move": "auto",
+   "cue": "Let me make all of this concrete.  Say you are buying a four hundred thousand dollar house.  Bucket one, the b"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-2.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 442.95,
+   "end_s": 450.03,
+   "move": "auto",
+   "cue": "Let me make all of this concrete.  Say you are buying a four hundred thousand dollar house.  Bucket one, the b"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 450.03,
+   "end_s": 457.1,
+   "move": "auto",
+   "cue": "Let me make all of this concrete.  Say you are buying a four hundred thousand dollar house.  Bucket one, the b"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 457.1,
+   "end_s": 464.17,
+   "move": "auto",
+   "cue": "Let me make all of this concrete.  Say you are buying a four hundred thousand dollar house.  Bucket one, the b"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-1.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 464.17,
+   "end_s": 472.36,
+   "move": "auto",
+   "cue": "Let me make all of this concrete.  Say you are buying a four hundred thousand dollar house.  Bucket one, the b"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-0.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 472.36,
+   "end_s": 479.41,
+   "move": "auto",
+   "cue": "Same house. Same loan. Same buyer. Same day.  Ten thousand dollars of difference, decided by nothing except wh"
+  },
+  {
+   "image": "work\\images\\009-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 479.41,
+   "end_s": 486.46,
+   "move": "auto",
+   "cue": "Same house. Same loan. Same buyer. Same day.  Ten thousand dollars of difference, decided by nothing except wh"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-1.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 486.46,
+   "end_s": 494.62,
+   "move": "auto",
+   "cue": "Same house. Same loan. Same buyer. Same day.  Ten thousand dollars of difference, decided by nothing except wh"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-2.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 494.62,
+   "end_s": 501.1,
+   "move": "auto",
+   "cue": "Digging up the actual mechanism behind a number, instead of repeating the rounded-off version, is the whole po"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-2.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 501.1,
+   "end_s": 508.66,
+   "move": "auto",
+   "cue": "Digging up the actual mechanism behind a number, instead of repeating the rounded-off version, is the whole po"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 508.66,
+   "end_s": 515.92,
+   "move": "auto",
+   "cue": "Now the honest part. Because this is where a lot of videos get sloppy.  First. Whether the buyer or the seller"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 515.92,
+   "end_s": 523.19,
+   "move": "auto",
+   "cue": "Now the honest part. Because this is where a lot of videos get sloppy.  First. Whether the buyer or the seller"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-2.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 523.19,
+   "end_s": 530.45,
+   "move": "auto",
+   "cue": "Now the honest part. Because this is where a lot of videos get sloppy.  First. Whether the buyer or the seller"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-2.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 530.45,
+   "end_s": 537.72,
+   "move": "auto",
+   "cue": "Now the honest part. Because this is where a lot of videos get sloppy.  First. Whether the buyer or the seller"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 537.72,
+   "end_s": 546.13,
+   "move": "auto",
+   "cue": "Now the honest part. Because this is where a lot of videos get sloppy.  First. Whether the buyer or the seller"
+  },
+  {
+   "image": "work\\images\\009-residential-street-1.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 546.13,
+   "end_s": 554.18,
+   "move": "auto",
+   "cue": "Second. Every figure here is an average.  Your loan type changes it. Your lender changes it. Your county chang"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 554.18,
+   "end_s": 563.38,
+   "move": "auto",
+   "cue": "Second. Every figure here is an average.  Your loan type changes it. Your lender changes it. Your county chang"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 563.38,
+   "end_s": 569.33,
+   "move": "auto",
+   "cue": "Third. This is 2025 data, published in mid 2026.  Transfer tax rates change when state legislatures change the"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 569.33,
+   "end_s": 575.29,
+   "move": "auto",
+   "cue": "Third. This is 2025 data, published in mid 2026.  Transfer tax rates change when state legislatures change the"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-2.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 575.29,
+   "end_s": 582.29,
+   "move": "auto",
+   "cue": "Third. This is 2025 data, published in mid 2026.  Transfer tax rates change when state legislatures change the"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 582.29,
+   "end_s": 588.83,
+   "move": "auto",
+   "cue": "Fourth. All of this assumes a normal single family house bought with a mortgage.  Buying a condo? Expect extra"
+  },
+  {
+   "image": "work\\images\\005-open-house-0.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 588.83,
+   "end_s": 595.37,
+   "move": "auto",
+   "cue": "Fourth. All of this assumes a normal single family house bought with a mortgage.  Buying a condo? Expect extra"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-2.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 595.37,
+   "end_s": 601.9,
+   "move": "auto",
+   "cue": "Fourth. All of this assumes a normal single family house bought with a mortgage.  Buying a condo? Expect extra"
+  },
+  {
+   "image": "work\\images\\005-open-house-1.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 601.9,
+   "end_s": 609.6,
+   "move": "auto",
+   "cue": "Fourth. All of this assumes a normal single family house bought with a mortgage.  Buying a condo? Expect extra"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 609.6,
+   "end_s": 616.94,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about a real, documented fee.  It"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-2.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 616.94,
+   "end_s": 624.28,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about a real, documented fee.  It"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-2.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 624.28,
+   "end_s": 631.62,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about a real, documented fee.  It"
+  },
+  {
+   "image": "work\\images\\006-calculator-desk-paperwork-0.jpg",
+   "image_query": "calculator desk paperwork",
+   "image_prompt": "calculator desk paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 631.62,
+   "end_s": 640.07,
+   "move": "auto",
+   "cue": "And to be completely direct about what this is.  This is general information about a real, documented fee.  It"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 640.07,
+   "end_s": 647.93,
+   "move": "auto",
+   "cue": "So here is exactly what to do. Five things. None of them cost you anything.  One. Get a Loan Estimate from mor"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 647.93,
+   "end_s": 655.79,
+   "move": "auto",
+   "cue": "So here is exactly what to do. Five things. None of them cost you anything.  One. Get a Loan Estimate from mor"
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-1.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 655.79,
+   "end_s": 663.65,
+   "move": "auto",
+   "cue": "So here is exactly what to do. Five things. None of them cost you anything.  One. Get a Loan Estimate from mor"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 663.65,
+   "end_s": 672.66,
+   "move": "auto",
+   "cue": "So here is exactly what to do. Five things. None of them cost you anything.  One. Get a Loan Estimate from mor"
+  },
+  {
+   "image": "work\\images\\009-residential-street-2.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 672.66,
+   "end_s": 679.51,
+   "move": "auto",
+   "cue": "Two. Look up your own state's transfer tax rate.  Search your state name plus real estate transfer tax. A gove"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 679.51,
+   "end_s": 686.36,
+   "move": "auto",
+   "cue": "Two. Look up your own state's transfer tax rate.  Search your state name plus real estate transfer tax. A gove"
+  },
+  {
+   "image": "work\\images\\009-residential-street-0.jpg",
+   "image_query": "residential street",
+   "image_prompt": "residential street, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 686.36,
+   "end_s": 693.21,
+   "move": "auto",
+   "cue": "Two. Look up your own state's transfer tax rate.  Search your state name plus real estate transfer tax. A gove"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-1.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 693.21,
+   "end_s": 701.2,
+   "move": "auto",
+   "cue": "Two. Look up your own state's transfer tax rate.  Search your state name plus real estate transfer tax. A gove"
+  },
+  {
+   "image": "work\\images\\005-open-house-2.jpg",
+   "image_query": "open house",
+   "image_prompt": "open house, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 701.2,
+   "end_s": 709.9,
+   "move": "auto",
+   "cue": "Three. Ask who customarily pays it where you are buying.  Buyer? Seller? Split? Any agent working your market "
+  },
+  {
+   "image": "work\\images\\004-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 709.9,
+   "end_s": 719.71,
+   "move": "auto",
+   "cue": "Three. Ask who customarily pays it where you are buying.  Buyer? Seller? Split? Any agent working your market "
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-2.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 719.71,
+   "end_s": 725.6,
+   "move": "auto",
+   "cue": "Four. Shop your title insurance.  In most states you are not required to use whoever your lender suggests. It "
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-2.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "mortgage paperwork, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 725.6,
+   "end_s": 732.63,
+   "move": "auto",
+   "cue": "Four. Shop your title insurance.  In most states you are not required to use whoever your lender suggests. It "
+  },
+  {
+   "image": "work\\images\\004-house-keys-door-1.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 732.63,
+   "end_s": 738.79,
+   "move": "auto",
+   "cue": "Five. Actually read your Closing Disclosure.  That is the final bill. By law you get it at least three busines"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 738.79,
+   "end_s": 744.95,
+   "move": "auto",
+   "cue": "Five. Actually read your Closing Disclosure.  That is the final bill. By law you get it at least three busines"
+  },
+  {
+   "image": "work\\images\\004-house-keys-door-2.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 744.95,
+   "end_s": 751.11,
+   "move": "auto",
+   "cue": "Five. Actually read your Closing Disclosure.  That is the final bill. By law you get it at least three busines"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-1.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "closing table documents, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 751.11,
+   "end_s": 758.44,
+   "move": "auto",
+   "cue": "Five. Actually read your Closing Disclosure.  That is the final bill. By law you get it at least three busines"
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-closing-costs\\evidence\\housingwire-lodestar-yoy.png",
+   "image_query": "EVIDENCE-housingwire-lodestar-yoy",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 758.44,
+   "end_s": 765.51,
+   "move": "none",
+   "cue": "So, quickly, what actually matters here.  Nationally, closing costs fell two point nine percent. The average p",
+   "is_evidence": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-closing-costs\\evidence\\housingwire-lodestar-yoy.png",
+   "image_query": "EVIDENCE-housingwire-lodestar-yoy",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 765.51,
+   "end_s": 772.58,
+   "move": "none",
+   "cue": "So, quickly, what actually matters here.  Nationally, closing costs fell two point nine percent. The average p",
+   "is_evidence": true
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-2.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 772.58,
+   "end_s": 779.64,
+   "move": "auto",
+   "cue": "So, quickly, what actually matters here.  Nationally, closing costs fell two point nine percent. The average p"
+  },
+  {
+   "image": "work\\images\\002-closing-table-documents-0.jpg",
+   "image_query": "closing table documents",
+   "image_prompt": "EVIDENCE-housingwire-lodestar-yoy, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 779.64,
+   "end_s": 787.77,
+   "move": "auto",
+   "cue": "So, quickly, what actually matters here.  Nationally, closing costs fell two point nine percent. The average p"
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-closing-costs\\evidence\\bankrate-fee-breakdown.png",
+   "image_query": "EVIDENCE-bankrate-fee-breakdown",
+   "image_prompt": "EVIDENCE-bankrate-fee-breakdown, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 787.77,
+   "end_s": 794.18,
+   "move": "none",
+   "cue": "But the number is not really the lesson.  The lesson is that a national average can be completely accurate and",
+   "is_evidence": true
+  },
+  {
+   "image": "C:\\Users\\O M E N\\Downloads\\claude-youtube-editor-main\\claude-youtube-editor-main\\media\\projects\\re-closing-costs\\evidence\\bankrate-fee-breakdown.png",
+   "image_query": "EVIDENCE-bankrate-fee-breakdown",
+   "image_prompt": "EVIDENCE-bankrate-fee-breakdown, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 794.18,
+   "end_s": 800.58,
+   "move": "none",
+   "cue": "But the number is not really the lesson.  The lesson is that a national average can be completely accurate and",
+   "is_evidence": true
+  },
+  {
+   "image": "work\\images\\003-mortgage-paperwork-0.jpg",
+   "image_query": "mortgage paperwork",
+   "image_prompt": "EVIDENCE-bankrate-fee-breakdown, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 800.58,
+   "end_s": 807.99,
+   "move": "auto",
+   "cue": "But the number is not really the lesson.  The lesson is that a national average can be completely accurate and"
+  },
+  {
+   "image": "work\\images\\004-house-keys-door-0.jpg",
+   "image_query": "house keys door",
+   "image_prompt": "house keys door, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 807.99,
+   "end_s": 818.42,
+   "move": "auto",
+   "cue": "Because the difference between a smooth closing and a stressful one is almost never how much money you have.  "
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-2.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 818.42,
+   "end_s": 824.4,
+   "move": "auto",
+   "cue": "If that is what you want before your next big money decision, the real number and where it came from, then sub"
+  },
+  {
+   "image": "work\\images\\000-for-sale-sign-yard-0.jpg",
+   "image_query": "for sale sign yard",
+   "image_prompt": "for sale sign yard, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 824.4,
+   "end_s": 830.38,
+   "move": "auto",
+   "cue": "If that is what you want before your next big money decision, the real number and where it came from, then sub"
+  },
+  {
+   "image": "work\\images\\001-suburban-house-exterior-0.jpg",
+   "image_query": "suburban house exterior",
+   "image_prompt": "suburban house exterior, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 830.38,
+   "end_s": 837.46,
+   "move": "auto",
+   "cue": "If that is what you want before your next big money decision, the real number and where it came from, then sub"
+  },
+  {
+   "image": "work/cards/close-recap.png",
+   "image_query": "card-close-recap",
+   "image_prompt": "card-close-recap, real property photography, for-sale signage, keys and doors, moving boxes, quiet residential streets, closing-table documents - grounded and specific, not aspirational luxury",
+   "start_s": 837.46,
+   "end_s": 839.8,
+   "move": "none",
+   "cue": "See you in the next one.",
+   "is_card": true
+  }
+ ]
+}

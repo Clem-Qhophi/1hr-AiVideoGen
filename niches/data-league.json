@@ -1,0 +1,227 @@
+{
+  "id": "data-league",
+  "name": "The Data League — data comparison showdowns (football-first)",
+  "_channel": "The Data League (@thedataleague). Broadcast-style comparisons: two rivals fight across 8 scored rounds of verified statistics, narrated like a title fight. Tagline: 'Every debate ends in a score.' Sign-off: 'And the numbers have spoken.'",
+  "_origin": "Created 2026-08-17 from the channel strategy doc: football-first niche, season + Championship Belt continuity, Moment-Class commentary engine, two-source data rule, 45-60s Shorts. THIS FILE is the channel's format contract. The Moment-Class engine below IS the commentary IP — every script picks a class per data event.",
+  "audience": "global football fans 18-34 (LatAm, MENA, South Asia, Europe, Africa) plus the general 'who's better?' argument audience via Shorts. Tribal, argumentative, comment-active.",
+  "formats": {
+    "showdown": {
+      "format_name": "The Showdown — 8-round scored comparison (long-form, 7-10 min)",
+      "title": {
+        "formula": "[COMBATANT A] vs [COMBATANT B]: [stakes clause]",
+        "ingredients": {
+          "stakes": ["The Final Score", "The Numbers Are Insane", "He Led For 14 Years. Then THIS Happened.", "Nobody Expected This Winner", "The Data Settled It", "The Last Time You'll See This Debate"]
+        },
+        "rules": [
+          "Must accurately describe the video — never clickbait. High CTR + low retention is demoted by YouTube; the promise must land.",
+          "Every launch video in the first season carries the final scoreline when it is a marquee match ('The Result: 6-4').",
+          "The championship belt is mentioned in the title when it is on the line."
+        ]
+      },
+      "script": {
+        "target_minutes": [7, 10],
+        "structure": [
+          { "beat": "cold-open", "share": 0.05, "note": "Start at the most dramatic moment of the whole video. One line, then the chart is already animating. NO channel intro, NO rules explanation up front." },
+          { "beat": "rules", "share": 0.05, "note": "Establish who is fighting, what is measured, the period, the belt at stake. Max 30 seconds. Commentator voice, not instruction manual." },
+          { "beat": "round-1", "share": 0.1, "note": "Quick WOW category (career totals, biggest single number). Instant gratification. Scoreboard updates." },
+          { "beat": "round-2", "share": 0.1, "note": "Legacy category (trophies, goals)." },
+          { "beat": "round-3", "share": 0.1, "note": "Legacy category. Establish the scoreline direction." },
+          { "beat": "round-4", "share": 0.1, "note": "MARQUEE round — the closest, most contested category. Designed for a lead change. Retention peak." },
+          { "beat": "round-5", "share": 0.1, "note": "Marquee/volatile category. Second lead change slot." },
+          { "beat": "round-6", "share": 0.1, "note": "Volatile/global category (followers, search interest). Upset territory." },
+          { "beat": "round-7", "share": 0.1, "note": "Upset or wildcard category. The share spike. If the underdog is winning, this is where it lands." },
+          { "beat": "round-8-final", "share": 0.12, "note": "DOUBLE POINTS. Engineered comeback potential. Sudden-death tiebreak if level. Belt reveal + celebration on winner." },
+          { "beat": "verdict", "share": 0.08, "note": "60-90s conclusion: what the data actually says, why it happened, the belt handover. Then the mandatory CTA: subscribe (primary), comment your take + 'who should fight next?' poll (secondary). End on the sign-off: 'And the numbers have spoken.'" }
+        ],
+        "voice_rules": [
+          "THE COMMENTATOR IS 'THE SCOREKEEPER' — the permanent channel voice. Same ElevenLabs voice on every video, forever.",
+          "NEVER read raw numbers in speech. Round to 3 significant figures ('15.2 million', not '15,198,432'). The chart shows full precision — the ear gets the round number, the eye gets the truth.",
+          "Every round's data event gets a Moment-Class call (see moment_classes below). One class per event, phrase picked from that class's library.",
+          "0.3-0.8s of silence before every big reveal. Silence is the strongest tool.",
+          "Pace 4-6 words per second. Volume dynamics between classes. Never flat.",
+          "Fairness is personality: gloat slightly for the underdog, never cruel to the loser. Both fanbases must feel welcome — that is what makes comments an engagement engine.",
+          "Every number carries its source spoken aloud at least once per video: 'per Transfermarkt', 'per FBref', 'per official club filings'.",
+          "If two sources disagree, SAY SO on air: 'Transfermarkt says 90, Opta says 91 — we used 90, shown here.'"
+        ],
+        "honesty_guard": "NEVER invent a statistic for entertainment. Every number must be verified against at least two independent sources, date-stamped, and recorded in the video's data sheet. Net worths and estimates are ALWAYS labelled 'estimate' on air. If a stat is uncertain, say the uncertainty. Corrections become content: pin the correction comment and re-record the line.",
+        "_recency_note": "Date-stamp every video ('data as of [date]'). Live statistics (followers, search interest) are snapshots — re-verify anything older than ~48h at write time."
+      },
+      "pacing": { "beat_seconds": 4.0, "beat_jitter": 1.0, "hook_beat_seconds": 2.0, "hook_seconds": 12 },
+      "round_rules": {
+        "count": 8,
+        "final_round_points": 2,
+        "tiebreak": "sudden-death single category if level after round 8",
+        "category_mix": "at least one each of: legacy (career totals), peak (best single season), velocity (first to reach X), global (followers/search), projection (who's on track by 2030), wildcard (surprise stat)",
+        "ordering": "round 1 = biggest single wow number; rounds 4-5 = the closest categories (retention peak); rounds 6-7 = upsets; round 8 = double points"
+      },
+      "images": {
+        "style": "dark arena broadcast: deep navy-black floor, volt/cyan neon, Anton caps, JetBrains Mono numbers, combatant color zones. NO photos of players/clubs — stylised silhouettes + colour fields only. NO footage.",
+        "query_hints": ["stadium night lights abstract", "scoreboard closeup", "trophy silhouette", "confetti dark background"],
+        "avoid": ["player photographs", "match footage", "club crests as images", "light-mode cards"],
+        "_facts_go_on_cards": "All numbers live on the chart-kit components (RaceLine, Scoreboard, H2HMeter, Counter). Atmosphere layers only as background."
+      },
+      "sound": {
+        "music_bed": "arena-pulse",
+        "bed_gain_db": -6,
+        "sfx_density": "medium-high",
+        "sfx_palette": ["whistle-sting", "scoreboard-hit", "crowd-pop", "riser-soft", "impact-soft", "confetti-burst"],
+        "_note": "3-note sonic logo (whistle -> brass hit) on every scoreboard update. Crowd under celebrations only. Silence before reveals."
+      },
+      "voice": { "tone": "title-fight commentator: auctioneer + radio commentator + game show host", "tts_voice_hint": "ONE permanent ElevenLabs voice — the channel identity. Do not change per video. Do not use a different voice for Shorts." }
+    }
+  },
+  "moment_classes": {
+    "_note": "THE COMMENTARY IP. Every data event in a round maps to exactly one class; pick a phrase from that class's library (or write a variant in the same register). Classes are keyed by data conditions, not by vibe.",
+    "C0_COLD_OPEN": {
+      "trigger": "video opening line, before the race starts",
+      "delivery": "slow, ominous, low volume",
+      "phrases": [
+        "For fourteen years, he never lost this race. Then 2023 happened.",
+        "Every single number said this was over. Every single number was wrong.",
+        "They start level. They do not finish level.",
+        "This is the rivalry the internet was built for."
+      ]
+    },
+    "C1_OVERTAKE": {
+      "trigger": "the lead changes",
+      "delivery": "peak volume, 1s of silence before the line",
+      "phrases": [
+        "HE'S DONE IT! [NAME] HAS TAKEN THE LEAD!",
+        "AND JUST LIKE THAT — THE LEAD CHANGES HANDS!",
+        "OVERTAKE! [NAME] STORMS IN FRONT!",
+        "THE LEAD IS GONE. THE LEAD IS [NAME]'S!"
+      ]
+    },
+    "C2_GAP_CLOSING": {
+      "trigger": "chaser's velocity exceeds the leader's (the gap is shrinking)",
+      "delivery": "rising urgency, faster syllables",
+      "phrases": [
+        "[NAME] is gaining [N] a week. They are eating the lead.",
+        "The gap is coming down. It's coming down fast.",
+        "[NAME] is closing — and the leader knows it.",
+        "Look at the angle of that line. That is a chase."
+      ]
+    },
+    "C3_BLOWOUT": {
+      "trigger": "gap exceeds ~35% of the leader's value",
+      "delivery": "flat, almost bored — the bigger insult",
+      "phrases": [
+        "This isn't a contest anymore. It's a coronation.",
+        "[NAME] has left the building. The rest is a formality.",
+        "The numbers aren't close. They never were.",
+        "At this point we're just counting the margin."
+      ]
+    },
+    "C4_COMEBACK": {
+      "trigger": "a side that trailed by >30% has now taken the lead",
+      "delivery": "highest energy; longest pause before the last word",
+      "phrases": [
+        "FROM [N] BEHIND — THE COMEBACK IS COMPLETE!",
+        "They were written off. They did not read the script.",
+        "THE BIGGEST COMEBACK THIS CHANNEL HAS EVER SEEN!",
+        "Down by a mile. Won by an inch. That's [NAME]."
+      ]
+    },
+    "C5_PHOTO_FINISH": {
+      "trigger": "final gap under ~1% of the winner's value",
+      "delivery": "whisper after shout — the contrast is the drama",
+      "phrases": [
+        "Look at the gap. LOOK. AT. THE. GAP.",
+        "That is the closest race we have ever broadcast.",
+        "A [N] difference. After [YEARS] years. [N].",
+        "They are separated by less than the error in the data."
+      ]
+    },
+    "C6_RECORD": {
+      "trigger": "a value crosses the historical maximum of the data set",
+      "delivery": "reverent, quieter, precise",
+      "phrases": [
+        "That has never been done. By anyone. Ever.",
+        "We are watching a record — live, on this chart.",
+        "[NAME] just walked past every number in history.",
+        "The chart ran out of scale. We had to redraw it."
+      ]
+    },
+    "C7_UPSET": {
+      "trigger": "a side with <25% pre-match probability wins the round",
+      "delivery": "genuine disbelief, slightly slower",
+      "phrases": [
+        "Wait. WAIT. Nobody gave them a chance. Nobody.",
+        "THE UPSET IS REAL! [NAME] HAS DONE IT!",
+        "The favourite has been knocked out. In one round.",
+        "If you predicted this, you should buy a lottery ticket."
+      ]
+    },
+    "C8_DEADLOCK": {
+      "trigger": "the round is a tie",
+      "delivery": "calm, ceremonial, then whistle",
+      "phrases": [
+        "We're going to sudden death.",
+        "Level. After everything. Level.",
+        "The data refuses to pick a winner. So we go again.",
+        "A draw — and this broadcast has no draws."
+      ]
+    },
+    "C9_FINAL_ROUND": {
+      "trigger": "round 8, double points at stake",
+      "delivery": "low, ceremonial, deliberate",
+      "phrases": [
+        "Everything comes down to this. One category. Two points.",
+        "This is what the whole broadcast was building to.",
+        "The belt is on the line. Both sides know it.",
+        "Win this and it's yours. Lose it and it's gone."
+      ]
+    },
+    "C10_VERDICT": {
+      "trigger": "end-of-video monologue",
+      "delivery": "summarising, calm, fair — never gloating",
+      "phrases": [
+        "The data doesn't just name a winner — it tells you why.",
+        "[NAME] takes it, [SCORE]. But the margin tells the real story.",
+        "Both of them won tonight. Only one gets the belt.",
+        "And the numbers have spoken."
+      ]
+    }
+  },
+  "shorts": {
+    "_note": "45-60s hero Shorts per vidIQ 331M-Short analysis (45-59s = highest avg views, ~70% more likely to reach 1M+ than 15-29s). One category + one reveal per Short. Hook in first 2s. Loopable endings. Comment-bait question at the end + verbal bridge to the long-form.",
+    "structures": [
+      "single-category showdown: cold-open line -> setup -> chase -> reveal -> comment bait",
+      "the one-stat Short: one number so absurd it carries the whole Short",
+      "the comeback Short: deficit -> overtake -> freeze frame on the gap",
+      "the upset Short: build the favourite up, then flip it"
+    ],
+    "comment_bait": ["Which stat surprised you?", "Who's winning YOUR scoreboard?", "Tell me your round-by-round predictions"],
+    "cadence": "3-5 Shorts per long-form + 2 standalone per week"
+  },
+  "packaging": {
+    "thumbnail": {
+      "template": "dark arena bg, two combatant color zones split left/right, giant scoreboard number between them, max 3 elements, belt emblem when the belt is on the line. Same layout every video = brand recognition.",
+      "rules": ["<=3 visual elements (more = ~23% lower CTR per 2026 studies)", "no player photographs — stylised silhouettes/colour fields", "numbers in JetBrains Mono, names in Anton"]
+    },
+    "title_rules": [
+      "Accurate promise, never clickbait. YouTube demotes high-CTR low-retention videos.",
+      "A/B test every thumbnail with YouTube's Thumbnail Test & Compare (optimises watch time, not CTR — that is the correct objective)."
+    ],
+    "viral_gate": "Run tools/viral_packaging_engine.py on every video before upload; candidate must score >= 90/100."
+  },
+  "season_system": {
+    "_note": "The return-audience engine. Every showdown winner takes the Championship Belt. The next video opens with the belt holder defending it. A season table tracks scores across videos. Season 1 = 'The Rivalries': Messi-Ronaldo, Mbappe-Haaland, Brazil-Argentina, Real Madrid-Man City, El Clasico.",
+    "rules": [
+      "Every video's winner takes the belt; next video is a title defense.",
+      "Community polls decide the next contender (engagement + data + ownership).",
+      "Grand Final at season end: viewer-voted matchup, double points.",
+      "Commentary references last season and the belt's history — inside-baseball that builds a community."
+    ]
+  },
+  "data_system": {
+    "sources": ["FBref (StatsBomb-derived)", "Transfermarkt", "Opta via public reporting", "Statista", "official club financial filings", "Forbes (net worth — always labelled 'estimate')", "Google Trends (search interest)"],
+    "rules": [
+      "TWO-SOURCE RULE: every category verified against two independent sources. Disagreements are said on air.",
+      "Public data sheet per video (Google Sheet or GitHub) linked in the description, date-stamped, every number.",
+      "Standard date format; 'data as of [date]' chip on every video.",
+      "Corrections: pinned comment + annotation + updated sheet. Corrections are content, not shame.",
+      "Uncertain numbers always labelled on air: 'estimated', 'reported', 'pre-transfer-fee era'."
+    ]
+  }
+}

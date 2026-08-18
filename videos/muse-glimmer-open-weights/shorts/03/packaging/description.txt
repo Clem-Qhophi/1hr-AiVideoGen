@@ -1,0 +1,3 @@
+Full breakdown: https://youtu.be/MD1ZO_lDnHM
+
+30B model. One consumer GPU. 233 tokens per second. Free, open, and your data never leaves your machine. #Shorts #MetaAI #LocalAI #MuseGlimmer

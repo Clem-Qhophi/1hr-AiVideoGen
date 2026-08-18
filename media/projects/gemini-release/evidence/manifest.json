@@ -1,0 +1,26 @@
+[
+ {
+  "name": "verge-gemini-delay",
+  "file": "verge-gemini-delay.png",
+  "url": "https://www.theverge.com/tech/966899/gemini-3-5-pro-was-supposed-to-launch-in-june-but-its-still-not-out",
+  "source": "The Verge, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-22T09:49:52"
+ },
+ {
+  "name": "verge-china-ai",
+  "file": "verge-china-ai.png",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+  "source": "The Verge, Jul 2026",
+  "selector": null,
+  "captured_at": "2026-07-22T09:50:11"
+ },
+ {
+  "name": "google-gemini35-blog",
+  "file": "google-gemini35-blog.png",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+  "source": "Google Blog, May 2026",
+  "selector": null,
+  "captured_at": "2026-07-22T09:50:32"
+ }
+]

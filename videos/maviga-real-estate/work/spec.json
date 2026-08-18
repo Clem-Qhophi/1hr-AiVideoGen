@@ -1,0 +1,26 @@
+{
+  "format": "shortform-ad",
+  "client": "maviga-real-estate",
+  "product": "full-plots-of-land-dawhenya",
+  "campaign": "GHC 5,000 down. The land is yours.",
+  "runtime": { "target_min": 0.5, "tolerance": 0.08 },
+  "video": { "aspect": "9:16", "width": 1080, "height": 1920, "fps": 30 },
+  "source": "generated",
+  "voice": { "engine": "edge-tts", "name": "en-NG-AbeoNeural", "speed": 1.08 },
+  "captions": { "enabled": true, "style": "overlay", "emphasis": true, "vertical": true },
+  "motion": { "kind": "shots", "beat_seconds": 5.4 },
+  "sfx": { "enabled": true, "density": "low" },
+  "music": { "enabled": true, "bed": "ambient-pad", "gain_db": -3.8 },
+  "evidence": { "required": false, "min_on_screen": 0 },
+  "master": { "lufs": -14.0, "true_peak": -1.0 },
+  "notes": [
+    "Evidence gate opted out ('required': false): every claim on screen traces to the client's own approved flyers (videos/maviga-real-estate/assets/, 4 WhatsApp flyers, OCR-extracted 2026-08-11) - the flyer is the primary source, not a web capture. The flyer crops themselves (payment options, location block, scarcity line) appear ON SCREEN as framed components in the MVCash/MVLocation/MVScarcity shots, which is the honest evidence form for a client-media-only ad.",
+    "Client: Maviga Real Estate, land agency (Accra/Dawhenya GH). Contact 0540721425 (CALL/WHATSAPP) -> wa.me/233540721425, both from the master flyer.",
+    "Product: full plots 80x80 ft at Dawhenya, view of the Shai Mountains, site demarcated, road networks cleared (per flyer).",
+    "Prices (from master flyer, all three options shown on screen): CASH GHC 30,000 (3 months), GHC 35,000 (5,000 deposit + 30,000 in 6 months), GHC 40,000 (5,000 deposit + 35,000 in 12 months). 'JUST GHC 5,000 TO START' = the deposit, on flyer.",
+    "Scarcity: 'Only 20 plots left' is the client's own flyer line (plot-dawhenya.jpg), reconfirm with client before public.",
+    "Voice: en-NG-AbeoNeural per the standing region rule (Ghanaian brand -> West African accent; edge-tts has no en-GH, en-NG is closest). NOT the channel narrator voice.",
+    "Layout: safe zone respected (new make-ad rule #10) - no decision-critical content in the bottom 20% of the 9:16 frame.",
+    "Unconfirmed items (visible placeholders in preview): no site photos yet (plot schematic + flyer crops used instead), no map pin, buyer segment assumed local-first, viewing line = 'visit the site' (grounded in the flyer's own directions)."
+  ]
+}

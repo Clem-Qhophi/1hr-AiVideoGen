@@ -1,0 +1,40 @@
+{
+  "engine": "remotion-still",
+  "composition": "WaterHeaterFlushTruth",
+  "props": {
+    "headline": "IT'S COOKING",
+    "emphasis": "20-MIN FREE FIX",
+    "kicker": "YOUR WATER HEATER",
+    "sub": null,
+    "badge": null,
+    "accent": "hot",
+    "variant": "photo",
+    "image": "thumbs/001-water-heater-closet.jpg",
+    "image2": null,
+    "labelA": null,
+    "labelB": null,
+    "valueA": null,
+    "valueB": null,
+    "arrow": null,
+    "arrowAt": null,
+    "circleAt": [
+      45.0,
+      65.0,
+      16.0,
+      26.0
+    ],
+    "align": "left",
+    "pos": "top",
+    "focus": "50% 50%",
+    "punch": 1.0,
+    "wordmark": false,
+    "face": "persona/walt-combs-cutout.png",
+    "faceAt": [
+      87.0,
+      68.0
+    ],
+    "faceFocus": null,
+    "faceCutout": true
+  },
+  "shot": "remotion\\src\\shots\\thumbnails\\WaterHeaterFlushTruth.tsx"
+}

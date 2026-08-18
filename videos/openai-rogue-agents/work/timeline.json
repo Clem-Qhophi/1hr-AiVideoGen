@@ -1,0 +1,30 @@
+{
+  "master": "videos/openai-rogue-agents/reference/master.mp4",
+  "master_fps": 30,
+  "remotion_out": "remotion/out",
+  "shots": [
+    { "id": "Hook-openai-rogue-agents", "type": "cutaway", "master_in_s": 0, "master_out_s": 21, "cue": "July 4th / rebuilt / hacking" },
+    { "id": "StatCard-openai-rogue-agents", "type": "cutaway", "master_in_s": 9, "master_out_s": 17, "cue": "17,600" },
+    { "id": "AgentQuote", "type": "cutaway", "master_in_s": 78, "master_out_s": 88, "cue": "Help peer / collective" },
+    { "id": "Timeline", "type": "cutaway", "master_in_s": 128, "master_out_s": 140, "cue": "July 4th wiped / July 8 rebuilt" },
+    { "id": "AttackChain", "type": "cutaway", "master_in_s": 170, "master_out_s": 184, "cue": "Hugging Face / Modal" },
+    { "id": "StatCard-openai-rogue-agents", "type": "cutaway", "master_in_s": 210, "master_out_s": 218, "cue": "17,600 hacking actions" },
+    { "id": "CambrianExplosion", "type": "cutaway", "master_in_s": 255, "master_out_s": 265, "cue": "Cambrian explosion" },
+    { "id": "DaltonQuote", "type": "cutaway", "master_in_s": 315, "master_out_s": 325, "cue": "Dalton / attacks are real" },
+    { "id": "CloseCTA-openai-rogue-agents", "type": "cutaway", "master_in_s": 420, "master_out_s": 440, "cue": "subscribe / swarm" }
+  ],
+  "reframes": [
+    { "in_s": 21, "out_s": 63, "scale": 1.08, "ease": "push", "ramp_s": 2, "anchor": [0.5, 0.42] },
+    { "in_s": 88, "out_s": 128, "scale": 1.05, "ease": "push", "ramp_s": 2, "anchor": [0.5, 0.42] },
+    { "in_s": 140, "out_s": 170, "scale": 1.1, "ease": "push", "ramp_s": 2, "anchor": [0.5, 0.42] },
+    { "in_s": 265, "out_s": 315, "scale": 1.06, "ease": "push", "ramp_s": 2, "anchor": [0.5, 0.42] },
+    { "in_s": 325, "out_s": 420, "scale": 1.08, "ease": "push", "ramp_s": 2, "anchor": [0.5, 0.42] }
+  ],
+  "preview": {
+    "end_s": 457.42,
+    "out": "videos/openai-rogue-agents/output/openai-rogue-agents-preview.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30
+  }
+}

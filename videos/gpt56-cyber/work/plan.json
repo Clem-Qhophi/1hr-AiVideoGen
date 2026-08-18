@@ -1,0 +1,47 @@
+{
+  "slug": "gpt56-cyber",
+  "channel": "AI Under 3 Min",
+  "channel_persona_file": "channel-persona.ai-news.json",
+  "niche": "ai-news",
+  "format": "single-story",
+  "source": {
+    "type": "ai-release-intake",
+    "route": "/ai-release-intake",
+    "topic": "OpenAI ships GPT-5.6-Cyber (Aug 10 2026) — a cyber-specific version of GPT-5.6 Sol under Daybreak Red. Completes 95.0% of advanced cyber attack tasks in ExploitGym vs 1.5% for Sol with standard safeguards. Real findings: 2 unknown V8 bugs (CVE-2026-15903 fixed), 5+ mobile-OS vulns, 3 critical database vulns, 400+ kernel LPEs. $12.50/$75 per M tokens, access-gated (Daybreak approval, hardware keys from Sept 1).",
+    "angle": "split-brain story: same model family, two answers — 95% vs 1.5% is a policy choice baked into weights. Retention loop: the last number in OpenAI's own report (Cyber is WORSE than Sol at vulnerability report writing) is the one nobody is reporting.",
+    "research_note": "Primary sources read start-to-finish: openai.com announcement 'Expanding Daybreak as the Cyber Defense Window Narrows' (Aug 10), openai.com/daybreak, developers.openai.com model pricing page, NVD CVE-2026-15903. OpenAI announcement + Daybreak pages bot-blocked for capture (blank across 3 attempts, waits up to 25s) — kept in evidence set with on-screen 'live capture blocked — source text verified directly' disclosure per EVOLUTION lesson 'Some official sources are unusable'. Pricing page + NVD captured clean and validated OK."
+  },
+  "persona": {
+    "delivery_mode": "breaking-news",
+    "tone_flavor": "precise, fast, no filler; names the catch; analyst voice",
+    "voice_id": "en-US-AndrewNeural",
+    "tts_provider": "edge-tts (free)"
+  },
+  "target_seconds": 360,
+  "target_minutes": 6,
+  "aspect": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "goal": "authority",
+  "audience": "mixed",
+  "conversion": "nothing",
+  "honesty_guard": "see niches/ai-news.json script.honesty_guard + recency_guard — every number needs a real captured source; the 95.0/1.5/2.0/57.3 table is OpenAI self-reported, attributed to the announcement out loud. Distinguish 'announced' from 'fixed' (CVE-2026-15903) from 'under disclosure' (second V8 bug). Recency: state 'as of the announcement, Aug 10' on screen.",
+  "brand_promise_note": "phase 1 (cold-open-claim + context + verdict) hard-capped ~170s (~485 words at Andrew's measured rate) regardless of total length — see niches/ai-news.json script.structure. Turnaround angle worked once (close: 'we tracked this one the day it dropped').",
+  "visual_pipeline": "make-tsx (shortform-explainer) + suggest-sfx + packaging, per this niche's established convention",
+  "stage": "script-approved",
+  "stages": {
+    "intake": { "status": "done", "note": "ai-release-intake audit: OpenAI announcement + Daybreak page + model pricing + NVD CVE-2026-15903 read in full. All numbers re-verified live at write time (recency_guard). Evidence: 2 clean captures (pricing, NVD) + 2 bot-blocked (announcement, Daybreak) wired with on-screen disclosure. Runtime 6 min confirmed by user at intake." },
+    "script": { "status": "done", "note": "work/script.md — 1,039 spoken words (~6:04 at 171.4 wpm). lint_script CLARITY GATE PASSED (2nd-person warning only, 1.6/100). Phase-1 ~452 words inside the 170s cap. User approved at script gate (2026-08-11)." },
+    "voiceover": { "status": "pending", "note": "edge-tts AndrewNeural @ +15% (1.15x), the persona-locked ai-news voice." },
+    "word_timing": { "status": "pending", "note": "align_asr (AssemblyAI) -> edited-transcript.json. Do NOT ship proportional when AssemblyAI is available." },
+    "master": { "status": "pending", "note": "reference/master.mp4 from VO + captioned-later chain; spec says captions burned, so master is the raw VO bed." },
+    "make_tsx": { "status": "pending", "note": "shots: split-brain 95/1.5 graphic, 4-way table, V8/CVE card, pricing capture, NVD capture, disclosure frames for bot-blocked pages, mid-roll CTA, close CTA. RMBg PNG for static background." },
+    "captions": { "status": "pending", "note": "burned ASS (NOT ProRes overlay — 50-min lesson), gen_captions_ass.py, burn after bake, sfx render.preview points at captioned file." },
+    "sfx": { "status": "pending", "note": "library-first, medium density, tech-pulse bed @ -6 (niche value)." },
+    "packaging": { "status": "pending", "note": "1 title + 1 thumbnail (standing rule), format tag via track_performance.py." },
+    "final_mix": { "status": "pending", "note": "-14 LUFS / -1.0 dBTP." },
+    "deliverable_check": { "status": "pending", "note": "check_deliverable.py must pass — captions gate hard-fails ProRes overlay." },
+    "upload": { "status": "pending", "note": "PRIVATE draft via yt_upload.py; user flips public per 1-long-form-per-day cadence." }
+  },
+  "cost_usd": 0.0
+}

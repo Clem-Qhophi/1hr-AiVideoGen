@@ -1,0 +1,5315 @@
+{
+ "words": [
+  {
+   "text": "Your",
+   "start": 100,
+   "end": 325
+  },
+  {
+   "text": "Alexa",
+   "start": 350,
+   "end": 800
+  },
+  {
+   "text": "is",
+   "start": 812,
+   "end": 962
+  },
+  {
+   "text": "about",
+   "start": 987,
+   "end": 1262
+  },
+  {
+   "text": "to",
+   "start": 1275,
+   "end": 1362
+  },
+  {
+   "text": "become",
+   "start": 1387,
+   "end": 1712
+  },
+  {
+   "text": "a",
+   "start": 1737,
+   "end": 1787
+  },
+  {
+   "text": "museum",
+   "start": 1800,
+   "end": 2300
+  },
+  {
+   "text": "piece",
+   "start": 2325,
+   "end": 2787
+  },
+  {
+   "text": "Neuralink",
+   "start": 3675,
+   "end": 4175
+  },
+  {
+   "text": "just",
+   "start": 4187,
+   "end": 4400
+  },
+  {
+   "text": "put",
+   "start": 4425,
+   "end": 4537
+  },
+  {
+   "text": "a",
+   "start": 4562,
+   "end": 4625
+  },
+  {
+   "text": "custom",
+   "start": 4650,
+   "end": 5037
+  },
+  {
+   "text": "AI",
+   "start": 5050,
+   "end": 5337
+  },
+  {
+   "text": "chip",
+   "start": 5362,
+   "end": 5625
+  },
+  {
+   "text": "directly",
+   "start": 5637,
+   "end": 6075
+  },
+  {
+   "text": "into",
+   "start": 6100,
+   "end": 6262
+  },
+  {
+   "text": "the",
+   "start": 6287,
+   "end": 6375
+  },
+  {
+   "text": "human",
+   "start": 6387,
+   "end": 6725
+  },
+  {
+   "text": "motor",
+   "start": 6750,
+   "end": 7050
+  },
+  {
+   "text": "cortex",
+   "start": 7075,
+   "end": 7587
+  },
+  {
+   "text": "and",
+   "start": 7687,
+   "end": 7825
+  },
+  {
+   "text": "it",
+   "start": 7850,
+   "end": 7925
+  },
+  {
+   "text": "responds",
+   "start": 7950,
+   "end": 8462
+  },
+  {
+   "text": "in",
+   "start": 8487,
+   "end": 8587
+  },
+  {
+   "text": "under",
+   "start": 8612,
+   "end": 8837
+  },
+  {
+   "text": "fifty",
+   "start": 8850,
+   "end": 9162
+  },
+  {
+   "text": "milliseconds",
+   "start": 9175,
+   "end": 9937
+  },
+  {
+   "text": "That's",
+   "start": 10825,
+   "end": 11125
+  },
+  {
+   "text": "ten",
+   "start": 11150,
+   "end": 11362
+  },
+  {
+   "text": "times",
+   "start": 11387,
+   "end": 11712
+  },
+  {
+   "text": "faster",
+   "start": 11737,
+   "end": 12137
+  },
+  {
+   "text": "than",
+   "start": 12162,
+   "end": 12300
+  },
+  {
+   "text": "your",
+   "start": 12325,
+   "end": 12462
+  },
+  {
+   "text": "voice",
+   "start": 12487,
+   "end": 12750
+  },
+  {
+   "text": "assistant",
+   "start": 12775,
+   "end": 13375
+  },
+  {
+   "text": "No",
+   "start": 14250,
+   "end": 14537
+  },
+  {
+   "text": "wake",
+   "start": 14562,
+   "end": 14837
+  },
+  {
+   "text": "word",
+   "start": 14862,
+   "end": 15262
+  },
+  {
+   "text": "No",
+   "start": 16137,
+   "end": 16500
+  },
+  {
+   "text": "phone",
+   "start": 16525,
+   "end": 16962
+  },
+  {
+   "text": "No",
+   "start": 17825,
+   "end": 18175
+  },
+  {
+   "text": "hub",
+   "start": 18187,
+   "end": 18625
+  },
+  {
+   "text": "Just",
+   "start": 19500,
+   "end": 19837
+  },
+  {
+   "text": "thought",
+   "start": 19862,
+   "end": 20287
+  },
+  {
+   "text": "And",
+   "start": 21162,
+   "end": 21362
+  },
+  {
+   "text": "if",
+   "start": 21375,
+   "end": 21487
+  },
+  {
+   "text": "you",
+   "start": 21512,
+   "end": 21675
+  },
+  {
+   "text": "own",
+   "start": 21700,
+   "end": 21825
+  },
+  {
+   "text": "a",
+   "start": 21850,
+   "end": 21900
+  },
+  {
+   "text": "smart",
+   "start": 21925,
+   "end": 22225
+  },
+  {
+   "text": "home",
+   "start": 22250,
+   "end": 22450
+  },
+  {
+   "text": "company",
+   "start": 22475,
+   "end": 22862
+  },
+  {
+   "text": "this",
+   "start": 23050,
+   "end": 23225
+  },
+  {
+   "text": "is",
+   "start": 23250,
+   "end": 23362
+  },
+  {
+   "text": "the",
+   "start": 23387,
+   "end": 23487
+  },
+  {
+   "text": "moment",
+   "start": 23500,
+   "end": 23825
+  },
+  {
+   "text": "your",
+   "start": 23837,
+   "end": 23975
+  },
+  {
+   "text": "business",
+   "start": 23987,
+   "end": 24362
+  },
+  {
+   "text": "model",
+   "start": 24387,
+   "end": 24700
+  },
+  {
+   "text": "started",
+   "start": 24725,
+   "end": 25062
+  },
+  {
+   "text": "dying",
+   "start": 25087,
+   "end": 25487
+  },
+  {
+   "text": "Here's",
+   "start": 26375,
+   "end": 26662
+  },
+  {
+   "text": "where",
+   "start": 26687,
+   "end": 26875
+  },
+  {
+   "text": "things",
+   "start": 26900,
+   "end": 27162
+  },
+  {
+   "text": "stand",
+   "start": 27187,
+   "end": 27687
+  },
+  {
+   "text": "Neuralink's",
+   "start": 28575,
+   "end": 29175
+  },
+  {
+   "text": "N1",
+   "start": 29200,
+   "end": 29525
+  },
+  {
+   "text": "implant",
+   "start": 29550,
+   "end": 30012
+  },
+  {
+   "text": "called",
+   "start": 30162,
+   "end": 30387
+  },
+  {
+   "text": "Telepathy",
+   "start": 30412,
+   "end": 31062
+  },
+  {
+   "text": "is",
+   "start": 31275,
+   "end": 31425
+  },
+  {
+   "text": "already",
+   "start": 31450,
+   "end": 31850
+  },
+  {
+   "text": "in",
+   "start": 31875,
+   "end": 31987
+  },
+  {
+   "text": "twenty-one",
+   "start": 32000,
+   "end": 32487
+  },
+  {
+   "text": "human",
+   "start": 32512,
+   "end": 32850
+  },
+  {
+   "text": "patients",
+   "start": 32862,
+   "end": 33275
+  },
+  {
+   "text": "worldwide",
+   "start": 33287,
+   "end": 33962
+  },
+  {
+   "text": "These",
+   "start": 34850,
+   "end": 35100
+  },
+  {
+   "text": "are",
+   "start": 35125,
+   "end": 35212
+  },
+  {
+   "text": "people",
+   "start": 35225,
+   "end": 35512
+  },
+  {
+   "text": "with",
+   "start": 35537,
+   "end": 35662
+  },
+  {
+   "text": "paralysis",
+   "start": 35675,
+   "end": 36275
+  },
+  {
+   "text": "and",
+   "start": 36300,
+   "end": 36387
+  },
+  {
+   "text": "ALS",
+   "start": 36400,
+   "end": 36812
+  },
+  {
+   "text": "who",
+   "start": 36837,
+   "end": 36925
+  },
+  {
+   "text": "can",
+   "start": 36950,
+   "end": 37062
+  },
+  {
+   "text": "now",
+   "start": 37087,
+   "end": 37250
+  },
+  {
+   "text": "control",
+   "start": 37262,
+   "end": 37662
+  },
+  {
+   "text": "computers",
+   "start": 37687,
+   "end": 38212
+  },
+  {
+   "text": "smartphones",
+   "start": 38387,
+   "end": 39000
+  },
+  {
+   "text": "and",
+   "start": 39200,
+   "end": 39362
+  },
+  {
+   "text": "robotic",
+   "start": 39387,
+   "end": 39850
+  },
+  {
+   "text": "arms",
+   "start": 39875,
+   "end": 40150
+  },
+  {
+   "text": "using",
+   "start": 40175,
+   "end": 40450
+  },
+  {
+   "text": "only",
+   "start": 40475,
+   "end": 40675
+  },
+  {
+   "text": "their",
+   "start": 40687,
+   "end": 40825
+  },
+  {
+   "text": "thoughts",
+   "start": 40850,
+   "end": 41287
+  },
+  {
+   "text": "No",
+   "start": 42175,
+   "end": 42512
+  },
+  {
+   "text": "hands",
+   "start": 42525,
+   "end": 43150
+  },
+  {
+   "text": "No",
+   "start": 44025,
+   "end": 44312
+  },
+  {
+   "text": "voice",
+   "start": 44325,
+   "end": 44850
+  },
+  {
+   "text": "Just",
+   "start": 45725,
+   "end": 46075
+  },
+  {
+   "text": "intent",
+   "start": 46100,
+   "end": 46675
+  },
+  {
+   "text": "The",
+   "start": 47537,
+   "end": 47662
+  },
+  {
+   "text": "device",
+   "start": 47687,
+   "end": 48050
+  },
+  {
+   "text": "sits",
+   "start": 48075,
+   "end": 48300
+  },
+  {
+   "text": "in",
+   "start": 48312,
+   "end": 48400
+  },
+  {
+   "text": "a",
+   "start": 48425,
+   "end": 48487
+  },
+  {
+   "text": "coin-sized",
+   "start": 48500,
+   "end": 49087
+  },
+  {
+   "text": "housing",
+   "start": 49112,
+   "end": 49487
+  },
+  {
+   "text": "in",
+   "start": 49512,
+   "end": 49575
+  },
+  {
+   "text": "the",
+   "start": 49600,
+   "end": 49700
+  },
+  {
+   "text": "skull",
+   "start": 49725,
+   "end": 50087
+  },
+  {
+   "text": "with",
+   "start": 50350,
+   "end": 50512
+  },
+  {
+   "text": "sixty-four",
+   "start": 50537,
+   "end": 51100
+  },
+  {
+   "text": "flexible",
+   "start": 51112,
+   "end": 51637
+  },
+  {
+   "text": "threads",
+   "start": 51662,
+   "end": 51987
+  },
+  {
+   "text": "spreading",
+   "start": 52012,
+   "end": 52425
+  },
+  {
+   "text": "into",
+   "start": 52450,
+   "end": 52600
+  },
+  {
+   "text": "the",
+   "start": 52625,
+   "end": 52712
+  },
+  {
+   "text": "motor",
+   "start": 52725,
+   "end": 53012
+  },
+  {
+   "text": "cortex",
+   "start": 53037,
+   "end": 53675
+  },
+  {
+   "text": "Each",
+   "start": 54562,
+   "end": 54850
+  },
+  {
+   "text": "thread",
+   "start": 54875,
+   "end": 55150
+  },
+  {
+   "text": "carries",
+   "start": 55175,
+   "end": 55525
+  },
+  {
+   "text": "electrodes",
+   "start": 55550,
+   "end": 56175
+  },
+  {
+   "text": "thinner",
+   "start": 56187,
+   "end": 56487
+  },
+  {
+   "text": "than",
+   "start": 56512,
+   "end": 56662
+  },
+  {
+   "text": "a",
+   "start": 56687,
+   "end": 56725
+  },
+  {
+   "text": "human",
+   "start": 56737,
+   "end": 57087
+  },
+  {
+   "text": "hair",
+   "start": 57112,
+   "end": 57525
+  },
+  {
+   "text": "Together",
+   "start": 58412,
+   "end": 58850
+  },
+  {
+   "text": "they",
+   "start": 59025,
+   "end": 59137
+  },
+  {
+   "text": "capture",
+   "start": 59162,
+   "end": 59550
+  },
+  {
+   "text": "the",
+   "start": 59575,
+   "end": 59662
+  },
+  {
+   "text": "electrical",
+   "start": 59687,
+   "end": 60237
+  },
+  {
+   "text": "signatures",
+   "start": 60262,
+   "end": 60837
+  },
+  {
+   "text": "of",
+   "start": 60862,
+   "end": 60962
+  },
+  {
+   "text": "individual",
+   "start": 60987,
+   "end": 61600
+  },
+  {
+   "text": "neurons",
+   "start": 61625,
+   "end": 62012
+  },
+  {
+   "text": "firing",
+   "start": 62037,
+   "end": 62462
+  },
+  {
+   "text": "and",
+   "start": 62575,
+   "end": 62662
+  },
+  {
+   "text": "translate",
+   "start": 62687,
+   "end": 63237
+  },
+  {
+   "text": "those",
+   "start": 63262,
+   "end": 63475
+  },
+  {
+   "text": "signals",
+   "start": 63500,
+   "end": 63912
+  },
+  {
+   "text": "into",
+   "start": 63937,
+   "end": 64137
+  },
+  {
+   "text": "digital",
+   "start": 64162,
+   "end": 64537
+  },
+  {
+   "text": "commands",
+   "start": 64562,
+   "end": 65000
+  },
+  {
+   "text": "in",
+   "start": 65025,
+   "end": 65137
+  },
+  {
+   "text": "real",
+   "start": 65162,
+   "end": 65350
+  },
+  {
+   "text": "time",
+   "start": 65362,
+   "end": 65750
+  },
+  {
+   "text": "This",
+   "start": 66637,
+   "end": 66887
+  },
+  {
+   "text": "isn't",
+   "start": 66912,
+   "end": 67212
+  },
+  {
+   "text": "a",
+   "start": 67237,
+   "end": 67300
+  },
+  {
+   "text": "concept",
+   "start": 67312,
+   "end": 68000
+  },
+  {
+   "text": "It's",
+   "start": 68875,
+   "end": 69112
+  },
+  {
+   "text": "working",
+   "start": 69125,
+   "end": 69537
+  },
+  {
+   "text": "today",
+   "start": 69562,
+   "end": 70037
+  },
+  {
+   "text": "Now",
+   "start": 70925,
+   "end": 71162
+  },
+  {
+   "text": "here's",
+   "start": 71175,
+   "end": 71475
+  },
+  {
+   "text": "what",
+   "start": 71500,
+   "end": 71675
+  },
+  {
+   "text": "changed",
+   "start": 71700,
+   "end": 72125
+  },
+  {
+   "text": "everything",
+   "start": 72150,
+   "end": 72662
+  },
+  {
+   "text": "Neuralink's",
+   "start": 73550,
+   "end": 74137
+  },
+  {
+   "text": "next-generation",
+   "start": 74150,
+   "end": 74975
+  },
+  {
+   "text": "N3",
+   "start": 75000,
+   "end": 75350
+  },
+  {
+   "text": "implant",
+   "start": 75375,
+   "end": 75787
+  },
+  {
+   "text": "doesn't",
+   "start": 75800,
+   "end": 76100
+  },
+  {
+   "text": "just",
+   "start": 76112,
+   "end": 76350
+  },
+  {
+   "text": "read",
+   "start": 76375,
+   "end": 76575
+  },
+  {
+   "text": "brain",
+   "start": 76600,
+   "end": 76837
+  },
+  {
+   "text": "signals",
+   "start": 76862,
+   "end": 77287
+  },
+  {
+   "text": "it",
+   "start": 77400,
+   "end": 77512
+  },
+  {
+   "text": "processes",
+   "start": 77537,
+   "end": 78075
+  },
+  {
+   "text": "them",
+   "start": 78100,
+   "end": 78250
+  },
+  {
+   "text": "on-device",
+   "start": 78275,
+   "end": 78950
+  },
+  {
+   "text": "The",
+   "start": 79837,
+   "end": 79962
+  },
+  {
+   "text": "chip",
+   "start": 79975,
+   "end": 80225
+  },
+  {
+   "text": "has",
+   "start": 80250,
+   "end": 80425
+  },
+  {
+   "text": "a",
+   "start": 80450,
+   "end": 80512
+  },
+  {
+   "text": "custom",
+   "start": 80537,
+   "end": 80925
+  },
+  {
+   "text": "ASIC",
+   "start": 80950,
+   "end": 81262
+  },
+  {
+   "text": "with",
+   "start": 81287,
+   "end": 81425
+  },
+  {
+   "text": "spiking",
+   "start": 81450,
+   "end": 81862
+  },
+  {
+   "text": "neural",
+   "start": 81875,
+   "end": 82175
+  },
+  {
+   "text": "network",
+   "start": 82200,
+   "end": 82575
+  },
+  {
+   "text": "cores",
+   "start": 82600,
+   "end": 82937
+  },
+  {
+   "text": "and",
+   "start": 82950,
+   "end": 83112
+  },
+  {
+   "text": "a",
+   "start": 83137,
+   "end": 83187
+  },
+  {
+   "text": "lightweight",
+   "start": 83212,
+   "end": 83587
+  },
+  {
+   "text": "transformer",
+   "start": 83612,
+   "end": 84225
+  },
+  {
+   "text": "accelerator",
+   "start": 84250,
+   "end": 85012
+  },
+  {
+   "text": "It",
+   "start": 85900,
+   "end": 86087
+  },
+  {
+   "text": "runs",
+   "start": 86112,
+   "end": 86337
+  },
+  {
+   "text": "its",
+   "start": 86362,
+   "end": 86512
+  },
+  {
+   "text": "AI",
+   "start": 86525,
+   "end": 86775
+  },
+  {
+   "text": "model",
+   "start": 86787,
+   "end": 87137
+  },
+  {
+   "text": "locally",
+   "start": 87162,
+   "end": 87537
+  },
+  {
+   "text": "processing",
+   "start": 87625,
+   "end": 88150
+  },
+  {
+   "text": "your",
+   "start": 88175,
+   "end": 88300
+  },
+  {
+   "text": "thoughts",
+   "start": 88325,
+   "end": 88612
+  },
+  {
+   "text": "in",
+   "start": 88625,
+   "end": 88737
+  },
+  {
+   "text": "real",
+   "start": 88762,
+   "end": 88950
+  },
+  {
+   "text": "time",
+   "start": 88975,
+   "end": 89275
+  },
+  {
+   "text": "in",
+   "start": 89375,
+   "end": 89475
+  },
+  {
+   "text": "under",
+   "start": 89487,
+   "end": 89700
+  },
+  {
+   "text": "fifty",
+   "start": 89725,
+   "end": 90037
+  },
+  {
+   "text": "milliseconds",
+   "start": 90062,
+   "end": 90775
+  },
+  {
+   "text": "within",
+   "start": 90987,
+   "end": 91262
+  },
+  {
+   "text": "a",
+   "start": 91287,
+   "end": 91350
+  },
+  {
+   "text": "one-milliwatt",
+   "start": 91375,
+   "end": 92037
+  },
+  {
+   "text": "power",
+   "start": 92050,
+   "end": 92337
+  },
+  {
+   "text": "envelope",
+   "start": 92362,
+   "end": 92887
+  },
+  {
+   "text": "Translation",
+   "start": 93750,
+   "end": 94425
+  },
+  {
+   "text": "the",
+   "start": 94562,
+   "end": 94687
+  },
+  {
+   "text": "AI",
+   "start": 94712,
+   "end": 95050
+  },
+  {
+   "text": "that",
+   "start": 95075,
+   "end": 95225
+  },
+  {
+   "text": "decodes",
+   "start": 95250,
+   "end": 95687
+  },
+  {
+   "text": "your",
+   "start": 95712,
+   "end": 95850
+  },
+  {
+   "text": "thoughts",
+   "start": 95862,
+   "end": 96150
+  },
+  {
+   "text": "lives",
+   "start": 96175,
+   "end": 96525
+  },
+  {
+   "text": "inside",
+   "start": 96550,
+   "end": 96900
+  },
+  {
+   "text": "your",
+   "start": 96912,
+   "end": 97037
+  },
+  {
+   "text": "skull",
+   "start": 97050,
+   "end": 97487
+  },
+  {
+   "text": "It",
+   "start": 98375,
+   "end": 98587
+  },
+  {
+   "text": "doesn't",
+   "start": 98612,
+   "end": 98962
+  },
+  {
+   "text": "need",
+   "start": 98975,
+   "end": 99200
+  },
+  {
+   "text": "the",
+   "start": 99225,
+   "end": 99312
+  },
+  {
+   "text": "cloud",
+   "start": 99337,
+   "end": 99787
+  },
+  {
+   "text": "It",
+   "start": 100662,
+   "end": 100875
+  },
+  {
+   "text": "doesn't",
+   "start": 100900,
+   "end": 101237
+  },
+  {
+   "text": "need",
+   "start": 101250,
+   "end": 101462
+  },
+  {
+   "text": "Wi-Fi",
+   "start": 101487,
+   "end": 102100
+  },
+  {
+   "text": "It",
+   "start": 102975,
+   "end": 103150
+  },
+  {
+   "text": "doesn't",
+   "start": 103175,
+   "end": 103475
+  },
+  {
+   "text": "need",
+   "start": 103500,
+   "end": 103662
+  },
+  {
+   "text": "a",
+   "start": 103687,
+   "end": 103737
+  },
+  {
+   "text": "hub",
+   "start": 103762,
+   "end": 104025
+  },
+  {
+   "text": "sitting",
+   "start": 104050,
+   "end": 104400
+  },
+  {
+   "text": "on",
+   "start": 104425,
+   "end": 104537
+  },
+  {
+   "text": "your",
+   "start": 104562,
+   "end": 104700
+  },
+  {
+   "text": "shelf",
+   "start": 104712,
+   "end": 104987
+  },
+  {
+   "text": "collecting",
+   "start": 105012,
+   "end": 105500
+  },
+  {
+   "text": "dust",
+   "start": 105512,
+   "end": 105962
+  },
+  {
+   "text": "That",
+   "start": 106837,
+   "end": 107050
+  },
+  {
+   "text": "fifty-millisecond",
+   "start": 107075,
+   "end": 108012
+  },
+  {
+   "text": "number",
+   "start": 108025,
+   "end": 108325
+  },
+  {
+   "text": "means",
+   "start": 108350,
+   "end": 108562
+  },
+  {
+   "text": "your",
+   "start": 108587,
+   "end": 108712
+  },
+  {
+   "text": "house",
+   "start": 108737,
+   "end": 108962
+  },
+  {
+   "text": "responds",
+   "start": 108987,
+   "end": 109475
+  },
+  {
+   "text": "before",
+   "start": 109500,
+   "end": 109837
+  },
+  {
+   "text": "your",
+   "start": 109862,
+   "end": 110000
+  },
+  {
+   "text": "mouth",
+   "start": 110012,
+   "end": 110250
+  },
+  {
+   "text": "finishes",
+   "start": 110275,
+   "end": 110700
+  },
+  {
+   "text": "saying",
+   "start": 110725,
+   "end": 111000
+  },
+  {
+   "text": "turn",
+   "start": 111062,
+   "end": 111300
+  },
+  {
+   "text": "on",
+   "start": 111325,
+   "end": 111412
+  },
+  {
+   "text": "the",
+   "start": 111425,
+   "end": 111500
+  },
+  {
+   "text": "lights",
+   "start": 111512,
+   "end": 111925
+  },
+  {
+   "text": "Compare",
+   "start": 112787,
+   "end": 113162
+  },
+  {
+   "text": "that",
+   "start": 113187,
+   "end": 113375
+  },
+  {
+   "text": "to",
+   "start": 113400,
+   "end": 113487
+  },
+  {
+   "text": "your",
+   "start": 113512,
+   "end": 113687
+  },
+  {
+   "text": "current",
+   "start": 113712,
+   "end": 114050
+  },
+  {
+   "text": "smart",
+   "start": 114075,
+   "end": 114375
+  },
+  {
+   "text": "home",
+   "start": 114400,
+   "end": 114612
+  },
+  {
+   "text": "setup",
+   "start": 114637,
+   "end": 115075
+  },
+  {
+   "text": "You",
+   "start": 115950,
+   "end": 116137
+  },
+  {
+   "text": "say",
+   "start": 116162,
+   "end": 116437
+  },
+  {
+   "text": "Alexa",
+   "start": 116525,
+   "end": 116987
+  },
+  {
+   "text": "turn",
+   "start": 117162,
+   "end": 117400
+  },
+  {
+   "text": "on",
+   "start": 117425,
+   "end": 117525
+  },
+  {
+   "text": "the",
+   "start": 117550,
+   "end": 117625
+  },
+  {
+   "text": "lights",
+   "start": 117637,
+   "end": 118075
+  },
+  {
+   "text": "The",
+   "start": 118937,
+   "end": 119087
+  },
+  {
+   "text": "wake",
+   "start": 119100,
+   "end": 119337
+  },
+  {
+   "text": "word",
+   "start": 119350,
+   "end": 119575
+  },
+  {
+   "text": "travels",
+   "start": 119587,
+   "end": 120050
+  },
+  {
+   "text": "to",
+   "start": 120075,
+   "end": 120162
+  },
+  {
+   "text": "the",
+   "start": 120175,
+   "end": 120300
+  },
+  {
+   "text": "speaker",
+   "start": 120325,
+   "end": 120850
+  },
+  {
+   "text": "The",
+   "start": 121725,
+   "end": 121875
+  },
+  {
+   "text": "speaker",
+   "start": 121900,
+   "end": 122312
+  },
+  {
+   "text": "sends",
+   "start": 122337,
+   "end": 122650
+  },
+  {
+   "text": "it",
+   "start": 122675,
+   "end": 122787
+  },
+  {
+   "text": "to",
+   "start": 122812,
+   "end": 122912
+  },
+  {
+   "text": "the",
+   "start": 122937,
+   "end": 123062
+  },
+  {
+   "text": "cloud",
+   "start": 123087,
+   "end": 123562
+  },
+  {
+   "text": "The",
+   "start": 124437,
+   "end": 124587
+  },
+  {
+   "text": "cloud",
+   "start": 124612,
+   "end": 124950
+  },
+  {
+   "text": "processes",
+   "start": 124975,
+   "end": 125600
+  },
+  {
+   "text": "it",
+   "start": 125612,
+   "end": 125825
+  },
+  {
+   "text": "The",
+   "start": 126700,
+   "end": 126837
+  },
+  {
+   "text": "response",
+   "start": 126850,
+   "end": 127362
+  },
+  {
+   "text": "travels",
+   "start": 127375,
+   "end": 127812
+  },
+  {
+   "text": "back",
+   "start": 127837,
+   "end": 128237
+  },
+  {
+   "text": "Total",
+   "start": 129112,
+   "end": 129487
+  },
+  {
+   "text": "round",
+   "start": 129512,
+   "end": 129750
+  },
+  {
+   "text": "trip",
+   "start": 129762,
+   "end": 130037
+  },
+  {
+   "text": "five",
+   "start": 130225,
+   "end": 130512
+  },
+  {
+   "text": "hundred",
+   "start": 130525,
+   "end": 130850
+  },
+  {
+   "text": "milliseconds",
+   "start": 130862,
+   "end": 131550
+  },
+  {
+   "text": "to",
+   "start": 131575,
+   "end": 131662
+  },
+  {
+   "text": "two",
+   "start": 131687,
+   "end": 131875
+  },
+  {
+   "text": "seconds",
+   "start": 131900,
+   "end": 132487
+  },
+  {
+   "text": "Sometimes",
+   "start": 133362,
+   "end": 134025
+  },
+  {
+   "text": "longer",
+   "start": 134050,
+   "end": 134562
+  },
+  {
+   "text": "Sometimes",
+   "start": 135437,
+   "end": 136050
+  },
+  {
+   "text": "it",
+   "start": 136075,
+   "end": 136175
+  },
+  {
+   "text": "doesn't",
+   "start": 136200,
+   "end": 136512
+  },
+  {
+   "text": "hear",
+   "start": 136537,
+   "end": 136737
+  },
+  {
+   "text": "you",
+   "start": 136762,
+   "end": 136912
+  },
+  {
+   "text": "at",
+   "start": 136937,
+   "end": 137012
+  },
+  {
+   "text": "all",
+   "start": 137037,
+   "end": 137425
+  },
+  {
+   "text": "Neuralink's",
+   "start": 138300,
+   "end": 138925
+  },
+  {
+   "text": "neural",
+   "start": 138950,
+   "end": 139300
+  },
+  {
+   "text": "interface",
+   "start": 139325,
+   "end": 139862
+  },
+  {
+   "text": "cuts",
+   "start": 139887,
+   "end": 140150
+  },
+  {
+   "text": "that",
+   "start": 140162,
+   "end": 140300
+  },
+  {
+   "text": "to",
+   "start": 140325,
+   "end": 140437
+  },
+  {
+   "text": "under",
+   "start": 140462,
+   "end": 140737
+  },
+  {
+   "text": "fifty",
+   "start": 140750,
+   "end": 141112
+  },
+  {
+   "text": "milliseconds",
+   "start": 141137,
+   "end": 141950
+  },
+  {
+   "text": "That's",
+   "start": 142837,
+   "end": 143150
+  },
+  {
+   "text": "the",
+   "start": 143162,
+   "end": 143275
+  },
+  {
+   "text": "time",
+   "start": 143300,
+   "end": 143575
+  },
+  {
+   "text": "it",
+   "start": 143587,
+   "end": 143687
+  },
+  {
+   "text": "takes",
+   "start": 143712,
+   "end": 143975
+  },
+  {
+   "text": "to",
+   "start": 144000,
+   "end": 144100
+  },
+  {
+   "text": "blink",
+   "start": 144112,
+   "end": 144550
+  },
+  {
+   "text": "Your",
+   "start": 145412,
+   "end": 145637
+  },
+  {
+   "text": "house",
+   "start": 145662,
+   "end": 145887
+  },
+  {
+   "text": "responds",
+   "start": 145912,
+   "end": 146400
+  },
+  {
+   "text": "before",
+   "start": 146425,
+   "end": 146737
+  },
+  {
+   "text": "your",
+   "start": 146762,
+   "end": 146900
+  },
+  {
+   "text": "conscious",
+   "start": 146912,
+   "end": 147300
+  },
+  {
+   "text": "mind",
+   "start": 147312,
+   "end": 147550
+  },
+  {
+   "text": "finishes",
+   "start": 147575,
+   "end": 148025
+  },
+  {
+   "text": "forming",
+   "start": 148037,
+   "end": 148375
+  },
+  {
+   "text": "the",
+   "start": 148387,
+   "end": 148475
+  },
+  {
+   "text": "thought",
+   "start": 148487,
+   "end": 148887
+  },
+  {
+   "text": "And",
+   "start": 149762,
+   "end": 149937
+  },
+  {
+   "text": "this",
+   "start": 149962,
+   "end": 150162
+  },
+  {
+   "text": "isn't",
+   "start": 150187,
+   "end": 150475
+  },
+  {
+   "text": "happening",
+   "start": 150487,
+   "end": 150975
+  },
+  {
+   "text": "in",
+   "start": 150987,
+   "end": 151087
+  },
+  {
+   "text": "isolation",
+   "start": 151112,
+   "end": 151887
+  },
+  {
+   "text": "Neuralink",
+   "start": 152762,
+   "end": 153312
+  },
+  {
+   "text": "announced",
+   "start": 153325,
+   "end": 153675
+  },
+  {
+   "text": "a",
+   "start": 153700,
+   "end": 153762
+  },
+  {
+   "text": "partnership",
+   "start": 153787,
+   "end": 154400
+  },
+  {
+   "text": "with",
+   "start": 154425,
+   "end": 154575
+  },
+  {
+   "text": "Samsung",
+   "start": 154600,
+   "end": 155087
+  },
+  {
+   "text": "earlier",
+   "start": 155112,
+   "end": 155487
+  },
+  {
+   "text": "this",
+   "start": 155512,
+   "end": 155687
+  },
+  {
+   "text": "year",
+   "start": 155712,
+   "end": 156075
+  },
+  {
+   "text": "Samsung",
+   "start": 156962,
+   "end": 157600
+  },
+  {
+   "text": "makes",
+   "start": 157625,
+   "end": 157875
+  },
+  {
+   "text": "the",
+   "start": 157900,
+   "end": 158000
+  },
+  {
+   "text": "chips",
+   "start": 158025,
+   "end": 158475
+  },
+  {
+   "text": "Neuralink",
+   "start": 159362,
+   "end": 159975
+  },
+  {
+   "text": "designs",
+   "start": 160000,
+   "end": 160500
+  },
+  {
+   "text": "the",
+   "start": 160512,
+   "end": 160625
+  },
+  {
+   "text": "neural",
+   "start": 160637,
+   "end": 160987
+  },
+  {
+   "text": "interface",
+   "start": 161012,
+   "end": 161700
+  },
+  {
+   "text": "Together",
+   "start": 162575,
+   "end": 163062
+  },
+  {
+   "text": "they're",
+   "start": 163212,
+   "end": 163387
+  },
+  {
+   "text": "building",
+   "start": 163412,
+   "end": 163750
+  },
+  {
+   "text": "the",
+   "start": 163775,
+   "end": 163862
+  },
+  {
+   "text": "manufacturing",
+   "start": 163875,
+   "end": 164737
+  },
+  {
+   "text": "infrastructure",
+   "start": 164750,
+   "end": 165500
+  },
+  {
+   "text": "to",
+   "start": 165525,
+   "end": 165625
+  },
+  {
+   "text": "scale",
+   "start": 165637,
+   "end": 165950
+  },
+  {
+   "text": "this",
+   "start": 165962,
+   "end": 166150
+  },
+  {
+   "text": "from",
+   "start": 166175,
+   "end": 166375
+  },
+  {
+   "text": "twenty-one",
+   "start": 166400,
+   "end": 166912
+  },
+  {
+   "text": "patients",
+   "start": 166925,
+   "end": 167400
+  },
+  {
+   "text": "to",
+   "start": 167425,
+   "end": 167512
+  },
+  {
+   "text": "millions",
+   "start": 167525,
+   "end": 168075
+  },
+  {
+   "text": "The",
+   "start": 168950,
+   "end": 169100
+  },
+  {
+   "text": "Austin",
+   "start": 169125,
+   "end": 169500
+  },
+  {
+   "text": "factory",
+   "start": 169525,
+   "end": 169987
+  },
+  {
+   "text": "is",
+   "start": 170012,
+   "end": 170137
+  },
+  {
+   "text": "already",
+   "start": 170162,
+   "end": 170550
+  },
+  {
+   "text": "producing",
+   "start": 170575,
+   "end": 171087
+  },
+  {
+   "text": "N1",
+   "start": 171100,
+   "end": 171437
+  },
+  {
+   "text": "implants",
+   "start": 171450,
+   "end": 171887
+  },
+  {
+   "text": "at",
+   "start": 171900,
+   "end": 171962
+  },
+  {
+   "text": "volume",
+   "start": 171987,
+   "end": 172437
+  },
+  {
+   "text": "The",
+   "start": 173325,
+   "end": 173475
+  },
+  {
+   "text": "R1",
+   "start": 173500,
+   "end": 173837
+  },
+  {
+   "text": "surgical",
+   "start": 173862,
+   "end": 174337
+  },
+  {
+   "text": "robot",
+   "start": 174362,
+   "end": 174725
+  },
+  {
+   "text": "performs",
+   "start": 174737,
+   "end": 175175
+  },
+  {
+   "text": "the",
+   "start": 175200,
+   "end": 175287
+  },
+  {
+   "text": "implantation",
+   "start": 175312,
+   "end": 176025
+  },
+  {
+   "text": "with",
+   "start": 176037,
+   "end": 176175
+  },
+  {
+   "text": "precision",
+   "start": 176187,
+   "end": 176662
+  },
+  {
+   "text": "no",
+   "start": 176687,
+   "end": 176825
+  },
+  {
+   "text": "human",
+   "start": 176837,
+   "end": 177162
+  },
+  {
+   "text": "surgeon",
+   "start": 177187,
+   "end": 177587
+  },
+  {
+   "text": "can",
+   "start": 177612,
+   "end": 177762
+  },
+  {
+   "text": "match",
+   "start": 177787,
+   "end": 178062
+  },
+  {
+   "text": "threading",
+   "start": 178150,
+   "end": 178512
+  },
+  {
+   "text": "electrodes",
+   "start": 178537,
+   "end": 179062
+  },
+  {
+   "text": "into",
+   "start": 179087,
+   "end": 179250
+  },
+  {
+   "text": "the",
+   "start": 179275,
+   "end": 179375
+  },
+  {
+   "text": "cortex",
+   "start": 179387,
+   "end": 179850
+  },
+  {
+   "text": "while",
+   "start": 179862,
+   "end": 180037
+  },
+  {
+   "text": "avoiding",
+   "start": 180050,
+   "end": 180437
+  },
+  {
+   "text": "blood",
+   "start": 180450,
+   "end": 180687
+  },
+  {
+   "text": "vessels",
+   "start": 180712,
+   "end": 181112
+  },
+  {
+   "text": "all",
+   "start": 181350,
+   "end": 181525
+  },
+  {
+   "text": "in",
+   "start": 181550,
+   "end": 181625
+  },
+  {
+   "text": "a",
+   "start": 181637,
+   "end": 181700
+  },
+  {
+   "text": "procedure",
+   "start": 181712,
+   "end": 182200
+  },
+  {
+   "text": "Neuralink",
+   "start": 182212,
+   "end": 182675
+  },
+  {
+   "text": "wants",
+   "start": 182700,
+   "end": 182937
+  },
+  {
+   "text": "to",
+   "start": 182950,
+   "end": 183037
+  },
+  {
+   "text": "make",
+   "start": 183062,
+   "end": 183262
+  },
+  {
+   "text": "as",
+   "start": 183287,
+   "end": 183400
+  },
+  {
+   "text": "routine",
+   "start": 183412,
+   "end": 183787
+  },
+  {
+   "text": "as",
+   "start": 183812,
+   "end": 183925
+  },
+  {
+   "text": "LASIK",
+   "start": 183950,
+   "end": 184387
+  },
+  {
+   "text": "Here's",
+   "start": 185262,
+   "end": 185562
+  },
+  {
+   "text": "where",
+   "start": 185575,
+   "end": 185737
+  },
+  {
+   "text": "it",
+   "start": 185762,
+   "end": 185837
+  },
+  {
+   "text": "gets",
+   "start": 185862,
+   "end": 186075
+  },
+  {
+   "text": "personal",
+   "start": 186100,
+   "end": 186575
+  },
+  {
+   "text": "for",
+   "start": 186600,
+   "end": 186800
+  },
+  {
+   "text": "anyone",
+   "start": 186812,
+   "end": 187225
+  },
+  {
+   "text": "with",
+   "start": 187250,
+   "end": 187375
+  },
+  {
+   "text": "a",
+   "start": 187400,
+   "end": 187462
+  },
+  {
+   "text": "smart",
+   "start": 187475,
+   "end": 187775
+  },
+  {
+   "text": "home",
+   "start": 187800,
+   "end": 188162
+  },
+  {
+   "text": "Neuralink's",
+   "start": 189050,
+   "end": 189625
+  },
+  {
+   "text": "platform",
+   "start": 189637,
+   "end": 190162
+  },
+  {
+   "text": "already",
+   "start": 190187,
+   "end": 190587
+  },
+  {
+   "text": "supports",
+   "start": 190612,
+   "end": 191062
+  },
+  {
+   "text": "direct",
+   "start": 191075,
+   "end": 191462
+  },
+  {
+   "text": "API",
+   "start": 191475,
+   "end": 191912
+  },
+  {
+   "text": "integration",
+   "start": 191937,
+   "end": 192550
+  },
+  {
+   "text": "with",
+   "start": 192575,
+   "end": 192712
+  },
+  {
+   "text": "external",
+   "start": 192737,
+   "end": 193200
+  },
+  {
+   "text": "devices",
+   "start": 193212,
+   "end": 193825
+  },
+  {
+   "text": "Patients",
+   "start": 194712,
+   "end": 195137
+  },
+  {
+   "text": "are",
+   "start": 195162,
+   "end": 195250
+  },
+  {
+   "text": "controlling",
+   "start": 195275,
+   "end": 195800
+  },
+  {
+   "text": "wheelchairs",
+   "start": 195825,
+   "end": 196375
+  },
+  {
+   "text": "robotic",
+   "start": 196525,
+   "end": 196975
+  },
+  {
+   "text": "arms",
+   "start": 197000,
+   "end": 197300
+  },
+  {
+   "text": "and",
+   "start": 197462,
+   "end": 197612
+  },
+  {
+   "text": "yes",
+   "start": 197637,
+   "end": 197875
+  },
+  {
+   "text": "smart",
+   "start": 197987,
+   "end": 198287
+  },
+  {
+   "text": "home",
+   "start": 198312,
+   "end": 198512
+  },
+  {
+   "text": "systems",
+   "start": 198537,
+   "end": 199000
+  },
+  {
+   "text": "through",
+   "start": 199112,
+   "end": 199312
+  },
+  {
+   "text": "thought",
+   "start": 199337,
+   "end": 199537
+  },
+  {
+   "text": "alone",
+   "start": 199562,
+   "end": 199987
+  },
+  {
+   "text": "But",
+   "start": 200980,
+   "end": 201155
+  },
+  {
+   "text": "the",
+   "start": 201180,
+   "end": 201292
+  },
+  {
+   "text": "current",
+   "start": 201317,
+   "end": 201617
+  },
+  {
+   "text": "system",
+   "start": 201642,
+   "end": 202080
+  },
+  {
+   "text": "still",
+   "start": 202105,
+   "end": 202405
+  },
+  {
+   "text": "routes",
+   "start": 202430,
+   "end": 202730
+  },
+  {
+   "text": "through",
+   "start": 202755,
+   "end": 202942
+  },
+  {
+   "text": "a",
+   "start": 202967,
+   "end": 203030
+  },
+  {
+   "text": "smartphone",
+   "start": 203055,
+   "end": 203680
+  },
+  {
+   "text": "as",
+   "start": 203692,
+   "end": 203842
+  },
+  {
+   "text": "an",
+   "start": 203867,
+   "end": 203967
+  },
+  {
+   "text": "intermediary",
+   "start": 203992,
+   "end": 204855
+  },
+  {
+   "text": "The",
+   "start": 205730,
+   "end": 205880
+  },
+  {
+   "text": "N3",
+   "start": 205905,
+   "end": 206417
+  },
+  {
+   "text": "removes",
+   "start": 206430,
+   "end": 206892
+  },
+  {
+   "text": "that",
+   "start": 206917,
+   "end": 207055
+  },
+  {
+   "text": "step",
+   "start": 207080,
+   "end": 207355
+  },
+  {
+   "text": "entirely",
+   "start": 207367,
+   "end": 208030
+  },
+  {
+   "text": "Direct",
+   "start": 208917,
+   "end": 209367
+  },
+  {
+   "text": "brain-to-device",
+   "start": 209380,
+   "end": 210117
+  },
+  {
+   "text": "communication",
+   "start": 210142,
+   "end": 211030
+  },
+  {
+   "text": "No",
+   "start": 211917,
+   "end": 212280
+  },
+  {
+   "text": "phone",
+   "start": 212305,
+   "end": 212742
+  },
+  {
+   "text": "No",
+   "start": 213605,
+   "end": 213955
+  },
+  {
+   "text": "hub",
+   "start": 213967,
+   "end": 214405
+  },
+  {
+   "text": "No",
+   "start": 215280,
+   "end": 215530
+  },
+  {
+   "text": "voice",
+   "start": 215542,
+   "end": 215792
+  },
+  {
+   "text": "assistant",
+   "start": 215817,
+   "end": 216305
+  },
+  {
+   "text": "processing",
+   "start": 216317,
+   "end": 216842
+  },
+  {
+   "text": "your",
+   "start": 216867,
+   "end": 217005
+  },
+  {
+   "text": "commands",
+   "start": 217030,
+   "end": 217517
+  },
+  {
+   "text": "through",
+   "start": 217542,
+   "end": 217730
+  },
+  {
+   "text": "a",
+   "start": 217755,
+   "end": 217817
+  },
+  {
+   "text": "server",
+   "start": 217830,
+   "end": 218217
+  },
+  {
+   "text": "farm",
+   "start": 218242,
+   "end": 218505
+  },
+  {
+   "text": "in",
+   "start": 218517,
+   "end": 218605
+  },
+  {
+   "text": "Virginia",
+   "start": 218617,
+   "end": 219192
+  },
+  {
+   "text": "Think",
+   "start": 220067,
+   "end": 220392
+  },
+  {
+   "text": "about",
+   "start": 220405,
+   "end": 220692
+  },
+  {
+   "text": "what",
+   "start": 220717,
+   "end": 220917
+  },
+  {
+   "text": "this",
+   "start": 220942,
+   "end": 221130
+  },
+  {
+   "text": "means",
+   "start": 221155,
+   "end": 221680
+  },
+  {
+   "text": "Every",
+   "start": 222542,
+   "end": 222842
+  },
+  {
+   "text": "smart",
+   "start": 222867,
+   "end": 223142
+  },
+  {
+   "text": "home",
+   "start": 223167,
+   "end": 223367
+  },
+  {
+   "text": "company",
+   "start": 223392,
+   "end": 223792
+  },
+  {
+   "text": "Amazon",
+   "start": 223880,
+   "end": 224392
+  },
+  {
+   "text": "Google",
+   "start": 224542,
+   "end": 224892
+  },
+  {
+   "text": "Apple",
+   "start": 225080,
+   "end": 225355
+  },
+  {
+   "text": "Samsung",
+   "start": 225542,
+   "end": 226080
+  },
+  {
+   "text": "has",
+   "start": 226180,
+   "end": 226330
+  },
+  {
+   "text": "built",
+   "start": 226355,
+   "end": 226592
+  },
+  {
+   "text": "its",
+   "start": 226617,
+   "end": 226742
+  },
+  {
+   "text": "entire",
+   "start": 226755,
+   "end": 227205
+  },
+  {
+   "text": "business",
+   "start": 227230,
+   "end": 227605
+  },
+  {
+   "text": "model",
+   "start": 227630,
+   "end": 227967
+  },
+  {
+   "text": "around",
+   "start": 227992,
+   "end": 228305
+  },
+  {
+   "text": "being",
+   "start": 228317,
+   "end": 228530
+  },
+  {
+   "text": "the",
+   "start": 228555,
+   "end": 228642
+  },
+  {
+   "text": "middleman",
+   "start": 228667,
+   "end": 229230
+  },
+  {
+   "text": "The",
+   "start": 230117,
+   "end": 230330
+  },
+  {
+   "text": "hub",
+   "start": 230342,
+   "end": 230792
+  },
+  {
+   "text": "The",
+   "start": 231655,
+   "end": 231855
+  },
+  {
+   "text": "speaker",
+   "start": 231867,
+   "end": 232542
+  },
+  {
+   "text": "The",
+   "start": 233405,
+   "end": 233617
+  },
+  {
+   "text": "app.",
+   "start": 233630,
+   "end": 234067
+  },
+  {
+   "text": "The",
+   "start": 234930,
+   "end": 235080
+  },
+  {
+   "text": "cloud",
+   "start": 235092,
+   "end": 235442
+  },
+  {
+   "text": "service",
+   "start": 235467,
+   "end": 236067
+  },
+  {
+   "text": "Neuralink",
+   "start": 236930,
+   "end": 237467
+  },
+  {
+   "text": "just",
+   "start": 237492,
+   "end": 237792
+  },
+  {
+   "text": "made",
+   "start": 237817,
+   "end": 238017
+  },
+  {
+   "text": "the",
+   "start": 238042,
+   "end": 238130
+  },
+  {
+   "text": "middleman",
+   "start": 238155,
+   "end": 238630
+  },
+  {
+   "text": "optional",
+   "start": 238655,
+   "end": 239180
+  },
+  {
+   "text": "If",
+   "start": 240067,
+   "end": 240242
+  },
+  {
+   "text": "your",
+   "start": 240267,
+   "end": 240405
+  },
+  {
+   "text": "brain",
+   "start": 240430,
+   "end": 240692
+  },
+  {
+   "text": "can",
+   "start": 240717,
+   "end": 240867
+  },
+  {
+   "text": "talk",
+   "start": 240892,
+   "end": 241117
+  },
+  {
+   "text": "directly",
+   "start": 241130,
+   "end": 241542
+  },
+  {
+   "text": "to",
+   "start": 241567,
+   "end": 241655
+  },
+  {
+   "text": "your",
+   "start": 241680,
+   "end": 241805
+  },
+  {
+   "text": "lights",
+   "start": 241830,
+   "end": 242142
+  },
+  {
+   "text": "your",
+   "start": 242317,
+   "end": 242442
+  },
+  {
+   "text": "thermostat",
+   "start": 242467,
+   "end": 243092
+  },
+  {
+   "text": "your",
+   "start": 243355,
+   "end": 243505
+  },
+  {
+   "text": "locks",
+   "start": 243530,
+   "end": 243855
+  },
+  {
+   "text": "why",
+   "start": 243955,
+   "end": 244092
+  },
+  {
+   "text": "do",
+   "start": 244117,
+   "end": 244205
+  },
+  {
+   "text": "you",
+   "start": 244217,
+   "end": 244305
+  },
+  {
+   "text": "need",
+   "start": 244330,
+   "end": 244492
+  },
+  {
+   "text": "a",
+   "start": 244517,
+   "end": 244580
+  },
+  {
+   "text": "plastic",
+   "start": 244592,
+   "end": 245005
+  },
+  {
+   "text": "cylinder",
+   "start": 245030,
+   "end": 245517
+  },
+  {
+   "text": "on",
+   "start": 245542,
+   "end": 245642
+  },
+  {
+   "text": "your",
+   "start": 245667,
+   "end": 245805
+  },
+  {
+   "text": "counter",
+   "start": 245830,
+   "end": 246180
+  },
+  {
+   "text": "listening",
+   "start": 246205,
+   "end": 246617
+  },
+  {
+   "text": "to",
+   "start": 246642,
+   "end": 246742
+  },
+  {
+   "text": "your",
+   "start": 246767,
+   "end": 246905
+  },
+  {
+   "text": "conversations",
+   "start": 246930,
+   "end": 247830
+  },
+  {
+   "text": "If",
+   "start": 248692,
+   "end": 248867
+  },
+  {
+   "text": "this",
+   "start": 248892,
+   "end": 249080
+  },
+  {
+   "text": "is",
+   "start": 249105,
+   "end": 249230
+  },
+  {
+   "text": "giving",
+   "start": 249255,
+   "end": 249542
+  },
+  {
+   "text": "you",
+   "start": 249555,
+   "end": 249667
+  },
+  {
+   "text": "the",
+   "start": 249692,
+   "end": 249817
+  },
+  {
+   "text": "full",
+   "start": 249830,
+   "end": 250055
+  },
+  {
+   "text": "picture",
+   "start": 250080,
+   "end": 250442
+  },
+  {
+   "text": "faster",
+   "start": 250467,
+   "end": 250867
+  },
+  {
+   "text": "than",
+   "start": 250892,
+   "end": 251042
+  },
+  {
+   "text": "anywhere",
+   "start": 251067,
+   "end": 251442
+  },
+  {
+   "text": "else",
+   "start": 251467,
+   "end": 251717
+  },
+  {
+   "text": "hit",
+   "start": 251880,
+   "end": 252017
+  },
+  {
+   "text": "subscribe",
+   "start": 252042,
+   "end": 252630
+  },
+  {
+   "text": "We",
+   "start": 253517,
+   "end": 253705
+  },
+  {
+   "text": "cover",
+   "start": 253730,
+   "end": 254030
+  },
+  {
+   "text": "these",
+   "start": 254055,
+   "end": 254255
+  },
+  {
+   "text": "breakthroughs",
+   "start": 254267,
+   "end": 254805
+  },
+  {
+   "text": "the",
+   "start": 254830,
+   "end": 254942
+  },
+  {
+   "text": "day",
+   "start": 254967,
+   "end": 255130
+  },
+  {
+   "text": "they",
+   "start": 255142,
+   "end": 255255
+  },
+  {
+   "text": "land",
+   "start": 255280,
+   "end": 255742
+  },
+  {
+   "text": "Let",
+   "start": 256617,
+   "end": 256867
+  },
+  {
+   "text": "me",
+   "start": 256892,
+   "end": 257005
+  },
+  {
+   "text": "show",
+   "start": 257030,
+   "end": 257292
+  },
+  {
+   "text": "you",
+   "start": 257305,
+   "end": 257467
+  },
+  {
+   "text": "this",
+   "start": 257492,
+   "end": 257680
+  },
+  {
+   "text": "isn't",
+   "start": 257705,
+   "end": 258017
+  },
+  {
+   "text": "theoretical",
+   "start": 258042,
+   "end": 258842
+  },
+  {
+   "text": "Noland",
+   "start": 259717,
+   "end": 260167
+  },
+  {
+   "text": "Arbaugh",
+   "start": 260192,
+   "end": 260555
+  },
+  {
+   "text": "Neuralink's",
+   "start": 260730,
+   "end": 261242
+  },
+  {
+   "text": "first",
+   "start": 261267,
+   "end": 261542
+  },
+  {
+   "text": "patient",
+   "start": 261567,
+   "end": 261980
+  },
+  {
+   "text": "controls",
+   "start": 262192,
+   "end": 262692
+  },
+  {
+   "text": "his",
+   "start": 262717,
+   "end": 262867
+  },
+  {
+   "text": "computer",
+   "start": 262892,
+   "end": 263367
+  },
+  {
+   "text": "cursor",
+   "start": 263392,
+   "end": 263755
+  },
+  {
+   "text": "with",
+   "start": 263780,
+   "end": 263905
+  },
+  {
+   "text": "his",
+   "start": 263930,
+   "end": 264080
+  },
+  {
+   "text": "thoughts",
+   "start": 264105,
+   "end": 264530
+  },
+  {
+   "text": "He",
+   "start": 265405,
+   "end": 265555
+  },
+  {
+   "text": "reported",
+   "start": 265567,
+   "end": 265967
+  },
+  {
+   "text": "that",
+   "start": 265980,
+   "end": 266105
+  },
+  {
+   "text": "the",
+   "start": 266130,
+   "end": 266242
+  },
+  {
+   "text": "cursor",
+   "start": 266267,
+   "end": 266655
+  },
+  {
+   "text": "sometimes",
+   "start": 266680,
+   "end": 267167
+  },
+  {
+   "text": "arrives",
+   "start": 267192,
+   "end": 267617
+  },
+  {
+   "text": "at",
+   "start": 267630,
+   "end": 267692
+  },
+  {
+   "text": "his",
+   "start": 267705,
+   "end": 267855
+  },
+  {
+   "text": "destination",
+   "start": 267880,
+   "end": 268517
+  },
+  {
+   "text": "before",
+   "start": 268530,
+   "end": 268805
+  },
+  {
+   "text": "he",
+   "start": 268830,
+   "end": 268930
+  },
+  {
+   "text": "consciously",
+   "start": 268955,
+   "end": 269517
+  },
+  {
+   "text": "realizes",
+   "start": 269530,
+   "end": 270080
+  },
+  {
+   "text": "where",
+   "start": 270105,
+   "end": 270255
+  },
+  {
+   "text": "he",
+   "start": 270280,
+   "end": 270380
+  },
+  {
+   "text": "wanted",
+   "start": 270405,
+   "end": 270742
+  },
+  {
+   "text": "it",
+   "start": 270767,
+   "end": 270842
+  },
+  {
+   "text": "to",
+   "start": 270867,
+   "end": 270980
+  },
+  {
+   "text": "go",
+   "start": 271005,
+   "end": 271342
+  },
+  {
+   "text": "The",
+   "start": 272230,
+   "end": 272380
+  },
+  {
+   "text": "system",
+   "start": 272405,
+   "end": 272792
+  },
+  {
+   "text": "anticipates",
+   "start": 272817,
+   "end": 273567
+  },
+  {
+   "text": "his",
+   "start": 273592,
+   "end": 273780
+  },
+  {
+   "text": "intent",
+   "start": 273792,
+   "end": 274330
+  },
+  {
+   "text": "Brad",
+   "start": 275217,
+   "end": 275505
+  },
+  {
+   "text": "Smith",
+   "start": 275530,
+   "end": 275867
+  },
+  {
+   "text": "a",
+   "start": 276005,
+   "end": 276067
+  },
+  {
+   "text": "father",
+   "start": 276092,
+   "end": 276417
+  },
+  {
+   "text": "with",
+   "start": 276442,
+   "end": 276580
+  },
+  {
+   "text": "late-stage",
+   "start": 276605,
+   "end": 277117
+  },
+  {
+   "text": "ALS",
+   "start": 277142,
+   "end": 277667
+  },
+  {
+   "text": "uses",
+   "start": 277905,
+   "end": 278205
+  },
+  {
+   "text": "his",
+   "start": 278230,
+   "end": 278392
+  },
+  {
+   "text": "implant",
+   "start": 278417,
+   "end": 278817
+  },
+  {
+   "text": "to",
+   "start": 278830,
+   "end": 278930
+  },
+  {
+   "text": "control",
+   "start": 278955,
+   "end": 279380
+  },
+  {
+   "text": "a",
+   "start": 279405,
+   "end": 279455
+  },
+  {
+   "text": "three-hundred-and-sixty-degree",
+   "start": 279480,
+   "end": 280805
+  },
+  {
+   "text": "camera",
+   "start": 280830,
+   "end": 281230
+  },
+  {
+   "text": "on",
+   "start": 281242,
+   "end": 281355
+  },
+  {
+   "text": "his",
+   "start": 281367,
+   "end": 281505
+  },
+  {
+   "text": "wheelchair",
+   "start": 281517,
+   "end": 282117
+  },
+  {
+   "text": "He",
+   "start": 283005,
+   "end": 283155
+  },
+  {
+   "text": "watches",
+   "start": 283180,
+   "end": 283555
+  },
+  {
+   "text": "his",
+   "start": 283580,
+   "end": 283742
+  },
+  {
+   "text": "kids",
+   "start": 283767,
+   "end": 284067
+  },
+  {
+   "text": "at",
+   "start": 284092,
+   "end": 284167
+  },
+  {
+   "text": "the",
+   "start": 284192,
+   "end": 284305
+  },
+  {
+   "text": "park",
+   "start": 284330,
+   "end": 284617
+  },
+  {
+   "text": "by",
+   "start": 284630,
+   "end": 284767
+  },
+  {
+   "text": "thinking",
+   "start": 284792,
+   "end": 285167
+  },
+  {
+   "text": "about",
+   "start": 285180,
+   "end": 285442
+  },
+  {
+   "text": "where",
+   "start": 285467,
+   "end": 285630
+  },
+  {
+   "text": "to",
+   "start": 285655,
+   "end": 285742
+  },
+  {
+   "text": "look",
+   "start": 285767,
+   "end": 286117
+  },
+  {
+   "text": "No",
+   "start": 286992,
+   "end": 287330
+  },
+  {
+   "text": "hands",
+   "start": 287342,
+   "end": 287967
+  },
+  {
+   "text": "No",
+   "start": 288842,
+   "end": 289130
+  },
+  {
+   "text": "voice",
+   "start": 289142,
+   "end": 289667
+  },
+  {
+   "text": "Just",
+   "start": 290542,
+   "end": 290880
+  },
+  {
+   "text": "attention",
+   "start": 290905,
+   "end": 291517
+  },
+  {
+   "text": "Jake",
+   "start": 292380,
+   "end": 292755
+  },
+  {
+   "text": "another",
+   "start": 292905,
+   "end": 293242
+  },
+  {
+   "text": "patient",
+   "start": 293267,
+   "end": 293655
+  },
+  {
+   "text": "types",
+   "start": 293917,
+   "end": 294205
+  },
+  {
+   "text": "at",
+   "start": 294217,
+   "end": 294317
+  },
+  {
+   "text": "forty",
+   "start": 294342,
+   "end": 294630
+  },
+  {
+   "text": "words",
+   "start": 294655,
+   "end": 294905
+  },
+  {
+   "text": "per",
+   "start": 294917,
+   "end": 295067
+  },
+  {
+   "text": "minute",
+   "start": 295080,
+   "end": 295392
+  },
+  {
+   "text": "by",
+   "start": 295417,
+   "end": 295567
+  },
+  {
+   "text": "imagining",
+   "start": 295592,
+   "end": 296142
+  },
+  {
+   "text": "moving",
+   "start": 296167,
+   "end": 296455
+  },
+  {
+   "text": "his",
+   "start": 296467,
+   "end": 296605
+  },
+  {
+   "text": "ten",
+   "start": 296630,
+   "end": 296842
+  },
+  {
+   "text": "fingers",
+   "start": 296867,
+   "end": 297267
+  },
+  {
+   "text": "on",
+   "start": 297292,
+   "end": 297405
+  },
+  {
+   "text": "an",
+   "start": 297417,
+   "end": 297505
+  },
+  {
+   "text": "invisible",
+   "start": 297517,
+   "end": 298030
+  },
+  {
+   "text": "keyboard",
+   "start": 298055,
+   "end": 298580
+  },
+  {
+   "text": "His",
+   "start": 299455,
+   "end": 299692
+  },
+  {
+   "text": "Neuralink",
+   "start": 299717,
+   "end": 300242
+  },
+  {
+   "text": "decodes",
+   "start": 300255,
+   "end": 300717
+  },
+  {
+   "text": "the",
+   "start": 300742,
+   "end": 300842
+  },
+  {
+   "text": "motor",
+   "start": 300855,
+   "end": 301167
+  },
+  {
+   "text": "intentions",
+   "start": 301192,
+   "end": 301792
+  },
+  {
+   "text": "and",
+   "start": 301817,
+   "end": 301942
+  },
+  {
+   "text": "converts",
+   "start": 301967,
+   "end": 302467
+  },
+  {
+   "text": "them",
+   "start": 302492,
+   "end": 302655
+  },
+  {
+   "text": "to",
+   "start": 302680,
+   "end": 302767
+  },
+  {
+   "text": "text",
+   "start": 302792,
+   "end": 303267
+  },
+  {
+   "text": "For",
+   "start": 304142,
+   "end": 304342
+  },
+  {
+   "text": "someone",
+   "start": 304367,
+   "end": 304667
+  },
+  {
+   "text": "with",
+   "start": 304692,
+   "end": 304830
+  },
+  {
+   "text": "ALS",
+   "start": 304855,
+   "end": 305305
+  },
+  {
+   "text": "who",
+   "start": 305330,
+   "end": 305417
+  },
+  {
+   "text": "can't",
+   "start": 305442,
+   "end": 305692
+  },
+  {
+   "text": "speak",
+   "start": 305717,
+   "end": 306117
+  },
+  {
+   "text": "this",
+   "start": 306367,
+   "end": 306555
+  },
+  {
+   "text": "is",
+   "start": 306580,
+   "end": 306692
+  },
+  {
+   "text": "the",
+   "start": 306717,
+   "end": 306830
+  },
+  {
+   "text": "difference",
+   "start": 306855,
+   "end": 307230
+  },
+  {
+   "text": "between",
+   "start": 307255,
+   "end": 307617
+  },
+  {
+   "text": "isolation",
+   "start": 307630,
+   "end": 308242
+  },
+  {
+   "text": "and",
+   "start": 308267,
+   "end": 308380
+  },
+  {
+   "text": "conversation",
+   "start": 308405,
+   "end": 309205
+  },
+  {
+   "text": "The",
+   "start": 310092,
+   "end": 310242
+  },
+  {
+   "text": "N3's",
+   "start": 310267,
+   "end": 310830
+  },
+  {
+   "text": "architecture",
+   "start": 310855,
+   "end": 311517
+  },
+  {
+   "text": "is",
+   "start": 311542,
+   "end": 311680
+  },
+  {
+   "text": "the",
+   "start": 311705,
+   "end": 311817
+  },
+  {
+   "text": "real",
+   "start": 311842,
+   "end": 312105
+  },
+  {
+   "text": "breakthrough",
+   "start": 312117,
+   "end": 312705
+  },
+  {
+   "text": "It",
+   "start": 313580,
+   "end": 313755
+  },
+  {
+   "text": "uses",
+   "start": 313780,
+   "end": 314105
+  },
+  {
+   "text": "mixed-signal",
+   "start": 314117,
+   "end": 314717
+  },
+  {
+   "text": "neuron",
+   "start": 314730,
+   "end": 315092
+  },
+  {
+   "text": "cores",
+   "start": 315117,
+   "end": 315430
+  },
+  {
+   "text": "that",
+   "start": 315455,
+   "end": 315605
+  },
+  {
+   "text": "mimic",
+   "start": 315630,
+   "end": 315955
+  },
+  {
+   "text": "biological",
+   "start": 315967,
+   "end": 316642
+  },
+  {
+   "text": "dynamics",
+   "start": 316667,
+   "end": 317217
+  },
+  {
+   "text": "in",
+   "start": 317242,
+   "end": 317367
+  },
+  {
+   "text": "analog",
+   "start": 317392,
+   "end": 317855
+  },
+  {
+   "text": "circuits",
+   "start": 317867,
+   "end": 318380
+  },
+  {
+   "text": "This",
+   "start": 319242,
+   "end": 319480
+  },
+  {
+   "text": "achieves",
+   "start": 319505,
+   "end": 319867
+  },
+  {
+   "text": "picojoule-scale",
+   "start": 319892,
+   "end": 320717
+  },
+  {
+   "text": "energy",
+   "start": 320730,
+   "end": 321080
+  },
+  {
+   "text": "per",
+   "start": 321105,
+   "end": 321292
+  },
+  {
+   "text": "calculation",
+   "start": 321317,
+   "end": 322030
+  },
+  {
+   "text": "ten",
+   "start": 322142,
+   "end": 322342
+  },
+  {
+   "text": "times",
+   "start": 322367,
+   "end": 322680
+  },
+  {
+   "text": "more",
+   "start": 322705,
+   "end": 322892
+  },
+  {
+   "text": "efficient",
+   "start": 322917,
+   "end": 323330
+  },
+  {
+   "text": "than",
+   "start": 323342,
+   "end": 323492
+  },
+  {
+   "text": "purely",
+   "start": 323517,
+   "end": 323892
+  },
+  {
+   "text": "digital",
+   "start": 323905,
+   "end": 324280
+  },
+  {
+   "text": "approaches",
+   "start": 324305,
+   "end": 324917
+  },
+  {
+   "text": "The",
+   "start": 325805,
+   "end": 325942
+  },
+  {
+   "text": "transformer",
+   "start": 325967,
+   "end": 326630
+  },
+  {
+   "text": "component",
+   "start": 326655,
+   "end": 327155
+  },
+  {
+   "text": "is",
+   "start": 327167,
+   "end": 327280
+  },
+  {
+   "text": "a",
+   "start": 327305,
+   "end": 327367
+  },
+  {
+   "text": "compressed",
+   "start": 327392,
+   "end": 327955
+  },
+  {
+   "text": "quantized",
+   "start": 328192,
+   "end": 328755
+  },
+  {
+   "text": "four-layer",
+   "start": 328780,
+   "end": 329230
+  },
+  {
+   "text": "model",
+   "start": 329255,
+   "end": 329592
+  },
+  {
+   "text": "with",
+   "start": 329617,
+   "end": 329767
+  },
+  {
+   "text": "thirty-two",
+   "start": 329792,
+   "end": 330242
+  },
+  {
+   "text": "attention",
+   "start": 330267,
+   "end": 330717
+  },
+  {
+   "text": "heads",
+   "start": 330742,
+   "end": 331167
+  },
+  {
+   "text": "It",
+   "start": 332055,
+   "end": 332205
+  },
+  {
+   "text": "handles",
+   "start": 332230,
+   "end": 332617
+  },
+  {
+   "text": "temporal",
+   "start": 332642,
+   "end": 333005
+  },
+  {
+   "text": "decoding",
+   "start": 333030,
+   "end": 333517
+  },
+  {
+   "text": "of",
+   "start": 333542,
+   "end": 333630
+  },
+  {
+   "text": "motor",
+   "start": 333655,
+   "end": 333930
+  },
+  {
+   "text": "intentions",
+   "start": 333955,
+   "end": 334505
+  },
+  {
+   "text": "language",
+   "start": 334667,
+   "end": 335030
+  },
+  {
+   "text": "signals",
+   "start": 335055,
+   "end": 335430
+  },
+  {
+   "text": "and",
+   "start": 335567,
+   "end": 335655
+  },
+  {
+   "text": "sensory",
+   "start": 335680,
+   "end": 336117
+  },
+  {
+   "text": "feedback",
+   "start": 336142,
+   "end": 336617
+  },
+  {
+   "text": "all",
+   "start": 336717,
+   "end": 336842
+  },
+  {
+   "text": "within",
+   "start": 336855,
+   "end": 337105
+  },
+  {
+   "text": "a",
+   "start": 337130,
+   "end": 337192
+  },
+  {
+   "text": "power",
+   "start": 337205,
+   "end": 337517
+  },
+  {
+   "text": "budget",
+   "start": 337542,
+   "end": 337842
+  },
+  {
+   "text": "that",
+   "start": 337867,
+   "end": 338005
+  },
+  {
+   "text": "won't",
+   "start": 338030,
+   "end": 338255
+  },
+  {
+   "text": "drain",
+   "start": 338267,
+   "end": 338517
+  },
+  {
+   "text": "your",
+   "start": 338530,
+   "end": 338680
+  },
+  {
+   "text": "implant's",
+   "start": 338705,
+   "end": 339142
+  },
+  {
+   "text": "battery",
+   "start": 339167,
+   "end": 339580
+  },
+  {
+   "text": "in",
+   "start": 339605,
+   "end": 339692
+  },
+  {
+   "text": "a",
+   "start": 339717,
+   "end": 339780
+  },
+  {
+   "text": "day",
+   "start": 339792,
+   "end": 340142
+  },
+  {
+   "text": "But",
+   "start": 341030,
+   "end": 341217
+  },
+  {
+   "text": "Neuralink",
+   "start": 341242,
+   "end": 341767
+  },
+  {
+   "text": "isn't",
+   "start": 341780,
+   "end": 342055
+  },
+  {
+   "text": "just",
+   "start": 342067,
+   "end": 342317
+  },
+  {
+   "text": "building",
+   "start": 342342,
+   "end": 342680
+  },
+  {
+   "text": "a",
+   "start": 342705,
+   "end": 342767
+  },
+  {
+   "text": "product",
+   "start": 342792,
+   "end": 343330
+  },
+  {
+   "text": "It's",
+   "start": 344217,
+   "end": 344467
+  },
+  {
+   "text": "building",
+   "start": 344480,
+   "end": 344867
+  },
+  {
+   "text": "a",
+   "start": 344892,
+   "end": 344955
+  },
+  {
+   "text": "platform",
+   "start": 344980,
+   "end": 345617
+  },
+  {
+   "text": "Telepathy",
+   "start": 346505,
+   "end": 347155
+  },
+  {
+   "text": "reads",
+   "start": 347180,
+   "end": 347505
+  },
+  {
+   "text": "from",
+   "start": 347530,
+   "end": 347692
+  },
+  {
+   "text": "the",
+   "start": 347717,
+   "end": 347817
+  },
+  {
+   "text": "brain",
+   "start": 347842,
+   "end": 348267
+  },
+  {
+   "text": "Blindsight",
+   "start": 349155,
+   "end": 349730
+  },
+  {
+   "text": "writes",
+   "start": 349742,
+   "end": 349980
+  },
+  {
+   "text": "to",
+   "start": 350005,
+   "end": 350117
+  },
+  {
+   "text": "it",
+   "start": 350142,
+   "end": 350242
+  },
+  {
+   "text": "restoring",
+   "start": 350342,
+   "end": 350805
+  },
+  {
+   "text": "vision",
+   "start": 350830,
+   "end": 351130
+  },
+  {
+   "text": "by",
+   "start": 351155,
+   "end": 351280
+  },
+  {
+   "text": "stimulating",
+   "start": 351305,
+   "end": 351967
+  },
+  {
+   "text": "the",
+   "start": 351992,
+   "end": 352080
+  },
+  {
+   "text": "visual",
+   "start": 352105,
+   "end": 352492
+  },
+  {
+   "text": "cortex",
+   "start": 352517,
+   "end": 352967
+  },
+  {
+   "text": "directly",
+   "start": 352980,
+   "end": 353442
+  },
+  {
+   "text": "bypassing",
+   "start": 353730,
+   "end": 354317
+  },
+  {
+   "text": "damaged",
+   "start": 354330,
+   "end": 354730
+  },
+  {
+   "text": "eyes",
+   "start": 354755,
+   "end": 354955
+  },
+  {
+   "text": "entirely",
+   "start": 354980,
+   "end": 355630
+  },
+  {
+   "text": "The",
+   "start": 356517,
+   "end": 356642
+  },
+  {
+   "text": "VOICE",
+   "start": 356667,
+   "end": 356905
+  },
+  {
+   "text": "trial",
+   "start": 356917,
+   "end": 357205
+  },
+  {
+   "text": "decodes",
+   "start": 357230,
+   "end": 357642
+  },
+  {
+   "text": "speech",
+   "start": 357667,
+   "end": 357955
+  },
+  {
+   "text": "from",
+   "start": 357967,
+   "end": 358130
+  },
+  {
+   "text": "thought",
+   "start": 358155,
+   "end": 358355
+  },
+  {
+   "text": "for",
+   "start": 358380,
+   "end": 358517
+  },
+  {
+   "text": "patients",
+   "start": 358542,
+   "end": 358955
+  },
+  {
+   "text": "who",
+   "start": 358980,
+   "end": 359067
+  },
+  {
+   "text": "can't",
+   "start": 359092,
+   "end": 359367
+  },
+  {
+   "text": "move",
+   "start": 359380,
+   "end": 359567
+  },
+  {
+   "text": "their",
+   "start": 359580,
+   "end": 359705
+  },
+  {
+   "text": "mouths",
+   "start": 359717,
+   "end": 360142
+  },
+  {
+   "text": "Musk",
+   "start": 361017,
+   "end": 361330
+  },
+  {
+   "text": "hinted",
+   "start": 361355,
+   "end": 361667
+  },
+  {
+   "text": "at",
+   "start": 361692,
+   "end": 361767
+  },
+  {
+   "text": "human-to-human",
+   "start": 361792,
+   "end": 362580
+  },
+  {
+   "text": "telepathy",
+   "start": 362605,
+   "end": 363155
+  },
+  {
+   "text": "later",
+   "start": 363180,
+   "end": 363492
+  },
+  {
+   "text": "this",
+   "start": 363505,
+   "end": 363680
+  },
+  {
+   "text": "year",
+   "start": 363705,
+   "end": 363930
+  },
+  {
+   "text": "direct",
+   "start": 364030,
+   "end": 364367
+  },
+  {
+   "text": "brain-to-brain",
+   "start": 364380,
+   "end": 365005
+  },
+  {
+   "text": "communication",
+   "start": 365017,
+   "end": 365780
+  },
+  {
+   "text": "without",
+   "start": 365792,
+   "end": 366080
+  },
+  {
+   "text": "words",
+   "start": 366092,
+   "end": 366455
+  },
+  {
+   "text": "without",
+   "start": 366667,
+   "end": 366980
+  },
+  {
+   "text": "gestures",
+   "start": 366992,
+   "end": 367492
+  },
+  {
+   "text": "without",
+   "start": 367692,
+   "end": 368055
+  },
+  {
+   "text": "any",
+   "start": 368067,
+   "end": 368280
+  },
+  {
+   "text": "external",
+   "start": 368305,
+   "end": 368767
+  },
+  {
+   "text": "interface",
+   "start": 368792,
+   "end": 369430
+  },
+  {
+   "text": "Now",
+   "start": 370292,
+   "end": 370517
+  },
+  {
+   "text": "let's",
+   "start": 370530,
+   "end": 370755
+  },
+  {
+   "text": "be",
+   "start": 370780,
+   "end": 370905
+  },
+  {
+   "text": "clear",
+   "start": 370917,
+   "end": 371205
+  },
+  {
+   "text": "about",
+   "start": 371217,
+   "end": 371492
+  },
+  {
+   "text": "what",
+   "start": 371517,
+   "end": 371717
+  },
+  {
+   "text": "this",
+   "start": 371742,
+   "end": 371942
+  },
+  {
+   "text": "is",
+   "start": 371955,
+   "end": 372205
+  },
+  {
+   "text": "and",
+   "start": 372217,
+   "end": 372342
+  },
+  {
+   "text": "what",
+   "start": 372367,
+   "end": 372530
+  },
+  {
+   "text": "it",
+   "start": 372555,
+   "end": 372655
+  },
+  {
+   "text": "isn't",
+   "start": 372667,
+   "end": 373042
+  },
+  {
+   "text": "Neuralink's",
+   "start": 373917,
+   "end": 374542
+  },
+  {
+   "text": "current",
+   "start": 374567,
+   "end": 374892
+  },
+  {
+   "text": "patients",
+   "start": 374905,
+   "end": 375342
+  },
+  {
+   "text": "are",
+   "start": 375367,
+   "end": 375492
+  },
+  {
+   "text": "people",
+   "start": 375505,
+   "end": 375842
+  },
+  {
+   "text": "with",
+   "start": 375867,
+   "end": 376017
+  },
+  {
+   "text": "severe",
+   "start": 376042,
+   "end": 376405
+  },
+  {
+   "text": "paralysis",
+   "start": 376417,
+   "end": 377067
+  },
+  {
+   "text": "and",
+   "start": 377092,
+   "end": 377255
+  },
+  {
+   "text": "ALS",
+   "start": 377267,
+   "end": 377930
+  },
+  {
+   "text": "This",
+   "start": 378817,
+   "end": 379055
+  },
+  {
+   "text": "technology",
+   "start": 379067,
+   "end": 379692
+  },
+  {
+   "text": "exists",
+   "start": 379717,
+   "end": 380192
+  },
+  {
+   "text": "today",
+   "start": 380217,
+   "end": 380505
+  },
+  {
+   "text": "because",
+   "start": 380517,
+   "end": 380842
+  },
+  {
+   "text": "it",
+   "start": 380867,
+   "end": 380955
+  },
+  {
+   "text": "restores",
+   "start": 380980,
+   "end": 381430
+  },
+  {
+   "text": "basic",
+   "start": 381455,
+   "end": 381830
+  },
+  {
+   "text": "human",
+   "start": 381855,
+   "end": 382155
+  },
+  {
+   "text": "function",
+   "start": 382180,
+   "end": 382555
+  },
+  {
+   "text": "to",
+   "start": 382580,
+   "end": 382680
+  },
+  {
+   "text": "people",
+   "start": 382705,
+   "end": 383017
+  },
+  {
+   "text": "who",
+   "start": 383030,
+   "end": 383130
+  },
+  {
+   "text": "lost",
+   "start": 383155,
+   "end": 383480
+  },
+  {
+   "text": "it",
+   "start": 383492,
+   "end": 383667
+  },
+  {
+   "text": "That",
+   "start": 384555,
+   "end": 384817
+  },
+  {
+   "text": "is",
+   "start": 384830,
+   "end": 384955
+  },
+  {
+   "text": "its",
+   "start": 384980,
+   "end": 385117
+  },
+  {
+   "text": "primary",
+   "start": 385130,
+   "end": 385605
+  },
+  {
+   "text": "purpose",
+   "start": 385630,
+   "end": 386080
+  },
+  {
+   "text": "and",
+   "start": 386280,
+   "end": 386442
+  },
+  {
+   "text": "it",
+   "start": 386467,
+   "end": 386580
+  },
+  {
+   "text": "is",
+   "start": 386592,
+   "end": 386742
+  },
+  {
+   "text": "extraordinary",
+   "start": 386767,
+   "end": 387655
+  },
+  {
+   "text": "But",
+   "start": 388542,
+   "end": 388730
+  },
+  {
+   "text": "the",
+   "start": 388755,
+   "end": 388867
+  },
+  {
+   "text": "jump",
+   "start": 388892,
+   "end": 389155
+  },
+  {
+   "text": "from",
+   "start": 389167,
+   "end": 389330
+  },
+  {
+   "text": "medical",
+   "start": 389355,
+   "end": 389730
+  },
+  {
+   "text": "device",
+   "start": 389742,
+   "end": 390130
+  },
+  {
+   "text": "to",
+   "start": 390155,
+   "end": 390255
+  },
+  {
+   "text": "consumer",
+   "start": 390280,
+   "end": 390755
+  },
+  {
+   "text": "smart",
+   "start": 390780,
+   "end": 391055
+  },
+  {
+   "text": "home",
+   "start": 391080,
+   "end": 391280
+  },
+  {
+   "text": "interface",
+   "start": 391305,
+   "end": 391817
+  },
+  {
+   "text": "is",
+   "start": 391830,
+   "end": 391955
+  },
+  {
+   "text": "enormous",
+   "start": 391980,
+   "end": 392567
+  },
+  {
+   "text": "The",
+   "start": 393442,
+   "end": 393580
+  },
+  {
+   "text": "surgery",
+   "start": 393592,
+   "end": 394155
+  },
+  {
+   "text": "is",
+   "start": 394180,
+   "end": 394317
+  },
+  {
+   "text": "invasive",
+   "start": 394330,
+   "end": 395005
+  },
+  {
+   "text": "The",
+   "start": 395980,
+   "end": 396092
+  },
+  {
+   "text": "FDA",
+   "start": 396117,
+   "end": 396580
+  },
+  {
+   "text": "approval",
+   "start": 396605,
+   "end": 397042
+  },
+  {
+   "text": "process",
+   "start": 397067,
+   "end": 397492
+  },
+  {
+   "text": "for",
+   "start": 397517,
+   "end": 397680
+  },
+  {
+   "text": "healthy",
+   "start": 397705,
+   "end": 398005
+  },
+  {
+   "text": "consumers",
+   "start": 398030,
+   "end": 398592
+  },
+  {
+   "text": "is",
+   "start": 398605,
+   "end": 398730
+  },
+  {
+   "text": "years",
+   "start": 398755,
+   "end": 398967
+  },
+  {
+   "text": "away",
+   "start": 398992,
+   "end": 399355
+  },
+  {
+   "text": "if",
+   "start": 399542,
+   "end": 399655
+  },
+  {
+   "text": "it",
+   "start": 399680,
+   "end": 399755
+  },
+  {
+   "text": "happens",
+   "start": 399780,
+   "end": 400155
+  },
+  {
+   "text": "at",
+   "start": 400180,
+   "end": 400255
+  },
+  {
+   "text": "all",
+   "start": 400280,
+   "end": 400605
+  },
+  {
+   "text": "Insurance",
+   "start": 401492,
+   "end": 402130
+  },
+  {
+   "text": "doesn't",
+   "start": 402142,
+   "end": 402480
+  },
+  {
+   "text": "cover",
+   "start": 402505,
+   "end": 402817
+  },
+  {
+   "text": "elective",
+   "start": 402842,
+   "end": 403305
+  },
+  {
+   "text": "brain",
+   "start": 403330,
+   "end": 403605
+  },
+  {
+   "text": "implants",
+   "start": 403617,
+   "end": 404205
+  },
+  {
+   "text": "And",
+   "start": 405080,
+   "end": 405255
+  },
+  {
+   "text": "the",
+   "start": 405280,
+   "end": 405392
+  },
+  {
+   "text": "privacy",
+   "start": 405417,
+   "end": 405917
+  },
+  {
+   "text": "implications",
+   "start": 405942,
+   "end": 406630
+  },
+  {
+   "text": "of",
+   "start": 406655,
+   "end": 406717
+  },
+  {
+   "text": "a",
+   "start": 406730,
+   "end": 406792
+  },
+  {
+   "text": "device",
+   "start": 406817,
+   "end": 407217
+  },
+  {
+   "text": "that",
+   "start": 407242,
+   "end": 407417
+  },
+  {
+   "text": "reads",
+   "start": 407442,
+   "end": 407667
+  },
+  {
+   "text": "your",
+   "start": 407692,
+   "end": 407817
+  },
+  {
+   "text": "neural",
+   "start": 407842,
+   "end": 408167
+  },
+  {
+   "text": "signals",
+   "start": 408192,
+   "end": 408655
+  },
+  {
+   "text": "are",
+   "start": 408680,
+   "end": 408780
+  },
+  {
+   "text": "staggering",
+   "start": 408805,
+   "end": 409342
+  },
+  {
+   "text": "The",
+   "start": 410230,
+   "end": 410380
+  },
+  {
+   "text": "smart",
+   "start": 410392,
+   "end": 410692
+  },
+  {
+   "text": "home",
+   "start": 410717,
+   "end": 410930
+  },
+  {
+   "text": "hub",
+   "start": 410955,
+   "end": 411205
+  },
+  {
+   "text": "isn't",
+   "start": 411230,
+   "end": 411530
+  },
+  {
+   "text": "dying",
+   "start": 411542,
+   "end": 411855
+  },
+  {
+   "text": "tomorrow",
+   "start": 411880,
+   "end": 412405
+  },
+  {
+   "text": "But",
+   "start": 413292,
+   "end": 413467
+  },
+  {
+   "text": "the",
+   "start": 413492,
+   "end": 413605
+  },
+  {
+   "text": "trajectory",
+   "start": 413630,
+   "end": 414317
+  },
+  {
+   "text": "is",
+   "start": 414342,
+   "end": 414480
+  },
+  {
+   "text": "clear",
+   "start": 414505,
+   "end": 414992
+  },
+  {
+   "text": "Voice",
+   "start": 415867,
+   "end": 416155
+  },
+  {
+   "text": "assistants",
+   "start": 416180,
+   "end": 416692
+  },
+  {
+   "text": "are",
+   "start": 416717,
+   "end": 416830
+  },
+  {
+   "text": "a",
+   "start": 416855,
+   "end": 416917
+  },
+  {
+   "text": "stopgap",
+   "start": 416942,
+   "end": 417480
+  },
+  {
+   "text": "between",
+   "start": 417492,
+   "end": 417842
+  },
+  {
+   "text": "physical",
+   "start": 417867,
+   "end": 418305
+  },
+  {
+   "text": "interfaces",
+   "start": 418317,
+   "end": 418930
+  },
+  {
+   "text": "and",
+   "start": 418955,
+   "end": 419105
+  },
+  {
+   "text": "neural",
+   "start": 419130,
+   "end": 419455
+  },
+  {
+   "text": "interfaces",
+   "start": 419480,
+   "end": 420230
+  },
+  {
+   "text": "Every",
+   "start": 421117,
+   "end": 421405
+  },
+  {
+   "text": "year",
+   "start": 421430,
+   "end": 421680
+  },
+  {
+   "text": "Neuralink's",
+   "start": 421842,
+   "end": 422342
+  },
+  {
+   "text": "response",
+   "start": 422367,
+   "end": 422792
+  },
+  {
+   "text": "speed",
+   "start": 422817,
+   "end": 423067
+  },
+  {
+   "text": "improves",
+   "start": 423092,
+   "end": 423555
+  },
+  {
+   "text": "its",
+   "start": 423742,
+   "end": 423892
+  },
+  {
+   "text": "patient",
+   "start": 423917,
+   "end": 424305
+  },
+  {
+   "text": "count",
+   "start": 424330,
+   "end": 424555
+  },
+  {
+   "text": "grows",
+   "start": 424580,
+   "end": 424980
+  },
+  {
+   "text": "and",
+   "start": 425192,
+   "end": 425305
+  },
+  {
+   "text": "its",
+   "start": 425330,
+   "end": 425480
+  },
+  {
+   "text": "manufacturing",
+   "start": 425492,
+   "end": 426292
+  },
+  {
+   "text": "scales",
+   "start": 426317,
+   "end": 426855
+  },
+  {
+   "text": "The",
+   "start": 427742,
+   "end": 427880
+  },
+  {
+   "text": "question",
+   "start": 427905,
+   "end": 428317
+  },
+  {
+   "text": "isn't",
+   "start": 428342,
+   "end": 428605
+  },
+  {
+   "text": "whether",
+   "start": 428630,
+   "end": 428892
+  },
+  {
+   "text": "thought-controlled",
+   "start": 428917,
+   "end": 429555
+  },
+  {
+   "text": "homes",
+   "start": 429580,
+   "end": 429867
+  },
+  {
+   "text": "are",
+   "start": 429892,
+   "end": 429992
+  },
+  {
+   "text": "coming",
+   "start": 430017,
+   "end": 430417
+  },
+  {
+   "text": "It's",
+   "start": 431305,
+   "end": 431517
+  },
+  {
+   "text": "whether",
+   "start": 431530,
+   "end": 431780
+  },
+  {
+   "text": "you'll",
+   "start": 431805,
+   "end": 431942
+  },
+  {
+   "text": "be",
+   "start": 431967,
+   "end": 432092
+  },
+  {
+   "text": "the",
+   "start": 432105,
+   "end": 432217
+  },
+  {
+   "text": "early",
+   "start": 432242,
+   "end": 432580
+  },
+  {
+   "text": "adopter",
+   "start": 432605,
+   "end": 433042
+  },
+  {
+   "text": "who",
+   "start": 433067,
+   "end": 433167
+  },
+  {
+   "text": "gets",
+   "start": 433192,
+   "end": 433417
+  },
+  {
+   "text": "the",
+   "start": 433442,
+   "end": 433542
+  },
+  {
+   "text": "implant",
+   "start": 433567,
+   "end": 434055
+  },
+  {
+   "text": "or",
+   "start": 434342,
+   "end": 434430
+  },
+  {
+   "text": "the",
+   "start": 434442,
+   "end": 434542
+  },
+  {
+   "text": "person",
+   "start": 434567,
+   "end": 434955
+  },
+  {
+   "text": "still",
+   "start": 434980,
+   "end": 435242
+  },
+  {
+   "text": "shouting",
+   "start": 435267,
+   "end": 435692
+  },
+  {
+   "text": "at",
+   "start": 435717,
+   "end": 435792
+  },
+  {
+   "text": "a",
+   "start": 435805,
+   "end": 435855
+  },
+  {
+   "text": "speaker",
+   "start": 435867,
+   "end": 436255
+  },
+  {
+   "text": "that",
+   "start": 436280,
+   "end": 436417
+  },
+  {
+   "text": "can't",
+   "start": 436442,
+   "end": 436680
+  },
+  {
+   "text": "understand",
+   "start": 436705,
+   "end": 437242
+  },
+  {
+   "text": "you",
+   "start": 437267,
+   "end": 437455
+  },
+  {
+   "text": "If",
+   "start": 438330,
+   "end": 438517
+  },
+  {
+   "text": "this",
+   "start": 438542,
+   "end": 438730
+  },
+  {
+   "text": "matters",
+   "start": 438742,
+   "end": 439142
+  },
+  {
+   "text": "to",
+   "start": 439167,
+   "end": 439255
+  },
+  {
+   "text": "you",
+   "start": 439280,
+   "end": 439530
+  },
+  {
+   "text": "subscribe",
+   "start": 439742,
+   "end": 440392
+  },
+  {
+   "text": "We",
+   "start": 441280,
+   "end": 441467
+  },
+  {
+   "text": "track",
+   "start": 441492,
+   "end": 441792
+  },
+  {
+   "text": "these",
+   "start": 441817,
+   "end": 442005
+  },
+  {
+   "text": "breakthroughs",
+   "start": 442017,
+   "end": 442580
+  },
+  {
+   "text": "as",
+   "start": 442605,
+   "end": 442767
+  },
+  {
+   "text": "they",
+   "start": 442792,
+   "end": 442905
+  },
+  {
+   "text": "happen",
+   "start": 442930,
+   "end": 443355
+  },
+  {
+   "text": "Drop",
+   "start": 444230,
+   "end": 444542
+  },
+  {
+   "text": "a",
+   "start": 444555,
+   "end": 444630
+  },
+  {
+   "text": "comment",
+   "start": 444642,
+   "end": 445092
+  },
+  {
+   "text": "would",
+   "start": 445192,
+   "end": 445355
+  },
+  {
+   "text": "you",
+   "start": 445367,
+   "end": 445455
+  },
+  {
+   "text": "get",
+   "start": 445480,
+   "end": 445617
+  },
+  {
+   "text": "a",
+   "start": 445642,
+   "end": 445705
+  },
+  {
+   "text": "brain",
+   "start": 445717,
+   "end": 445992
+  },
+  {
+   "text": "chip",
+   "start": 446017,
+   "end": 446230
+  },
+  {
+   "text": "to",
+   "start": 446242,
+   "end": 446355
+  },
+  {
+   "text": "control",
+   "start": 446380,
+   "end": 446792
+  },
+  {
+   "text": "your",
+   "start": 446817,
+   "end": 446980
+  },
+  {
+   "text": "home",
+   "start": 447005,
+   "end": 447355
+  },
+  {
+   "text": "And",
+   "start": 448230,
+   "end": 448392
+  },
+  {
+   "text": "share",
+   "start": 448417,
+   "end": 448680
+  },
+  {
+   "text": "this",
+   "start": 448705,
+   "end": 448880
+  },
+  {
+   "text": "with",
+   "start": 448905,
+   "end": 449042
+  },
+  {
+   "text": "someone",
+   "start": 449067,
+   "end": 449417
+  },
+  {
+   "text": "who",
+   "start": 449442,
+   "end": 449555
+  },
+  {
+   "text": "thinks",
+   "start": 449567,
+   "end": 449830
+  },
+  {
+   "text": "smart",
+   "start": 449842,
+   "end": 450130
+  },
+  {
+   "text": "speakers",
+   "start": 450155,
+   "end": 450617
+  },
+  {
+   "text": "are",
+   "start": 450642,
+   "end": 450742
+  },
+  {
+   "text": "the",
+   "start": 450755,
+   "end": 450855
+  },
+  {
+   "text": "future",
+   "start": 450880,
+   "end": 451380
+  },
+  {
+   "text": "They're",
+   "start": 452255,
+   "end": 452530
+  },
+  {
+   "text": "not",
+   "start": 452542,
+   "end": 452992
+  },
+  {
+   "text": "We'll",
+   "start": 453855,
+   "end": 454105
+  },
+  {
+   "text": "see",
+   "start": 454130,
+   "end": 454330
+  },
+  {
+   "text": "you",
+   "start": 454355,
+   "end": 454517
+  },
+  {
+   "text": "in",
+   "start": 454530,
+   "end": 454605
+  },
+  {
+   "text": "the",
+   "start": 454630,
+   "end": 454717
+  },
+  {
+   "text": "next",
+   "start": 454730,
+   "end": 455042
+  },
+  {
+   "text": "one",
+   "start": 455067,
+   "end": 455355
+  }
+ ],
+ "duration_s": 456.24
+}

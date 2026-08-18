@@ -1,0 +1,168 @@
+{
+  "id": "ai-news",
+  "name": "AI news / model releases / tech explainer",
+  "_channel": "Live channel: 'AI Enthusiast' (@AIEnthusiast). Focus is in-depth, hands-on, benchmark-verified breakdowns of new AI model releases, tooling, architectures, and developer workflows.",
+  "audience": "developers, AI practitioners, founders, tech enthusiasts 20-45, high intent, seeking verified evidence and deep technical breakdowns",
+  "_formats": "THREE formats ship on this one channel. (1) single-story - the DEFAULT: one release, one delta, analyst voice. It IS the top-level title/script/pacing/images/sound/voice fields below (referenced, not duplicated, so the two can't drift). (2) compilation - formats.compilation: multi-story robotics/AI-hardware roundup, escalating register, merged in from the retired niches/robotics-news.json on 2026-08-01 (user's call: 'add it to ai news'). (3) explainer - formats.explainer: evergreen AI-education long-form (13-25 min, NOT tied to a dated release), added 2026-08-04 after reverse-engineering Sandeep Swadia's (@SandeepSwadia, 1.35M subs) title/thumbnail formula off multiple 500K-3.5M-view uploads - see formats.explainer._origin for the full pattern and what was and wasn't ported. Pick per video at intake: a model/tool release or one-story explainer on fresh news -> single-story; a dated multi-story roundup of the robotics/hardware moment -> compilation; a foundational AI concept/skill with no news hook, meant to stay relevant for months -> explainer. The channel's two promises and the mandatory close CTA apply to ALL THREE, but explainer's turnaround-speed promise is N/A (nothing to turn around on) - see formats.explainer.script._channel_promise_note. Tooling note: plan_runtime/plan_beats/video_spec/yt_research read the TOP-LEVEL fields (single-story) only - for compilation or explainer, use their override flags or work from that format's shares directly.",
+  "formats": {
+    "single-story": {
+      "_note": "This format IS the top-level title/script/pacing/images/sound/voice of this file - referenced, not duplicated, so the two can't drift. The default format."
+    },
+    "compilation": {
+      "format_name": "Robotics / AI hardware news compilation (multi-story, chronological)",
+      "_origin": "Merged from niches/robotics-news.json 2026-08-01 (user's call); that file is now a redirect stub. Its old _why_not_ai_news warning ('do not merge - different audience, different register') was resolved by keeping the two formats strictly separated INSIDE one file rather than blending them: single-story still bans caps-lock escalation and humanoid stock imagery; compilation still puts the escalation in the title/thumbnail (never the narration) for its own audience. First shipped compilation: videos/robotics-2026-updates-1 (2026-07-30, pre-merge).",
+      "audience": "broad tech-curious 18-45, YouTube-native, came for spectacle and stays for specs; NOT the developer audience of the single-story format",
+      "title": {
+        "formula": "[ALL-CAPS SUBJECT] + [escalation clause] + [year] + [series number]",
+        "ingredients": {
+          "subject": ["AI ROBOTS", "HUMANOID ROBOTS", "AI"],
+          "escalation": ["Are Getting TOO REAL", "Just Went Too Far", "Are Out Of Control"],
+          "stakes": ["Shocking AI & Robotics 2026 Updates", "Insane Robotics Updates"]
+        },
+        "rules": [
+          "The escalation belongs in the TITLE and the THUMBNAIL. It does not belong in the narration - see honesty_guard.",
+          "Always carry the year. This genre is a dated snapshot and the year is the whole promise.",
+          "Always carry the series number (#1, #2). It sets up the next video and signals a running format.",
+          "Do not duplicate another channel's title string verbatim - same skeleton, own wording."
+        ]
+      },
+      "script": {
+        "target_minutes": [12, 25],
+        "_channel_promise_note": "The channel's two promises apply to this format too: (1) the first ~170s must stand alone - cold-open-boom + story-1 together tell the viewer what happened and what it means (at an 18-min target their 0.05+0.10 shares land at ~162s - hold them tight; do not let the hook sprawl just because the video is long). (2) dark-side-close must carry the channel's mandatory CTA - subscribe (primary), like + comment (secondary) - written as one person talking, then the series tease. The turnaround angle is OPTIONAL here (compilations are dated snapshots, not breaking news) - if used, once, in the close.",
+        "structure": [
+          { "beat": "cold-open-boom", "share": 0.05, "note": "The year framed as a step-change, with the single hardest number available. Promise the list, then start it - no channel intro." },
+          { "beat": "story-1", "share": 0.1, "note": "Open with the most concrete verified story. Per-segment shape: hook line -> what changed vs last year -> the specs/numbers -> what it means. Never open a segment on a target." },
+          { "beat": "story-2", "share": 0.1, "note": "Same shape. Vary the opening line construction - eight identical segment openings is what makes a compilation feel like a content farm." },
+          { "beat": "story-3", "share": 0.1, "note": "Same shape." },
+          { "beat": "story-4", "share": 0.1, "note": "Same shape. Put a geography or category shift around here so the middle doesn't flatten." },
+          { "beat": "story-5", "share": 0.1, "note": "Same shape. This is the retention trough - put the most viscerally relatable story here (the one that enters someone's house / body)." },
+          { "beat": "story-6", "share": 0.1, "note": "Same shape. Good slot for the software/brains story that explains why all the hardware suddenly works." },
+          { "beat": "story-7", "share": 0.1, "note": "Same shape." },
+          { "beat": "story-8", "share": 0.1, "note": "Same shape." },
+          { "beat": "reflection", "share": 0.05, "note": "The step back. What all eight have in common. Earns the close - do not skip to the doom beat cold." },
+          { "beat": "dark-side-close", "share": 0.1, "note": "The counterweight: who loses, what is unresolved, who is objecting on the record. Then the channel CTA (subscribe primary, like + comment secondary - see _channel_promise_note), and the tease for the next number in the series." }
+        ],
+        "voice_rules": [
+          "Escalate with FACTS, not adjectives. 'One robot per hour, up from one per day' beats 'insanely fast'.",
+          "Every segment must contain at least one number and its source spoken aloud: 'per Figure's own production update', 'on the Q1 earnings call'.",
+          "Say the DATE on anything time-sensitive. This genre goes stale and dated claims are what keep it honest.",
+          "Verb discipline: SHIPPED / DEPLOYED / ANNOUNCED / TARGETS are four different words. Never let one stand in for another.",
+          "One honest limitation per segment, in the segment - not saved for the close. It is what separates this from a hype channel.",
+          "No 'and it only gets crazier from here' filler between segments. Hand off on a fact."
+        ],
+        "honesty_guard": "This genre's failure mode is stating a TARGET as an ACHIEVEMENT - 'Tesla is making a million robots a year' when the filing says production starts slowly with an unpredictable rate. Every claim must be labelled: shipped / deployed / demoed / announced / projected. Company self-reported numbers must be attributed to the company out loud, not laundered into narrator fact. Prefer primary sources (company newsroom, SEC filings, conference programmes, named reporting) over SEO aggregator blogs; if a number only appears on aggregators, drop it. The title may escalate. The narration may not.",
+        "_recency_note": "A dated snapshot by design (the year is in the title), but the top-level recency_guard discipline still applies: research live at write time, re-verify every number that is more than ~48h old, state dates on time-sensitive claims."
+      },
+      "pacing": { "beat_seconds": 4.5, "beat_jitter": 1.2, "hook_beat_seconds": 2.2, "hook_seconds": 22 },
+      "images": {
+        "style": "industrial robotics, factory floor, robot arms, assembly line, lab, dark high-contrast tech palette with hard rim light",
+        "query_hints": ["robot arm factory", "industrial robot assembly line", "automation factory floor", "robotics laboratory", "warehouse automation", "circuit macro", "server rack", "mechanical hand"],
+        "avoid": ["cheesy white plastic android", "handshake with robot", "glowing brain", "blue binary rain", "humanoid staring at camera in a field"],
+        "_facts_go_on_cards": "Stock photos carry ATMOSPHERE only. Every number, spec, price and date belongs on a code-rendered spec/stat card, never spoken over an unrelated robot photo - that mismatch is the exact thing that makes a compilation look like a content farm. Real company footage, where the user supplies it, always beats both."
+      },
+      "sound": { "music_bed": "tech-pulse", "bed_gain_db": -6, "bed_duck_db": 10,
+       "_bed_gain_note": "MEASURED, not guessed. tech-pulse's own mean is -21.0 dB, so the old -15 put the bed at ~-36 dB and it lifted a speech gap by +0.4 dB (inaudible). -6 puts it ~6 dB under the voice in gaps, ~16 dB under while ducked. If you swap the bed clip, re-measure ITS mean and re-derive this number.", "sfx_density": "medium-high", "sfx_palette": ["impact-soft", "riser-soft", "launch-thump", "scan-hum", "glitch-zap", "ui-click-soft"], "_note": "Segment transitions want a real transition cue - this genre is 8 hard turns and the sound is what marks them. Measure every cue against the pre-SFX render; do not chase a quiet clip with gain." },
+      "voice": { "tone": "energetic documentary narrator, escalating but never breathless", "tts_voice_hint": "Channel default (Andrew per channel-persona.ai-news.json - the voice IS the channel identity) unless the user overrides per video. Pre-merge, robotics-2026-updates-1 shipped with en-US-GuyNeural at a slight rate lift; do not silently switch back to Guy without the user's call." }
+    },
+    "explainer": {
+      "format_name": "AI education explainer (evergreen, no news hook)",
+      "_origin": "Added 2026-08-04. Reverse-engineered from Sandeep Swadia's (@SandeepSwadia, 1.35M subs) catalog, all recent uploads 13-25 min and 480K-3.5M views: 'You're Not Behind (Yet): Learn AI Agents in 13 Minutes' (1.7M), 'You're Not Behind (Yet): How to Learn AI in 17 Minutes' (3.5M), 'How To Use Claude Better Than 99% Of People' (1.5M), 'Give Me 18 Minutes and I'll Make you Dangerously Smart (with AI)' (2.2M). Pattern extracted, not cloned - see honesty note below on what was deliberately NOT ported.",
+      "_honesty_note": "The source creator's thumbnails are built on a real, on-camera face (packaging checklist rule 11: ~89% of 2026 breakouts use a face or high contrast; his uses a face). This channel is faceless (no media/library/faces kit, confirmed openai-hf-hack precedent) - do NOT fake a host or imply one exists. Substitute: rules 2-4 of the packaging checklist (high contrast + thick-outline text + two-tone hook) are the load-bearing device instead, same as every other format on this channel. What WAS ported honestly: the title formula (concrete promise + explicit time-box, or percentile-superiority framing), the evergreen/no-news-hook positioning, and the content mechanism his comments credit (a plain-language contrast reframe - 'most people do X, the real shift is Y' - taught through one concrete analogy, not jargon).",
+      "audience": "same base audience as the channel (developers, founders, tech-curious 20-45) but here they're not checking for breaking news - they want an actual skill/concept explained well enough to use it this week",
+      "title": {
+        "formula": "EITHER (a) [concrete promise] + explicit time-box: 'Learn/Understand [X] in [N] Minutes', OR (b) percentile-superiority: '[Skill] Better Than 99% Of People' / '[N] [Things] That Put You Ahead of 99%'",
+        "ingredients": {
+          "promise": ["Learn AI Agents", "Actually Use Claude Well", "Stop Wasting Prompts", "Build Your First Agent"],
+          "timebox": ["in 13 Minutes", "in 15 Minutes", "in 20 Minutes"],
+          "percentile_frame": ["Better Than 99% Of People", "Ahead of 99% of People", "Almost Unfair"]
+        },
+        "rules": [
+          "The minute count in the title must roughly match the actual runtime (+/- ~2 min) - it's a keepable promise, not a round number picked for the title.",
+          "No 'SHOCKING' / 'INSANE' - same house rule as every other format on this channel, this audience reads it as a content farm.",
+          "Name a concrete, checkable skill or concept, never vague curiosity ('the AI trick nobody tells you' fails this; 'Learn AI Agents in 13 Minutes' passes)."
+        ]
+      },
+      "script": {
+        "target_minutes": [13, 25],
+        "_channel_promise_note": "The channel's SECOND promise (the 3-minute verdict mechanism) does not apply here - there is no release to deliver a verdict on. The FIRST promise (real, checkable, no overclaiming) still applies: don't claim a skill takes 'N minutes' if the video actually needs more runtime to teach it honestly. Still close with the mandatory CTA (subscribe primary, like+comment secondary) exactly like every other format.",
+        "structure": [
+          { "beat": "hook-misconception", "share": 0.05, "note": "Name the common wrong mental model plainly, stated as a fact the viewer will recognize in themselves - not a tease. This IS the retention loop opener: name what the video will fix and be honest that it gets fixed by the end." },
+          { "beat": "contrast-reframe", "share": 0.10, "note": "The 'most people do X, the real shift is Y' turn - one clean sentence, then ONE concrete analogy that carries the rest of the video (a driver vs a system that decides the next turn, etc). If you can't produce the analogy, the concept isn't understood well enough to teach yet - CLAUDE.md's own rule, applies doubly here since this whole format's job is teaching." },
+          { "beat": "framework", "share": 0.30, "note": "The actual how: break the skill/concept into 3-5 concrete, memorable steps or components. Each one gets a plain-language name and a one-line gloss, never left as jargon. This is the load-bearing teaching beat - most of the runtime lives here." },
+          { "beat": "worked-example", "share": 0.25, "note": "A real, concrete walkthrough applying the framework to one specific case (a real prompt, a real workflow) - not an abstract restatement. Evidence-first: if the example involves a real tool's UI, use a real screenshot/screencast, not an invented mockup." },
+          { "beat": "honest-limits", "share": 0.15, "note": "Where this breaks, what it doesn't solve, what still requires real skill/effort underneath the AI. Mandatory - this is the trust beat and the same honesty_guard as every other format on this channel applies. (Source-pattern comments specifically flagged when a video oversold ease of implementation - don't repeat that miss.)" },
+          { "beat": "close", "share": 0.15, "note": "MANDATORY every video: (1) one line on why this channel teaches this (evidence-first, no hype - the same real differentiator as the news formats, reworded for a teaching context), (2) subscribe as the primary ask, (3) like + comment their take as secondary asks. One person talking, not a checklist." }
+        ],
+        "voice_rules": [
+          "Teach a tired 12-year-old (CLAUDE.md GROWTH RULE 6 applies at full strength here - this format's entire job is comprehension, more than any other format on this channel).",
+          "One idea per sentence, jargon glossed in the same breath, an analogy for every mechanism.",
+          "Second person throughout - 'you', not 'one' or 'users'.",
+          "Never explain what a well-known tool/model IS if the audience already knows it - go straight into the concept being taught."
+        ],
+        "honesty_guard": "Same as the rest of this niche: every concrete claim about what a tool/workflow can do needs to be something actually demonstrated on screen, not asserted. Do not understate the real engineering/setup effort behind an AI workflow to make it sound like 'type a prompt and it's done' - the source pattern's own top comment called this out as the weak point to avoid repeating.",
+        "_recency_note": "This format is deliberately evergreen - it should NOT reference a specific dated release as its hook. If a concept example needs a live tool, note the tool version once and keep the teaching point tool-agnostic where possible so the video doesn't go stale in weeks like the other two formats do."
+      },
+      "pacing": { "beat_seconds": 6.0, "beat_jitter": 1.5, "hook_beat_seconds": 3.0, "hook_seconds": 20 },
+      "images": {
+        "style": "same clean product/UI screenshots and dark technical palette as single-story - this format still needs real tool screenshots for the worked-example beat, not stock photos of people at laptops",
+        "query_hints": ["code editor", "chat interface UI", "workflow diagram", "abstract network", "terminal window"],
+        "avoid": ["humanoid robot stock photos", "glowing brain", "handshake with robot", "generic office stock photo"]
+      },
+      "sound": { "music_bed": "tech-pulse", "bed_gain_db": -6, "sfx_density": "low", "sfx_palette": ["ui-click-soft", "pop-reveal", "impact-soft"],
+       "_note": "Lower density than the news formats (low, not medium) - this is a sustained teaching format and constant SFX competes with comprehension. Reserve SFX for framework-step reveals and the worked-example beat, not every sentence." },
+      "voice": { "tone": "calm-explainer, patient, never rushed", "tts_voice_hint": "Consider calm-explainer delivery mode (not breaking-news) even on the channel-default voice, since this format is not news - confirm with the user before locking a second delivery mode for one channel." }
+    }
+  },
+  "reference_titles": [
+    "Claude Opus 5 is a freak (AI Search, 93,521 views/day)",
+    "China Is About To Pop The AI Bubble (Andrei Jikh, 73,778 views/day)",
+    "Forget NVIDIA. This Is The New King of AI. (Ticker Symbol: YOU, 49,252 views/day)",
+    "Apple Just Won AI (and It's Not Even Close) (Andru Edwards, 37,641 views/day)"
+  ],
+  "_reference_titles_source": "BACKFILLED live via tools/yt_research.py 2026-08-02 (--query 'gpt 5 review,claude opus review,new ai model explained,best ai tool 2026 review' --window all, deliberately WITHOUT --long-only since this channel's format is short/medium, not long-form). Raw data: docs/research/ai-news.json / .txt. Strongly CONFIRMS the 'point of view beats a summary' finding already in docs/IMPROVEMENT-QUEUE.md's 'What is actually working on AI channels' section - every real top-vpd title above is a blunt opinion ('is a freak', 'About To Pop The AI Bubble', 'Forget NVIDIA'), not a neutral description. Lean harder into the verdict beat's opinionated framing. RUNTIME TENSION worth flagging: the 30d window's actual top-vpd AI content ran 8-32 min (median 15 min across all AI content, not just this channel's exact lane) - noticeably longer than this channel's [3,10] min / hard_max 12 positioning. The under-3-min VERDICT mechanism (script.brand_promise) is still sound regardless of total runtime, but this is a data point for whether the evidence section should be allowed to run longer on major releases, not something changed here unilaterally.",
+  "title": {
+    "formula": "[named entity] + [concrete delta] + [stakes], no clickbait padding",
+    "ingredients": {
+      "entity": ["GPT-5.6", "Claude Opus 5", "Gemini 3.6", "Kimi K3"],
+      "delta": ["beats its own flagship at half the price", "3x the next best", "now #1 on web dev"],
+      "stakes": ["what it means for builders", "the part nobody is saying", "before anyone else covers it"]
+    },
+    "rules": [
+      "Name the model/company in the title - this audience searches by name.",
+      "Numbers must be real and sourced. This audience checks, and being wrong once costs the channel.",
+      "No 'SHOCKING' / 'INSANE'. It reads as a content farm to this audience specifically."
+    ]
+  },
+  "script": {
+    "target_minutes": [3, 10],
+    "_target_minutes_note": "RE-CORRECTED 2026-07-31: length now scales with how much the release actually warrants, not a fixed cap. A minor point-update might still land near 3-4 min; a major flagship release with real benchmarks/pricing/ecosystem impact can run 8-10. Propose the specific number for that video based on story depth, per make-video/SKILL.md's 'always propose a length for approval' rule - don't default to the top or bottom of the range without a reason tied to that release's actual substance.",
+    "hard_max_minutes": 12,
+    "brand_promise": "Two promises, both real and checkable: (1) DEPTH & EVIDENCE - every model/feature breakdown includes real benchmarks, screen recordings, code executions, and honest architectural trade-offs; (2) TURNAROUND - covering new breakthroughs fast without sacrificing technical accuracy. Be honest about what's actually achievable. Never phrase promises as an announcer slogan; say it conversationally.",
+    "_structure_phase_note": "Natural narrative flow: Hook -> Context -> Deep Architecture & Benchmarks -> Live Code & Agent Evaluation -> Honest Limitations & Trade-offs -> Actionable Conclusion & CTA.",
+    "structure": [
+      { "beat": "cold-open-claim", "share": 0.08, "note": "The single most surprising true fact, stated flatly with its key metric. Also opens the retention curiosity loop." },
+      { "beat": "context", "share": 0.12, "note": "What existed before, explaining why the breakthrough or release matters." },
+      { "beat": "verdict", "share": 0.25, "note": "What changed and what it means for developers, builders, and AI enthusiasts, backed by headline benchmarks." },
+      { "beat": "evidence", "share": 0.35, "note": "The deep dive: hands-on tests, terminal code runs, benchmark tables, pricing details, and screen recordings." },
+      { "beat": "honest-gap", "share": 0.10, "note": "Where it falls short, limitations, trade-offs, and fine print. Non-negotiable for building genuine trust." },
+      { "beat": "close", "share": 0.10, "note": "Mandatory closing: summarize the takeaway, ask for subscribe/comments on the findings, and tease what is next." }
+    ],
+    "voice_rules": [
+      "Precise, fast, no filler. This audience punishes padding with the back button.",
+      "Cite as you speak: 'on Artificial Analysis', 'per their own model card'.",
+      "Never state a benchmark from memory - it must come from a captured source.",
+      "This audience is not naive - they already follow this space. Never explain what a well-known model/company is; go straight to what's new."
+    ],
+    "honesty_guard": "Every number needs a real captured source (screenshot or page). If a source cannot be captured, drop the claim and say so on screen - see EVOLUTION 'Some official sources are unusable'.",
+    "recency_guard": "This niche can go stale in HOURS, not months - unlike a genre where a year-old fact still holds, a claim here can be wrong by the time of upload even if it was right when researched. Rules: (1) never write from memorized/cutoff knowledge - always research live at write time per CLAUDE.md's AssemblyAI-style 'fetch live docs' discipline, applied to the news itself; (2) if research for this video is more than ~48h old, re-verify every number against the primary source before scripting, don't assume it still holds; (3) state the info's own timestamp on screen where it matters ('as of the announcement post', 'as of July 30') so the viewer can judge freshness themselves; (4) if a detail is still shifting (rollout %, pricing not final, benchmark contested), say so explicitly rather than presenting it as settled."
+  },
+  "pacing": { "beat_seconds": 5.0, "beat_jitter": 1.5, "hook_beat_seconds": 2.5, "hook_seconds": 20 },
+  "images": {
+    "style": "clean product/UI screenshots, benchmark charts, dark technical palette",
+    "query_hints": ["server rack", "code editor", "data center", "circuit", "abstract network"],
+    "avoid": ["humanoid robot stock photos", "glowing brain", "blue binary rain", "handshake with robot"]
+  },
+  "sound": { "music_bed": "tech-pulse", "bed_gain_db": -6, "sfx_density": "medium", "sfx_palette": ["ui-click-soft", "impact-soft", "riser-soft", "glitch-zap", "scan-hum"],
+   "_bed_gain_note": "Corrected 2026-07-30 (was -14, never measured). tech-pulse's own mean is -21.0dB; -14 put the effective bed near -35dB, inaudible against a ~-25dB speech-gap floor. -6 lands it at the validated -27dB target. Re-derive if the bed clip changes: bed_gain_db = -27 - <clip's measured mean dB>." },
+  "voice": { "tone": "authoritative, quick, analyst", "tts_voice_hint": "clear neutral, slightly fast rate" }
+}
